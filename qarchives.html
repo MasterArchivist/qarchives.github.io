@@ -16,7 +16,7 @@
 <meta name="author" content="MasterArchivist">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="styles/css-29-Jan-2018-4-ET.css" />
+<link rel="stylesheet" href="styles/css-30-Jan-2018-4-ET.css" />
 
 </head>
 
@@ -31,7 +31,7 @@
 <h1><b><u>The Great Awakening!</u></b></h1>
 <h3>Q Archives Links: A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor</h3>
 <hr class="hr01" />
-<p id="ptac">Last Edit: 01-30-2018 (Tue) 02:05 ET</p>
+<p id="ptac">Last Edit: 01-30-2018 (Tue) 04:00 ET</p>
 <hr class="hr01" />
 <p id="ptac"><b>Matthew 7:7</b><i> "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"</i></p>
 <p id="ptac"><b>John 8:32</b><i> "And ye shall know the truth, and the truth shall make you free."</i></p>
@@ -62,45 +62,40 @@
 <button name="btn8qp" class="tablinks" onclick="openChan(event, '8ch Q Posts')" id="defaultOpen">8ch Q Posts</button>
 </div>
 
-<div id="content">
-
 <div id="4chan Q Threads" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame1" src="4pol_q_threads.html" frameborder="0" scrolling="yes" height="18000" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame1');"></iframe> <!-- width="99.7%" height="18000" -->
+<iframe id="iFrame1" class="iframeclass" src="4pol_q_threads.html" height="18000" onload="resizer('iFrame1');"></iframe> <!-- height="18000" -->
 </div>
 
 <div id="4chan Q Posts" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame2" src="4pol_q_posts.html" frameborder="0" scrolling="yes" height="6500" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame2');"></iframe> <!-- width="99.7%" height="6500" -->
+<iframe id="iFrame2" class="iframeclass" src="4pol_q_posts.html" height="6500" onload="resizer('iFrame2');"></iframe> <!-- height="6500" -->
 </div>
 
 <div id="8ch/cbts/ Q Threads" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame3" src="8cbts_q_threads.html" frameborder="0" scrolling="yes" height="9000" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame3');"></iframe> <!-- width="99.7%" height="9000" -->
+<iframe id="iFrame3" class="iframeclass" src="8cbts_q_threads.html" height="9000" onload="resizer('iFrame3');"></iframe> <!-- height="9000" -->
 </div>
 
 <div id="8ch/thestorm/ Q Threads" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame4" src="8thestorm_q_threads.html" frameborder="0" scrolling="yes" height="1400" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame4');"></iframe> <!-- width="99.7%" height="1400" -->
+<iframe id="iFrame4" class="iframeclass" src="8thestorm_q_threads.html" height="1400" onload="resizer('iFrame4');"></iframe> <!-- height="1400" -->
 </div>
 
 <div id="8ch/greatawakening/ Q Threads" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame5" src="8greatawakening_q_threads.html" frameborder="0" scrolling="yes" height="250" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame5');"></iframe> <!-- width="99.7%" height="250" -->
+<iframe id="iFrame5" class="iframeclass" src="8greatawakening_q_threads.html" height="250" onload="resizer('iFrame5');"></iframe> <!-- height="250" -->
 </div>
 
 <div id="8ch/qresearch/ Q Threads" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame6" src="8qresearch_q_threads.html" frameborder="0" scrolling="yes" height="7500" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame6');"></iframe> <!-- width="99.7%" height="7200" -->
+<iframe id="iFrame6" class="iframeclass" src="8qresearch_q_threads.html" height="7500" onload="resizer('iFrame6');"></iframe> <!-- height="7500" -->
 </div>
 
 <div id="8ch Q Posts" class="tabcontent">
 <span onclick="this.parentElement.style.display='none'" class="topright">X</span>
-<iframe id="iFrame7" src="8_q_posts.html" frameborder="0" scrolling="yes" height="11500" style="width:100%; overflow:visible; overflow-x:visible; overflow-y:visible;" onload="resizer('iFrame6');"></iframe> <!-- width="99.7%" height="11500" -->
-
+<iframe id="iFrame7" class="iframeclass" src="8_q_posts.html" height="11500" onload="resizer('iFrame7');"></iframe> <!-- height="11500" -->
 </div>
-
-</div> <!-- div "content" ends here -->
 
 <script>
 
@@ -119,7 +114,9 @@ function openChan(evt, chanName) {
 }
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+///////////////////////////////////////////////////////////////////////////////////////////
 
+//resize width and height of iframes according to view-port resizing by client to accommodate iframe content 
 function resizer(id) {
         var doc = document.getElementById(id).contentWindow.document;
         var body_ = doc.body, html_ = doc.documentElement;
