@@ -7,6 +7,10 @@ h1, h2, h3, h4, .ptac {
 	text-align: center;
 }
 
+h1, .bgc {
+	background-color: #ddd;
+}
+
 .hr01 {
 	height: 4px;
     border-width: 0;
@@ -39,12 +43,20 @@ th {
 	padding: 10px;
 }
 
-/* Change the link color to blue on hover */
-a:link, a:visited, a:hover, a:active {
+/* Change the link colors */
+a:link {
 	color: blue;
 }
 
-/* style navigation */
+a:visited {
+	color: purple;
+}
+
+a:active {
+	color: red;
+}
+
+/* list style navigation */
 ul {
 	list-style-type: none;
     margin: 0;
@@ -74,10 +86,6 @@ li a:hover {
 
 li a:active {
 	background-color: #ccc;
-}
-		
-.active {
-	background-color: blue;
 }
 
 li:last-child {
