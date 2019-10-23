@@ -1,5 +1,5 @@
 <title>Q Archives</title>
-<!-- PLS WERK -->
+
 <?php include 'head.php';?>
 
 <?php include 'bodytop.php';?>
