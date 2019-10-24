@@ -1,4 +1,4 @@
-<title>8kun_q_posts</title>
+<title>8kun Q posts</title>
 
 <?php include 'head.php';?>
 

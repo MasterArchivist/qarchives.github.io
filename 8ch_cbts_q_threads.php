@@ -1,11 +1,11 @@
-<title>8ch_cbts_q_threads</title>
+<title>8ch/cbts/ Q threads</title>
 
 <?php include 'head.php';?>
 
 <?php include 'bodytop.php';?>
 
 <!-- ---------------------------------------------------------------------- TABLE 3 ---------------------------------------------------------------------- -->
-<h3><a href="https://8ch.net/cbts/top.html" target="_blank">8ch.net/cbts/</a> Q Threads</h3>
+<h3><a href="https://8ch.net/cbts/index.html" target="_blank">8ch.net/cbts/</a> Q Threads</h3>
 <p>Google Drive with ALL zips - <a href="https://drive.google.com/open?id=1FiM_vCcOAuRx-fM5jBimYF9GSRYWt4xo" target="_blank">https://drive.google.com/open?id=1FiM_vCcOAuRx-fM5jBimYF9GSRYWt4xo</a></p>
 
 <p># thread with Q post(s)</p>

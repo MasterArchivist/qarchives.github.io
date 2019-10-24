@@ -1,4 +1,4 @@
-<title>8ch_greatawakening_q_threads</title>
+<title>8ch/greatawakening/ Q threads</title>
 
 <?php include 'head.php';?>
 

@@ -1,4 +1,4 @@
-<title>8ch_patriotsfight_q_threads</title>
+<title>8ch/patriotsfight/ Q threads</title>
 
 <?php include 'head.php';?>
 

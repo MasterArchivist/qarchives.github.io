@@ -1,4 +1,4 @@
-<title>4pol_q_posts</title>
+<title>4chan/pol/ Q posts</title>
 
 <?php include 'head.php';?>
 

@@ -1,4 +1,4 @@
-<title>8ch_qresearch_q_threads</title>
+<title>8ch/qresearch/ Q threads</title>
 
 <?php include 'head.php';?>
 

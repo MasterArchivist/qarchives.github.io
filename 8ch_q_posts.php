@@ -1,4 +1,4 @@
-<title>8ch_q_posts</title>
+<title>8ch Q posts</title>
 
 <?php include 'head.php';?>
 

@@ -1,4 +1,4 @@
-<title>8kun_qresearch_q_threads</title>
+<title>8kun/qresearch/ Q threads</title>
 
 <?php include 'head.php';?>
 

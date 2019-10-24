@@ -1,4 +1,4 @@
-<title>8kun_q_raw_text</title>
+<title>8kun Q raw text</title>
 
 <?php include 'head.php';?>
 
