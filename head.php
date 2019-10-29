@@ -6,5 +6,3 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <link rel="stylesheet" href="styles/css-22-Sept-2018-0500-ET.css" />
-
-<!-- LAST UPDATED: 22-Oct-2019 12:34 p.m. ET -->
