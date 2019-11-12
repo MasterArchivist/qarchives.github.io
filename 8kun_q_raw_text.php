@@ -5,7 +5,7 @@
 <?php include 'bodytop.php';?>
 
 <!-- ---------------------------------------------------------------------- TABLE 3 ---------------------------------------------------------------------- -->
-<p class="ptac">8kun.net Q Posts [ 0 as of 21-Oct-2018 (Mon) 12:34 ET) ]</p>
+<p class="ptac">8kun.us Q Posts [ 0 as of 21-Oct-2018 (Mon) 12:34 ET) ]</p>
 
 <p class="ptac">Pastebin: <a href="https://pastebin.com/" target="_blank">https://pastebin.com/</a></p>
 
