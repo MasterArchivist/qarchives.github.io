@@ -82,7 +82,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <tr>
 <th rowspan="2"><b>Q caps:</b></th>
 <th><b>postimg.cc</b></th>
-<th colspan="2"> <!-- change rowspan="2" to rowspan="3" when adding magnet links -->
+<th colspan="2">
 2017: 
 <a href="https://postimg.cc/gallery/2129wssfu/" target="_blank">Oct.</a> | 
 <a href="https://postimg.cc/gallery/25jkgoa9m/" target="_blank">Nov.</a> | 
