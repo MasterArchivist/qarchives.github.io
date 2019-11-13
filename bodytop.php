@@ -1,5 +1,5 @@
-<button onclick="window.scrollTo(document.body.scrollHeight,0);return false;" id="Top" title="Top">Top</button>
-<button onclick="window.scrollTo(0,document.body.scrollHeight);return false;" id="Bottom" title="Bottom">Bottom</button>
+<button onclick="window.scrollTo(document.body.scrollHeight,0);return false;" id="Top" title="Top"><i class="up"></i></button>
+<button onclick="window.scrollTo(0,document.body.scrollHeight);return false;" id="Bottom" title="Bottom"><i class="down"></i></button>
 
 <hr class="hr01" />
 
