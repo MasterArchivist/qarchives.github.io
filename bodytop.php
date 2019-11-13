@@ -80,7 +80,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 </tr>
 
 <tr>
-<th rowspan="2"><b>Q caps:</b></th>
+<th rowspan="3"><b>Q caps:</b></th>
 <th><b>postimg.cc</b></th>
 <th colspan="2">
 2017: 
@@ -152,43 +152,41 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 </th>
 </tr>
 
-<!--
 <tr>
-<th><b>torrent <br />(magnet links)</b></th>
+<th><b>Torrents</b></th>
 <th colspan="3">
 2017: 
-<a href="" target="_blank">Oct.</a> | 
-<a href="" target="_blank">Nov.</a> | 
-<a href="" target="_blank">Dec.</a><br /><hr />
+<a href="torrents/2017-10.torrent" target="_blank">Oct.</a> | 
+<a href="torrents/2017-11.torrent" target="_blank">Nov.</a> | 
+<a href="torrents/2017-12.torrent" target="_blank">Dec.</a><br /><hr />
 2018:    
-<a href="" target="_blank">Jan.</a> | 
-<a href="" target="_blank">Feb.</a> | 
-<a href="" target="_blank">Mar.</a> | 
-<a href="" target="_blank">Apr.</a> | 
-<a href="" target="_blank">May</a> | 
-<a href="" target="_blank">June</a> | 
-<a href="" target="_blank">July</a> | 
-<a href="" target="_blank">Aug.</a> | 
-<a href="" target="_blank">Sept.</a> | 
-<a href="" target="_blank">Oct.</a> | 
-<a href="" target="_blank">Nov.</a> | 
-<a href="" target="_blank">Dec.</a><br /><hr />
+<a href="torrents/2018-01.torrent" target="_blank">Jan.</a> | 
+<a href="torrents/2018-02.torrent" target="_blank">Feb.</a> | 
+<a href="torrents/2018-03.torrent" target="_blank">Mar.</a> | 
+<a href="torrents/2018-04.torrent" target="_blank">Apr.</a> | 
+<a href="torrents/2018-05.torrent" target="_blank">May</a> | 
+<a href="torrents/2018-06.torrent" target="_blank">June</a> | 
+<a href="torrents/2018-07.torrent" target="_blank">July</a> | 
+<a href="torrents/2018-08.torrent" target="_blank">Aug.</a> | 
+<a href="torrents/2018-09.torrent" target="_blank">Sept.</a> | 
+<a href="torrents/2018-10.torrent" target="_blank">Oct.</a> | 
+<a href="torrents/2018-11.torrent" target="_blank">Nov.</a> | 
+<a href="torrents/2018-12.torrent" target="_blank">Dec.</a><br /><hr />
 2019:    
-<a href="" target="_blank">Jan.</a> | 
-<a href="" target="_blank">Feb.</a> | 
-<a href="" target="_blank">Mar.</a> | 
-<a href="" target="_blank">Apr.</a> | 
-<a href="" target="_blank">May</a> | 
-<a href="" target="_blank">June</a> | 
-<a href="" target="_blank">July</a> | 
-<a href="" target="_blank">Aug.</a> | 
-<a href="" target="_blank">Sept.</a> | 
-<a href="" target="_blank">Oct.</a> | 
-<a href="" target="_blank">Nov.</a> | 
-<a href="" target="_blank">Dec.</a>
+<a href="torrents/2019-01.torrent" target="_blank">Jan.</a> | 
+<a href="torrents/2019-02.torrent" target="_blank">Feb.</a> | 
+<a href="torrents/2019-03.torrent" target="_blank">Mar.</a> | 
+<a href="torrents/2019-04.torrent" target="_blank">Apr.</a> | 
+<a href="torrents/2019-05.torrent" target="_blank">May</a> | 
+<a href="torrents/2019-06.torrent" target="_blank">June</a> | 
+<a href="torrents/2019-07.torrent" target="_blank">July</a> | 
+<a href="torrents/2019-08.torrent" target="_blank">Aug.</a> | 
+<a href="torrents/" target="_blank">Sept.</a> | 
+<a href="torrents/" target="_blank">Oct.</a> | 
+<a href="torrents/" target="_blank">Nov.</a> | 
+<a href="torrents/" target="_blank">Dec.</a>
 </th>
 </tr>
--->
 
 <tr>
 <th><b>Q Map:</b></th>
