@@ -188,7 +188,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 
 <tr>
 <th id="qtableth" rowspan="2"><b>Q Map:</b></th>
-<th><b>Online:</b></th>
+<th><b>Zips:</b></th>
 <th>
 <a href="https://www.enigma-q.com/qmap.zip" target="_blank">Enigma-q zip</a> | 
 <a href="https://mega.nz/#!ZrZmyCrZ!7tQFH5oiZ01e76HAKzk0LOyODUi5A3urBY0qskjdlxg" target="_blank">Mega</a> | 
@@ -198,7 +198,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 </tr>
 
 <tr>
-<th id="qtableth"><b>Q Map PDFs:</b></th>
+<th id="qtableth"><b>PDFs:</b></th>
 <th colspan="2">
 <a href="docs/01. q_posts_till20171109_as_confirmedbyq.pdf" target="_blank">01_till_20171109.pdf</a> | 
 <a href="docs/02. q_posts_since_tripcode_till20171121.pdf" target="_blank">02_till_20171121.pdf</a> | 
