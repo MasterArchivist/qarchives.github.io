@@ -50,9 +50,9 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <tr>
 <th id="qtableth"><b>Q</b></th>
 <th id="qcapth" colspan="3">
-<b>WAIT! New to Q? </b><a href="https://8kun.us/qresearch/welcome.html" target="_blank">Read me</a>! <hr />
-<b>Anons Assemble! </b><a href="https://8kun.us/qresearch/index.html" target="_blank">8kun.us/qresearch/</a><hr />
-<b>Q's board: </b><a href="https://8kun.us/patriotsfight/index.html" target="_blank">8kun.us/patriotsfight/</a></th>
+<b>WAIT! New to Q? </b><a href="https://8kun.tw/qresearch/welcome.html" target="_blank">Read me</a>! <hr />
+<b>Anons Assemble! </b><a href="https://8kun.tw/qresearch/index.html" target="_blank">8kun.tw/qresearch/</a><hr />
+<b>Q's board: </b><a href="https://8kun.tw/patriotsfight/index.html" target="_blank">8kun.tw/patriotsfight/</a></th>
 </tr>
 
 <tr>
