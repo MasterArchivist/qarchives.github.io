@@ -9,7 +9,7 @@
 <h4>Raw Text: <a href="8kun_q_raw_text.php" target="_blank">here</a></h4>
 
 <table id="8kqp">
-<caption>8kun Q Posts [ #45 as of 2019-Nov-22 (Fri) 04:54 ET) ]<br />Click on the post to go to the original post on 8kun</caption>
+<caption>8kun Q Posts [ #66 as of 2019-Nov-26 (Tue) 02:33 ET) ]<br />Click on the post to go to the original post on 8kun</caption>
 <tr><th>S. no.</th><th>8kun Q post</th></tr>
 <tr><td>    1.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350508" target="_blank"><img src="images/8kun/7350508.PNG" /></a></td></tr>
 <tr><td>    2.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350518" target="_blank"><img src="images/8kun/7350518.PNG" /></a></td></tr>
@@ -47,9 +47,9 @@
 <tr><td>   34.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7357987" target="_blank"><img src="images/8kun/7357987.PNG" /></a></td></tr>
 <tr><td>   35.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7358016" target="_blank"><img src="images/8kun/7358016.PNG" /></a></td></tr>
 <tr><td>   36.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7358029" target="_blank"><img src="images/8kun/7358029.PNG" /></a></td></tr>
-<tr><td>   37.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358318" target="_blank"><img src="images/8kun/7358318.PNG" /></a></td></tr>
-<tr><td>   38.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358338" target="_blank"><img src="images/8kun/7358338.PNG" /></a></td></tr>
-<tr><td>   39.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358352" target="_blank"><img src="images/8kun/7358352.PNG" /></a></td></tr>
+<tr><td>   37.</td><td>/qresearch/ Australia Gen.: 6<hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358318" target="_blank"><img src="images/8kun/7358318.PNG" /></a></td></tr>
+<tr><td>   38.</td><td>/qresearch/ Australia Gen.: 6<hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358338" target="_blank"><img src="images/8kun/7358338.PNG" /></a></td></tr>
+<tr><td>   39.</td><td>/qresearch/ Australia Gen.: 6<hr /><a href="https://8kun.top/qresearch/res/7355098.html#7358352" target="_blank"><img src="images/8kun/7358352.PNG" /></a></td></tr>
 <tr><td>   40.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7358376" target="_blank"><img src="images/8kun/7358376.PNG" /></a></td></tr>
 <tr><td>   41.</td><td>/qresearch/ Gen.: 9412 B     <hr /><a href="https://8kun.top/qresearch/res/7358467.html#7358656" target="_blank"><img src="images/8kun/7358656.PNG" /></a></td></tr>
 <tr><td>   42.</td><td>/qresearch/ Gen.: 9412 B     <hr /><a href="https://8kun.top/qresearch/res/7358467.html#7358697" target="_blank"><img src="images/8kun/7358697.PNG" /></a></td></tr>
@@ -59,25 +59,24 @@
 <tr><td>   46.</td><td>/qresearch/ Gen.: 9412 A     <hr /><a href="https://8kun.top/qresearch/res/7358430.html#7359320" target="_blank"><img src="images/8kun/7359320.PNG" /></a></td></tr>
 <tr><td>   47.</td><td>/qresearch/ Gen.: 9412 B     <hr /><a href="https://8kun.top/qresearch/res/7358467.html#7359332" target="_blank"><img src="images/8kun/7359332.PNG" /></a></td></tr>
 <tr><td>   48.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359354" target="_blank"><img src="images/8kun/7359354.PNG" /></a></td></tr>
-<tr><td>   49.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359370" target="_blank"><img src="images/8kun/7359370.PNG" /></a></td></tr>
-<tr><td>   50.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359408" target="_blank"><img src="images/8kun/7359408.PNG" /></a></td></tr>
-<tr><td>   51.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359511" target="_blank"><img src="images/8kun/7359511.PNG" /></a></td></tr>
-<tr><td>   52.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7358467.html#7359662" target="_blank"><img src="images/8kun/7359662.PNG" /></a></td></tr>
-<tr><td>   53.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7361920" target="_blank"><img src="images/8kun/7361920.PNG" /></a></td></tr>
-<tr><td>   54.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7362034" target="_blank"><img src="images/8kun/7362034.PNG" /></a></td></tr>
-<tr><td>   55.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7362147" target="_blank"><img src="images/8kun/7362147.PNG" /></a></td></tr>
-<tr><td>   56.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7364625.html#7364826" target="_blank"><img src="images/8kun/7364826.PNG" /></a></td></tr>
-<tr><td>   57.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7366195.html#7366745" target="_blank"><img src="images/8kun/7366745.PNG" /></a></td></tr>
-<tr><td>   58.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7366195.html#7366783" target="_blank"><img src="images/8kun/7366783.PNG" /></a></td></tr>
-<tr><td>   59.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/5944714.html#7370121" target="_blank"><img src="images/8kun/7370121.PNG" /></a></td></tr>
-<tr><td>   60.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370269" target="_blank"><img src="images/8kun/7370269.PNG" /></a></td></tr>
-<tr><td>   61.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370291" target="_blank"><img src="images/8kun/7370291.PNG" /></a></td></tr>
-<tr><td>   62.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370323" target="_blank"><img src="images/8kun/7370323.PNG" /></a></td></tr>
-<tr><td>   63.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370403" target="_blank"><img src="images/8kun/7370403.PNG" /></a></td></tr>
-<tr><td>   64.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370465" target="_blank"><img src="images/8kun/7370465.PNG" /></a></td></tr>
-<tr><td>   65.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371947" target="_blank"><img src="images/8kun/7371947.PNG" /></a></td></tr>
-<tr><td>   66.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371992" target="_blank"><img src="images/8kun/7371992.PNG" /></a></td></tr>
-<tr><td>   67.</td><td>/qresearch/ Gen.:            <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7372396" target="_blank"><img src="images/8kun/7372396.PNG" /></a></td></tr>
+<tr><td>   49.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359408" target="_blank"><img src="images/8kun/7359408.PNG" /></a></td></tr>
+<tr><td>   50.</td><td>/qresearch/ UK Gen.: 9       <hr /><a href="https://8kun.top/qresearch/res/7354957.html#7359511" target="_blank"><img src="images/8kun/7359511.PNG" /></a></td></tr>
+<tr><td>   51.</td><td>/qresearch/ Gen.: 9412 B     <hr /><a href="https://8kun.top/qresearch/res/7358467.html#7359662" target="_blank"><img src="images/8kun/7359662.PNG" /></a></td></tr>
+<tr><td>   52.</td><td>/qresearch/ Gen.: 9415       <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7361920" target="_blank"><img src="images/8kun/7361920.PNG" /></a></td></tr>
+<tr><td>   53.</td><td>/qresearch/ Gen.: 9415       <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7362034" target="_blank"><img src="images/8kun/7362034.PNG" /></a></td></tr>
+<tr><td>   54.</td><td>/qresearch/ Gen.: 9415       <hr /><a href="https://8kun.top/qresearch/res/7361503.html#7362147" target="_blank"><img src="images/8kun/7362147.PNG" /></a></td></tr>
+<tr><td>   55.</td><td>/qresearch/ Gen.: 9419       <hr /><a href="https://8kun.top/qresearch/res/7364625.html#7364826" target="_blank"><img src="images/8kun/7364826.PNG" /></a></td></tr>
+<tr><td>   56.</td><td>/qresearch/ Gen.: 9421       <hr /><a href="https://8kun.top/qresearch/res/7366195.html#7366745" target="_blank"><img src="images/8kun/7366745.PNG" /></a></td></tr>
+<tr><td>   57.</td><td>/qresearch/ Gen.: 9421       <hr /><a href="https://8kun.top/qresearch/res/7366195.html#7366783" target="_blank"><img src="images/8kun/7366783.PNG" /></a></td></tr>
+<tr><td>   58.</td><td>/qresearch/ NZ Gen.: 3       <hr /><a href="https://8kun.top/qresearch/res/5944714.html#7370121" target="_blank"><img src="images/8kun/7370121.PNG" /></a></td></tr>
+<tr><td>   59.</td><td>/qresearch/ Gen.: 9426       <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370269" target="_blank"><img src="images/8kun/7370269.PNG" /></a></td></tr>
+<tr><td>   60.</td><td>/qresearch/ Gen.: 9426       <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370291" target="_blank"><img src="images/8kun/7370291.PNG" /></a></td></tr>
+<tr><td>   61.</td><td>/qresearch/ Gen.: 9426       <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370323" target="_blank"><img src="images/8kun/7370323.PNG" /></a></td></tr>
+<tr><td>   62.</td><td>/qresearch/ Gen.: 9426       <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370403" target="_blank"><img src="images/8kun/7370403.PNG" /></a></td></tr>
+<tr><td>   63.</td><td>/qresearch/ Gen.: 9426       <hr /><a href="https://8kun.top/qresearch/res/7370113.html#7370465" target="_blank"><img src="images/8kun/7370465.PNG" /></a></td></tr>
+<tr><td>   64.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371947" target="_blank"><img src="images/8kun/7371947.PNG" /></a></td></tr>
+<tr><td>   65.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371992" target="_blank"><img src="images/8kun/7371992.PNG" /></a></td></tr>
+<tr><td>   66.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7372396" target="_blank"><img src="images/8kun/7372396.PNG" /></a></td></tr>
 
 <!-- 
 <tr><td>   .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
