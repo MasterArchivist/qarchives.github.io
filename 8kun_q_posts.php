@@ -83,6 +83,7 @@
 <tr><td id="sno"><br /><br />   70.</td><td>/projectdcomms/ Thread.: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#21"       target="_blank"><img src="images/8kun-projectDcomms/21.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   71.</td><td>/projectdcomms/ Thread.: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#22"       target="_blank"><img src="images/8kun-projectDcomms/22.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   72.</td><td>/projectdcomms/ Thread.: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#23"       target="_blank"><img src="images/8kun-projectDcomms/23.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   72.</td><td>/projectdcomms/ Thread.: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#24"       target="_blank"><img src="images/8kun-projectDcomms/24.PNG" /></a></td></tr>
 
 <!-- 
 <tr><td id="sno"><br /><br />   .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
