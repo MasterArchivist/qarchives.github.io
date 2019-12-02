@@ -5,7 +5,7 @@
 
 <div class="bgc">
 <h1><b><u>Q Archives</u></b></h1>
-<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!<hr />My 8kun tripcode: !!n8GSjgsV3c</h3><hr />
+<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!<hr />My 8kun tripcode: !!n8GSjgsV3c<hr /></h3>
 
 <!-- ---------------------------------------------------------------------- MY SOCIAL MEDIA ---------------------------------------------------------------------- -->
 <h3>
