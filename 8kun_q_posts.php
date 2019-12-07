@@ -9,7 +9,7 @@
 <h4>Raw Text: <a href="8kun_q_raw_text.php" target="_blank">here</a></h4>
 
 <table id="8kqp">
-<caption>8kun Q Posts [ #87 as of 2019-Dec-07 (Sat) 12:05 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
+<caption>8kun Q Posts [ #88 as of 2019-Dec-07 (Sat) 12:16 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
 <tr><th>                     S. no.</th><th>8kun Q post</th></tr>
 <tr><td id="sno"><br /><br />    1.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350502" target="_blank"><img src="images/8kun/7350502.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />    2.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350508" target="_blank"><img src="images/8kun/7350508.PNG" /></a></td></tr>
@@ -96,8 +96,9 @@
 <tr><td id="sno"><br /><br />   83.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#93"       target="_blank"><img src="images/8kun-projectDcomms/93.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   84.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#94"       target="_blank"><img src="images/8kun-projectDcomms/94.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   85.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#95"       target="_blank"><img src="images/8kun-projectDcomms/95.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   86.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#95"       target="_blank"><img src="images/8kun-projectDcomms/96.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   87.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#95"       target="_blank"><img src="images/8kun-projectDcomms/97.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   86.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#96"       target="_blank"><img src="images/8kun-projectDcomms/96.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   87.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#97"       target="_blank"><img src="images/8kun-projectDcomms/97.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   88.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#98"       target="_blank"><img src="images/8kun-projectDcomms/98.PNG" /></a></td></tr>
 
 <!-- 
 <tr><td id="sno"><br /><br />   .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
