@@ -111,7 +111,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <a href="" target="_blank">Sept.</a> | 
 <a href="" target="_blank">Oct.</a> | 
 <a href="https://postimg.cc/gallery/1efnfn0re/" target="_blank">Nov.</a> | 
-<a href="https://postimg.cc/gallery/" target="_blank">Dec.</a>
+<a href="https://postimg.cc/gallery/1se5rh1ay/" target="_blank">Dec.</a>
 </th>
 </tr>
 
@@ -146,7 +146,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <a href="https://anonfile.com/FatcK59dn4/08-19_AUG_rar" target="_blank">Aug.</a> | 
 <a href="" target="_blank">Sept.</a> | 
 <a href="" target="_blank">Oct.</a> | 
-<a href="https://anonfile.com/" target="_blank">Nov.</a> | 
+<a href="https://anonfile.com/p3x3Z7C8n6/11-19_NOV_rar" target="_blank">Nov.</a> | 
 <a href="https://anonfile.com/" target="_blank">Dec.</a>
 </th>
 </tr>

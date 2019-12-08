@@ -102,12 +102,12 @@
 <tr><td id="sno"><br /><br />   89.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#99"       target="_blank"><img src="images/8kun-projectDcomms/99.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   90.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#100"       target="_blank"><img src="images/8kun-projectDcomms/100.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   91.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#101"       target="_blank"><img src="images/8kun-projectDcomms/101.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   92.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#102"       target="_blank"><img src="images/8kun-projectDcomms/102.PNG" /></a></td></tr><!--
+<tr><td id="sno"><br /><br />   92.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#102"       target="_blank"><img src="images/8kun-projectDcomms/102.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   93.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#103"       target="_blank"><img src="images/8kun-projectDcomms/103.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   94.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#104"       target="_blank"><img src="images/8kun-projectDcomms/104.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   95.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#105"       target="_blank"><img src="images/8kun-projectDcomms/105.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   96.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#106"       target="_blank"><img src="images/8kun-projectDcomms/106.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   97.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#107"       target="_blank"><img src="images/8kun-projectDcomms/107.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   97.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#107"       target="_blank"><img src="images/8kun-projectDcomms/107.PNG" /></a></td></tr><!--
 <tr><td id="sno"><br /><br />   98.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#108"       target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   99.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#109"       target="_blank"><img src="images/8kun-projectDcomms/109.PNG" /></a></td></tr>
 
