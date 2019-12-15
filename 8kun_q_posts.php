@@ -9,7 +9,7 @@
 <h4>Raw Text: <a href="8kun_q_raw_text.php" target="_blank">here</a></h4>
 
 <table id="8kqp">
-<caption>8kun Q Posts [ #92 as of 2019-Dec-07 (Sat) 13:00 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
+<caption>8kun Q Posts [ #107 as of 2019-Dec-15 (Sun) 00:41 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
 <tr><th>                     S. no.</th><th>8kun Q post</th></tr>
 <tr><td id="sno"><br /><br />    1.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350502" target="_blank"><img src="images/8kun/7350502.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />    2.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350508" target="_blank"><img src="images/8kun/7350508.PNG" /></a></td></tr>
@@ -78,40 +78,50 @@
 <tr><td id="sno"><br /><br />   65.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371947" target="_blank"><img src="images/8kun/7371947.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   66.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7371992" target="_blank"><img src="images/8kun/7371992.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   67.</td><td>/qresearch/ Gen.: 9428       <hr /><a href="https://8kun.top/qresearch/res/7371635.html#7372396" target="_blank"><img src="images/8kun/7372396.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   68.</td><td>/projectdcomms/ Page: 18  <hr /><a href="https://8kun.top/projectdcomms/res/18.html#18"       target="_blank"><img src="images/8kun-projectDcomms/18.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   69.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#20"       target="_blank"><img src="images/8kun-projectDcomms/20.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   70.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#21"       target="_blank"><img src="images/8kun-projectDcomms/21.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   71.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#22"       target="_blank"><img src="images/8kun-projectDcomms/22.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   72.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#23"       target="_blank"><img src="images/8kun-projectDcomms/23.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   73.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#24"       target="_blank"><img src="images/8kun-projectDcomms/24.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   74.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#25"       target="_blank"><img src="images/8kun-projectDcomms/25.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   75.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#26"       target="_blank"><img src="images/8kun-projectDcomms/26.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   68.</td><td>/projectdcomms/ Page: 18     <hr /><a href="https://8kun.top/projectdcomms/res/18.html#18"       target="_blank"><img src="images/8kun-projectDcomms/18.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   69.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#20"       target="_blank"><img src="images/8kun-projectDcomms/20.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   70.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#21"       target="_blank"><img src="images/8kun-projectDcomms/21.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   71.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#22"       target="_blank"><img src="images/8kun-projectDcomms/22.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   72.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#23"       target="_blank"><img src="images/8kun-projectDcomms/23.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   73.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#24"       target="_blank"><img src="images/8kun-projectDcomms/24.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   74.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#25"       target="_blank"><img src="images/8kun-projectDcomms/25.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   75.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#26"       target="_blank"><img src="images/8kun-projectDcomms/26.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   76.</td><td>/qresearch/ Gen.: 9482       <hr /><a href="https://8kun.top/qresearch/res/7414260.html#7414599" target="_blank"><img src="images/8kun/7414599.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />   77.</td><td>/qresearch/ Gen.: 9482       <hr /><a href="https://8kun.top/qresearch/res/7414260.html#7414768" target="_blank"><img src="images/8kun/7414768.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   78.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#88"       target="_blank"><img src="images/8kun-projectDcomms/88.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   79.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#89"       target="_blank"><img src="images/8kun-projectDcomms/89.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   80.</td><td>/projectdcomms/ Page: 90  <hr /><a href="https://8kun.top/projectdcomms/res/90.html#90"       target="_blank"><img src="images/8kun-projectDcomms/90.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   81.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#91"       target="_blank"><img src="images/8kun-projectDcomms/91.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   82.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#92"       target="_blank"><img src="images/8kun-projectDcomms/92.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   83.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#93"       target="_blank"><img src="images/8kun-projectDcomms/93.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   84.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#94"       target="_blank"><img src="images/8kun-projectDcomms/94.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   85.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#95"       target="_blank"><img src="images/8kun-projectDcomms/95.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   86.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#96"       target="_blank"><img src="images/8kun-projectDcomms/96.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   87.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#97"       target="_blank"><img src="images/8kun-projectDcomms/97.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   88.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#98"       target="_blank"><img src="images/8kun-projectDcomms/98.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   89.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#99"       target="_blank"><img src="images/8kun-projectDcomms/99.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   90.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#100"       target="_blank"><img src="images/8kun-projectDcomms/100.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   91.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#101"       target="_blank"><img src="images/8kun-projectDcomms/101.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   92.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#102"       target="_blank"><img src="images/8kun-projectDcomms/102.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   93.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#103"       target="_blank"><img src="images/8kun-projectDcomms/103.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   94.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#104"       target="_blank"><img src="images/8kun-projectDcomms/104.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   95.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#105"       target="_blank"><img src="images/8kun-projectDcomms/105.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   96.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#106"       target="_blank"><img src="images/8kun-projectDcomms/106.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   97.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#107"       target="_blank"><img src="images/8kun-projectDcomms/107.PNG" /></a></td></tr><!--
-<tr><td id="sno"><br /><br />   98.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#108"       target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />   99.</td><td>/projectdcomms/ Page: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#109"       target="_blank"><img src="images/8kun-projectDcomms/109.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   78.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#88"       target="_blank"><img src="images/8kun-projectDcomms/88.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   79.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#89"       target="_blank"><img src="images/8kun-projectDcomms/89.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   80.</td><td>/projectdcomms/ Page: 90     <hr /><a href="https://8kun.top/projectdcomms/res/90.html#90"       target="_blank"><img src="images/8kun-projectDcomms/90.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   81.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#91"       target="_blank"><img src="images/8kun-projectDcomms/91.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   82.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#92"       target="_blank"><img src="images/8kun-projectDcomms/92.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   83.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#93"       target="_blank"><img src="images/8kun-projectDcomms/93.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   84.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#94"       target="_blank"><img src="images/8kun-projectDcomms/94.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   85.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#95"       target="_blank"><img src="images/8kun-projectDcomms/95.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   86.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#96"       target="_blank"><img src="images/8kun-projectDcomms/96.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   87.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#97"       target="_blank"><img src="images/8kun-projectDcomms/97.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   88.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#98"       target="_blank"><img src="images/8kun-projectDcomms/98.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   89.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#99"       target="_blank"><img src="images/8kun-projectDcomms/99.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   90.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#100"      target="_blank"><img src="images/8kun-projectDcomms/100.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   91.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#101"      target="_blank"><img src="images/8kun-projectDcomms/101.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   92.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#102"      target="_blank"><img src="images/8kun-projectDcomms/102.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   93.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#103"      target="_blank"><img src="images/8kun-projectDcomms/103.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   94.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#104"      target="_blank"><img src="images/8kun-projectDcomms/104.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   95.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#105"      target="_blank"><img src="images/8kun-projectDcomms/105.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   96.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#106"      target="_blank"><img src="images/8kun-projectDcomms/106.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   97.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#107"      target="_blank"><img src="images/8kun-projectDcomms/107.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   98.</td><td>/qresearch/ Gen.: 9601       <hr /><a href="https://8kun.top/qresearch/res/7505871.html#7505968" target="_blank"><img src="images/8kun/7505968.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />   99.</td><td>/qresearch/ Gen.: 9601       <hr /><a href="https://8kun.top/qresearch/res/7505871.html#7506100" target="_blank"><img src="images/8kun/7506100.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  100.</td><td>/qresearch/ Gen.: 9601       <hr /><a href="https://8kun.top/qresearch/res/7505871.html#7506196" target="_blank"><img src="images/8kun/7506196.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  101.</td><td>/qresearch/ Gen.: 9605       <hr /><a href="https://8kun.top/qresearch/res/7508965.html#7509608" target="_blank"><img src="images/8kun/7509608.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  102.</td><td>/qresearch/ Gen.: 9605       <hr /><a href="https://8kun.top/qresearch/res/7508965.html#7509742" target="_blank"><img src="images/8kun/7509742.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  103.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7509823" target="_blank"><img src="images/8kun/7509823.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  104.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7509907" target="_blank"><img src="images/8kun/7509907.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  105.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510045" target="_blank"><img src="images/8kun/7510045.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  106.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510185" target="_blank"><img src="images/8kun/7510185.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  107.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510331" target="_blank"><img src="images/8kun/7510331.PNG" /></a></td></tr><!--
+<tr><td id="sno"><br /><br />  108.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#108"      target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  109.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#109"      target="_blank"><img src="images/8kun-projectDcomms/109.PNG" /></a></td></tr>
 
-<tr><td id="sno"><br /><br />   .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />     .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
 
 <tr><td id="sno"><br /><br />   71.</td><td>/projectdcomms/ Thread.: 20  <hr /><a href="https://8kun.top/projectdcomms/res/20.html#22"       target="_blank"><img src="images/8kun-projectDcomms/22.PNG" /></a></td></tr>
 
