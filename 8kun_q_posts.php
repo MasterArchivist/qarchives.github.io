@@ -9,7 +9,7 @@
 <h4>Raw Text: <a href="8kun_q_raw_text.php" target="_blank">here</a></h4>
 
 <table id="8kqp">
-<caption>8kun Q Posts [ #107 as of 2019-Dec-15 (Sun) 00:41 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
+<caption>8kun Q Posts [ #108 as of 2019-Dec-15 (Sun) 01:27 ET) ]<br />Click on the screencap to visit the original q post on 8kun</caption>
 <tr><th>                     S. no.</th><th>8kun Q post</th></tr>
 <tr><td id="sno"><br /><br />    1.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350502" target="_blank"><img src="images/8kun/7350502.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />    2.</td><td>/qresearch/ UK Gen.: 8       <hr /><a href="https://8kun.top/qresearch/res/7307489.html#7350508" target="_blank"><img src="images/8kun/7350508.PNG" /></a></td></tr>
@@ -117,9 +117,10 @@
 <tr><td id="sno"><br /><br />  104.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7509907" target="_blank"><img src="images/8kun/7509907.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />  105.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510045" target="_blank"><img src="images/8kun/7510045.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />  106.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510185" target="_blank"><img src="images/8kun/7510185.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />  107.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510331" target="_blank"><img src="images/8kun/7510331.PNG" /></a></td></tr><!--
-<tr><td id="sno"><br /><br />  108.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#108"      target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />  109.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#109"      target="_blank"><img src="images/8kun-projectDcomms/109.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  107.</td><td>/qresearch/ Gen.: 9606       <hr /><a href="https://8kun.top/qresearch/res/7509735.html#7510331" target="_blank"><img src="images/8kun/7510331.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  108.</td><td>/qresearch/ Gen.: 9607       <hr /><a href="https://8kun.top/qresearch/res/7510536.html#7510725" target="_blank"><img src="images/8kun/7510725.PNG" /></a></td></tr><!--
+<tr><td id="sno"><br /><br />  109.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#108"      target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />  110.</td><td>/projectdcomms/ Page: 20     <hr /><a href="https://8kun.top/projectdcomms/res/20.html#109"      target="_blank"><img src="images/8kun-projectDcomms/109.PNG" /></a></td></tr>
 
 <tr><td id="sno"><br /><br />     .</td><td>/qresearch/ Gen.:            <hr /><a href="" target="_blank"><img src="images/8kun/.PNG" /></a></td></tr>
 
