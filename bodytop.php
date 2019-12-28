@@ -216,7 +216,8 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <a href="docs/01. q_posts_till20171109_as_confirmedbyq.pdf" target="_blank">01_till_20171109.pdf</a> | 
 <a href="docs/02. q_posts_since_tripcode_till20171121.pdf" target="_blank">02_till_20171121.pdf</a> | 
 <a href="docs/03. q_posts_since_20171121_v201711231546.pdf" target="_blank">03_till_20171123.pdf</a> | 
-<a href="docs/04. q_posts_8ch_nov26_v201712110947.pdf" target="_blank">04_till_201712110947.pdf</a>
+<a href="docs/04. q_posts_8ch_nov26_v201712110947.pdf" target="_blank">04_till_201712110947.pdf</a> | 
+<a href="docs/05. q_posts_partV_v201712170612.pdf" target="blank">05_til_27171215.pdf</a>
 </th>
 </tr>
 
