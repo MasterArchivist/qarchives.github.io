@@ -5,7 +5,7 @@
 <hr class="hr01" />
 
 <h1><b><u>Q Archives</u></b></h1>
-<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!<hr />My 8kun tripcode: !!n8GSjgsV3c<hr /></h3>
+<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!</h3><p class="ptac">My 8kun tripcode: !!n8GSjgsV3c</p>
 
 <hr class="hr01"/>
 
@@ -301,7 +301,7 @@ He who knows and knows that he knows is a wise man; follow him.</i>
 <hr class="hr01" />
 
 <h1><b><u>Q Archives</u></b></h1>
-<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!<hr />My 8kun tripcode: !!n8GSjgsV3c<hr /></h3>
+<h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!</h3><p class="ptac">My 8kun tripcode: !!n8GSjgsV3c</p>
 
 <hr class="hr01"/>
 
