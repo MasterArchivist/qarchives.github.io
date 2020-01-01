@@ -3099,9 +3099,9 @@
 <tr><td id="sno"><br /><br />3086.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/6574269.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />3087.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/6593482.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />3088.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/6593544.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />3089.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />3090.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br />3091.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />3089.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/469.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />3090.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/470.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br />3091.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/471.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />3092.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />3093.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br />3094.</td><td>// Gen.: <hr /><a href="" target="_blank"><img src="images/8qresearch/.PNG" /></a></td></tr>
