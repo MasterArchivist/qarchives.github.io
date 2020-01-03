@@ -3,7 +3,7 @@
 
 <hr class="hr01" />
 
-<h1><b><u>Q Archives</u></b></h1>
+<h1><b><u><a href="http://www.qarchives.ga/" target="_blank">Q Archives</a></u></b></h1>
 <h3>A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!</h3>
 <p class="ptac">My 8kun tripcode: !!n8GSjgsV3c</p>
 
