@@ -96,11 +96,11 @@
 <tr><td id="sno"><br /><br /> 82.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020085" target="_blank"><img src="images/4pol/148020085.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 83.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020278" target="_blank"><img src="images/4pol/148020278.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 84.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148021501" target="_blank"><img src="images/4pol/148021501.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br /> 85.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank"><img src="images/4pol/148022145.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br /> 85.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank"><img src="images/4pol/148027165.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 86.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022342" target="_blank"><img src="images/4pol/148022342.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 87.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148023976" target="_blank"><img src="images/4pol/148023976.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 88.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148025825" target="_blank"><img src="images/4pol/148025825.PNG" /></a></td></tr>
-<tr><td id="sno"><br /><br /> 89.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank"><img src="images/4pol/148027165.PNG" /></a></td></tr>
+<tr><td id="sno"><br /><br /> 89.</td><td>non-cbts  <hr /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank"><img src="images/4pol/148022145.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 90.</td><td>Gen.: 54  <hr /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029633" target="_blank"><img src="images/4pol/148029633.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 91.</td><td>Gen.: 54  <hr /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029962" target="_blank"><img src="images/4pol/148029962.PNG" /></a></td></tr>
 <tr><td id="sno"><br /><br /> 92.</td><td>Gen.: 54  <hr /><a href="https://archive.4plebs.org/pol/thread/148019103/#148031295" target="_blank"><img src="images/4pol/148031295.PNG" /></a></td></tr>
