@@ -7,6 +7,8 @@
 <hr />
 
 <p class="alt">MasterArchivist's 8kun tripcode: !!n8GSjgsV3c</p>
+
+<!-- ---------------------------------------------------------------------- MY SOCIAL MEDIA ---------------------------------------------------------------------- -->
 <p class="alt">
 <a href="https://twitter.com/ArchivistMaster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ArchivistMaster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> | 
 <a href="https://www.gab.com/MasterArchivist" target="_blank">Gab</a> | <a href="https://mastodon.social/@masterarchivist" target="_blank">Mastodon</a><!-- | 
@@ -15,6 +17,7 @@
 </p>
 <hr />
 
+<!-- ---------------------------------------------------------------------- Q LINKS ---------------------------------------------------------------------- -->
 <p class="qlinks"><b>
 8kun: <a href="https://8kun.top/qresearch/welcome.html">Welcome Page</a> | <a href="https://8kun.top/qresearch/index.html">Index</a> | <a href="https://8kun.top/qresearch/archive/index.html">Archive</a> | <a href="https://8kun.top/qresearch/qposts.html">Q Posts</a> | <a href="https://8kun.top/qresearch/notables.html">Notables</a> | <a href="https://8kun.top/qresearch/res/6156082.html">Q Proofs</a> | Q's Board: <a href="https://8kun.top/projectdcomms/catalog.html">/projectdcomms/</a> | Bakers' Board: <a href="https://8kun.top/comms/catalog.html">/Comms/</a><br />
 Legacy Boards: <a href="https://8kun.top/cbts/catalog.html">/CBTS/</a> | <a href="https://8kun.top/thestorm/catalog.html">/TheStorm/</a> | <a href="https://8kun.top/greatawakening/catalog.html">/GreatAwakening/</a> | Politics News & Debate: <a href="https://8kun.top/pnd/catalog.html">/pnd/</a> | <a href="https://voat.co/v/QRV">Voat Subverse</a> | <a href="https://poal.co/s/QRP">Poal Sub</a>
@@ -29,7 +32,9 @@ Q Archives: <a href="https://www.qmap.pub/" target="_blank">qmap.pub</a> |
 <a href="https://www.qanon.app/" target="_blank">qanon.app</a> | 
 <a href="https://www.qanon.pub/" target="_blank">qanon.pub</a> | 
 <a href="https://qntmpkts.keybase.pub/" target="_blank">qntmpkts.keybase.pub</a> 
-<br />
+</b></p>
+
+<p class="qlinks"><b>
 Q Spreadsheet:<a href="https://docs.google.com/spreadsheets/d/1Efm2AcuMJ7whuuB6T7ouOIwrE_9S-1vDJLAXIVPZU2g/" target="_blank">Google docs spreadsheet</a> / <a href="the_storm_is_here.html" target="_blank">In-situ spreadsheet mirror</a>
  | 
 Q Caps: 
@@ -55,7 +60,9 @@ Q Map:
 		<span class="quotecontent" style="background-color: #D6DAF0;"><a href="docs/01. q_posts_till20171109_as_confirmedbyq.pdf" target="_blank">01_till_20171109.pdf</a> | <a href="docs/02. q_posts_since_tripcode_till20171121.pdf" target="_blank">02_till_20171121.pdf</a> | <a href="docs/03. q_posts_since_20171121_v201711231546.pdf" target="_blank">03_till_20171123.pdf</a> | <a href="docs/04. q_posts_8ch_nov26_v201712110947.pdf" target="_blank">04_till_201712110947.pdf</a> | <a href="docs/05. q_posts_partV_v201712170612.pdf" target="blank">05_til_27171215.pdf</a></span>
  | <a href="https://mega.nz/#F!XtNhURSb!1Mdrvt-Y_onBw5VlFDRdCQ" target="_blank">Q Research Graphics Library</a>
  | <a href="https://postimg.cc/gallery/29wdmgyze/" target="_blank"><b>Photos posted by Q</b></a>
-<br />
+</b></p>
+
+<p class="qlinks"><b>
 Q Raw Text Dumps: 
 <a href="https://www.pastebin.com/3YwyKxJE" target="_blank">Pastebin 1</a>, 
 <a href="https://www.pastebin.com/6SuUFk2t" target="_blank">Pastebin 2</a>,  
@@ -66,13 +73,17 @@ Imp. Follow-ups:
 <a href="https://docs.google.com/spreadsheets/d/1kVQwX9l9HJ5F76x05ic_YnU_Z5yiVS96LbzAOP66EzA/edit#gid=1525422677" target="_blank">Sealed Indictments</a> | 
 <a href="https://www.resignation.info" target="_blank">Resignations</a> | 
 <a href="https://deathcas.es" target="blank">Deathcases</a>
-<br />
+</b></p>
+
+<p class="qlinks"><b>
 Q Proofs:
 <a href="https://www.qproofs.com/" target="_blank">qproofs.com</a> , 
 <a href="http://www.qanonproofs.com/" target="_blank">qanonproofs.com</a> , 
 <a href="https://mega.nz/#F!afISyCoY!6N1lY_fcYFOz4OQpT82p2w" target="_blank">Book of Q Proofs</a> | 
 <a href="https://youtu.be/3vw9N96E-aQ" target="_blank">Q Plan to save the world</a>
-<br />
+</b></p>
+
+<p class="qlinks"><b>
 POTUS DJT Twitter:
 <a href="https://twitter.com/POTUS">POTUS</a> | 
 <a href="https://twitter.com/realDonaldTrump">Donald Trump</a> | 
