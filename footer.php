@@ -1,5 +1,2 @@
-<br />
-
-<hr class="hr01" />
-<p class="ptac">&copy; MasterArchivist <br /><a href="mailto:masterarchivist@protonmail.com" target="_blank">masterarchivist@protonmail.com</a> | <a href="mailto:masterarchivistma@gmail.com" target="_blank">masterarchivistma@gmail.com</a></p>
-<hr class="hr01" />
+<hr />
+<p class="intro">&copy; MasterArchivist </b><br /><a href="mailto:masterarchivist@qarchives.ga" target="_blank">masterarchivist@qarchives.ga</a> | <a href="mailto:masterarchivist@protonmail.com" target="_blank">masterarchivist@protonmail.com</a> | <a href="mailto:masterarchivistma@gmail.com" target="_blank">masterarchivistma@gmail.com</a></p>

@@ -5,10 +5,10 @@
 <?php include 'bodytop.php';?>
 
 <!-- ---------------------------------------------------------------------- TABLE 3 ---------------------------------------------------------------------- -->
-<h3><a href="https://boards.4chan.org/pol/" target="_blank">4chan.org/pol/</a> Q Threads<br />Where it all began!</h3>
-<p>Google Drive with ALL zips - <a href="https://drive.google.com/open?id=1PQiR1R3OzNwKoxCqe3rNABKennu_VyKM" target="_blank">https://drive.google.com/open?id=1PQiR1R3OzNwKoxCqe3rNABKennu_VyKM</a></p>
+<p style="text-align:center"><b>Q Threads</b>
+<br/>Google Drive with ALL zips - <a href="https://drive.google.com/open?id=1PQiR1R3OzNwKoxCqe3rNABKennu_VyKM" target="_blank">https://drive.google.com/open?id=1PQiR1R3OzNwKoxCqe3rNABKennu_VyKM</a>
+<br /># thread with Q post(s)</p>
 
-<p># thread with Q post(s)</p>
 <table id="4pqtt">
 <caption>4chan Q Threads</caption>
 <tr><th>S. no.</th><th>4chan Q Thread</th><th>archive.fo web page link</th><th>archive.fo zip download link</th><th>anonfile zip download link</th></tr>
@@ -4714,5 +4714,27 @@
 </table>
 <p># thread with Q post(s)</p>
 <!-- ---------------------------------------------------------------------- TABLE 3 Ends ---------------------------------------------------------------------- -->
+
+<script>
+/* This function takes a thumnail and inline expands it on click. */
+$(document).ready(function(){
+  $("img").click(function(){$(this).toggleClass("thumbnail");});
+});
+
+/* This function takes a quote link and inline expands it on mouse click. */
+var coll = document.getElementsByClassName("quotelink");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
 <?php include 'footer.php';?>

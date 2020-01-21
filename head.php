@@ -5,4 +5,6 @@
 <meta name="author" content="MasterArchivist" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<link rel="stylesheet" href="styles/css_20191228_0059_et.css" />
+<link rel="stylesheet" href="styles/css_20200121_0600_et.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" ></script>
