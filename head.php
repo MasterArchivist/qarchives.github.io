@@ -4,5 +4,6 @@
 <meta name="keywords" content="Q, q, qanon, Q-anon, Qanon, masterarchivist, master, archivist, ma, CBTS, cbts, Calm, Before, The, Storm, calm, before, the, storm, great, awakening, greatawakening, research, qresearch" />
 <meta name="author" content="MasterArchivist" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv = "refresh" content = "0; url = q_posts.html#lqp" />
 
 <link rel="stylesheet" href="styles/css_20200121_0600_et.css" />
