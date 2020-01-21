@@ -20,6 +20,9 @@
 <!-- ---------------------------------------------------------------------- Q LINKS ---------------------------------------------------------------------- -->
 <p class="qlinks"><b>
 8kun: <a href="https://8kun.top/qresearch/welcome.html">Welcome Page</a> | <a href="https://8kun.top/qresearch/index.html">Index</a> | <a href="https://8kun.top/qresearch/archive/index.html">Archive</a> | <a href="https://8kun.top/qresearch/qposts.html">Q Posts</a> | <a href="https://8kun.top/qresearch/notables.html">Notables</a> | <a href="https://8kun.top/qresearch/res/6156082.html">Q Proofs</a> | Q's Board: <a href="https://8kun.top/projectdcomms/catalog.html">/projectdcomms/</a> | Bakers' Board: <a href="https://8kun.top/comms/catalog.html">/Comms/</a><br />
+</b></p>
+
+<p class="qlinks"><b>
 Legacy Boards: <a href="https://8kun.top/cbts/catalog.html">/CBTS/</a> | <a href="https://8kun.top/thestorm/catalog.html">/TheStorm/</a> | <a href="https://8kun.top/greatawakening/catalog.html">/GreatAwakening/</a> | Politics News & Debate: <a href="https://8kun.top/pnd/catalog.html">/pnd/</a> | <a href="https://voat.co/v/QRV">Voat Subverse</a> | <a href="https://poal.co/s/QRP">Poal Sub</a>
 </b></p>
 
