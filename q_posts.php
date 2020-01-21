@@ -3803,26 +3803,5 @@
 <div id="lqp"><hr /><b>3777. 8kun /qresearch/ General #10065 </b><br /><a href="https://8kun.top/qresearch/res/7863948.html#7864137" target="_blank"><img src="images/8kun/7864137.PNG" /></a></div>
 
 <!--                                                                      Q POSTS END                                                                      -->
-<script>
-/* This function takes a thumnail and inline expands it on click. */
-$(document).ready(function(){
-  $("img").click(function(){$(this).toggleClass("thumbnail");});
-});
-
-/* This function takes a quote link and inline expands it on mouse click. */
-var coll = document.getElementsByClassName("quotelink");
-var i;
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
 
 <?php include 'footer.php';?>
