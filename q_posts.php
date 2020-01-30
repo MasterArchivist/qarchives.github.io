@@ -6,7 +6,7 @@
 
 <!--                                                                      Q POSTS START                                                                      -->
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3812 posts as of 2020-Jan-30, 13:50 ET ]</b><p>
+<p style="text-align:center"><b>[3813 posts as of 2020-Jan-30, 13:55 ET ]</b><p>
 <hr />
 <div         ><hr /><b>   1. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank"><img src="images/4pol/147012719.PNG" /></a></div>
 <div         ><hr /><b>   2. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank"><img src="images/4pol/147023341.PNG" /></a></div>
@@ -3835,7 +3835,8 @@
 <div         ><hr /><b>3809. 8kun /qresearch/ General #10195 </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7966134" target="_blank"><img src="images/8kun/7966134.PNG" /></a></div>
 <div         ><hr /><b>3810. 8kun /qresearch/ General #10196 </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966643" target="_blank"><img src="images/8kun/7966643.PNG" /></a></div>
 <div         ><hr /><b>3811. 8kun /qresearch/ General #10196 </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966693" target="_blank"><img src="images/8kun/7966693.PNG" /></a></div>
-<div id="lqp"><hr /><b>3812. 8kun /qresearch/ General #10196 </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966781" target="_blank"><img src="images/8kun/7966781.PNG" /></a></div>
+<div         ><hr /><b>3812. 8kun /qresearch/ General #10196 </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966781" target="_blank"><img src="images/8kun/7966781.PNG" /></a></div>
+<div id="lqp"><hr /><b>3813. 8kun /qresearch/ General #10196 </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7967013" target="_blank"><img src="images/8kun/7967013.PNG" /></a></div>
 <!--                                                                      Q POSTS END                                                                      -->
 
 <?php include 'footer.php';?>
