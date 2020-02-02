@@ -3,7 +3,7 @@
 
 <p class="heading">Q Archives</p>
 <p class="intro">A <a href="mailto:masterarchivist@protonmail.com" target="_blank">MasterArchivist</a> endeavor!</p>
-<p class="alt">Other alternatives: <a href="https://qarchives.000webhostapp.com" target="_blank">qarchives.000webhostapp.com</a> | <a href="https://masterarchivist.github.io/qarchives/" target="_blank">masterarchivist.github.io/qarchives/</a></p>
+<p class="alt">Other alternatives: <a href="https://masterarchivist.github.io/qarchives/" target="_blank">masterarchivist.github.io/qarchives/</a></p>
 <hr />
 
 <p class="alt">MasterArchivist's 8kun tripcode: !!n8GSjgsV3c</p>
@@ -133,13 +133,14 @@ POTUS DJT Twitter:
 					He who knows and knows that he knows is a wise man; follow him.</i>
 					<br /> ― <b>Sanskrit saying</b>
 					<br /><br />Disclaimer: This post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span></span>
- | <a href="q_posts.html#lqp" target="_blank">Q's Latest</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="q_posts.html#lqp" target="_blank">Q's Latest</a>
 </b></p>
 
 <hr />
 
 <p class="qlinks"><b>
-<a href="index.php" target="_blank">Home</a> | <a href="q_threads.php" target="_blank">Threads</a> | <a href="q_posts.php" target="_blank">Posts</a>
+<a href="index.html" target="_blank">Home</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_threads.html" target="_blank">Threads</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_posts.html" target="_blank">Posts</a>
 </b></p>
 
 <hr />
