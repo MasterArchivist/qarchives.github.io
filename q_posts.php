@@ -3847,7 +3847,8 @@
 <div         ><hr /><b>3821. 8kun /qresearch/ General #10228 </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991360" target="_blank"><img src="images/8kun/7991360.PNG" /></a></div>
 <div         ><hr /><b>3822. 8kun /qresearch/ General #10228 </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991417" target="_blank"><img src="images/8kun/7991417.PNG" /></a></div>
 <div         ><hr /><b>3823. 8kun /qresearch/ General #10228 </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991504" target="_blank"><img src="images/8kun/7991504.PNG" /></a></div>
-<div id="lqp"><hr /><b>3824. 8kun /qresearch/ General #10255 </b><br /><a href="https://8kun.top/qresearch/res/8011984.html#8012209" target="_blank"><img src="images/8kun/8012209.PNG" /></a></div>
+<div         ><hr /><b>3824. 8kun /qresearch/ General #10255 </b><br /><a href="https://8kun.top/qresearch/res/8011984.html#8012209" target="_blank"><img src="images/8kun/8012209.PNG" /></a></div>
+<div id="lqp"><hr /><b>3824. 8kun /qresearch/ General #10280 </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031268" target="_blank"><img src="images/8kun/8031268.PNG" /></a></div>
 <!--                                                                                         Q POSTS END                                                                                         -->
 
 <?php include 'footer.php';?>
