@@ -6,7 +6,7 @@
 
 <!--                                                                                             Q POSTS START                                                                                             -->
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3840 posts as of 2020-Feb-07, 12:05 ET ]</b><p>
+<p style="text-align:center"><b>[3841 posts as of 2020-Feb-07, 12:35 ET ]</b><p>
 <hr />
 <div         ><hr /><b>   1. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank"><img src="images/4pol/147012719.PNG" /></a></div>
 <div         ><hr /><b>   2. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank"><img src="images/4pol/147023341.PNG" /></a></div>
@@ -3865,6 +3865,7 @@
 <div         ><hr /><b>3839. 8kun /qresearch/ General #10314 </b><br /><a href="https://8kun.top/qresearch/res/8057550.html#8057691" target="_blank"><img src="images/8kun/8057691.PNG" /></a></div>
 <div         ><hr /><b>3840. 8kun /qresearch/ General #10319 </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061713" target="_blank"><img src="images/8kun/8061713.PNG" /></a></div>
 <div id="lqp"><hr /><b>3841. 8kun /qresearch/ General #10319 </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061906" target="_blank"><img src="images/8kun/8061906.PNG" /></a></div>
+https://8kun.top/qresearch/res/8061432.html#8062147
 <!--                                                                                         Q POSTS END                                                                                         -->
 
 <?php include 'footer.php';?>
