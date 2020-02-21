@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3877 posts as of 2020-Feb-20, 11:27:28 ET ]</b></p>
+<p style="text-align:center"><b>[3880 posts as of 2020-Feb-20, 20:59:58 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -4017,12 +4017,12 @@
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Russia didn't hack the server!</p>&mdash; Monkey Man (@AnonMonkeyMan1) <a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Russia didn't hack the server!</p>&mdash; Monkey Man (@AnonMonkeyMan1) <a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
-		<span class="embedlink">[screencap
+		<span class="embedlink"> [screencap
 		<span class="quotecontenthovers"><img src="images/mediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span></span>
 		<span class="quotecontentexpand"><img src="images/mediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span>
 		  <span class="savetodisk"><a href="images/mediapics&caps/7653595a.PNG" target="_blank" download> 🖫</a></span>]
 
-		<span class="embedlink"> [tweet video
+		<span class="embedlink"> [tweeted video
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/7653595b.mp4" target="_blank" download> 🖫</a></span>]
@@ -4067,7 +4067,7 @@
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
-							>>7653541
+							<font style="color:red; text-decoration:underline;">>>7653541</font>
 						</span>
 					</span>
 					<br />
@@ -4099,7 +4099,7 @@
 						</span>
 					</span>
 					<span class="posttext" style="display:block; float:left;">
-						>>7653541
+						<font style="color:red; text-decoration:underline;">>>7653541</font>
 					</span>
 				</span>
 				<br />
@@ -4190,7 +4190,7 @@
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
-							>>7859207
+							<font style="color:red; text-decoration:underline;">>>7859207</font>
 						</span>
 					</span>
 					<br />
@@ -4214,7 +4214,7 @@
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
-							>>7859207
+							<font style="color:red; text-decoration:underline;">>>7859207</font>
 						</span>
 					</span>
 					<br />
@@ -4252,10 +4252,15 @@
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=8y06NSBBRtY" target="_blank">https://www.youtube.com/watch?v=8y06NSBBRtY</a> 
 
-		<span class="embedlink">[embed]
+		<span class="embedlink"> [embed]
 		<span class="quotecontenthovers"><iframe width="720" height="480" src="https://www.youtube.com/embed/8y06NSBBRtY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="720" height="480" src="https://www.youtube.com/embed/8y06NSBBRtY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-
+	
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/mediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span></span>
+		<span class="quotecontentexpand"><img src="images/mediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span>
+				 <span class="savetodisk"><a href="images/mediapics&caps/7864137a.PNG" target="_blank" download> 🖫</a></span>]
+					 
 		<span class="embedlink"> [local
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
@@ -4291,7 +4296,7 @@
 			<span class="embedlink"> [screencap
 			<span class="quotecontenthovers"><img src="images/mediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span></span>
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/7866851a.PNG" target="_blank" download> 🖫</a></span>]
+					 <span class="savetodisk"><a href="images/mediapics&caps/7866851a.PNG" target="_blank" download> 🖫</a></span>]
 			
 		<br /><a href="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/" target="_blank">https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/</a>	
 	
@@ -4444,8 +4449,8 @@
 			<span class="quotecontenthovers"><img src="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" alt="" /></span></span>
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" alt="" /></span>
 			<span class="savetodisk"><a href="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" target="_blank" download> 🖫</a></span>]
-	
-			<span class="embedlink"> [tweet video
+
+			<span class="embedlink"> [tweeted video
 			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8079097b.mp4" target="_blank" download> 🖫</a></span>]
@@ -4476,7 +4481,7 @@
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8079763a.PNG" alt="Listen: “Half the people involved in the Russian investigation are going to jail.”" /></span>
 			<span class="savetodisk"><a href="images/mediapics&caps/8079763a.PNG" target="_blank" download> 🖫</a></span>]
 
-			<span class="embedlink"> [tweet video
+			<span class="embedlink"> [tweeted video
 			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8079763b.mp4" target="_blank" download> 🖫</a></span>]
@@ -4530,14 +4535,14 @@
 				<span class="quotecontentexpand"><img src="images/mediapics&caps/8092721a.PNG" alt="Attorney General Barr has acknowledged ..." /></span>
 				<span class="savetodisk"><a href="images/mediapics&caps/8092721a.PNG" target="_blank" download> 🖫</a></span>]
 		
-				<span class="embedlink"> [tweet link embed
+				<span class="embedlink"> [tweeted link [embed]
 				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.bloomberg.com/news/articles/2020-02-10/giuliani-giving-ukraine-data-to-justice-department-barr-says"></iframe></span></span>
 				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.bloomberg.com/news/articles/2020-02-10/giuliani-giving-ukraine-data-to-justice-department-barr-says"></iframe></span>
 		
-				<span class="embedlink"> [tweet link screencap
+				<span class="embedlink"> [screencap
 				<span class="quotecontenthovers"><img src="images/mediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span></span>
 				<span class="quotecontentexpand"><img src="images/mediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8092721b.PNG" target="_blank" download> 🖫</a></span>]
+				<span class="savetodisk"><a href="images/mediapics&caps/8092721b.PNG" target="_blank" download> 🖫</a></span>]]
 		
 			<br />Did 'Mueller' open the door to Ukraine?
 			<br />Did 'Mueller' open the door to FISA [illegal]?
@@ -4611,7 +4616,7 @@
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
-							>>8092721
+							<font style="color:red; text-decoration:underline;">>>8092721</font>
 							<br />Caught them all!
 						</span>
 					</span>
@@ -4636,7 +4641,7 @@
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
-							>>8092721
+							<font style="color:red; text-decoration:underline;">>>8092721</font>
 							<br />Caught them all!
 						</span>
 					</span>
@@ -4725,7 +4730,7 @@
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8105541a.PNG" alt="Boom!" /></span>
 			<span class="savetodisk"><a href="images/mediapics&caps/8105541a.PNG" target="_blank" download> 🖫</a></span>]
 	
-			<span class="embedlink"> [tweet video
+			<span class="embedlink"> [tweeted video
 			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8105541b.mp4" target="_blank" download> 🖫</a></span>]
@@ -4871,7 +4876,7 @@
 		<span class="quotecontentexpand"><img src="images/mediapics&caps/8116930a.PNG" alt="Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else." /></span>
 		<span class="savetodisk"><a href="images/mediapics&caps/8116930a.PNG" target="_blank" download> 🖫</a></span>]
 
-		<span class="embedlink"> [tweet video
+		<span class="embedlink"> [tweeted video
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8116930b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5035,14 +5040,19 @@
 
 		<a href="https://www.youtube.com/watch?v=AWmrzhU1zXs" target="_blank">[Tweet video</a> 
 
-		<span class="embedlink">[embed]]
+		<span class="embedlink"> [embed]
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/AWmrzhU1zXs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/AWmrzhU1zXs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-
-		<span class="embedlink">[local]
+		
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/mediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span></span>
+		<span class="quotecontentexpand"><img src="images/mediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span>
+				 <span class="savetodisk"><a href="images/mediapics&caps/8136552b.PNG" target="_blank" download> 🖫</a></span>]
+		
+		<span class="embedlink"> [local]
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
-		<span class="savetodisk"><a href="videos/8kun/8136552b.mp4" target="_blank" download> 🖫</a></span>]
+		<span class="savetodisk"><a href="videos/8kun/8136552b.mp4" target="_blank" download> 🖫</a></span>]]
 
 		<br />Bigger [slam-dunk] charges coming?
 		<br />Q
@@ -5070,7 +5080,7 @@
 		<span class="quotecontentexpand"><img src="images/mediapics&caps/8141007a.PNG" alt="AG BARR is focused on something much bigger, ..." /></span>
 		<span class="savetodisk"><a href="images/mediapics&caps/8141007a.PNG" target="_blank" download> 🖫</a></span>]
 
-		<span class="embedlink"> [tweet video
+		<span class="embedlink"> [tweeted video
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8141007b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5125,7 +5135,7 @@
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8163987a.PNG" alt="The Secret Tarmac Meeting." /></span>
 			<span class="savetodisk"><a href="images/mediapics&caps/8163987a.PNG" target="_blank" download> 🖫</a></span>]
 	
-			<span class="embedlink"> [tweet video
+			<span class="embedlink"> [tweeted video
 			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8163987b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5180,16 +5190,16 @@
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8166443a.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
 			<span class="savetodisk"><a href="images/mediapics&caps/8166443a.PNG" target="_blank" download> 🖫</a></span>]
 			
-			<a href="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/" target="_blank"> [tweet link]</a>
+			<a href="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/" target="_blank"> [tweet link</a>
 			
-			<span class="embedlink"> [embed
+			<span class="embedlink"> [embed]
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/"></iframe></span>]
 			
-			<span class="embedlink"> [tweet link screencap
+			<span class="embedlink"> [tweeted link screencap
 			<span class="quotecontenthovers"><img src="images/mediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span></span>
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8166443b.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="savetodisk"><a href="images/mediapics&caps/8166443b.PNG" target="_blank" download> 🖫</a></span>]]
 			
 			<br />Purpose: [D]s install numerous rules and regs re: [D] party nomination winner? 
 			<br />Define 'superdelegates'. 
@@ -5245,7 +5255,7 @@
 		<span class="quotecontentexpand"><img src="images/mediapics&caps/8168706a.PNG" alt="Is this who [GS] made puppet [Hussein] investigate?" /></span>
 		  <span class="savetodisk"><a href="images/mediapics&caps/8168706a.PNG" target="_blank" download> 🖫</a></span>]
 
-		<span class="embedlink"> [tweet video
+		<span class="embedlink"> [tweeted video
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8168706b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5284,11 +5294,16 @@
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=QDVQe5iRiPw" target="_blank">https://www.youtube.com/watch?v=QDVQe5iRiPw</a>
 
-		<span class="embedlink">[embed]
+		<span class="embedlink"> [embed]
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/QDVQe5iRiPw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/QDVQe5iRiPw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-
-		<span class="embedlink">[local]
+		
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/mediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span></span>
+		<span class="quotecontentexpand"><img src="images/mediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span>
+				 <span class="savetodisk"><a href="images/mediapics&caps/8179800a.PNG" target="_blank" download> 🖫</a></span>]
+		  
+		<span class="embedlink"> [local
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8179800b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5318,7 +5333,7 @@
 		<span class="quotecontentexpand"><img src="images/mediapics&caps/8191403a.PNG" alt="To those who think there will never be justice, think again." /></span>
 		<span class="savetodisk"><a href="images/mediapics&caps/8191403a.PNG" target="_blank" download> 🖫</a></span>]
 
-		<span class="embedlink"> [tweet video
+		<span class="embedlink"> [tweeted video
 		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
 		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8191403b.mp4" target="_blank" download> 🖫</a></span>]
@@ -5355,7 +5370,7 @@
 				<span class="quotecontentexpand"><img src="images/mediapics&caps/8192087a.PNG" alt="Victoria’s Secret has been under a microscope for its outdated marketing." /></span>
 				<span class="savetodisk"><a href="images/mediapics&caps/8192087a.PNG" target="_blank" download> 🖫</a></span>]
 
-				<a href="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html" target="_blank">[twitter link]</a>
+				<a href="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html" target="_blank">[tweeted link</a>
 			
 				<span class="embedlink"> [embed]
 				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html"></iframe></span></span>
@@ -5364,7 +5379,7 @@
 				<span class="embedlink"> [screencap
 				<span class="quotecontenthovers"><img src="images/mediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span></span>
 				<span class="quotecontentexpand"><img src="images/mediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8192087b.PNG" target="_blank" download> 🖫</a></span>]
+				<span class="savetodisk"><a href="images/mediapics&caps/8192087b.PNG" target="_blank" download> 🖫</a></span>]]
 
 			<br />[Epstein]
 			<br />[Wexner]
@@ -5476,7 +5491,7 @@
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8194912a.PNG" alt="German mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world." /></span>
 						  <span class="savetodisk"><a href="images/mediapics&caps/8194912a.PNG" target="_blank" download> 🖫</a></span>]
 
-			<a href="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/" target="_blank">[twitter link]</a>
+			<a href="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/" target="_blank">[twitter link</a>
 		
 			<span class="embedlink"> [embed]
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/"></iframe></span></span>
@@ -5485,7 +5500,7 @@
 			<span class="embedlink"> [screencap
 			<span class="quotecontenthovers"><img src="images/mediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span></span>
 			<span class="quotecontentexpand"><img src="images/mediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8194912b.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="savetodisk"><a href="images/mediapics&caps/8194912b.PNG" target="_blank" download> 🖫</a></span>]]
 
 		<br />Here we go again.
 		<br />What happens when billion dollar media co's attack & miss?
@@ -5493,6 +5508,203 @@
 		<br />All for a 'conspiracy'?
 		<br /><font style="color:#008000;">>A public awake is their greatest fear</font>
 		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3878 -->
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3878. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:40:44 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200462" target="_blank">8200462</a></span> <span class="savetodisk"><a href="images/8kun/8200462.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/brogthefrog/status/1230664743406403586" target="_blank">https://twitter.com/brogthefrog/status/1230664743406403586</a></span>
+
+			<span class="embedlink"> [embed]
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="tl" dir="ltr"><a href="https://twitter.com/hashtag/QProof?src=hash&amp;ref_src=twsrc%5Etfw">#QProof</a><br><br>Kash Patel<a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/YsuHC3IJnZ">https://t.co/YsuHC3IJnZ</a> <a href="https://t.co/iFpF1HoMb9">pic.twitter.com/iFpF1HoMb9</a></p>&mdash; NowC@mesTHEP@in (@brogthefrog) <a href="https://twitter.com/brogthefrog/status/1230664743406403586?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="tl" dir="ltr"><a href="https://twitter.com/hashtag/QProof?src=hash&amp;ref_src=twsrc%5Etfw">#QProof</a><br><br>Kash Patel<a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/YsuHC3IJnZ">https://t.co/YsuHC3IJnZ</a> <a href="https://t.co/iFpF1HoMb9">pic.twitter.com/iFpF1HoMb9</a></p>&mdash; NowC@mesTHEP@in (@brogthefrog) <a href="https://twitter.com/brogthefrog/status/1230664743406403586?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8200462a.PNG" target="_blank" download> 🖫</a></span>]
+
+			<span class="twitterembed"><a href="https://twitter.com/NatashaBertrand/status/1230660042812219393" target="_blank">[tweeted tweet</a></span>
+
+			<span class="embedlink"> [embed]
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking now: Kash Patel, a former NSC official who also played a key role as a Hill staffer in helping GOP discredit the Russia probe, is now a senior adviser for new acting DNI Richard Grenell, according to 4 people familiar with the matter. <a href="https://twitter.com/dlippman?ref_src=twsrc%5Etfw">@dlippman</a> <a href="https://t.co/PUb3V8iFoU">https://t.co/PUb3V8iFoU</a></p>&mdash; Natasha Bertrand (@NatashaBertrand) <a href="https://twitter.com/NatashaBertrand/status/1230660042812219393?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking now: Kash Patel, a former NSC official who also played a key role as a Hill staffer in helping GOP discredit the Russia probe, is now a senior adviser for new acting DNI Richard Grenell, according to 4 people familiar with the matter. <a href="https://twitter.com/dlippman?ref_src=twsrc%5Etfw">@dlippman</a> <a href="https://t.co/PUb3V8iFoU">https://t.co/PUb3V8iFoU</a></p>&mdash; Natasha Bertrand (@NatashaBertrand) <a href="https://twitter.com/NatashaBertrand/status/1230660042812219393?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8200462b.PNG" target="_blank" download> 🖫</a></span>]]
+
+			<a href="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546" target="_blank">[tweeted link</a>
+
+			<span class="embedlink"> [embed]
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8200462c.PNG" target="_blank" download> 🖫</a></span>]]
+
+		<br />The puzzle is coming together.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3879 -->
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3879. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:47:48 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200590" target="_blank">8200590</a></span> <span class="savetodisk"><a href="images/8kun/8200590.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+	
+			<span class="quotelink"><span class="linknumber">>>8200492</span>
+				<span class="quotecontenthovers">
+	
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+						<br />
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+							<span class="postfiles">
+								<span class="file1">
+									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
+								</span>
+							</span>
+							<span class="posttext" style="display:block; float:left;">
+								<font style="color:red; text-decoration:underline;">>>8200462</font>
+								<br />Baker already noted Q.
+								<br />Missed heaps of other shit but got this
+							</span>
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+				</span>
+			</span>
+			<span class="quotecontentexpand">
+	
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+						<br />
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+							<span class="postfiles">
+								<span class="file1">
+									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
+								</span>
+							</span>
+							<span class="posttext" style="display:block; float:left;">
+								<font style="color:red; text-decoration:underline;">>>8200462</font>
+								<br />Baker already noted Q.
+								<br />Missed heaps of other shit but got this
+							</span>
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+			</span>		
+		
+		<br />Primary purpose of referencing 'Twitter' accounts?
+		<br />TOGETHER you are invincible. 
+		<br />CONNECTED.
+		<br />UNITED.
+		<br />WWG1WGA!!!
+		<br />The puzzle is coming together.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3880 -->
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3880. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:59:58 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200814" target="_blank">8200814</a></span> <span class="savetodisk"><a href="images/8kun/8200814.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+	
+			<span class="quotelink"><span class="linknumber">>>8200718</span>
+				<span class="quotecontenthovers">
+	
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+						<br />
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+
+							<font style="color:red; text-decoration:underline;">>>8200590</font>
+							<br />They fear an awake public. Each Q Proof proves our strength too. Thank you, Q and Q+!
+
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+				</span>
+			</span>
+			<span class="quotecontentexpand">
+	
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
+						<br />
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+
+							<font style="color:red; text-decoration:underline;">>>8200590</font>
+							<br />They fear an awake public. Each Q Proof proves our strength too. Thank you, Q and Q+!
+
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+			</span>		
+		
+		<br />You have come far, Anons (Patriots).
+		<br />You are ready.
+		<br /><a href="https://www.youtube.com/watch?v=B5T7Gr5oJbM" target="_blank">https://www.youtube.com/watch?v=B5T7Gr5oJbM</a>
+
+		<span class="embedlink"> [embed]
+		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/B5T7Gr5oJbM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/B5T7Gr5oJbM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+	
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/mediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span></span>
+		<span class="quotecontentexpand"><img src="images/mediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span>
+				 <span class="savetodisk"><a href="images/mediapics&caps/8200814a.PNG" target="_blank" download> 🖫</a></span>]
+					 
+		<span class="embedlink"> [local
+		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+												<span class="savetodisk"><a href="videos/8kun/8200814b.mp4" target="_blank" download> 🖫</a></span>]
+
+		<br />Prepare for the storm.
+		<br />Q
+		<br />
 	</span>
 	<br />
 	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
