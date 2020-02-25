@@ -38,7 +38,7 @@ Q Archives: <a href="https://www.qmap.pub/" target="_blank">qmap.pub</a> |
 </b></p>
 
 <p class="pqlinks"><b>
-Q Spreadsheet:<a href="https://docs.google.com/spreadsheets/d/1Efm2AcuMJ7whuuB6T7ouOIwrE_9S-1vDJLAXIVPZU2g/" target="_blank">Google docs spreadsheet</a> / <a href="the_storm_is_here.html" target="_blank">In-situ spreadsheet mirror</a>
+Q Spreadsheet: <a href="https://docs.google.com/spreadsheets/d/1Efm2AcuMJ7whuuB6T7ouOIwrE_9S-1vDJLAXIVPZU2g/" target="_blank">Google docs spreadsheet</a> / <a href="the_storm_is_here.html" target="_blank">In-situ spreadsheet mirror</a>
  | 
 Q Caps: 
 		<span class="sqlinks">postimg.cc
@@ -79,7 +79,7 @@ Imp. Follow-ups:
 </b></p>
 
 <p class="pqlinks"><b>
-Q Proofs:
+Q Proofs: 
 <a href="https://www.qproofs.com/" target="_blank">qproofs.com</a> , 
 <a href="http://www.qanonproofs.com/" target="_blank">qanonproofs.com</a> , 
 <a href="https://mega.nz/#F!afISyCoY!6N1lY_fcYFOz4OQpT82p2w" target="_blank">Book of Q Proofs</a> | 
@@ -87,7 +87,7 @@ Q Proofs:
 </b></p>
 
 <p class="pqlinks"><b>
-POTUS DJT Twitter:
+POTUS DJT Twitter: 
 <a href="https://twitter.com/POTUS" target="_blank">POTUS</a> | 
 <a href="https://twitter.com/realDonaldTrump" target="_blank">Donald Trump</a> | 
 <a href="https://trumptwitterarchive.com" target="_blank">Trump Twitter archive</a> | 

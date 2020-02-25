@@ -11,10 +11,11 @@
 <hr />
 
 <!-- 1 -->
+<span id="q1"></span>
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. </span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 16:44:28 </span><span class="postID" style="color:white; background-color: #BA73FF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank">147012719</a></span> <span class="savetodisk"><a href="images/4pol/147012719.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 16:44:28 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank">147012719</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147012719.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -24,7 +25,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 					<br />
-					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 15:33:50 </span><span class="postID" style="color:white; background-color: #B873FF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/147005381.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 15:33:50 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147005381.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 		
@@ -43,7 +44,7 @@
 			<span class="quotedpost">
 				<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 				<br />
-				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 15:33:50 </span><span class="postID" style="color:white; background-color: #B873FF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/147005381.PNG" download>🖫</a></span></span>
+				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 15:33:50 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147005381.PNG" download>🖫</a></span></span>
 				<br />
 				<span class="postcontent">
 				
@@ -54,11 +55,11 @@
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
-				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
+				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
+				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
 			</span>
 		</span>
-		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 11:36:31 </span><span class="postID" style="color:white; background-color: #BA73FF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/146981635.PNG" download>🖫</a></span></span>
+		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 11:36:31 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/146981635.PNG" download>🖫</a></span></span>
 		<br />
 		<span class="posttext">
 			Why are all the Fox anchors smiling.
@@ -77,11 +78,11 @@
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
-				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
+				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
+				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
 			</span>
 		</span>
-		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 11:36:31 </span><span class="postID" style="color:white; background-color: #BA73FF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/146981635.PNG" download>🖫</a></span></span>
+		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 11:36:31 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/146981635.PNG" download>🖫</a></span></span>
 		<br />
 		<span class="posttext">
 			Why are all the Fox anchors smiling.
@@ -109,10 +110,11 @@
 <br />
 
 <!-- 2 -->
+<span id="q2"></span>
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. </span><span class="qname">Anonymous</span><span>&nbsp;28 Oct 2017 (Sat) 18:15:48 </span><span class="postID" style="color:white; background-color: #BA73FF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank">147023341</a></span> <span class="savetodisk"><a href="images/4pol/147023341.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 18:15:48 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank">147023341</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147023341.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Mockingbird.
@@ -145,10 +147,11 @@
 <br />
 
 <!-- 3 -->
+<span id="q3"></span>
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. </span><span class="qname">Anonymous</span><span>&nbsp;29 Oct 2017 (Sun) 11:47:07 </span><span class="postID" style="color:white; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147104628" target="_blank">147104628</a></span> <span class="savetodisk"><a href="images/4pol/147104628.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 11:47:07 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147104628" target="_blank">147104628</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147104628.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Open your eyes.
@@ -175,10 +178,11 @@
 <br />
 
 <!-- 4 -->
+<span id="q4"></span>
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. </span><span class="qname">Anonymous</span><span>&nbsp;29 Oct 2017 (Sun) 12:11:40 </span><span class="postID" style="color:white; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147106598" target="_blank">147106598</a></span> <span class="savetodisk"><a href="images/4pol/147106598.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 12:11:40 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147106598" target="_blank">147106598</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147106598.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Some of us come here to drop crumbs, just crumbs.
@@ -198,10 +202,11 @@
 <br />
 
 <!-- 5 -->
+<span id="q5"></span>
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. </span><span class="qname">Anonymous</span><span>&nbsp;29 Oct 2017 (Sun) 12:47:18 </span><span class="postID" style="color:white; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147109593" target="_blank">147109593</a></span> <span class="savetodisk"><a href="images/4pol/147109593.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 12:47:18 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147109593" target="_blank">147109593</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147109593.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Follow the money, it’s the key.
@@ -222,233 +227,1144 @@
 </span>
 <br />
 
-<div         ><hr /><b>   6. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147166292" target="_blank"><img src="images/4pol/147166292.PNG" /></a></div>
-<div         ><hr /><b>   7. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147167304" target="_blank"><img src="images/4pol/147167304.PNG" /></a></div>
-<div         ><hr /><b>   8. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147169329" target="_blank"><img src="images/4pol/147169329.PNG" /></a></div>
-<div         ><hr /><b>   9. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147170576" target="_blank"><img src="images/4pol/147170576.PNG" /></a></div>
-<div         ><hr /><b>  10. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147173287" target="_blank"><img src="images/4pol/147173287.PNG" /></a></div>
-<div         ><hr /><b>  11. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147175452" target="_blank"><img src="images/4pol/147175452.PNG" /></a></div>
-<div         ><hr /><b>  12. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147181191" target="_blank"><img src="images/4pol/147181191.PNG" /></a></div>
-<div         ><hr /><b>  13. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147146601/#147181801" target="_blank"><img src="images/4pol/147181801.PNG" /></a></div>
-<div         ><hr /><b>  14. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147433975" target="_blank"><img src="images/4pol/147433975.PNG" /></a></div>
-<div         ><hr /><b>  15. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147434025" target="_blank"><img src="images/4pol/147434025.PNG" /></a></div>
-<div         ><hr /><b>  16. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147437247" target="_blank"><img src="images/4pol/147437247.PNG" /></a></div>
-<div         ><hr /><b>  17. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147440171" target="_blank"><img src="images/4pol/147440171.PNG" /></a></div>
-<div         ><hr /><b>  18. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147441378" target="_blank"><img src="images/4pol/147441378.PNG" /></a></div>
-<div         ><hr /><b>  19. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147443190" target="_blank"><img src="images/4pol/147443190.PNG" /></a></div>
-<div         ><hr /><b>  20. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147444335" target="_blank"><img src="images/4pol/147444335.PNG" /></a></div>
-<div         ><hr /><b>  21. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147444934" target="_blank"><img src="images/4pol/147444934.PNG" /></a></div>
-<div         ><hr /><b>  22. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147445681" target="_blank"><img src="images/4pol/147445681.PNG" /></a></div>
-<div         ><hr /><b>  23. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147446992" target="_blank"><img src="images/4pol/147446992.PNG" /></a></div>
-<div         ><hr /><b>  24. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147448408" target="_blank"><img src="images/4pol/147448408.PNG" /></a></div>
-<div         ><hr /><b>  25. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147449010" target="_blank"><img src="images/4pol/147449010.PNG" /></a></div>
-<div         ><hr /><b>  26. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147449624" target="_blank"><img src="images/4pol/147449624.PNG" /></a></div>
-<div         ><hr /><b>  27. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147450817" target="_blank"><img src="images/4pol/147450817.PNG" /></a></div>
-<div         ><hr /><b>  28. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147451052" target="_blank"><img src="images/4pol/147451052.PNG" /></a></div>
-<div         ><hr /><b>  29. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147452214" target="_blank"><img src="images/4pol/147452214.PNG" /></a></div>
-<div         ><hr /><b>  30. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147453147" target="_blank"><img src="images/4pol/147453147.PNG" /></a></div>
-<div         ><hr /><b>  31. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147454188" target="_blank"><img src="images/4pol/147454188.PNG" /></a></div>
-<div         ><hr /><b>  32. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147454631" target="_blank"><img src="images/4pol/147454631.PNG" /></a></div>
-<div         ><hr /><b>  33. 4chan /pol/ pre-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/147433975/#147455196" target="_blank"><img src="images/4pol/147455196.PNG" /></a></div>
-<div         ><hr /><b>  34. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147567888" target="_blank"><img src="images/4pol/147567888.PNG" /></a></div>
-<div         ><hr /><b>  35. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147567928" target="_blank"><img src="images/4pol/147567928.PNG" /></a></div>
-<div         ><hr /><b>  36. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147581302" target="_blank"><img src="images/4pol/147581302.PNG" /></a></div>
-<div         ><hr /><b>  37. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147581516" target="_blank"><img src="images/4pol/147581516.PNG" /></a></div>
-<div         ><hr /><b>  38. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147586045" target="_blank"><img src="images/4pol/147586045.PNG" /></a></div>
-<div         ><hr /><b>  39. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147588085" target="_blank"><img src="images/4pol/147588085.PNG" /></a></div>
-<div         ><hr /><b>  40. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147588421" target="_blank"><img src="images/4pol/147588421.PNG" /></a></div>
-<div         ><hr /><b>  41. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147590619" target="_blank"><img src="images/4pol/147590619.PNG" /></a></div>
-<div         ><hr /><b>  42. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147591125" target="_blank"><img src="images/4pol/147591125.PNG" /></a></div>
-<div         ><hr /><b>  43. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147591663" target="_blank"><img src="images/4pol/147591663.PNG" /></a></div>
-<div         ><hr /><b>  44. 4chan /pol/ CBTS General #1      </b><br /><a href="https://archive.4plebs.org/pol/thread/147547939/#147592019" target="_blank"><img src="images/4pol/147592019.PNG" /></a></div>
-<div         ><hr /><b>  45. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147632662" target="_blank"><img src="images/4pol/147632662.PNG" /></a></div>
-<div         ><hr /><b>  46. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147634822" target="_blank"><img src="images/4pol/147634822.PNG" /></a></div>
-<div         ><hr /><b>  47. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147636035" target="_blank"><img src="images/4pol/147636035.PNG" /></a></div>
-<div         ><hr /><b>  48. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147640127" target="_blank"><img src="images/4pol/147640127.PNG" /></a></div>
-<div         ><hr /><b>  49. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147641320" target="_blank"><img src="images/4pol/147641320.PNG" /></a></div>
-<div         ><hr /><b>  50. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147642680" target="_blank"><img src="images/4pol/147642680.PNG" /></a></div>
-<div         ><hr /><b>  51. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147643257" target="_blank"><img src="images/4pol/147643257.PNG" /></a></div>
-<div         ><hr /><b>  52. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147645024" target="_blank"><img src="images/4pol/147645024.PNG" /></a></div>
-<div         ><hr /><b>  53. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646189" target="_blank"><img src="images/4pol/147646189.PNG" /></a></div>
-<div         ><hr /><b>  54. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646606" target="_blank"><img src="images/4pol/147646606.PNG" /></a></div>
-<div         ><hr /><b>  55. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147647154" target="_blank"><img src="images/4pol/147647154.PNG" /></a></div>
-<div         ><hr /><b>  56. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661217" target="_blank"><img src="images/4pol/147661217.PNG" /></a></div>
-<div         ><hr /><b>  57. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661243" target="_blank"><img src="images/4pol/147661243.PNG" /></a></div>
-<div         ><hr /><b>  58. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661332" target="_blank"><img src="images/4pol/147661332.PNG" /></a></div>
-<div         ><hr /><b>  59. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147664082" target="_blank"><img src="images/4pol/147664082.PNG" /></a></div>
-<div         ><hr /><b>  60. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147679416" target="_blank"><img src="images/4pol/147679416.PNG" /></a></div>
-<div         ><hr /><b>  61. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680054" target="_blank"><img src="images/4pol/147680054.PNG" /></a></div>
-<div         ><hr /><b>  62. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680749" target="_blank"><img src="images/4pol/147680749.PNG" /></a></div>
-<div         ><hr /><b>  63. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147681912" target="_blank"><img src="images/4pol/147681912.PNG" /></a></div>
-<div         ><hr /><b>  64. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147683156" target="_blank"><img src="images/4pol/147683156.PNG" /></a></div>
-<div         ><hr /><b>  65. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147687684" target="_blank"><img src="images/4pol/147687684.PNG" /></a></div>
-<div         ><hr /><b>  66. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147689362" target="_blank"><img src="images/4pol/147689362.PNG" /></a></div>
-<div         ><hr /><b>  67. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147816901" target="_blank"><img src="images/4pol/147816901.PNG" /></a></div>
-<div         ><hr /><b>  68. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147817468" target="_blank"><img src="images/4pol/147817468.PNG" /></a></div>
-<div         ><hr /><b>  69. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147819733" target="_blank"><img src="images/4pol/147819733.PNG" /></a></div>
-<div         ><hr /><b>  70. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147975558" target="_blank"><img src="images/4pol/147975558.PNG" /></a></div>
-<div         ><hr /><b>  71. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147979863" target="_blank"><img src="images/4pol/147979863.PNG" /></a></div>
-<div         ><hr /><b>  72. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147981354" target="_blank"><img src="images/4pol/147981354.PNG" /></a></div>
-<div         ><hr /><b>  73. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147986661" target="_blank"><img src="images/4pol/147986661.PNG" /></a></div>
-<div         ><hr /><b>  74. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147987614" target="_blank"><img src="images/4pol/147987614.PNG" /></a></div>
-<div         ><hr /><b>  75. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016618" target="_blank"><img src="images/4pol/148016618.PNG" /></a></div>
-<div         ><hr /><b>  76. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016670" target="_blank"><img src="images/4pol/148016670.PNG" /></a></div>
-<div         ><hr /><b>  77. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016731" target="_blank"><img src="images/4pol/148016731.PNG" /></a></div>
-<div         ><hr /><b>  78. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016769" target="_blank"><img src="images/4pol/148016769.PNG" /></a></div>
-<div         ><hr /><b>  79. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016876" target="_blank"><img src="images/4pol/148016876.PNG" /></a></div>
-<div         ><hr /><b>  80. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019575" target="_blank"><img src="images/4pol/148019575.PNG" /></a></div>
-<div         ><hr /><b>  81. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019905" target="_blank"><img src="images/4pol/148019905.PNG" /></a></div>
-<div         ><hr /><b>  82. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020085" target="_blank"><img src="images/4pol/148020085.PNG" /></a></div>
-<div         ><hr /><b>  83. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020278" target="_blank"><img src="images/4pol/148020278.PNG" /></a></div>
-<div         ><hr /><b>  84. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148021501" target="_blank"><img src="images/4pol/148021501.PNG" /></a></div>
-<div         ><hr /><b>  85. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank"><img src="images/4pol/148027165.PNG" /></a></div>
-<div         ><hr /><b>  86. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank"><img src="images/4pol/148022145.PNG" /></a></div>
-<div         ><hr /><b>  87. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022342" target="_blank"><img src="images/4pol/148022342.PNG" /></a></div>
-<div         ><hr /><b>  88. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148023976" target="_blank"><img src="images/4pol/148023976.PNG" /></a></div>
-<div         ><hr /><b>  89. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029633" target="_blank"><img src="images/4pol/148029633.PNG" /></a></div>
-<div         ><hr /><b>  90. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029962" target="_blank"><img src="images/4pol/148029962.PNG" /></a></div>
-<div         ><hr /><b>  91. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148025825" target="_blank"><img src="images/4pol/148025825.PNG" /></a></div>
-<div         ><hr /><b>  92. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148031295" target="_blank"><img src="images/4pol/148031295.PNG" /></a></div>
-<div         ><hr /><b>  93. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032210" target="_blank"><img src="images/4pol/148032210.PNG" /></a></div>
-<div         ><hr /><b>  94. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032910" target="_blank"><img src="images/4pol/148032910.PNG" /></a></div>
-<div         ><hr /><b>  95. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033178" target="_blank"><img src="images/4pol/148033178.PNG" /></a></div>
-<div         ><hr /><b>  96. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033932" target="_blank"><img src="images/4pol/148033932.PNG" /></a></div>
-<div         ><hr /><b>  97. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139234" target="_blank"><img src="images/4pol/148139234.PNG" /></a></div>
-<div         ><hr /><b>  98. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139484" target="_blank"><img src="images/4pol/148139484.PNG" /></a></div>
-<div         ><hr /><b>  99. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143472" target="_blank"><img src="images/4pol/148143472.PNG" /></a></div>
-<div         ><hr /><b> 100. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143562" target="_blank"><img src="images/4pol/148143562.PNG" /></a></div>
-<div         ><hr /><b> 101. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148148004" target="_blank"><img src="images/4pol/148148004.PNG" /></a></div>
-<div         ><hr /><b> 102. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148149435" target="_blank"><img src="images/4pol/148149435.PNG" /></a></div>
-<div         ><hr /><b> 103. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148152047" target="_blank"><img src="images/4pol/148152047.PNG" /></a></div>
-<div         ><hr /><b> 104. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154137" target="_blank"><img src="images/4pol/148154137.PNG" /></a></div>
-<div         ><hr /><b> 105. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154941" target="_blank"><img src="images/4pol/148154941.PNG" /></a></div>
-<div         ><hr /><b> 106. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155343" target="_blank"><img src="images/4pol/148155343.PNG" /></a></div>
-<div         ><hr /><b> 107. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155609" target="_blank"><img src="images/4pol/148155609.PNG" /></a></div>
-<div         ><hr /><b> 108. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156129" target="_blank"><img src="images/4pol/148156129.PNG" /></a></div>
-<div         ><hr /><b> 109. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156632" target="_blank"><img src="images/4pol/148156632.PNG" /></a></div>
-<div         ><hr /><b> 110. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156937" target="_blank"><img src="images/4pol/148156937.PNG" /></a></div>
-<div         ><hr /><b> 111. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148183670" target="_blank"><img src="images/4pol/148183670.PNG" /></a></div>
-<div         ><hr /><b> 112. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185083" target="_blank"><img src="images/4pol/148185083.PNG" /></a></div>
-<div         ><hr /><b> 113. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185905" target="_blank"><img src="images/4pol/148185905.PNG" /></a></div>
-<div         ><hr /><b> 114. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148186256" target="_blank"><img src="images/4pol/148186256.PNG" /></a></div>
-<div         ><hr /><b> 115. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148189295" target="_blank"><img src="images/4pol/148189295.PNG" /></a></div>
-<div         ><hr /><b> 116. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148286961" target="_blank"><img src="images/4pol/148286961.PNG" /></a></div>
-<div         ><hr /><b> 117. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287184" target="_blank"><img src="images/4pol/148287184.PNG" /></a></div>
-<div         ><hr /><b> 118. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287236" target="_blank"><img src="images/4pol/148287236.PNG" /></a></div>
-<div         ><hr /><b> 119. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287326" target="_blank"><img src="images/4pol/148287326.PNG" /></a></div>
-<div         ><hr /><b> 120. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287396" target="_blank"><img src="images/4pol/148287396.PNG" /></a></div>
-<div         ><hr /><b> 121. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287473" target="_blank"><img src="images/4pol/148287473.PNG" /></a></div>
-<div         ><hr /><b> 122. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287529" target="_blank"><img src="images/4pol/148287529.PNG" /></a></div>
-<div         ><hr /><b> 123. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148289594" target="_blank"><img src="images/4pol/148289594.PNG" /></a></div>
-<div         ><hr /><b> 124. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148452545" target="_blank"><img src="images/4pol/148452545.PNG" /></a></div>
-<div         ><hr /><b> 125. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148453749" target="_blank"><img src="images/4pol/148453749.PNG" /></a></div>
-<div         ><hr /><b> 126. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148455482" target="_blank"><img src="images/4pol/148455482.PNG" /></a></div>
-<div         ><hr /><b> 127. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148457032" target="_blank"><img src="images/4pol/148457032.PNG" /></a></div>
-<div         ><hr /><b> 128. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148779656" target="_blank"><img src="images/4pol/148779656.PNG" /></a></div>
-<div         ><hr /><b> 129. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148781546" target="_blank"><img src="images/4pol/148781546.PNG" /></a></div>
-<div         ><hr /><b> 130. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148782302" target="_blank"><img src="images/4pol/148782302.PNG" /></a></div>
-<div         ><hr /><b> 131. 4chan /pol/ CBTS General #210    </b><br /><a href="https://archive.4plebs.org/pol/thread/148866159/#148871375" target="_blank"><img src="images/4pol/148871375.PNG" /></a></div>
-<div         ><hr /><b> 132. 4chan /pol/ CBTS General #210    </b><br /><a href="https://archive.4plebs.org/pol/thread/148866159/#148872500" target="_blank"><img src="images/4pol/148872500.PNG" /></a></div>
-<div         ><hr /><b> 133. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063235" target="_blank"><img src="images/4pol/149063235.PNG" /></a></div>
-<div         ><hr /><b> 134. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063271" target="_blank"><img src="images/4pol/149063271.PNG" /></a></div>
-<div         ><hr /><b> 135. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063400" target="_blank"><img src="images/4pol/149063400.PNG" /></a></div>
-<div         ><hr /><b> 136. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063442" target="_blank"><img src="images/4pol/149063442.PNG" /></a></div>
-<div         ><hr /><b> 137. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063509" target="_blank"><img src="images/4pol/149063509.PNG" /></a></div>
-<div         ><hr /><b> 138. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063549" target="_blank"><img src="images/4pol/149063549.PNG" /></a></div>
-<div         ><hr /><b> 139. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063582" target="_blank"><img src="images/4pol/149063582.PNG" /></a></div>
-<div         ><hr /><b> 140. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063644" target="_blank"><img src="images/4pol/149063644.PNG" /></a></div>
-<div         ><hr /><b> 141. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149065482" target="_blank"><img src="images/4pol/149065482.PNG" /></a></div>
-<div         ><hr /><b> 142. 4chan /pol/ CBTS General #260    </b><br /><a href="https://archive.4plebs.org/pol/thread/149120562/#149122955" target="_blank"><img src="images/4pol/149122955.PNG" /></a></div>
-<div         ><hr /><b> 143. 4chan /pol/ CBTS General #260    </b><br /><a href="https://archive.4plebs.org/pol/thread/149120562/#149124567" target="_blank"><img src="images/4pol/149124567.PNG" /></a></div>
-<div         ><hr /><b> 144. 4chan /pol/ CBTS General #264    </b><br /><a href="https://archive.4plebs.org/pol/thread/149139896/#149140639" target="_blank"><img src="images/4pol/149140639.PNG" /></a></div>
-<div         ><hr /><b> 145. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151586/#149151705" target="_blank"><img src="images/4pol/149151705.PNG" /></a></div>
-<div         ><hr /><b> 146. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149152383" target="_blank"><img src="images/4pol/149152383.PNG" /></a></div>
-<div         ><hr /><b> 147. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149152902" target="_blank"><img src="images/4pol/149152902.PNG" /></a></div>
-<div         ><hr /><b> 148. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149157229" target="_blank"><img src="images/4pol/149157229.PNG" /></a></div>
-<div         ><hr /><b> 149. 4chan /pol/ CBTS General #267    </b><br /><a href="https://archive.4plebs.org/pol/thread/149158110/#149160361" target="_blank"><img src="images/4pol/149160361.PNG" /></a></div>
-<div         ><hr /><b> 150. 4chan /pol/ CBTS General #306    </b><br /><a href="https://archive.4plebs.org/pol/thread/149260496/#149262582" target="_blank"><img src="images/4pol/149262582.PNG" /></a></div>
-<div         ><hr /><b> 151. 4chan /pol/ CBTS General #329    </b><br /><a href="https://archive.4plebs.org/pol/thread/149397178/#149401052" target="_blank"><img src="images/4pol/149401052.PNG" /></a></div>
-<div         ><hr /><b> 152. 4chan /pol/ CBTS General #329    </b><br /><a href="https://archive.4plebs.org/pol/thread/149397178/#149402892" target="_blank"><img src="images/4pol/149402892.PNG" /></a></div>
-<div         ><hr /><b> 153. 4chan /pol/ CBTS General #339    </b><br /><a href="https://archive.4plebs.org/pol/thread/149463784/#149467638" target="_blank"><img src="images/4pol/149467638.PNG" /></a></div>
-<div         ><hr /><b> 154. 4chan /pol/ CBTS General #339    </b><br /><a href="https://archive.4plebs.org/pol/thread/149463784/#149467690" target="_blank"><img src="images/4pol/149467690.PNG" /></a></div>
-<div         ><hr /><b> 155. 4chan /pol/ CBTS General #343    </b><br /><a href="https://archive.4plebs.org/pol/thread/149485163/#149490950" target="_blank"><img src="images/4pol/149490950.PNG" /></a></div>
-<div         ><hr /><b> 156. 4chan /pol/ CBTS General #415    </b><br /><a href="https://archive.4plebs.org/pol/thread/149920858/#149921023" target="_blank"><img src="images/4pol/149921023.PNG" /></a></div>
-<div         ><hr /><b> 157. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150166904" target="_blank"><img src="images/4pol/150166904.PNG" /></a></div>
-<div         ><hr /><b> 158. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150166936" target="_blank"><img src="images/4pol/150166936.PNG" /></a></div>
-<div         ><hr /><b> 159. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150170117" target="_blank"><img src="images/4pol/150170117.PNG" /></a></div>
-<div         ><hr /><b> 160. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150170181" target="_blank"><img src="images/4pol/150170181.PNG" /></a></div>
-<div         ><hr /><b> 161. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150171298" target="_blank"><img src="images/4pol/150171298.PNG" /></a></div>
-<div         ><hr /><b> 162. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150172069" target="_blank"><img src="images/4pol/150172069.PNG" /></a></div>
-<div         ><hr /><b> 163. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150172817" target="_blank"><img src="images/4pol/150172817.PNG" /></a></div>
-<div         ><hr /><b> 164. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150173114" target="_blank"><img src="images/4pol/150173114.PNG" /></a></div>
-<div         ><hr /><b> 165. 4chan /pol/ CBTS General #441 b  </b><br /><a href="https://archive.4plebs.org/pol/thread/150208420/#150212477" target="_blank"><img src="images/4pol/150212477.PNG" /></a></div>
-<div         ><hr /><b> 166. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214269" target="_blank"><img src="images/4pol/150214269.PNG" /></a></div>
-<div         ><hr /><b> 167. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214731" target="_blank"><img src="images/4pol/150214731.PNG" /></a></div>
-<div         ><hr /><b> 168. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214824" target="_blank"><img src="images/4pol/150214824.PNG" /></a></div>
-<div         ><hr /><b> 169. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150215418" target="_blank"><img src="images/4pol/150215418.PNG" /></a></div>
-<div         ><hr /><b> 170. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150215871" target="_blank"><img src="images/4pol/150215871.PNG" /></a></div>
-<div         ><hr /><b> 171. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150245340/#150254865" target="_blank"><img src="images/4pol/150254865.PNG" /></a></div>
-<div         ><hr /><b> 172. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150254958/#150257424" target="_blank"><img src="images/4pol/150257424.PNG" /></a></div>
-<div         ><hr /><b> 173. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150222458/#150257653" target="_blank"><img src="images/4pol/150257653.PNG" /></a></div>
-<div         ><hr /><b> 174. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150260054/#150260900" target="_blank"><img src="images/4pol/150260900.PNG" /></a></div>
-<div         ><hr /><b> 175. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150388962" target="_blank"><img src="images/4pol/150388962.PNG" /></a></div>
-<div         ><hr /><b> 176. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150391223" target="_blank"><img src="images/4pol/150391223.PNG" /></a></div>
-<div         ><hr /><b> 177. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150393065" target="_blank"><img src="images/4pol/150393065.PNG" /></a></div>
-<div         ><hr /><b> 178. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150395774" target="_blank"><img src="images/4pol/150395774.PNG" /></a></div>
-<div         ><hr /><b> 179. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150400112" target="_blank"><img src="images/4pol/150400112.PNG" /></a></div>
-<div         ><hr /><b> 180. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150400638" target="_blank"><img src="images/4pol/150400638.PNG" /></a></div>
-<div         ><hr /><b> 181. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150405959" target="_blank"><img src="images/4pol/150405959.PNG" /></a></div>
-<div         ><hr /><b> 182. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150406974" target="_blank"><img src="images/4pol/150406974.PNG" /></a></div>
-<div         ><hr /><b> 183. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150407593" target="_blank"><img src="images/4pol/150407593.PNG" /></a></div>
-<div         ><hr /><b> 184. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412315" target="_blank"><img src="images/4pol/150412315.PNG" /></a></div>
-<div         ><hr /><b> 185. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412500" target="_blank"><img src="images/4pol/150412500.PNG" /></a></div>
-<div         ><hr /><b> 186. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412717" target="_blank"><img src="images/4pol/150412717.PNG" /></a></div>
-<div         ><hr /><b> 187. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150417001" target="_blank"><img src="images/4pol/150417001.PNG" /></a></div>
-<div         ><hr /><b> 188. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150417146" target="_blank"><img src="images/4pol/150417146.PNG" /></a></div>
-<div         ><hr /><b> 189. 4chan /pol/ CBTS General #481    </b><br /><a href="https://archive.4plebs.org/pol/thread/150423953/#150424047" target="_blank"><img src="images/4pol/150424047.PNG" /></a></div>
-<div         ><hr /><b> 190. 4chan /pol/ CBTS General #482    </b><br /><a href="https://archive.4plebs.org/pol/thread/150428011/#150433983" target="_blank"><img src="images/4pol/150433983.PNG" /></a></div>
-<div         ><hr /><b> 191. 4chan /pol/ CBTS General #482    </b><br /><a href="https://archive.4plebs.org/pol/thread/150428011/#150434351" target="_blank"><img src="images/4pol/150434351.PNG" /></a></div>
-<div         ><hr /><b> 192. 4chan /pol/ CBTS General #483    </b><br /><a href="https://archive.4plebs.org/pol/thread/150434009/#150435422" target="_blank"><img src="images/4pol/150435422.PNG" /></a></div>
-<div         ><hr /><b> 193. 4chan /pol/ CBTS General #492    </b><br /><a href="https://archive.4plebs.org/pol/thread/150481862/#150486603" target="_blank"><img src="images/4pol/150486603.PNG" /></a></div>
-<div         ><hr /><b> 194. 4chan /pol/ CBTS General #497    </b><br /><a href="https://archive.4plebs.org/pol/thread/150511300/#150512900" target="_blank"><img src="images/4pol/150512900.PNG" /></a></div>
-<div         ><hr /><b> 195. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150513545" target="_blank"><img src="images/4pol/150513545.PNG" /></a></div>
-<div         ><hr /><b> 196. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150513895" target="_blank"><img src="images/4pol/150513895.PNG" /></a></div>
-<div         ><hr /><b> 197. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150515203" target="_blank"><img src="images/4pol/150515203.PNG" /></a></div>
-<div         ><hr /><b> 198. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150515835" target="_blank"><img src="images/4pol/150515835.PNG" /></a></div>
-<div         ><hr /><b> 199. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150517837" target="_blank"><img src="images/4pol/150517837.PNG" /></a></div>
-<div         ><hr /><b> 200. 4chan /pol/ CBTS General #498    </b><br /><a href="https://archive.4plebs.org/pol/thread/150520974/#150522442" target="_blank"><img src="images/4pol/150522442.PNG" /></a></div>
-<div         ><hr /><b> 201. 4chan /pol/ CBTS General #498    </b><br /><a href="https://archive.4plebs.org/pol/thread/150520974/#150523420" target="_blank"><img src="images/4pol/150523420.PNG" /></a></div>
-<div         ><hr /><b> 202. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559154" target="_blank"><img src="images/4pol/150559154.PNG" /></a></div>
-<div         ><hr /><b> 203. 4chan /pol/ CBTS General #502    </b><br /><a href="https://archive.4plebs.org/pol/thread/150543934/#150559269" target="_blank"><img src="images/4pol/150559269.PNG" /></a></div>
-<div         ><hr /><b> 204. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559381" target="_blank"><img src="images/4pol/150559381.PNG" /></a></div>
-<div         ><hr /><b> 205. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559818" target="_blank"><img src="images/4pol/150559818.PNG" /></a></div>
-<div         ><hr /><b> 206. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150559618/#150560899" target="_blank"><img src="images/4pol/150560899.PNG" /></a></div>
-<div         ><hr /><b> 207. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150561736" target="_blank"><img src="images/4pol/150561736.PNG" /></a></div>
-<div         ><hr /><b> 208. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562337" target="_blank"><img src="images/4pol/150562337.PNG" /></a></div>
-<div         ><hr /><b> 209. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562694" target="_blank"><img src="images/4pol/150562694.PNG" /></a></div>
-<div         ><hr /><b> 210. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562920" target="_blank"><img src="images/4pol/150562920.PNG" /></a></div>
-<div         ><hr /><b> 211. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150563217" target="_blank"><img src="images/4pol/150563217.PNG" /></a></div>
-<div         ><hr /><b> 212. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150565108" target="_blank"><img src="images/4pol/150565108.PNG" /></a></div>
-<div         ><hr /><b> 213. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150565710" target="_blank"><img src="images/4pol/150565710.PNG" /></a></div>
-<div         ><hr /><b> 214. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150567199" target="_blank"><img src="images/4pol/150567199.PNG" /></a></div>
-<div         ><hr /><b> 215. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150567655" target="_blank"><img src="images/4pol/150567655.PNG" /></a></div>
-<div         ><hr /><b> 216. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150569482" target="_blank"><img src="images/4pol/150569482.PNG" /></a></div>
-<div         ><hr /><b> 217. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150569779" target="_blank"><img src="images/4pol/150569779.PNG" /></a></div>
-<div         ><hr /><b> 218. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150570023" target="_blank"><img src="images/4pol/150570023.PNG" /></a></div>
-<div         ><hr /><b> 219. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150679159" target="_blank"><img src="images/4pol/150679159.PNG" /></a></div>
-<div         ><hr /><b> 220. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150681065" target="_blank"><img src="images/4pol/150681065.PNG" /></a></div>
-<div         ><hr /><b> 221. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150681832" target="_blank"><img src="images/4pol/150681832.PNG" /></a></div>
-<div         ><hr /><b> 222. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150682686" target="_blank"><img src="images/4pol/150682686.PNG" /></a></div>
-<div         ><hr /><b> 223. 4chan /pol/ CBTS General #523    </b><br /><a href="https://archive.4plebs.org/pol/thread/150683692/#150686780" target="_blank"><img src="images/4pol/150686780.PNG" /></a></div>
-<div         ><hr /><b> 224. 4chan /pol/ CBTS General #525    </b><br /><a href="https://archive.4plebs.org/pol/thread/150693391/#150697929" target="_blank"><img src="images/4pol/150697929.PNG" /></a></div>
-<div         ><hr /><b> 225. 4chan /pol/ CBTS General #525    </b><br /><a href="https://archive.4plebs.org/pol/thread/150693391/#150698662" target="_blank"><img src="images/4pol/150698662.PNG" /></a></div>
-<div         ><hr /><b> 226. 4chan /pol/ CBTS General #526    </b><br /><a href="https://archive.4plebs.org/pol/thread/150698668/#150701196" target="_blank"><img src="images/4pol/150701196.PNG" /></a></div>
-<div         ><hr /><b> 227. 4chan /pol/ CBTS General #536    </b><br /><a href="https://archive.4plebs.org/pol/thread/150765366/#150767674" target="_blank"><img src="images/4pol/150767674.PNG" /></a></div>
-<div         ><hr /><b> 228. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150869010" target="_blank"><img src="images/4pol/150869010.PNG" /></a></div>
-<div         ><hr /><b> 229. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150870083" target="_blank"><img src="images/4pol/150870083.PNG" /></a></div>
+<!-- 6 -->
+<span id="q6"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 21:48:50 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147166292" target="_blank">147166292</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147166292.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Some of us come here to drop crumbs, just crumbs.
+		<br />POTUS is 100% insulated - any discussion suggesting he’s even a target is false.
+		<br />Follow Huma tomorrow.
+		<br />POTUS will not be addressing nation on any of these issues as people begin to be indicted and must remain neutral for pure optical reasons. To suggest this is the plan is false and should be common sense.
+		<br />Focus on Military Intelligence/ State Secrets and why might that be used vs any three letter agency
+		<br />What SC decision opened the door for a sitting President to activate - what must be showed?
+		<br />Why is POTUS surrounded by generals ^^
+		<br />Again, there are a lot more good people than bad so have faith. This was a hostile takeover from an evil corrupt network of players (not just Democrats).
+		<br />Don’t fool yourself into thinking Obama, Soros, Roth’s, Clinton’s etc have more power present day than POTUS.
+		<br />Follow the money, it’s the key.
+		<br />What is Pelosi’s net worth by way of one example. Why coincidentally is her memory apparently going?
+		<br />Cover for possible future indictment to plead what?
+		<br />What if John M never had surgery and that was a cover for a future out if needed against prosecution?
+		<br />Why did Soros transfer his bulk public funds to a NP? Note this doesn’t include massive slush funds that are pulled by several high ups.
+		<br />Why did Soros’ son have several meetings with Canadian PM and how is that related to Clinton’s?
+		<br />Why is MS13 a priority?
+		<br />Could people pay such gangs to kill opponents and why / how to insulate against exposure?
+		<br />The truth is mind blowing and cannot fully be exposed. These people are evil.
+		<br />Operation Mockingbird.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 7 -->
+<span id="q7"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 21:58:37 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147167304" target="_blank">147167304</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147167304.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why wasn’t HRC prosecuted for the emails? Put simply, Obama ultimately OK’d by using the non govt email addy to communicate w/ Clinton. Obama also had an alias along with each of his cabinet members. Therefore indicting HRC would lead to indicting Obama & his cabinet etc which could never happen. Remember he lied about knowing but that ultimately came out in the dump. Poof!
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 8 -->
+<span id="q8"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:18:17 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147169329" target="_blank">147169329</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147169329.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Huma
+		<br />Husband in jail.
+		<br />HRC, Muslim Brotherhood, or child?
+		<br />What would you do? Kiss your child goodbye and leave without a mother or father for Clinton?
+		<br />Where is Huma today?
+		<br />Was she with HRC on her book tour?
+		<br />RE: Military Intelligence / State Secrets
+		<br />No FBI
+		<br />POTUS installed his people within each top spot at each 3 letter agency except 1 (good reason there as Adm R kick started this and scrubbed all POTUS nominations to verify oath).
+		<br />Do you think they aren’t in control of those respective agencies?
+		<br />What is most valuable?
+		<br />Information
+		<br />AG Sessions on leakers.
+		<br />Fire or prosecute?
+		<br />Reorg is underway and happening.
+		<br />Coincidence Senate Republicans pushing for Fed Judge confirmations last week?
+		<br />Why are Senate Republicans dropping out? Not by choice and were offered a choice (rest assured they will vote pro Trump).
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 9 -->
+<span id="q9"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:30:26 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147170576" target="_blank">147170576</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147170576.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Projection
+		<br />D’s can’t lose control over the black population.
+		<br />At some point the great awakening will occur whereby these false local / national black leaders are corrupt and paid off to help keep the black pop poor and in need.
+		<br />D’s formed the confederate states against freeing slaves.
+		<br />D’s formed the KKK.
+		<br />HRC’s mentor is who?
+		<br />What happens if the truth about Haiti is released? Do D’s lose majority of the vote?
+		<br />Through the looking glass.
+		<br />They rely on the MSM to keep the narrative going but tech is entrenching on their controls. They missed this in 2016 and desperately attempting to censor now due to CIA cash infusions. This will fail.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 10 -->
+<span id="q10"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;10. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:57:27 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147173287" target="_blank">147173287</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147173287.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Remember, the FBI, and MI, have an open investigation into the CF. Why did Comey drop this? Who was the FBI director during the Haiti crisis? How many kids disappeared? How much money sent to CF under disguise of H relief went to H? What countries donated big money to CF and why? How much was owed by accepting? When she lost how would this be repaid? What did Obama do with cash just prior to leaving office? Repayment to those who donated for favors/access? Dig!!!!!
+		<br />Again, good people were forced into bed with this evil under personal and family threats. Could you live with yourself helping to cover up such evil despicable acts if given a safe way out? These people worship Satan _ some openly show it.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 11 -->
+<span id="q11"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;11. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 23:20:11 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147175452" target="_blank">147175452</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147175452.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Key:
+		<br />Military Intelligence v FBI CIA NSA
+		<br />No approval or congressional oversight
+		<br />State Secrets upheld under SC
+		<br />Who is the Commander and Chief of the military?
+		<br />Under what article can the President impose MI take over investigations for the 3 letter agencies? What conditions must present itself? Why is this so VERY important? Who surrounds POTUS? They lost this very important power _ the one area of the govt not corrupt and directly serves POTUS.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 12 -->
+<span id="q12"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;12. </span><span class="qname">Anonymous</span><span>&nbsp;Mon 30 Oct 2017 00:26:53 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181191" target="_blank">147181191</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181191.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Military Intelligence ref above is the absolute biggest inside drop this board will ever receive.
+		<br />Now think about why Antifa plays right into the plan? Always ahead. Good guys are winning.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 13 -->
+<span id="q13"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;13. </span><span class="qname">Anonymous</span><span>&nbsp;Mon 30 Oct 2017 00:26:53 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181801" target="_blank">147181801</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181801.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Now think about the timing of POTUS traveling to China/SK. I’ve said too much. God bless, Patriots.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 14 -->
+<span id="q14"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;14. </span><span class="subject">Bread Crumbs - Q Clearance Patriot </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:00:15 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147433975" target="_blank">147433975</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147433975.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/4pol/quploads/Patriots.jpg" target="_blank">Patriots.jpg</a></span> <span class="savetodisk"><a href="images/4pol/quploads/Patriots.jpg" download>🖫</a></span><span> (9.78 KB, 339x149, 339:149)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/quploads/Patriots.jpg" alt="Patriots.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/quploads/Patriots.jpg" alt="Patriots.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext" style="display:block; float:left;">
+			SCI[F]
+			<br />Military Intelligence.
+			<br />What is 'State Secrets' and how upheld in the SC?
+			<br />What must be completed to engage MI over other (3) letter agencies?
+			<br />What must occur to allow for civilian trials?
+			<br />Why is this relevant?
+			<br />What was Flynn's background?
+			<br />Why is this relevant?
+			<br />Why did Adm R (NSA) meet Trump privately w/o auth?
+			<br />Does POTUS know where the bodies are buried?
+			<br />Does POTUS have the goods on most bad actors?
+			<br />Was TRUMP asked to run for President?
+			<br />Why?
+			<br />By Who?
+			<br />Was HRC next in line?
+			<br />Was the election suppose to be rigged?
+			<br />Did good people prevent the rigging?
+			<br />Why did POTUS form a panel to investigate?
+			<br />Has POTUS *ever* made a statement that did not become proven as true/fact?
+			<br />What is POTUS in control of?
+			<br />What is the one organization left that isn't corrupt?
+			<br />Why does the military play such a vital role?
+			<br />Why is POTUS surrounded by highly respected generals?
+			<br />Who guards former Presidents?
+			<br />Why is that relevant?
+			<br />Who guards HRC?
+			<br />Why is ANTIFA allowed to operate?
+			<br />Why hasn't the MB been classified as a terrorist org?
+			<br />What happens if Soros funded operations get violent and engage in domestic terrorism?
+			<br />What happens if mayors/ police comms/chiefs do not enforce the law?
+			<br />What authority does POTUS have specifically over the Marines?
+			<br />Why is this important?
+			<br />What is Mueller's background? Military?
+			<br />Was Trump asked to run for President w/ assurances made to prevent tampering?
+			<br />How is POTUS always 5-steps ahead?
+			<br />Who is helping POTUS?
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 15 -->
+<span id="q15"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;15. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:00:47 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147434025" target="_blank">147434025</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147434025.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		There are more good people than bad. The wizards and warlocks (inside term) will not allow another Satanic Evil POS control our country. Realize Soros, Clintons, Obama, Putin, etc. are all controlled by 3 families (the 4th was removed post Trump's victory).
+		<br />11.3 - Podesta indicted
+		<br />11.6 - Huma indicted
+		<br />Manafort was placed into Trump's camp (as well as others). The corruption that will come out is so serious that deals must be cut for people to walk away otherwise 70% of elected politicians would be in jail (you are seeing it already begin). A deep cleaning is occurring and the prevention and defense of pure evil is occurring on a daily basis. They never thought they were going to lose control of the Presidency (not just D's) and thought they had control since making past mistakes (JFK, Reagan).
+		<br />Good speed, Patriots.
+		<br />PS, Soros is targeted.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 16 -->
+<span id="q16"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;16. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:31:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147437247" target="_blank">147437247</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147437247.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Get the popcorn, Friday & Saturday will deliver on the MAGA promise. POTUS knows he must clean house (gov't) in order to 'free up' and demonstrate who has authority in order to pass important legislation. This was always the priority. Remember, AG Sessions cannot look like an impartial player that is out to get all former Obama team members as we need him for other important work. All will come into focus and for anyone to think POTUS is not in control is kidding themselves. Also, he's 100% insulated with zero risk of impeachment (fact).
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 17 -->
+<span id="q17"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;17. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:58:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147440171" target="_blank">147440171</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147440171.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why does Obama travel in advance of POTUS to foreign locations?
+		<br />Why is this relevant?
+		<br />Focus on the power of POTUS as it relates to the Marines.
+		<br />How can MI be applied to prosecute bad actors and avoid corrupt agencies and judges?
+		<br />Biggest drop on Pol.
+		<br />Above is reason why the shills are sliding. In case you didn’t know, shills log and send new info back to ASF for instruction. They use a 5 prong pre packaged injection (one post auto generates four more at random designated times). Common drive of posts they all tap into. Since they misjudged the influence of the MSM they are aggressively looking to censor throughout major platforms in exchange for CIA slush funds and WW access for expansion of said networks. Everything they do has been forecasted and prepared for.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 18 -->
+<span id="q18"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;18. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:31:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147441378" target="_blank">147441378</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147441378.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why did Mueller meet POTUS 1-day prior to FBI announcement if Mueller COULD NOT be offered director due to prev term limits rule?
+		<br />Why is Pelosi begging for a new special counsel?
+		<br />What is Pelosi’s net worth?
+		<br />How was this obtained given salary as career official?
+		<br />Why is Pelosi’s memory going?
+		<br />Could it protect against prosecution?
+		<br />How so?
+		<br />What if John M’s surgery was fake?
+		<br />Why would this occur?
+		<br />What could this prevent potentially?
+		<br />What is the Mayo Clinic?
+		<br />Who sits on the BOD there?
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 19 -->
+<span id="q19"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;19. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:29:28 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147443190" target="_blank">147443190</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147443190.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why do D’s want to control the black pop?
+		<br />Why do they intentionally keep poor and in need?
+		<br />Why do D’s project racism on a daily basis against R’s?
+		<br />Why do black elected officials do the crazy talk on behalf of D’s?
+		<br />How do D’s cover the historical facts of forming the confederacy, KKK, and oppose all things pro black re: legislation?
+		<br />What happens if D’s lose the slave grip on the black pop?
+		<br />Why do D’s, through the funding of the CIA, prop up and install Hollywood/media assets?
+		<br />Does this fall within Operation Mockingbird?
+		<br />What were the historical advantages D’s gained by having MSM and famous people peddling narrative?
+		<br />Who exposed the pedo network within H wood?
+		<br />You can’t answer the above but will laugh once disclose details.
+		<br />The network which controls this false narrative which in turns keeps the black pop under control is being dismantled.
+		<br />False local and national black leaders will be exposed next as shills for the D party.
+		<br />Follow the money.
+		<br />Maxine W has a $4mm home and cash assets in excess of $6mm.
+		<br />How is that possible? One example.
+		<br />All of these questions help to paint the full picture.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 20 -->
+<span id="q20"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;20. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:42:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444335" target="_blank">147444335</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444335.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Who did POTUS meet with yesterday?
+		<br />Was AG Sessions there?
+		<br />How many MI generals were on the WH list to attend a separate meeting?
+		<br />Could those meetings have been combined?
+		<br />Why were certain rooms in the WH renovated?
+		<br />Where was the meeting on Monday?
+		<br />Why aren’t phones allowed in this room (one of many).
+		<br />What firm was contracted to conduct the renovations?
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 21 -->
+<span id="q21"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;21. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:48:20 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444934" target="_blank">147444934</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444934.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		I’ve dumped some crumbs like this over the weekend which started the intense shilling. At this point we are far enough along you can paint the picture without risk of jeopardizing the operation.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 22 -->
+<span id="q22"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;22. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:57:15 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147445681" target="_blank">147445681</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147445681.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Who controls the NG?
+		<br />Why was the NG recently activated in select cities within the US?
+		<br />Can the NG work in coordination w/ the marines?
+		<br />Do conditions need to be satisfied to authorize?
+		<br />What former President used the military to save the republic and what occurred exactly?
+		<br />Biggest drop to ever be provided on Pol. Study and prepare. The masses tend to panic in such situations. No war. No civil unrest. Clean and swift.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 23 -->
+<span id="q23"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;23. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:11:52 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147446992" target="_blank">147446992</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147446992.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Note MI has the same SAPs as NSA, CIA etc as designated post 9-11.
+		<br />Why is this relevant?
+		<br />Who can be held hostage and controlled?
+		<br />CIA thinks its foreign offshore assets are strong enough to defend against the US executive (not accounting for military use on domestic soil).
+		<br />Why does the Constitution explicitly grant this authority to the President and what is it to prevent?
+		<br />They knew our agencies would grow in power so much so they could/can hold the executive hostage or engage with bad actors.
+		<br />Trump nominated someone new to direct every agency but one. He controls the top.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 24 -->
+<span id="q24"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;24. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:27:03 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147448408" target="_blank">147448408</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147448408.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Any person making statements they will not be seeking re-election was put in submission. For the betterment of the country not all will be prosecuted and all will do as told. You will see more of this occur (not normal yet disregarded) and even on the D side.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 25 -->
+<span id="q25"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;25. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:34:11 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449010" target="_blank">147449010</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449010.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Follow up to last post.
+		<br />Return to comments re: Pelosi and John M (some of us refuse to say his last name for a reason).
+		<br />This all has meaning - everything stated. Big picture stuff - few positions allow for this direct knowledge.
+		<br />
+		<br />Proof to begin 11.3.
+		<br />We all sincerely appreciate the work you do. Keep up the good fight. The flow of information is vital.
+		<br />God bless.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 26 -->
+<span id="q26"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;26. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:41:54 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449624" target="_blank">147449624</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449624.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Think about it logically.
+		<br />The only way is the military. Fully controlled. Save & spread (once 11.3 verifies as 1st marker).
+		<br />Biggest advanced drop on Pol.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 27 -->
+<span id="q27"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;27. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:56:06 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450817" target="_blank">147450817</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147450817.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Not everything can be publicly disclosed because so much ties back to foreign heads of state. Much will be revealed, we want transparency but not at a cost we can’t recover from.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 28 -->
+<span id="q28"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;28. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:59:01 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147451052" target="_blank">147451052</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147451052.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>147450119</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:48:01 </span><span class="postID" style="color:black; background-color: #DEC4DB">ID: dugFL8Fh</span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+				
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/Spy.png" target="_blank">Spy.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/Spy.png" download>🖫</a></span><span> (4 KB, 600x300, 600:300)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>147441102</font>
+							<br /><font style="color:#008000;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br />During the 1950s and 60s, federal troops and federalized National
+							<br />Guard forces, accompanied by military intelligence personnel, were
+							<br />deployed to help integrate Southern schools23 and to help deal with
+							<br />civil disorders in Detroit in 1967 and other cities the following year
+							<br />after the assassination of Dr. Martin Luther King Jr.24 Throughout
+							<br />this period military intelligence units also continued to collect data on
+							<br />Americans at home who were suspected of involvement in subversive
+							<br />activities.25 In the late 1960s, the Pentagon compiled personal
+							<br />information on more than 100,000 politically active Americans in an
+							<br />effort to quell civil rights and anti-Vietnam War demonstrations and
+							<br />to discredit protestors.26 The Army used 1,500 plainclothes agents to
+							<br />watch demonstrations, infiltrate organizations, and spread
+							<br />disinformation. 2
+							<br />' According to one report, the Army had at least one
+							<br />observer at every demonstration of more than twenty people.28
+							<br />The Army's activities were summed up by Senator Sam Ervin:
+							<br />Allegedly for the purpose of predicting and preventing
+							<br />civil disturbances which might develop beyond the control of
+							<br />state and local officials, Army agents were sent throughout
+							<br />the country to keep surveillance over the way the civilian
+							<br />population expressed their sentiments about government
+							<br />policies. In churches, on campuses, in classrooms, in public
+							<br />meetings, they took notes, tape-recorded, and photographed
+							<br />people who dissented in thought, word, or deed. This included clergymen, editors, public officials, and anyone who
+							<br />sympathized with the dissenters.
+							<br />
+							<br /><a href="http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev" target="_blank">http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev</a>
+
+								<span class="embedlink"> [embed]
+								<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span></span>
+								<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span>
+
+								<span class="embedlink"> [screencap
+								<span class="quotecontenthovers"><img src="images/4pol/anonmediapics&caps/147450119a.PNG" alt="The Role of Military Intelligence in Homeland Security.pdf" /></span></span>
+								<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/147450119a.PNG" alt="The Role of Military Intelligence in Homeland Security.pdf" /></span>
+										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
+
+							<br />
+							<br /><font style="color:#008000;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br />
+							<br />Always 5 steps ahead!
+							<br />
+							<br />Please be true.
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:48:01 </span><span class="postID" style="color:black; background-color: #DEC4DB">ID: dugFL8Fh</span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+				
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/Spy.png" target="_blank">Spy.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/Spy.png" download>🖫</a></span><span> (4 KB, 600x300, 600:300)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>147441102</font>
+							<br /><font style="color:#008000;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br />During the 1950s and 60s, federal troops and federalized National
+							<br />Guard forces, accompanied by military intelligence personnel, were
+							<br />deployed to help integrate Southern schools23 and to help deal with
+							<br />civil disorders in Detroit in 1967 and other cities the following year
+							<br />after the assassination of Dr. Martin Luther King Jr.24 Throughout
+							<br />this period military intelligence units also continued to collect data on
+							<br />Americans at home who were suspected of involvement in subversive
+							<br />activities.25 In the late 1960s, the Pentagon compiled personal
+							<br />information on more than 100,000 politically active Americans in an
+							<br />effort to quell civil rights and anti-Vietnam War demonstrations and
+							<br />to discredit protestors.26 The Army used 1,500 plainclothes agents to
+							<br />watch demonstrations, infiltrate organizations, and spread
+							<br />disinformation. 2
+							<br />' According to one report, the Army had at least one
+							<br />observer at every demonstration of more than twenty people.28
+							<br />The Army's activities were summed up by Senator Sam Ervin:
+							<br />Allegedly for the purpose of predicting and preventing
+							<br />civil disturbances which might develop beyond the control of
+							<br />state and local officials, Army agents were sent throughout
+							<br />the country to keep surveillance over the way the civilian
+							<br />population expressed their sentiments about government
+							<br />policies. In churches, on campuses, in classrooms, in public
+							<br />meetings, they took notes, tape-recorded, and photographed
+							<br />people who dissented in thought, word, or deed. This included clergymen, editors, public officials, and anyone who
+							<br />sympathized with the dissenters.
+							<br />
+							<br /><a href="http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev" target="_blank">http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev</a>
+
+								<span class="embedlink"> [embed]
+								<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span></span>
+								<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span>
+
+								<span class="embedlink"> [screencap
+								<span class="quotecontenthovers"><img src="images/4pol/anonmediapics&caps/147450119a.PNG" alt="The Role of Military Intelligence in Homeland Security.pdf" /></span></span>
+								<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/147450119a.PNG" alt="The Role of Military Intelligence in Homeland Security.pdf" /></span>
+										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
+
+							<br />
+							<br /><font style="color:#008000;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br />
+							<br />Always 5 steps ahead!
+							<br />
+							<br />Please be true.
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Well done. Picture being painted.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 29 -->
+<span id="q29"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;29. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:13:10 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147452214" target="_blank">147452214</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147452214.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Some things must remain classified to the very end. NK is not being run by Kim, he’s an actor in the play. Who is the director? The truth would sound so outrageous most Americans would riot, revolt, reject, etc.
+		<br />The pedo networks are being dismantled.
+		<br />The child abductions for satanic rituals (ie Haiti and other 3rd world countries) are paused (not terminated until players in custody).
+		<br />We pray every single day for God’s guidance and direction as we are truly up against pure evil.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 30 -->
+<span id="q30"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;30. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:25:22 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147453147" target="_blank">147453147</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147453147.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Would you believe a device was placed somewhere in the WH that could actually cause harm to anyone in the room and would in essence be undetected?
+		<br />Fantasy right?
+		<br />When Trump was elected you can’t possibly imagine the steps taken prior to losing power to ensure future safety & control.
+		<br />When was it reported Trump Jr dropped his SS detail?
+		<br />Why would he take that huge risk given what we know?
+		<br />I can hint and point but cannot give too many highly classified data points.
+		<br />These keywords and questions are framed to reduce sniffer programs that continually absorb and analyze data then pushed to z terminals for eval. Think xkeysc on steroids.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 31 -->
+<span id="q31"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;31. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:38:23 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454188" target="_blank">147454188</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454188.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		World stalemate.
+		<br />We all have the goods on everyone else.
+		<br />That’s part of the reason why some things that tie back to foreign heads of state will remain classified (not all).
+		<br />We are in one of the most critical times of our country. Trump and others are working to balance the we’re doing well for America (for the common person to endorse) while at the same time purify our govt and remove the bad actors who are entrenched. There is so much string pulling and blackmail that we need to cut these off to truly gain the power granted to us by the Patriots and hard working people of this great country.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 32 -->
+<span id="q32"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;32. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:44:10 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454631" target="_blank">147454631</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454631.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Maybe one day but it cannot go slow. The initial wave will be fast and meaningful. It will send a signal to others immediately and you’ll see the tide turn (not even the MSM can hide and rest assured some will be jailed as deep cover agents).
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 33 -->
+<span id="q33"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;33. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:51:49 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147455196" target="_blank">147455196</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147455196.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		I’m hopeful my time spent here was not wasted.
+		<br />Note few if any shills inside this thread. Reason for that. It’s being monitored, recorded, and analyzed and don’t want the clutter.
+		<br />Take good care. God bless.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 34 -->
+<span id="q34"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;34. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 22:56:16 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567888" target="_blank">147567888</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567888.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Q Clearance Patriot
+		<br />
+		<br />My fellow Americans, over the course of the next several days you will undoubtedly realize that we are taking back our great country (the land of the free) from the evil tyrants that wish to do us harm and destroy the last remaining refuge of shining light. On POTUS’ order, we have initiated certain fail-safes that shall safeguard the public from the primary fallout which is slated to occur 11.3 upon the arrest announcement of Mr. Podesta (actionable 11.4). Confirmation (to the public) of what is occurring will then be revealed and will not be openly accepted. Public riots are being organized in serious numbers in an effort to prevent the arrest and capture of more senior public officials. On POTUS’ order, a state of temporary military control will be actioned and special ops carried out. False leaks have been made to retain several within the confines of the United States to prevent extradition and special operator necessity. Rest assured, the safety and well-being of every man, woman, and child of this country is being exhausted in full. However, the atmosphere within the country will unfortunately be divided as so many have fallen for the corrupt and evil narrative that has long been broadcast. We will be initiating the Emergency Broadcast System (EMS) during this time in an effort to provide a direct message (avoiding the fake news) to all citizens. Organizations and/or people that wish to do us harm during this time will be met with swift fury – certain laws have been pre-lifted to provide our great military the necessary authority to handle and conduct these operations (at home and abroad).
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 35 -->
+<span id="q35"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;35. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 22:56:38 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567928" target="_blank">147567928</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567928.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		POTUS will be well insulated/protected on AF1 and abroad (specific locations classified) while these operations are conducted due to the nature of the entrenchment. It is time to take back our country and make America great again. Let us salute and pray for the brave men and women in uniform who will undertake this assignment to bring forth peace, unity, and return power to the people.
+		<br />It is our hope that this message reaches enough people to make a meaningful impact. We cannot yet telegraph this message through normal methods for reasons I’m sure everyone here can understand. Follow the questions from the previous thread(s) and remain calm, the primary targets are within DC and remain at the top (on both sides). The spill over in the streets will be quickly shut down. Look for more false flags – stay alert, be vigilant, and above all, please pray.
+		<br />“For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. Love is patient, love is kind.”
+		<br />God bless my fellow Americans.
+		<br />4,10,20
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 36 -->
+<span id="q36"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;36. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 00:54:52 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581302" target="_blank">147581302</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581302.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Military Intelligence.
+		<br />No media.
+		<br />No leaks.
+		<br />How many MI generals have been in/out of WH in the past 30 days?
+		<br />Focus on Flynn.
+		<br />Background and potential role.
+		<br />What is the common denominator in terms of military backgrounds close to POTUS?
+		<br />Why did Soros transfer the bulk of his ‘public’ funds to a NPO?
+		<br />Why is this relevant?
+		<br />Who owes a lot to very bad actors?
+		<br />How can she repay as payment was made under promise of victory.
+		<br />What cash payments occurred by BO during the last 90 of his Presidency to foreign states and/ or organizations?
+		<br />What slush fund did AG Sessions (through DOJ) put an end to?
+		<br />How does Soros, Obama, Clinton, Holder, Lynch, etc all net many millions of dollars (normally within a single tax year).
+		<br />What was negotiated on the tarmac between BC and Lynch?
+		<br />Remember it was expected HRC was going to win during this time period.
+		<br />What if the wizards and warlocks tipped off a local reporter as to the supposed unscheduled stop?
+		<br />What if the NSA under the personal direction from Adm R had this meeting miscat and logged under a false identity to prevent bad actors from locating while also verifying to said players all was clear _ no logs.
+		<br />What really happened when the wizards and warlocks revealed what they had?
+		<br />Was Comey forced into the spotlight shortly thereafter not by choice? Right before the election no doubt which would cast suspicion?
+		<br />These are crumbs and you cannot imagine the full and complete picture.
+		<br />If Trump failed, if we failed, and HRC assumed control, we as Patriots were prepared to do the unthinkable (this was leaked internally and kept the delegate recount scam and BO from declaring fraud).
+		<br />Dig deeper - missing critical points to paint the full picture.
+		<br />There is simply no other way than to use the military. It’s that corrupt and dirty.
+		<br />Please be safe and pray for those in harms way as they continually protect and serve our great country.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 37 -->
+<span id="q37"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;37. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 00:57:23 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581516" target="_blank">147581516</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581516.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		They are the true Patriots. We will never forget. Let these coming days be remembered in our history as the time we fought to recapture the republic from those evil bad actors who for so long have sacrificed the good people of this land for their own personal gain.
+		<br />Fight the good fight.
+		<br />LET JUSTICE BE SERVED.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 38 -->
+<span id="q38"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;38. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 01:48:52 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147586045" target="_blank">147586045</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147586045.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Four carriers & escorts in the pacific?
+		<br />Why is that relevant?
+		<br />To prevent other state actors from attempting to harm us during this transition? Russia / China?
+		<br />Or conversely all for NK? Or all three.
+		<br />Think logically about the timing of everything happening.
+		<br />Note increased military movement.
+		<br />Note NG deployments starting tomorrow.
+		<br />Note false flags.
+		<br />Follow Huma.
+		<br />Prepare messages of reassurance based on what was dropped here to spread on different platforms.
+		<br />The calm before the storm.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 39 -->
+<span id="q39"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;39. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:14:27 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588085" target="_blank">147588085</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588085.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Would it blow your mind if I told you BO has been to NK and perhaps there now?
+		<br />Why did his administration do little to slow their nuclear and missle capabilities?
+		<br />Who feeds NK w/ strategic intel? Iran?
+		<br />What deal was done with Iran under BO?
+		<br />Why was the deal sealed under a top secret classification?
+		<br />Why wasn’t Congress notified?
+		<br />Why after BO left office all of a sudden NK has nukes and the tech to miniaturize for payload delivery within the US?
+		<br />What about NSA CIA DI etc all confirming tech won’t be in place for 5+ years (statements made in 2016).
+		<br />Why is all of this relevant and what does it tell you?
+		<br />Big picture is rare.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 40 -->
+<span id="q40"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;40. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:18:35 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588421" target="_blank">147588421</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588421.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		4,10,20
+		<br />A,b,c,d,e......
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 41 -->
+<span id="q41"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;41. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:47:47 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147590619" target="_blank">147590619</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147590619.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What a coincidence the mountain that housed NK’s nuclear weapons and testing collapsed. Unbelievable timing. I wonder if critically important materials as well as scientists aka the bomb makers were inside when it happened. Shocking no global news agency suspects we had nothing to do with it. Enjoy the crumbs.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 42 -->
+<span id="q42"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;42. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:54:29 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591125" target="_blank">147591125</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591125.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		We serve at the pleasure of the President. DJT
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 43 -->
+<span id="q43"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;43. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 03:01:46 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591663" target="_blank">147591663</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591663.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		These crumbs are not meant to scare anyone but merely inform. Resistance will be dealt with swiftly. The core focus is removing entrenched and fortified bad actors within our federal govt (past and present) as well as others. Simply be diligent - phone numbers will be provided if you witness an uprising or other domestic violence (in addition to 911). Any military seen is for your protection as well as to demonstrate our resolve. Watch for confirmations tomorrow.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 44 -->
+<span id="q44"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;44. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 03:06:41 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147592019" target="_blank">147592019</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147592019.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Before POTUS departs on Friday he will be sending an important message via Twitter. God bless.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<div         ><hr /><b>  45. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147632662" target="_blank"><img src="images/4pol/qcaps/147632662.PNG" /></a></div>
+<div         ><hr /><b>  46. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147634822" target="_blank"><img src="images/4pol/qcaps/147634822.PNG" /></a></div>
+<div         ><hr /><b>  47. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147636035" target="_blank"><img src="images/4pol/qcaps/147636035.PNG" /></a></div>
+<div         ><hr /><b>  48. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147640127" target="_blank"><img src="images/4pol/qcaps/147640127.PNG" /></a></div>
+<div         ><hr /><b>  49. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147641320" target="_blank"><img src="images/4pol/qcaps/147641320.PNG" /></a></div>
+<div         ><hr /><b>  50. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147642680" target="_blank"><img src="images/4pol/qcaps/147642680.PNG" /></a></div>
+<div         ><hr /><b>  51. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147643257" target="_blank"><img src="images/4pol/qcaps/147643257.PNG" /></a></div>
+<div         ><hr /><b>  52. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147645024" target="_blank"><img src="images/4pol/qcaps/147645024.PNG" /></a></div>
+<div         ><hr /><b>  53. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646189" target="_blank"><img src="images/4pol/qcaps/147646189.PNG" /></a></div>
+<div         ><hr /><b>  54. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646606" target="_blank"><img src="images/4pol/qcaps/147646606.PNG" /></a></div>
+<div         ><hr /><b>  55. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147647154" target="_blank"><img src="images/4pol/qcaps/147647154.PNG" /></a></div>
+<div         ><hr /><b>  56. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661217" target="_blank"><img src="images/4pol/qcaps/147661217.PNG" /></a></div>
+<div         ><hr /><b>  57. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661243" target="_blank"><img src="images/4pol/qcaps/147661243.PNG" /></a></div>
+<div         ><hr /><b>  58. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661332" target="_blank"><img src="images/4pol/qcaps/147661332.PNG" /></a></div>
+<div         ><hr /><b>  59. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147664082" target="_blank"><img src="images/4pol/qcaps/147664082.PNG" /></a></div>
+<div         ><hr /><b>  60. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147679416" target="_blank"><img src="images/4pol/qcaps/147679416.PNG" /></a></div>
+<div         ><hr /><b>  61. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680054" target="_blank"><img src="images/4pol/qcaps/147680054.PNG" /></a></div>
+<div         ><hr /><b>  62. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680749" target="_blank"><img src="images/4pol/qcaps/147680749.PNG" /></a></div>
+<div         ><hr /><b>  63. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147681912" target="_blank"><img src="images/4pol/qcaps/147681912.PNG" /></a></div>
+<div         ><hr /><b>  64. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147683156" target="_blank"><img src="images/4pol/qcaps/147683156.PNG" /></a></div>
+<div         ><hr /><b>  65. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147687684" target="_blank"><img src="images/4pol/qcaps/147687684.PNG" /></a></div>
+<div         ><hr /><b>  66. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147689362" target="_blank"><img src="images/4pol/qcaps/147689362.PNG" /></a></div>
+<div         ><hr /><b>  67. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147816901" target="_blank"><img src="images/4pol/qcaps/147816901.PNG" /></a></div>
+<div         ><hr /><b>  68. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147817468" target="_blank"><img src="images/4pol/qcaps/147817468.PNG" /></a></div>
+<div         ><hr /><b>  69. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147819733" target="_blank"><img src="images/4pol/qcaps/147819733.PNG" /></a></div>
+<div         ><hr /><b>  70. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147975558" target="_blank"><img src="images/4pol/qcaps/147975558.PNG" /></a></div>
+<div         ><hr /><b>  71. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147979863" target="_blank"><img src="images/4pol/qcaps/147979863.PNG" /></a></div>
+<div         ><hr /><b>  72. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147981354" target="_blank"><img src="images/4pol/qcaps/147981354.PNG" /></a></div>
+<div         ><hr /><b>  73. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147986661" target="_blank"><img src="images/4pol/qcaps/147986661.PNG" /></a></div>
+<div         ><hr /><b>  74. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147987614" target="_blank"><img src="images/4pol/qcaps/147987614.PNG" /></a></div>
+<div         ><hr /><b>  75. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016618" target="_blank"><img src="images/4pol/qcaps/148016618.PNG" /></a></div>
+<div         ><hr /><b>  76. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016670" target="_blank"><img src="images/4pol/qcaps/148016670.PNG" /></a></div>
+<div         ><hr /><b>  77. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016731" target="_blank"><img src="images/4pol/qcaps/148016731.PNG" /></a></div>
+<div         ><hr /><b>  78. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016769" target="_blank"><img src="images/4pol/qcaps/148016769.PNG" /></a></div>
+<div         ><hr /><b>  79. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016876" target="_blank"><img src="images/4pol/qcaps/148016876.PNG" /></a></div>
+<div         ><hr /><b>  80. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019575" target="_blank"><img src="images/4pol/qcaps/148019575.PNG" /></a></div>
+<div         ><hr /><b>  81. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019905" target="_blank"><img src="images/4pol/qcaps/148019905.PNG" /></a></div>
+<div         ><hr /><b>  82. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020085" target="_blank"><img src="images/4pol/qcaps/148020085.PNG" /></a></div>
+<div         ><hr /><b>  83. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020278" target="_blank"><img src="images/4pol/qcaps/148020278.PNG" /></a></div>
+<div         ><hr /><b>  84. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148021501" target="_blank"><img src="images/4pol/qcaps/148021501.PNG" /></a></div>
+<div         ><hr /><b>  85. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank"><img src="images/4pol/qcaps/148027165.PNG" /></a></div>
+<div         ><hr /><b>  86. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank"><img src="images/4pol/qcaps/148022145.PNG" /></a></div>
+<div         ><hr /><b>  87. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022342" target="_blank"><img src="images/4pol/qcaps/148022342.PNG" /></a></div>
+<div         ><hr /><b>  88. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148023976" target="_blank"><img src="images/4pol/qcaps/148023976.PNG" /></a></div>
+<div         ><hr /><b>  89. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029633" target="_blank"><img src="images/4pol/qcaps/148029633.PNG" /></a></div>
+<div         ><hr /><b>  90. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029962" target="_blank"><img src="images/4pol/qcaps/148029962.PNG" /></a></div>
+<div         ><hr /><b>  91. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148025825" target="_blank"><img src="images/4pol/qcaps/148025825.PNG" /></a></div>
+<div         ><hr /><b>  92. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148031295" target="_blank"><img src="images/4pol/qcaps/148031295.PNG" /></a></div>
+<div         ><hr /><b>  93. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032210" target="_blank"><img src="images/4pol/qcaps/148032210.PNG" /></a></div>
+<div         ><hr /><b>  94. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032910" target="_blank"><img src="images/4pol/qcaps/148032910.PNG" /></a></div>
+<div         ><hr /><b>  95. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033178" target="_blank"><img src="images/4pol/qcaps/148033178.PNG" /></a></div>
+<div         ><hr /><b>  96. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033932" target="_blank"><img src="images/4pol/qcaps/148033932.PNG" /></a></div>
+<div         ><hr /><b>  97. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139234" target="_blank"><img src="images/4pol/qcaps/148139234.PNG" /></a></div>
+<div         ><hr /><b>  98. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139484" target="_blank"><img src="images/4pol/qcaps/148139484.PNG" /></a></div>
+<div         ><hr /><b>  99. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143472" target="_blank"><img src="images/4pol/qcaps/148143472.PNG" /></a></div>
+<div         ><hr /><b> 100. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143562" target="_blank"><img src="images/4pol/qcaps/148143562.PNG" /></a></div>
+<div         ><hr /><b> 101. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148148004" target="_blank"><img src="images/4pol/qcaps/148148004.PNG" /></a></div>
+<div         ><hr /><b> 102. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148149435" target="_blank"><img src="images/4pol/qcaps/148149435.PNG" /></a></div>
+<div         ><hr /><b> 103. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148152047" target="_blank"><img src="images/4pol/qcaps/148152047.PNG" /></a></div>
+<div         ><hr /><b> 104. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154137" target="_blank"><img src="images/4pol/qcaps/148154137.PNG" /></a></div>
+<div         ><hr /><b> 105. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154941" target="_blank"><img src="images/4pol/qcaps/148154941.PNG" /></a></div>
+<div         ><hr /><b> 106. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155343" target="_blank"><img src="images/4pol/qcaps/148155343.PNG" /></a></div>
+<div         ><hr /><b> 107. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155609" target="_blank"><img src="images/4pol/qcaps/148155609.PNG" /></a></div>
+<div         ><hr /><b> 108. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156129" target="_blank"><img src="images/4pol/qcaps/148156129.PNG" /></a></div>
+<div         ><hr /><b> 109. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156632" target="_blank"><img src="images/4pol/qcaps/148156632.PNG" /></a></div>
+<div         ><hr /><b> 110. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156937" target="_blank"><img src="images/4pol/qcaps/148156937.PNG" /></a></div>
+<div         ><hr /><b> 111. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148183670" target="_blank"><img src="images/4pol/qcaps/148183670.PNG" /></a></div>
+<div         ><hr /><b> 112. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185083" target="_blank"><img src="images/4pol/qcaps/148185083.PNG" /></a></div>
+<div         ><hr /><b> 113. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185905" target="_blank"><img src="images/4pol/qcaps/148185905.PNG" /></a></div>
+<div         ><hr /><b> 114. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148186256" target="_blank"><img src="images/4pol/qcaps/148186256.PNG" /></a></div>
+<div         ><hr /><b> 115. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148189295" target="_blank"><img src="images/4pol/qcaps/148189295.PNG" /></a></div>
+<div         ><hr /><b> 116. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148286961" target="_blank"><img src="images/4pol/qcaps/148286961.PNG" /></a></div>
+<div         ><hr /><b> 117. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287184" target="_blank"><img src="images/4pol/qcaps/148287184.PNG" /></a></div>
+<div         ><hr /><b> 118. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287236" target="_blank"><img src="images/4pol/qcaps/148287236.PNG" /></a></div>
+<div         ><hr /><b> 119. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287326" target="_blank"><img src="images/4pol/qcaps/148287326.PNG" /></a></div>
+<div         ><hr /><b> 120. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287396" target="_blank"><img src="images/4pol/qcaps/148287396.PNG" /></a></div>
+<div         ><hr /><b> 121. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287473" target="_blank"><img src="images/4pol/qcaps/148287473.PNG" /></a></div>
+<div         ><hr /><b> 122. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148287529" target="_blank"><img src="images/4pol/qcaps/148287529.PNG" /></a></div>
+<div         ><hr /><b> 123. 4chan /pol/ CBTS General #94     </b><br /><a href="https://archive.4plebs.org/pol/thread/148286642/#148289594" target="_blank"><img src="images/4pol/qcaps/148289594.PNG" /></a></div>
+<div         ><hr /><b> 124. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148452545" target="_blank"><img src="images/4pol/qcaps/148452545.PNG" /></a></div>
+<div         ><hr /><b> 125. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148453749" target="_blank"><img src="images/4pol/qcaps/148453749.PNG" /></a></div>
+<div         ><hr /><b> 126. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148455482" target="_blank"><img src="images/4pol/qcaps/148455482.PNG" /></a></div>
+<div         ><hr /><b> 127. 4chan /pol/ CBTS General #126    </b><br /><a href="https://archive.4plebs.org/pol/thread/148451796/#148457032" target="_blank"><img src="images/4pol/qcaps/148457032.PNG" /></a></div>
+<div         ><hr /><b> 128. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148779656" target="_blank"><img src="images/4pol/qcaps/148779656.PNG" /></a></div>
+<div         ><hr /><b> 129. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148781546" target="_blank"><img src="images/4pol/qcaps/148781546.PNG" /></a></div>
+<div         ><hr /><b> 130. 4chan /pol/ CBTS General #191    </b><br /><a href="https://archive.4plebs.org/pol/thread/148777785/#148782302" target="_blank"><img src="images/4pol/qcaps/148782302.PNG" /></a></div>
+<div         ><hr /><b> 131. 4chan /pol/ CBTS General #210    </b><br /><a href="https://archive.4plebs.org/pol/thread/148866159/#148871375" target="_blank"><img src="images/4pol/qcaps/148871375.PNG" /></a></div>
+<div         ><hr /><b> 132. 4chan /pol/ CBTS General #210    </b><br /><a href="https://archive.4plebs.org/pol/thread/148866159/#148872500" target="_blank"><img src="images/4pol/qcaps/148872500.PNG" /></a></div>
+<div         ><hr /><b> 133. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063235" target="_blank"><img src="images/4pol/qcaps/149063235.PNG" /></a></div>
+<div         ><hr /><b> 134. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063271" target="_blank"><img src="images/4pol/qcaps/149063271.PNG" /></a></div>
+<div         ><hr /><b> 135. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063400" target="_blank"><img src="images/4pol/qcaps/149063400.PNG" /></a></div>
+<div         ><hr /><b> 136. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063442" target="_blank"><img src="images/4pol/qcaps/149063442.PNG" /></a></div>
+<div         ><hr /><b> 137. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063509" target="_blank"><img src="images/4pol/qcaps/149063509.PNG" /></a></div>
+<div         ><hr /><b> 138. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063549" target="_blank"><img src="images/4pol/qcaps/149063549.PNG" /></a></div>
+<div         ><hr /><b> 139. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063582" target="_blank"><img src="images/4pol/qcaps/149063582.PNG" /></a></div>
+<div         ><hr /><b> 140. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149063644" target="_blank"><img src="images/4pol/qcaps/149063644.PNG" /></a></div>
+<div         ><hr /><b> 141. 4chan /pol/ CBTS General #247    </b><br /><a href="https://archive.4plebs.org/pol/thread/149061733/#149065482" target="_blank"><img src="images/4pol/qcaps/149065482.PNG" /></a></div>
+<div         ><hr /><b> 142. 4chan /pol/ CBTS General #260    </b><br /><a href="https://archive.4plebs.org/pol/thread/149120562/#149122955" target="_blank"><img src="images/4pol/qcaps/149122955.PNG" /></a></div>
+<div         ><hr /><b> 143. 4chan /pol/ CBTS General #260    </b><br /><a href="https://archive.4plebs.org/pol/thread/149120562/#149124567" target="_blank"><img src="images/4pol/qcaps/149124567.PNG" /></a></div>
+<div         ><hr /><b> 144. 4chan /pol/ CBTS General #264    </b><br /><a href="https://archive.4plebs.org/pol/thread/149139896/#149140639" target="_blank"><img src="images/4pol/qcaps/149140639.PNG" /></a></div>
+<div         ><hr /><b> 145. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151586/#149151705" target="_blank"><img src="images/4pol/qcaps/149151705.PNG" /></a></div>
+<div         ><hr /><b> 146. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149152383" target="_blank"><img src="images/4pol/qcaps/149152383.PNG" /></a></div>
+<div         ><hr /><b> 147. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149152902" target="_blank"><img src="images/4pol/qcaps/149152902.PNG" /></a></div>
+<div         ><hr /><b> 148. 4chan /pol/ CBTS General #266    </b><br /><a href="https://archive.4plebs.org/pol/thread/149151045/#149157229" target="_blank"><img src="images/4pol/qcaps/149157229.PNG" /></a></div>
+<div         ><hr /><b> 149. 4chan /pol/ CBTS General #267    </b><br /><a href="https://archive.4plebs.org/pol/thread/149158110/#149160361" target="_blank"><img src="images/4pol/qcaps/149160361.PNG" /></a></div>
+<div         ><hr /><b> 150. 4chan /pol/ CBTS General #306    </b><br /><a href="https://archive.4plebs.org/pol/thread/149260496/#149262582" target="_blank"><img src="images/4pol/qcaps/149262582.PNG" /></a></div>
+<div         ><hr /><b> 151. 4chan /pol/ CBTS General #329    </b><br /><a href="https://archive.4plebs.org/pol/thread/149397178/#149401052" target="_blank"><img src="images/4pol/qcaps/149401052.PNG" /></a></div>
+<div         ><hr /><b> 152. 4chan /pol/ CBTS General #329    </b><br /><a href="https://archive.4plebs.org/pol/thread/149397178/#149402892" target="_blank"><img src="images/4pol/qcaps/149402892.PNG" /></a></div>
+<div         ><hr /><b> 153. 4chan /pol/ CBTS General #339    </b><br /><a href="https://archive.4plebs.org/pol/thread/149463784/#149467638" target="_blank"><img src="images/4pol/qcaps/149467638.PNG" /></a></div>
+<div         ><hr /><b> 154. 4chan /pol/ CBTS General #339    </b><br /><a href="https://archive.4plebs.org/pol/thread/149463784/#149467690" target="_blank"><img src="images/4pol/qcaps/149467690.PNG" /></a></div>
+<div         ><hr /><b> 155. 4chan /pol/ CBTS General #343    </b><br /><a href="https://archive.4plebs.org/pol/thread/149485163/#149490950" target="_blank"><img src="images/4pol/qcaps/149490950.PNG" /></a></div>
+<div         ><hr /><b> 156. 4chan /pol/ CBTS General #415    </b><br /><a href="https://archive.4plebs.org/pol/thread/149920858/#149921023" target="_blank"><img src="images/4pol/qcaps/149921023.PNG" /></a></div>
+<div         ><hr /><b> 157. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150166904" target="_blank"><img src="images/4pol/qcaps/150166904.PNG" /></a></div>
+<div         ><hr /><b> 158. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150166936" target="_blank"><img src="images/4pol/qcaps/150166936.PNG" /></a></div>
+<div         ><hr /><b> 159. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150170117" target="_blank"><img src="images/4pol/qcaps/150170117.PNG" /></a></div>
+<div         ><hr /><b> 160. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150170181" target="_blank"><img src="images/4pol/qcaps/150170181.PNG" /></a></div>
+<div         ><hr /><b> 161. 4chan /pol/ CBTS General #444    </b><br /><a href="https://archive.4plebs.org/pol/thread/150166775/#150171298" target="_blank"><img src="images/4pol/qcaps/150171298.PNG" /></a></div>
+<div         ><hr /><b> 162. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150172069" target="_blank"><img src="images/4pol/qcaps/150172069.PNG" /></a></div>
+<div         ><hr /><b> 163. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150172817" target="_blank"><img src="images/4pol/qcaps/150172817.PNG" /></a></div>
+<div         ><hr /><b> 164. 4chan /pol/ CBTS General #445 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150171127/#150173114" target="_blank"><img src="images/4pol/qcaps/150173114.PNG" /></a></div>
+<div         ><hr /><b> 165. 4chan /pol/ CBTS General #441 b  </b><br /><a href="https://archive.4plebs.org/pol/thread/150208420/#150212477" target="_blank"><img src="images/4pol/qcaps/150212477.PNG" /></a></div>
+<div         ><hr /><b> 166. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214269" target="_blank"><img src="images/4pol/qcaps/150214269.PNG" /></a></div>
+<div         ><hr /><b> 167. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214731" target="_blank"><img src="images/4pol/qcaps/150214731.PNG" /></a></div>
+<div         ><hr /><b> 168. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150214824" target="_blank"><img src="images/4pol/qcaps/150214824.PNG" /></a></div>
+<div         ><hr /><b> 169. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150215418" target="_blank"><img src="images/4pol/qcaps/150215418.PNG" /></a></div>
+<div         ><hr /><b> 170. 4chan /pol/ CBTS General #450 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150209720/#150215871" target="_blank"><img src="images/4pol/qcaps/150215871.PNG" /></a></div>
+<div         ><hr /><b> 171. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150245340/#150254865" target="_blank"><img src="images/4pol/qcaps/150254865.PNG" /></a></div>
+<div         ><hr /><b> 172. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150254958/#150257424" target="_blank"><img src="images/4pol/qcaps/150257424.PNG" /></a></div>
+<div         ><hr /><b> 173. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150222458/#150257653" target="_blank"><img src="images/4pol/qcaps/150257653.PNG" /></a></div>
+<div         ><hr /><b> 174. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150260054/#150260900" target="_blank"><img src="images/4pol/qcaps/150260900.PNG" /></a></div>
+<div         ><hr /><b> 175. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150388962" target="_blank"><img src="images/4pol/qcaps/150388962.PNG" /></a></div>
+<div         ><hr /><b> 176. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150391223" target="_blank"><img src="images/4pol/qcaps/150391223.PNG" /></a></div>
+<div         ><hr /><b> 177. 4chan /pol/ CBTS General #474    </b><br /><a href="https://archive.4plebs.org/pol/thread/150386940/#150393065" target="_blank"><img src="images/4pol/qcaps/150393065.PNG" /></a></div>
+<div         ><hr /><b> 178. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150395774" target="_blank"><img src="images/4pol/qcaps/150395774.PNG" /></a></div>
+<div         ><hr /><b> 179. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150400112" target="_blank"><img src="images/4pol/qcaps/150400112.PNG" /></a></div>
+<div         ><hr /><b> 180. 4chan /pol/ CBTS General #475    </b><br /><a href="https://archive.4plebs.org/pol/thread/150392746/#150400638" target="_blank"><img src="images/4pol/qcaps/150400638.PNG" /></a></div>
+<div         ><hr /><b> 181. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150405959" target="_blank"><img src="images/4pol/qcaps/150405959.PNG" /></a></div>
+<div         ><hr /><b> 182. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150406974" target="_blank"><img src="images/4pol/qcaps/150406974.PNG" /></a></div>
+<div         ><hr /><b> 183. 4chan /pol/ CBTS General #476    </b><br /><a href="https://archive.4plebs.org/pol/thread/150400719/#150407593" target="_blank"><img src="images/4pol/qcaps/150407593.PNG" /></a></div>
+<div         ><hr /><b> 184. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412315" target="_blank"><img src="images/4pol/qcaps/150412315.PNG" /></a></div>
+<div         ><hr /><b> 185. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412500" target="_blank"><img src="images/4pol/qcaps/150412500.PNG" /></a></div>
+<div         ><hr /><b> 186. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150412717" target="_blank"><img src="images/4pol/qcaps/150412717.PNG" /></a></div>
+<div         ><hr /><b> 187. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150417001" target="_blank"><img src="images/4pol/qcaps/150417001.PNG" /></a></div>
+<div         ><hr /><b> 188. 4chan /pol/ CBTS General #478    </b><br /><a href="https://archive.4plebs.org/pol/thread/150410576/#150417146" target="_blank"><img src="images/4pol/qcaps/150417146.PNG" /></a></div>
+<div         ><hr /><b> 189. 4chan /pol/ CBTS General #481    </b><br /><a href="https://archive.4plebs.org/pol/thread/150423953/#150424047" target="_blank"><img src="images/4pol/qcaps/150424047.PNG" /></a></div>
+<div         ><hr /><b> 190. 4chan /pol/ CBTS General #482    </b><br /><a href="https://archive.4plebs.org/pol/thread/150428011/#150433983" target="_blank"><img src="images/4pol/qcaps/150433983.PNG" /></a></div>
+<div         ><hr /><b> 191. 4chan /pol/ CBTS General #482    </b><br /><a href="https://archive.4plebs.org/pol/thread/150428011/#150434351" target="_blank"><img src="images/4pol/qcaps/150434351.PNG" /></a></div>
+<div         ><hr /><b> 192. 4chan /pol/ CBTS General #483    </b><br /><a href="https://archive.4plebs.org/pol/thread/150434009/#150435422" target="_blank"><img src="images/4pol/qcaps/150435422.PNG" /></a></div>
+<div         ><hr /><b> 193. 4chan /pol/ CBTS General #492    </b><br /><a href="https://archive.4plebs.org/pol/thread/150481862/#150486603" target="_blank"><img src="images/4pol/qcaps/150486603.PNG" /></a></div>
+<div         ><hr /><b> 194. 4chan /pol/ CBTS General #497    </b><br /><a href="https://archive.4plebs.org/pol/thread/150511300/#150512900" target="_blank"><img src="images/4pol/qcaps/150512900.PNG" /></a></div>
+<div         ><hr /><b> 195. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150513545" target="_blank"><img src="images/4pol/qcaps/150513545.PNG" /></a></div>
+<div         ><hr /><b> 196. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150513895" target="_blank"><img src="images/4pol/qcaps/150513895.PNG" /></a></div>
+<div         ><hr /><b> 197. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150515203" target="_blank"><img src="images/4pol/qcaps/150515203.PNG" /></a></div>
+<div         ><hr /><b> 198. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150515835" target="_blank"><img src="images/4pol/qcaps/150515835.PNG" /></a></div>
+<div         ><hr /><b> 199. 4chan /pol/ CBTS General #496    </b><br /><a href="https://archive.4plebs.org/pol/thread/150506612/#150517837" target="_blank"><img src="images/4pol/qcaps/150517837.PNG" /></a></div>
+<div         ><hr /><b> 200. 4chan /pol/ CBTS General #498    </b><br /><a href="https://archive.4plebs.org/pol/thread/150520974/#150522442" target="_blank"><img src="images/4pol/qcaps/150522442.PNG" /></a></div>
+<div         ><hr /><b> 201. 4chan /pol/ CBTS General #498    </b><br /><a href="https://archive.4plebs.org/pol/thread/150520974/#150523420" target="_blank"><img src="images/4pol/qcaps/150523420.PNG" /></a></div>
+<div         ><hr /><b> 202. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559154" target="_blank"><img src="images/4pol/qcaps/150559154.PNG" /></a></div>
+<div         ><hr /><b> 203. 4chan /pol/ CBTS General #502    </b><br /><a href="https://archive.4plebs.org/pol/thread/150543934/#150559269" target="_blank"><img src="images/4pol/qcaps/150559269.PNG" /></a></div>
+<div         ><hr /><b> 204. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559381" target="_blank"><img src="images/4pol/qcaps/150559381.PNG" /></a></div>
+<div         ><hr /><b> 205. 4chan /pol/ CBTS General #503    </b><br /><a href="https://archive.4plebs.org/pol/thread/150555010/#150559818" target="_blank"><img src="images/4pol/qcaps/150559818.PNG" /></a></div>
+<div         ><hr /><b> 206. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150559618/#150560899" target="_blank"><img src="images/4pol/qcaps/150560899.PNG" /></a></div>
+<div         ><hr /><b> 207. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150561736" target="_blank"><img src="images/4pol/qcaps/150561736.PNG" /></a></div>
+<div         ><hr /><b> 208. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562337" target="_blank"><img src="images/4pol/qcaps/150562337.PNG" /></a></div>
+<div         ><hr /><b> 209. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562694" target="_blank"><img src="images/4pol/qcaps/150562694.PNG" /></a></div>
+<div         ><hr /><b> 210. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150562920" target="_blank"><img src="images/4pol/qcaps/150562920.PNG" /></a></div>
+<div         ><hr /><b> 211. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150563217" target="_blank"><img src="images/4pol/qcaps/150563217.PNG" /></a></div>
+<div         ><hr /><b> 212. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150565108" target="_blank"><img src="images/4pol/qcaps/150565108.PNG" /></a></div>
+<div         ><hr /><b> 213. 4chan /pol/ CBTS General #504    </b><br /><a href="https://archive.4plebs.org/pol/thread/150561225/#150565710" target="_blank"><img src="images/4pol/qcaps/150565710.PNG" /></a></div>
+<div         ><hr /><b> 214. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150567199" target="_blank"><img src="images/4pol/qcaps/150567199.PNG" /></a></div>
+<div         ><hr /><b> 215. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150567655" target="_blank"><img src="images/4pol/qcaps/150567655.PNG" /></a></div>
+<div         ><hr /><b> 216. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150569482" target="_blank"><img src="images/4pol/qcaps/150569482.PNG" /></a></div>
+<div         ><hr /><b> 217. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150569779" target="_blank"><img src="images/4pol/qcaps/150569779.PNG" /></a></div>
+<div         ><hr /><b> 218. 4chan /pol/ CBTS General #505 a  </b><br /><a href="https://archive.4plebs.org/pol/thread/150565407/#150570023" target="_blank"><img src="images/4pol/qcaps/150570023.PNG" /></a></div>
+<div         ><hr /><b> 219. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150679159" target="_blank"><img src="images/4pol/qcaps/150679159.PNG" /></a></div>
+<div         ><hr /><b> 220. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150681065" target="_blank"><img src="images/4pol/qcaps/150681065.PNG" /></a></div>
+<div         ><hr /><b> 221. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150681832" target="_blank"><img src="images/4pol/qcaps/150681832.PNG" /></a></div>
+<div         ><hr /><b> 222. 4chan /pol/ CBTS General #522    </b><br /><a href="https://archive.4plebs.org/pol/thread/150678769/#150682686" target="_blank"><img src="images/4pol/qcaps/150682686.PNG" /></a></div>
+<div         ><hr /><b> 223. 4chan /pol/ CBTS General #523    </b><br /><a href="https://archive.4plebs.org/pol/thread/150683692/#150686780" target="_blank"><img src="images/4pol/qcaps/150686780.PNG" /></a></div>
+<div         ><hr /><b> 224. 4chan /pol/ CBTS General #525    </b><br /><a href="https://archive.4plebs.org/pol/thread/150693391/#150697929" target="_blank"><img src="images/4pol/qcaps/150697929.PNG" /></a></div>
+<div         ><hr /><b> 225. 4chan /pol/ CBTS General #525    </b><br /><a href="https://archive.4plebs.org/pol/thread/150693391/#150698662" target="_blank"><img src="images/4pol/qcaps/150698662.PNG" /></a></div>
+<div         ><hr /><b> 226. 4chan /pol/ CBTS General #526    </b><br /><a href="https://archive.4plebs.org/pol/thread/150698668/#150701196" target="_blank"><img src="images/4pol/qcaps/150701196.PNG" /></a></div>
+<div         ><hr /><b> 227. 4chan /pol/ CBTS General #536    </b><br /><a href="https://archive.4plebs.org/pol/thread/150765366/#150767674" target="_blank"><img src="images/4pol/qcaps/150767674.PNG" /></a></div>
+<div         ><hr /><b> 228. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150869010" target="_blank"><img src="images/4pol/qcaps/150869010.PNG" /></a></div>
+<div         ><hr /><b> 229. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150870083" target="_blank"><img src="images/4pol/qcaps/150870083.PNG" /></a></div>
 <div         ><hr /><b> 230. 8chan /pol/ CBTS General #7      </b><br /><a href="https://8ch.net/pol/res/10913010.html#10956085"             target="_blank"><img src="images/8pol/10956085.PNG"  /></a></div>
-<div         ><hr /><b> 231. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150875388" target="_blank"><img src="images/4pol/150875388.PNG" /></a></div>
-<div         ><hr /><b> 232. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150876856" target="_blank"><img src="images/4pol/150876856.PNG" /></a></div>
+<div         ><hr /><b> 231. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150875388" target="_blank"><img src="images/4pol/qcaps/150875388.PNG" /></a></div>
+<div         ><hr /><b> 232. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/150864944/#150876856" target="_blank"><img src="images/4pol/qcaps/150876856.PNG" /></a></div>
 <div         ><hr /><b> 233. 8chan /pol/ CBTS General #7      </b><br /><a href="https://8ch.net/pol/res/10913010.html#10956374"             target="_blank"><img src="images/8pol/10956374.PNG"  /></a></div>
 <div         ><hr /><b> 234. 4chan /cbts/ General #11         </b><br /><a href="https://8ch.net/cbts/res/10820.html#10925"                  target="_blank"><img src="images/8cbts/10925.PNG"    /></a></div>
 <div         ><hr /><b> 235. 4chan /cbts/ General #13         </b><br /><a href="https://8ch.net/cbts/res/12535.html#12916"                  target="_blank"><img src="images/8cbts/12916.PNG"    /></a></div>
@@ -456,7 +1372,7 @@
 <div         ><hr /><b> 237. 4chan /cbts/ General #13         </b><br /><a href="https://8ch.net/cbts/res/12535.html#13215"                  target="_blank"><img src="images/8cbts/13215.PNG"    /></a></div>
 <div         ><hr /><b> 238. 4chan /cbts/ General #13         </b><br /><a href="https://8ch.net/cbts/res/12535.html#13282"                  target="_blank"><img src="images/8cbts/13282.PNG"    /></a></div>
 <div         ><hr /><b> 239. 4chan /cbts/ General #14         </b><br /><a href="https://8ch.net/cbts/res/13366.html#13601"                  target="_blank"><img src="images/8cbts/13601.PNG"    /></a></div>
-<div         ><hr /><b> 240. 4chan /pol/ CBTS General #61      </b><br /><a href="https://archive.4plebs.org/pol/thread/151549034/#151561953" target="_blank"><img src="images/4pol/151561953.PNG" /></a></div>
+<div         ><hr /><b> 240. 4chan /pol/ CBTS General #61      </b><br /><a href="https://archive.4plebs.org/pol/thread/151549034/#151561953" target="_blank"><img src="images/4pol/qcaps/151561953.PNG" /></a></div>
 <div         ><hr /><b> 241. 8chan /cbts/ General #18         </b><br /><a href="https://8ch.net/cbts/res/16943.html#17283"                  target="_blank"><img src="images/8cbts/17283.PNG"    /></a></div>
 <div         ><hr /><b> 242. 8chan /cbts/ General #18         </b><br /><a href="https://8ch.net/cbts/res/16943.html#17290"                  target="_blank"><img src="images/8cbts/17290.PNG"    /></a></div>
 <div         ><hr /><b> 243. 8chan /cbts/ General #18         </b><br /><a href="https://8ch.net/cbts/res/16943.html#17359"                  target="_blank"><img src="images/8cbts/17359.PNG"    /></a></div>
@@ -572,7 +1488,7 @@
 <div         ><hr /><b> 353. 8chan /cbts/ General #113        </b><br /><a href="https://8ch.net/cbts/res/99590.html#99658"                  target="_blank"><img src="images/8cbts/99658.PNG" /></a></div>
 <div         ><hr /><b> 354. 8chan /pol/ non-cbts             </b><br /><a href="https://8ch.net/pol/res/11028937.html#11043832"             target="_blank"><img src="images/8pol/11043832.PNG" /></a></div>
 <div         ><hr /><b> 355. 8chan /pol/ non-cbts             </b><br /><a href="https://8ch.net/pol/res/11028937.html#11043839"             target="_blank"><img src="images/8pol/11043839.PNG" /></a></div>
-<div         ><hr /><b> 356. 4chan non-CBTS thread            </b><br /><a href="https://archive.4plebs.org/pol/thread/153317403/#153323368" target="_blank"><img src="images/4pol/153323368.PNG" /></a></div>
+<div         ><hr /><b> 356. 4chan non-CBTS thread            </b><br /><a href="https://archive.4plebs.org/pol/thread/153317403/#153323368" target="_blank"><img src="images/4pol/qcaps/153323368.PNG" /></a></div>
 <div         ><hr /><b> 357. 8chan /pol/ non-cbts             </b><br /><a href="https://8ch.net/pol/res/11028937.html#11044319"             target="_blank"><img src="images/8pol/11044319.PNG" /></a></div>
 <div         ><hr /><b> 358. 8chan /pol/ non-cbts             </b><br /><a href="https://8ch.net/pol/res/11028937.html#11045052"             target="_blank"><img src="images/8pol/11045052.PNG" /></a></div>
 <div         ><hr /><b> 359. 8chan /pol/ non-cbts             </b><br /><a href="https://8ch.net/pol/res/11028937.html#11045057"             target="_blank"><img src="images/8pol/11045057.PNG" /></a></div>
@@ -3802,73 +4718,73 @@
 <div         ><hr /><b>3568. 8chan /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8qresearch/7271105.PNG" /></a></div>
 <div         ><hr /><b>3569. 8chan /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8qresearch/7294581.PNG" /></a></div>
 <div         ><hr /><b>3570. 8chan /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8qresearch/7294663.PNG" /></a></div>
-<div         ><hr /><b>    . 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7350502.PNG"           /></a></div>
-<div         ><hr /><b>3571. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7350508.PNG"           /></a></div>
-<div         ><hr /><b>3572. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7350518.PNG"           /></a></div>
-<div         ><hr /><b>3573. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7350535.PNG"           /></a></div>
-<div         ><hr /><b>3574. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7350650.PNG"           /></a></div>
-<div         ><hr /><b>3575. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352566.PNG"           /></a></div>
-<div         ><hr /><b>3576. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352572.PNG"           /></a></div>
-<div         ><hr /><b>3577. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352613.PNG"           /></a></div>
-<div         ><hr /><b>3578. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352742.PNG"           /></a></div>
-<div         ><hr /><b>3579. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352751.PNG"           /></a></div>
-<div         ><hr /><b>3580. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352829.PNG"           /></a></div>
-<div         ><hr /><b>3581. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352869.PNG"           /></a></div>
-<div         ><hr /><b>3582. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352892.PNG"           /></a></div>
-<div         ><hr /><b>3583. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352932.PNG"           /></a></div>
-<div         ><hr /><b>3584. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352944.PNG"           /></a></div>
-<div         ><hr /><b>3585. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352963.PNG"           /></a></div>
-<div         ><hr /><b>3586. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7352982.PNG"           /></a></div>
-<div         ><hr /><b>3587. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7353050.PNG"           /></a></div>
-<div         ><hr /><b>3588. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354090.PNG"           /></a></div>
-<div         ><hr /><b>3589. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354115.PNG"           /></a></div>
-<div         ><hr /><b>3590. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354186.PNG"           /></a></div>
-<div         ><hr /><b>3591. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354333.PNG"           /></a></div>
-<div         ><hr /><b>3592. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354357.PNG"           /></a></div>
-<div         ><hr /><b>3593. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354546.PNG"           /></a></div>
-<div         ><hr /><b>3594. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7354567.PNG"           /></a></div>
-<div         ><hr /><b>3595. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7355626.PNG"           /></a></div>
-<div         ><hr /><b>3596. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7355985.PNG"           /></a></div>
-<div         ><hr /><b>3597. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356007.PNG"           /></a></div>
-<div         ><hr /><b>3598. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356017.PNG"           /></a></div>
-<div         ><hr /><b>3599. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356265.PNG"           /></a></div>
-<div         ><hr /><b>3600. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356270.PNG"           /></a></div>
-<div         ><hr /><b>3601. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356305.PNG"           /></a></div>
-<div         ><hr /><b>3602. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7356331.PNG"           /></a></div>
-<div         ><hr /><b>3603. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7357790.PNG"           /></a></div>
-<div         ><hr /><b>3604. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7357987.PNG"           /></a></div>
-<div         ><hr /><b>3605. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358016.PNG"           /></a></div>
-<div         ><hr /><b>3606. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358029.PNG"           /></a></div>
-<div         ><hr /><b>3607. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358318.PNG"           /></a></div>
-<div         ><hr /><b>3608. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358338.PNG"           /></a></div>
-<div         ><hr /><b>3609. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358352.PNG"           /></a></div>
-<div         ><hr /><b>3610. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358376.PNG"           /></a></div>
-<div         ><hr /><b>3611. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358656.PNG"           /></a></div>
-<div         ><hr /><b>3612. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7358697.PNG"           /></a></div>
-<div         ><hr /><b>3613. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359247.PNG"           /></a></div>
-<div         ><hr /><b>3614. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359271.PNG"           /></a></div>
-<div         ><hr /><b>3615. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359314.PNG"           /></a></div>
-<div         ><hr /><b>3616. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359320.PNG"           /></a></div>
-<div         ><hr /><b>3617. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359332.PNG"           /></a></div>
-<div         ><hr /><b>3618. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359354.PNG"           /></a></div>
-<div         ><hr /><b>3619. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359408.PNG"           /></a></div>
-<div         ><hr /><b>3620. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359511.PNG"           /></a></div>
-<div         ><hr /><b>3621. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7359662.PNG"           /></a></div>
-<div         ><hr /><b>3622. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7361920.PNG"           /></a></div>
-<div         ><hr /><b>3623. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7362034.PNG"           /></a></div>
-<div         ><hr /><b>3624. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7362147.PNG"           /></a></div>
-<div         ><hr /><b>3625. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7364826.PNG"           /></a></div>
-<div         ><hr /><b>3626. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7366745.PNG"           /></a></div>
-<div         ><hr /><b>3627. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7366783.PNG"           /></a></div>
-<div         ><hr /><b>3628. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370121.PNG"           /></a></div>
-<div         ><hr /><b>3629. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370269.PNG"           /></a></div>
-<div         ><hr /><b>3630. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370291.PNG"           /></a></div>
-<div         ><hr /><b>3631. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370323.PNG"           /></a></div>
-<div         ><hr /><b>3632. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370403.PNG"           /></a></div>
-<div         ><hr /><b>3633. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7370465.PNG"           /></a></div>
-<div         ><hr /><b>3634. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7371947.PNG"           /></a></div>
-<div         ><hr /><b>3635. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7371992.PNG"           /></a></div>
-<div         ><hr /><b>3636. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7372396.PNG"           /></a></div>
+<div         ><hr /><b>    . 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7350502.PNG"           /></a></div>
+<div         ><hr /><b>3571. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7350508.PNG"           /></a></div>
+<div         ><hr /><b>3572. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7350518.PNG"           /></a></div>
+<div         ><hr /><b>3573. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7350535.PNG"           /></a></div>
+<div         ><hr /><b>3574. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7350650.PNG"           /></a></div>
+<div         ><hr /><b>3575. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352566.PNG"           /></a></div>
+<div         ><hr /><b>3576. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352572.PNG"           /></a></div>
+<div         ><hr /><b>3577. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352613.PNG"           /></a></div>
+<div         ><hr /><b>3578. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352742.PNG"           /></a></div>
+<div         ><hr /><b>3579. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352751.PNG"           /></a></div>
+<div         ><hr /><b>3580. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352829.PNG"           /></a></div>
+<div         ><hr /><b>3581. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352869.PNG"           /></a></div>
+<div         ><hr /><b>3582. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352892.PNG"           /></a></div>
+<div         ><hr /><b>3583. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352932.PNG"           /></a></div>
+<div         ><hr /><b>3584. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352944.PNG"           /></a></div>
+<div         ><hr /><b>3585. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352963.PNG"           /></a></div>
+<div         ><hr /><b>3586. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7352982.PNG"           /></a></div>
+<div         ><hr /><b>3587. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7353050.PNG"           /></a></div>
+<div         ><hr /><b>3588. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354090.PNG"           /></a></div>
+<div         ><hr /><b>3589. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354115.PNG"           /></a></div>
+<div         ><hr /><b>3590. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354186.PNG"           /></a></div>
+<div         ><hr /><b>3591. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354333.PNG"           /></a></div>
+<div         ><hr /><b>3592. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354357.PNG"           /></a></div>
+<div         ><hr /><b>3593. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354546.PNG"           /></a></div>
+<div         ><hr /><b>3594. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7354567.PNG"           /></a></div>
+<div         ><hr /><b>3595. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7355626.PNG"           /></a></div>
+<div         ><hr /><b>3596. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7355985.PNG"           /></a></div>
+<div         ><hr /><b>3597. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356007.PNG"           /></a></div>
+<div         ><hr /><b>3598. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356017.PNG"           /></a></div>
+<div         ><hr /><b>3599. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356265.PNG"           /></a></div>
+<div         ><hr /><b>3600. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356270.PNG"           /></a></div>
+<div         ><hr /><b>3601. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356305.PNG"           /></a></div>
+<div         ><hr /><b>3602. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7356331.PNG"           /></a></div>
+<div         ><hr /><b>3603. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7357790.PNG"           /></a></div>
+<div         ><hr /><b>3604. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7357987.PNG"           /></a></div>
+<div         ><hr /><b>3605. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358016.PNG"           /></a></div>
+<div         ><hr /><b>3606. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358029.PNG"           /></a></div>
+<div         ><hr /><b>3607. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358318.PNG"           /></a></div>
+<div         ><hr /><b>3608. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358338.PNG"           /></a></div>
+<div         ><hr /><b>3609. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358352.PNG"           /></a></div>
+<div         ><hr /><b>3610. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358376.PNG"           /></a></div>
+<div         ><hr /><b>3611. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358656.PNG"           /></a></div>
+<div         ><hr /><b>3612. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7358697.PNG"           /></a></div>
+<div         ><hr /><b>3613. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359247.PNG"           /></a></div>
+<div         ><hr /><b>3614. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359271.PNG"           /></a></div>
+<div         ><hr /><b>3615. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359314.PNG"           /></a></div>
+<div         ><hr /><b>3616. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359320.PNG"           /></a></div>
+<div         ><hr /><b>3617. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359332.PNG"           /></a></div>
+<div         ><hr /><b>3618. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359354.PNG"           /></a></div>
+<div         ><hr /><b>3619. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359408.PNG"           /></a></div>
+<div         ><hr /><b>3620. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359511.PNG"           /></a></div>
+<div         ><hr /><b>3621. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7359662.PNG"           /></a></div>
+<div         ><hr /><b>3622. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7361920.PNG"           /></a></div>
+<div         ><hr /><b>3623. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7362034.PNG"           /></a></div>
+<div         ><hr /><b>3624. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7362147.PNG"           /></a></div>
+<div         ><hr /><b>3625. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7364826.PNG"           /></a></div>
+<div         ><hr /><b>3626. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7366745.PNG"           /></a></div>
+<div         ><hr /><b>3627. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7366783.PNG"           /></a></div>
+<div         ><hr /><b>3628. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370121.PNG"           /></a></div>
+<div         ><hr /><b>3629. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370269.PNG"           /></a></div>
+<div         ><hr /><b>3630. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370291.PNG"           /></a></div>
+<div         ><hr /><b>3631. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370323.PNG"           /></a></div>
+<div         ><hr /><b>3632. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370403.PNG"           /></a></div>
+<div         ><hr /><b>3633. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7370465.PNG"           /></a></div>
+<div         ><hr /><b>3634. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7371947.PNG"           /></a></div>
+<div         ><hr /><b>3635. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7371992.PNG"           /></a></div>
+<div         ><hr /><b>3636. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7372396.PNG"           /></a></div>
 <div         ><hr /><b>3637. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/18.PNG"  /></a></div>
 <div         ><hr /><b>3638. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/20.PNG"  /></a></div>
 <div         ><hr /><b>3639. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/21.PNG"  /></a></div>
@@ -3877,8 +4793,8 @@
 <div         ><hr /><b>3642. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/24.PNG"  /></a></div>
 <div         ><hr /><b>3643. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/25.PNG"  /></a></div>
 <div         ><hr /><b>3644. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/26.PNG"  /></a></div>
-<div         ><hr /><b>3645. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7414599.PNG"           /></a></div>
-<div         ><hr /><b>3646. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7414768.PNG"           /></a></div>
+<div         ><hr /><b>3645. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7414599.PNG"           /></a></div>
+<div         ><hr /><b>3646. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7414768.PNG"           /></a></div>
 <div         ><hr /><b>3647. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/88.PNG"  /></a></div>
 <div         ><hr /><b>3648. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/89.PNG"  /></a></div>
 <div         ><hr /><b>3649. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/90.PNG"  /></a></div>
@@ -3899,116 +4815,117 @@
 <div         ><hr /><b>3664. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/105.PNG" /></a></div>
 <div         ><hr /><b>3665. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/106.PNG" /></a></div>
 <div         ><hr /><b>3666. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/107.PNG" /></a></div>
-<div         ><hr /><b>3667. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7505968.PNG"           /></a></div>
-<div         ><hr /><b>3668. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7506100.PNG"           /></a></div>
-<div         ><hr /><b>3669. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7506196.PNG"           /></a></div>
-<div         ><hr /><b>3670. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7509608.PNG"           /></a></div>
-<div         ><hr /><b>3671. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7509742.PNG"           /></a></div>
-<div         ><hr /><b>3672. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7509823.PNG"           /></a></div>
-<div         ><hr /><b>3673. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7509907.PNG"           /></a></div>
-<div         ><hr /><b>3674. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7510045.PNG"           /></a></div>
-<div         ><hr /><b>3675. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7510185.PNG"           /></a></div>
-<div         ><hr /><b>3676. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7510331.PNG"           /></a></div>
-<div         ><hr /><b>3677. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7510725.PNG"           /></a></div>
-<div         ><hr /><b>3678. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7514410.PNG"           /></a></div>
-<div         ><hr /><b>3679. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7514575.PNG"           /></a></div>
-<div         ><hr /><b>3680. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7514576.PNG"           /></a></div>
-<div         ><hr /><b>3681. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7515155.PNG"           /></a></div>
-<div         ><hr /><b>3682. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7515215.PNG"           /></a></div>
-<div         ><hr /><b>3683. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7515432.PNG"           /></a></div>
+<div         ><hr /><b>3667. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7505968.PNG"           /></a></div>
+<div         ><hr /><b>3668. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7506100.PNG"           /></a></div>
+<div         ><hr /><b>3669. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7506196.PNG"           /></a></div>
+<div         ><hr /><b>3670. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7509608.PNG"           /></a></div>
+<div         ><hr /><b>3671. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7509742.PNG"           /></a></div>
+<div         ><hr /><b>3672. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7509823.PNG"           /></a></div>
+<div         ><hr /><b>3673. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7509907.PNG"           /></a></div>
+<div         ><hr /><b>3674. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7510045.PNG"           /></a></div>
+<div         ><hr /><b>3675. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7510185.PNG"           /></a></div>
+<div         ><hr /><b>3676. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7510331.PNG"           /></a></div>
+<div         ><hr /><b>3677. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7510725.PNG"           /></a></div>
+<div         ><hr /><b>3678. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7514410.PNG"           /></a></div>
+<div         ><hr /><b>3679. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7514575.PNG"           /></a></div>
+<div         ><hr /><b>3680. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7514576.PNG"           /></a></div>
+<div         ><hr /><b>3681. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7515155.PNG"           /></a></div>
+<div         ><hr /><b>3682. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7515215.PNG"           /></a></div>
+<div         ><hr /><b>3683. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7515432.PNG"           /></a></div>
 <div         ><hr /><b>3684. 8kun /projectDcomms/ General # </b><br /><a href="" target="_blank"><img src="images/8kun-projectDcomms/108.PNG" /></a></div>
-<div         ><hr /><b>3685. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7516458.PNG"           /></a></div>
-<div         ><hr /><b>3686. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7516493.PNG"           /></a></div>
-<div         ><hr /><b>3687. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7516494.PNG"           /></a></div>
-<div         ><hr /><b>3688. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7516580.PNG"           /></a></div>
-<div         ><hr /><b>3689. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7517694.PNG"           /></a></div>
-<div         ><hr /><b>3690. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7517929.PNG"           /></a></div>
-<div         ><hr /><b>3691. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7517965.PNG"           /></a></div>
-<div         ><hr /><b>3692. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7518466.PNG"           /></a></div>
-<div         ><hr /><b>3693. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7526428.PNG"           /></a></div>
-<div         ><hr /><b>3694. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7526471.PNG"           /></a></div>
-<div         ><hr /><b>3695. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7526592.PNG"           /></a></div>
-<div         ><hr /><b>3696. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7526736.PNG"           /></a></div>
-<div         ><hr /><b>3697. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7527653.PNG"           /></a></div>
-<div         ><hr /><b>3698. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7527706.PNG"           /></a></div>
-<div         ><hr /><b>3699. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7528243.PNG"           /></a></div>
-<div         ><hr /><b>3700. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7531841.PNG"           /></a></div>
-<div         ><hr /><b>3701. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535097.PNG"           /></a></div>
-<div         ><hr /><b>3702. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535322.PNG"           /></a></div>
-<div         ><hr /><b>3703. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535511.PNG"           /></a></div>
-<div         ><hr /><b>3704. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535766.PNG"           /></a></div>
-<div         ><hr /><b>3705. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535903.PNG"           /></a></div>
-<div         ><hr /><b>3706. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7535971.PNG"           /></a></div>
-<div         ><hr /><b>3707. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536127.PNG"           /></a></div>
-<div         ><hr /><b>3708. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536175.PNG"           /></a></div>
-<div         ><hr /><b>3709. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536253.PNG"           /></a></div>
-<div         ><hr /><b>3710. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536304.PNG"           /></a></div>
-<div         ><hr /><b>3711. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536374.PNG"           /></a></div>
-<div         ><hr /><b>3712. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7536956.PNG"           /></a></div>
-<div         ><hr /><b>3713. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7537296.PNG"           /></a></div>
-<div         ><hr /><b>3714. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7537697.PNG"           /></a></div>
-<div         ><hr /><b>3715. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7538064.PNG"           /></a></div>
-<div         ><hr /><b>3716. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7538263.PNG"           /></a></div>
-<div         ><hr /><b>3717. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7538264.PNG"           /></a></div>
-<div         ><hr /><b>3718. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7547301.PNG"           /></a></div>
-<div         ><hr /><b>3719. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7548055.PNG"           /></a></div>
-<div         ><hr /><b>3720. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7548150.PNG"           /></a></div>
-<div         ><hr /><b>3721. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7548685.PNG"           /></a></div>
-<div         ><hr /><b>3722. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7555041.PNG"           /></a></div>
-<div         ><hr /><b>3723. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7555229.PNG"           /></a></div>
-<div         ><hr /><b>3724. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7555466.PNG"           /></a></div>
-<div         ><hr /><b>3725. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7555708.PNG"           /></a></div>
-<div         ><hr /><b>3726. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7556837.PNG"           /></a></div>
-<div         ><hr /><b>3727. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7557024.PNG"           /></a></div>
-<div         ><hr /><b>3728. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7557137.PNG"           /></a></div>
-<div         ><hr /><b>3729. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7557331.PNG"           /></a></div>
-<div         ><hr /><b>3730. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7557886.PNG"           /></a></div>
-<div         ><hr /><b>3731. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7560746.PNG"           /></a></div>
-<div         ><hr /><b>3732. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7560892.PNG"           /></a></div>
-<div         ><hr /><b>3733. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7561019.PNG"           /></a></div>
-<div         ><hr /><b>3734. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7561132.PNG"           /></a></div>
-<div         ><hr /><b>3735. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7561162.PNG"           /></a></div>
-<div         ><hr /><b>3736. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7561211.PNG"           /></a></div>
-<div         ><hr /><b>3737. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7561326.PNG"           /></a></div>
-<div         ><hr /><b>3738. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7563273.PNG"           /></a></div>
-<div         ><hr /><b>3739. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7563274.PNG"           /></a></div>
-<div         ><hr /><b>3740. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7592211.PNG"           /></a></div>
-<div         ><hr /><b>3741. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7592347.PNG"           /></a></div>
-<div         ><hr /><b>3742. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7592981.PNG"           /></a></div>
-<div         ><hr /><b>3743. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7593340.PNG"           /></a></div>
-<div         ><hr /><b>3744. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7593358.PNG"           /></a></div>
-<div         ><hr /><b>3745. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7593781.PNG"           /></a></div>
-<div         ><hr /><b>3746. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7593873.PNG"           /></a></div>
-<div         ><hr /><b>3747. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7593909.PNG"           /></a></div>
-<div         ><hr /><b>3748. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7599136.PNG"           /></a></div>
-<div         ><hr /><b>3749. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7599338.PNG"           /></a></div>
-<div         ><hr /><b>3750. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7599466.PNG"           /></a></div>
-<div         ><hr /><b>3751. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7600081.PNG"           /></a></div>
-<div         ><hr /><b>3752. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7600194.PNG"           /></a></div>
-<div         ><hr /><b>3753. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7600322.PNG"           /></a></div>
-<div         ><hr /><b>3754. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7634396.PNG"           /></a></div>
-<div         ><hr /><b>3755. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7634563.PNG"           /></a></div>
-<div         ><hr /><b>3756. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7638149.PNG"           /></a></div>
-<div         ><hr /><b>3757. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7638205.PNG"           /></a></div>
-<div         ><hr /><b>3758. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7638553.PNG"           /></a></div>
-<div         ><hr /><b>3759. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7639247.PNG"           /></a></div>
-<div         ><hr /><b>3760. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7640038.PNG"           /></a></div>
-<div         ><hr /><b>3761. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643055.PNG"           /></a></div>
-<div         ><hr /><b>3762. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643247.PNG"           /></a></div>
-<div         ><hr /><b>3763. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643289.PNG"           /></a></div>
-<div         ><hr /><b>3764. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643842.PNG"           /></a></div>
-<div         ><hr /><b>3765. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643917.PNG"           /></a></div>
-<div         ><hr /><b>3766. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7643985.PNG"           /></a></div>
-<div         ><hr /><b>3767. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7645614.PNG"           /></a></div>
-<div         ><hr /><b>3768. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7653316.PNG"           /></a></div>
-<div         ><hr /><b>3769. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7653342.PNG"           /></a></div>
-<div         ><hr /><b>3770. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/7653478.PNG"           /></a></div>
+<div         ><hr /><b>3685. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7516458.PNG"           /></a></div>
+<div         ><hr /><b>3686. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7516493.PNG"           /></a></div>
+<div         ><hr /><b>3687. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7516494.PNG"           /></a></div>
+<div         ><hr /><b>3688. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7516580.PNG"           /></a></div>
+<div         ><hr /><b>3689. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7517694.PNG"           /></a></div>
+<div         ><hr /><b>3690. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7517929.PNG"           /></a></div>
+<div         ><hr /><b>3691. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7517965.PNG"           /></a></div>
+<div         ><hr /><b>3692. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7518466.PNG"           /></a></div>
+<div         ><hr /><b>3693. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7526428.PNG"           /></a></div>
+<div         ><hr /><b>3694. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7526471.PNG"           /></a></div>
+<div         ><hr /><b>3695. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7526592.PNG"           /></a></div>
+<div         ><hr /><b>3696. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7526736.PNG"           /></a></div>
+<div         ><hr /><b>3697. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7527653.PNG"           /></a></div>
+<div         ><hr /><b>3698. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7527706.PNG"           /></a></div>
+<div         ><hr /><b>3699. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7528243.PNG"           /></a></div>
+<div         ><hr /><b>3700. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7531841.PNG"           /></a></div>
+<div         ><hr /><b>3701. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535097.PNG"           /></a></div>
+<div         ><hr /><b>3702. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535322.PNG"           /></a></div>
+<div         ><hr /><b>3703. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535511.PNG"           /></a></div>
+<div         ><hr /><b>3704. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535766.PNG"           /></a></div>
+<div         ><hr /><b>3705. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535903.PNG"           /></a></div>
+<div         ><hr /><b>3706. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7535971.PNG"           /></a></div>
+<div         ><hr /><b>3707. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536127.PNG"           /></a></div>
+<div         ><hr /><b>3708. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536175.PNG"           /></a></div>
+<div         ><hr /><b>3709. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536253.PNG"           /></a></div>
+<div         ><hr /><b>3710. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536304.PNG"           /></a></div>
+<div         ><hr /><b>3711. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536374.PNG"           /></a></div>
+<div         ><hr /><b>3712. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7536956.PNG"           /></a></div>
+<div         ><hr /><b>3713. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7537296.PNG"           /></a></div>
+<div         ><hr /><b>3714. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7537697.PNG"           /></a></div>
+<div         ><hr /><b>3715. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7538064.PNG"           /></a></div>
+<div         ><hr /><b>3716. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7538263.PNG"           /></a></div>
+<div         ><hr /><b>3717. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7538264.PNG"           /></a></div>
+<div         ><hr /><b>3718. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7547301.PNG"           /></a></div>
+<div         ><hr /><b>3719. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7548055.PNG"           /></a></div>
+<div         ><hr /><b>3720. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7548150.PNG"           /></a></div>
+<div         ><hr /><b>3721. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7548685.PNG"           /></a></div>
+<div         ><hr /><b>3722. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7555041.PNG"           /></a></div>
+<div         ><hr /><b>3723. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7555229.PNG"           /></a></div>
+<div         ><hr /><b>3724. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7555466.PNG"           /></a></div>
+<div         ><hr /><b>3725. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7555708.PNG"           /></a></div>
+<div         ><hr /><b>3726. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7556837.PNG"           /></a></div>
+<div         ><hr /><b>3727. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7557024.PNG"           /></a></div>
+<div         ><hr /><b>3728. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7557137.PNG"           /></a></div>
+<div         ><hr /><b>3729. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7557331.PNG"           /></a></div>
+<div         ><hr /><b>3730. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7557886.PNG"           /></a></div>
+<div         ><hr /><b>3731. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7560746.PNG"           /></a></div>
+<div         ><hr /><b>3732. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7560892.PNG"           /></a></div>
+<div         ><hr /><b>3733. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7561019.PNG"           /></a></div>
+<div         ><hr /><b>3734. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7561132.PNG"           /></a></div>
+<div         ><hr /><b>3735. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7561162.PNG"           /></a></div>
+<div         ><hr /><b>3736. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7561211.PNG"           /></a></div>
+<div         ><hr /><b>3737. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7561326.PNG"           /></a></div>
+<div         ><hr /><b>3738. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7563273.PNG"           /></a></div>
+<div         ><hr /><b>3739. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7563274.PNG"           /></a></div>
+<div         ><hr /><b>3740. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7592211.PNG"           /></a></div>
+<div         ><hr /><b>3741. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7592347.PNG"           /></a></div>
+<div         ><hr /><b>3742. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7592981.PNG"           /></a></div>
+<div         ><hr /><b>3743. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7593340.PNG"           /></a></div>
+<div         ><hr /><b>3744. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7593358.PNG"           /></a></div>
+<div         ><hr /><b>3745. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7593781.PNG"           /></a></div>
+<div         ><hr /><b>3746. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7593873.PNG"           /></a></div>
+<div         ><hr /><b>3747. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7593909.PNG"           /></a></div>
+<div         ><hr /><b>3748. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7599136.PNG"           /></a></div>
+<div         ><hr /><b>3749. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7599338.PNG"           /></a></div>
+<div         ><hr /><b>3750. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7599466.PNG"           /></a></div>
+<div         ><hr /><b>3751. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7600081.PNG"           /></a></div>
+<div         ><hr /><b>3752. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7600194.PNG"           /></a></div>
+<div         ><hr /><b>3753. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7600322.PNG"           /></a></div>
+<div         ><hr /><b>3754. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7634396.PNG"           /></a></div>
+<div         ><hr /><b>3755. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7634563.PNG"           /></a></div>
+<div         ><hr /><b>3756. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7638149.PNG"           /></a></div>
+<div         ><hr /><b>3757. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7638205.PNG"           /></a></div>
+<div         ><hr /><b>3758. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7638553.PNG"           /></a></div>
+<div         ><hr /><b>3759. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7639247.PNG"           /></a></div>
+<div         ><hr /><b>3760. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7640038.PNG"           /></a></div>
+<div         ><hr /><b>3761. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643055.PNG"           /></a></div>
+<div         ><hr /><b>3762. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643247.PNG"           /></a></div>
+<div         ><hr /><b>3763. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643289.PNG"           /></a></div>
+<div         ><hr /><b>3764. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643842.PNG"           /></a></div>
+<div         ><hr /><b>3765. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643917.PNG"           /></a></div>
+<div         ><hr /><b>3766. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7643985.PNG"           /></a></div>
+<div         ><hr /><b>3767. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7645614.PNG"           /></a></div>
+<div         ><hr /><b>3768. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7653316.PNG"           /></a></div>
+<div         ><hr /><b>3769. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7653342.PNG"           /></a></div>
+<div         ><hr /><b>3770. 8kun /qresearch/ General # </b><br /><a href="" target="_blank"><img src="images/8kun/qcaps/7653478.PNG"           /></a></div>
 
 <!-- 3771 -->
+<span id="q3771"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3771. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:21:48 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="http://8kun.top/qresearch/res/7653467.html#7653595" target="_blank">7653595</a></span><span class="savetodisk"> <a href="images/8kun/7653595.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3771. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:21:48 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="http://8kun.top/qresearch/res/7653467.html#7653595" target="_blank">7653595</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7653595.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305" target="_blank">https://twitter.com/AnonMonkeyMan1/status/1211325750713954305</a></span>
@@ -4018,13 +4935,13 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Russia didn't hack the server!</p>&mdash; Monkey Man (@AnonMonkeyMan1) <a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span>
-		  <span class="savetodisk"><a href="images/mediapics&caps/7653595a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7653595a.PNG" alt="So Russia didn't hack the server! - Monkey Man (@AnonMonkeyMan1)"/></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7653595a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<span class="embedlink"> [tweeted video
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/7653595b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/7653595b.mp4" target="_blank" download> 🖫</a></span>]
 		
 		<br />Do you believe in coincidences?
@@ -4037,10 +4954,11 @@
 <br />
 
 <!-- 3772 -->
+<span id="q3772"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3772. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:39:23 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653791" target="_blank">7653791</a></span> <span class="savetodisk"><a href="images/8kun/7653791.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3772. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:39:23 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653791" target="_blank">7653791</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653791.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>7653597</span>
@@ -4049,21 +4967,21 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 					<br />
-					<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/7653597.PNG" target="_blank" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
 							<span class="file1">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597a.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597a.PNG" download>🖫</a></span><span> (329 KB, 255x226, 608:539)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597a.PNG" alt="7653597a.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597a.PNG" alt="7653597a.PNG" /></span></span>
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597a.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597a.PNG" download>🖫</a></span><span> (329 KB, 255x226, 608:539)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597a.PNG" alt="7653597a.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597a.PNG" alt="7653597a.PNG" /></span></span>
 							</span>
 							<span class="file2">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597b.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597b.PNG" download>🖫</a></span><span> (3522 KB, 191x255, 1536:2048)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597b.PNG" alt="7653597b.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597b.PNG" alt="7653597b.PNG" /></span></span>
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597b.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597b.PNG" download>🖫</a></span><span> (3522 KB, 191x255, 1536:2048)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597b.PNG" alt="7653597b.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597b.PNG" alt="7653597b.PNG" /></span></span>
 							</span>
 							<span class="file3">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597c.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597c.PNG" download>🖫</a></span><span> (3527 KB, 255x191, 2048:1536)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597c.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597c.PNG" download>🖫</a></span><span> (3527 KB, 255x191, 2048:1536)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
@@ -4081,21 +4999,21 @@
 			<span class="quotedpost">
 				<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 				<br />
-				<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/7653597.PNG" target="_blank" download>🖫</a></span></span>
+				<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
 				<br />
 				<span class="postcontent">
 					<span class="postfiles">
 						<span class="file1">
-							<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597a.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597a.PNG" download>🖫</a></span><span> (329 KB, 255x226, 608:539)</span></span><br />
-							<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597a.PNG" alt="7653597a.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597a.PNG" alt="7653597a.PNG" /></span></span>
+							<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597a.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597a.PNG" download>🖫</a></span><span> (329 KB, 255x226, 608:539)</span></span><br />
+							<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597a.PNG" alt="7653597a.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597a.PNG" alt="7653597a.PNG" /></span></span>
 						</span>
 						<span class="file2">
-							<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597b.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597b.PNG" download>🖫</a></span><span> (3522 KB, 191x255, 1536:2048)</span></span><br />
-							<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597b.PNG" alt="7653597b.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597b.PNG" alt="7653597b.PNG" /></span></span>
+							<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597b.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597b.PNG" download>🖫</a></span><span> (3522 KB, 191x255, 1536:2048)</span></span><br />
+							<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597b.PNG" alt="7653597b.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597b.PNG" alt="7653597b.PNG" /></span></span>
 						</span>
 						<span class="file3">
-							<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/7653597c.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/anonuploads/7653597c.PNG" download>🖫</a></span><span> (3527 KB, 255x191, 2048:1536)</span></span><br />
-							<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
+							<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/7653597c.PNG" target="_blank">ClipboardImage.PNG</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/7653597c.PNG" download>🖫</a></span><span> (3527 KB, 255x191, 2048:1536)</span></span><br />
+							<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
 						</span>
 					</span>
 					<span class="posttext" style="display:block; float:left;">
@@ -4121,16 +5039,17 @@
 <br />
 
 <!-- 3773 -->
+<span id="q3773"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3773. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:45:14 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653873" target="_blank">7653873</a></span> <span class="savetodisk"><a href="images/8kun/7653873.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3773. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:45:14 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653873" target="_blank">7653873</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653873.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/EM-MyCLUYAAaTCD.png-large.png" target="_blank">EM-MyCLUYAAaTCD.png-large.png</a></span> <span class="savetodisk"><a href="images/quploads/EM-MyCLUYAAaTCD.png-large.png" download>🖫</a></span><span> (113.21 KB, 440x843, 440:843)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" target="_blank">EM-MyCLUYAAaTCD.png-large.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" download>🖫</a></span><span> (113.21 KB, 440x843, 440:843)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4144,10 +5063,11 @@
 <br />
 
 <!-- 3774 -->
+<span id="q3774"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3774. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 13:06:19 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7654139" target="_blank">7654139</a></span><span class="savetodisk"> <a href="images/8kun/7654139.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3774. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 13:06:19 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7654139" target="_blank">7654139</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7654139.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		If Russia didn't [hack] the DNC (insider breach)…..
@@ -4168,10 +5088,11 @@
 <br />
 
 <!-- 3775 -->
+<span id="q3775"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3775. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:36:23 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859294" target="_blank">7859294</a></span> <span class="savetodisk"><a href="images/8kun/7859294.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3775. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:36:23 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859294" target="_blank">7859294</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859294.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>7859255</span>
@@ -4180,13 +5101,13 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/anoncaps/7859255.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
 							<span class="file1">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" target="_blank">c0503b35...7d07e9.png</a></span> <span class="savetodisk"><a href="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" download>🖫</a></span><span> (4.3 KB, 308x86, 154:43)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" target="_blank">c0503b35...7d07e9.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" download>🖫</a></span><span> (4.3 KB, 308x86, 154:43)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
@@ -4204,13 +5125,13 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/anoncaps/7859255.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
 							<span class="file1">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" target="_blank">c0503b35...7d07e9.png</a></span> <span class="savetodisk"><a href="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" download>🖫</a></span><span> (4.3 KB, 308x86, 154:43)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" target="_blank">c0503b35...7d07e9.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" download>🖫</a></span><span> (4.3 KB, 308x86, 154:43)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
@@ -4229,10 +5150,11 @@
 <br />
 
 <!-- 3776 -->
+<span id="q3776"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">10059</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3776. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:24:46 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859207" target="_blank">7859207</a></span> <span class="savetodisk"><a href="images/8kun/7859207.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3776. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:24:46 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859207" target="_blank">7859207</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859207.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		THE GREAT AWAKENING.
@@ -4244,10 +5166,11 @@
 <br />
 
 <!-- 3777 -->
+<span id="q3777"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7863948.html" target="_blank">10065</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3777. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/20/20 (Mon) 23:18:10 </span><span class="postID" style="color:white; background-color:#8ac2bc">ID: 8ac2bc</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7864137" target="_blank">7864137</a></span> <span class="savetodisk"><a href="images/8kun/7864137.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3777. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/20/20 (Mon) 23:18:10 </span><span class="postID" style="color:white; background-color:#8ac2bc">ID: 8ac2bc</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7864137" target="_blank">7864137</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7864137.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=8y06NSBBRtY" target="_blank">https://www.youtube.com/watch?v=8y06NSBBRtY</a> 
@@ -4257,13 +5180,13 @@
 		<span class="quotecontentexpand"><iframe width="720" height="480" src="https://www.youtube.com/embed/8y06NSBBRtY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 	
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span>
-				 <span class="savetodisk"><a href="images/mediapics&caps/7864137a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7864137a.PNG" alt="Eisenhower warns us of the military industrial complex." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7864137a.PNG" target="_blank" download> 🖫</a></span>]
 					 
 		<span class="embedlink"> [local
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/7864137b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/7864137b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
@@ -4274,10 +5197,11 @@
 <br />
 
 <!-- 3778 -->
+<span id="q3778"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3778. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:06:47 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866851" target="_blank">7866851</a></span> <span class="savetodisk"><a href="images/8kun/7866851.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3778. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:06:47 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866851" target="_blank">7866851</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866851.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		[D] party leaders [‘Big 5’]:
@@ -4294,9 +5218,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.judicialwatch.org/press-releases/california-begins-massive-voter-roll-clean-up-notifies-up-to-1-5-million-inactive-voters-as-part-of-judicial-watch-lawsuit-settlement/"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/7866851a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7866851a.PNG" alt="California begins massive voter roll clean-up." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7866851a.PNG" target="_blank" download> 🖫</a></span>]
 			
 		<br /><a href="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/" target="_blank">https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/</a>	
 	
@@ -4305,9 +5229,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/7866851b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/7866851b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/7866851b.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7866851b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7866851b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7866851b.PNG" target="_blank" download> 🖫</a></span>]
 	
 		<br />Leverage (control) dictates how far you rise within the [D] party.
 		<br />Q
@@ -4318,10 +5242,11 @@
 <br />
 
 <!-- 3779 -->
+<span id="q3779"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3779. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:07:34 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/7866857.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3779. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:07:34 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		They are not attempting to remove POTUS from office.
@@ -4335,10 +5260,11 @@
 <br />
 
 <!-- 3780 -->
+<span id="q3780"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3780. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:09:27 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/7866857.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3780. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:09:27 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/realDonaldTrump/status/1219698190129225728" target="_blank">https://twitter.com/realDonaldTrump/status/1219698190129225728</a></span>
@@ -4348,9 +5274,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">READ THE TRANSCRIPTS!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1219698190129225728?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/7866857a.PNG" alt="READ THE TRANSCRIPTS! - Donald J. Trump (@realDonaldTrump)" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/7866857a.PNG" alt="READ THE TRANSCRIPTS! - Donald J. Trump (@realDonaldTrump)" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/7866857a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7866857a.PNG" alt="READ THE TRANSCRIPTS! - Donald J. Trump (@realDonaldTrump)" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7866857a.PNG" alt="READ THE TRANSCRIPTS! - Donald J. Trump (@realDonaldTrump)" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7866857a.PNG" target="_blank" download> 🖫</a></span>]
 	
 		<br />Delta?
 		<br />Q
@@ -4360,78 +5286,79 @@
 </span>
 <br />
 
-<div         ><hr /><b>3781. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7867006" target="_blank"><img src="images/8kun/7867006.PNG" /></a></div>
-<div         ><hr /><b>3782. 8kun /qresearch/ General #10082   </b><br /><a href="https://8kun.top/qresearch/res/7878215.html#7878541" target="_blank"><img src="images/8kun/7878541.PNG" /></a></div>
-<div         ><hr /><b>3783. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7883925" target="_blank"><img src="images/8kun/7883925.PNG" /></a></div>
-<div         ><hr /><b>3784. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884016" target="_blank"><img src="images/8kun/7884016.PNG" /></a></div>
-<div         ><hr /><b>3785. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884140" target="_blank"><img src="images/8kun/7884140.PNG" /></a></div>
-<div         ><hr /><b>3786. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7886759" target="_blank"><img src="images/8kun/7886759.PNG" /></a></div>
-<div         ><hr /><b>3787. 8kun /qresearch/ General #10095   </b><br /><a href="https://8kun.top/qresearch/res/7888466.html#7889231" target="_blank"><img src="images/8kun/7889231.PNG" /></a></div>
-<div         ><hr /><b>3788. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889726" target="_blank"><img src="images/8kun/7889726.PNG" /></a></div>
-<div         ><hr /><b>3789. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889793" target="_blank"><img src="images/8kun/7889793.PNG" /></a></div>
-<div         ><hr /><b>3790. 8kun /qresearch/ General #10097   </b><br /><a href="https://8kun.top/qresearch/res/7890044.html#7890598" target="_blank"><img src="images/8kun/7890598.PNG" /></a></div>
-<div         ><hr /><b>3791. 8kun /qresearch/ General #10098   </b><br /><a href="https://8kun.top/qresearch/res/7890810.html#7890949" target="_blank"><img src="images/8kun/7890949.PNG" /></a></div>
-<div         ><hr /><b>3792. 8kun /qresearch/ General #10099   </b><br /><a href="https://8kun.top/qresearch/res/7891628.html#7891764" target="_blank"><img src="images/8kun/7891764.PNG" /></a></div>
-<div         ><hr /><b>3793. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7892407" target="_blank"><img src="images/8kun/7892407.PNG" /></a></div>
-<div         ><hr /><b>3794. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7893008" target="_blank"><img src="images/8kun/7893008.PNG" /></a></div>
-<div         ><hr /><b>3795. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942579" target="_blank"><img src="images/8kun/7942579.PNG" /></a></div>
-<div         ><hr /><b>3796. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942595" target="_blank"><img src="images/8kun/7942595.PNG" /></a></div>
-<div         ><hr /><b>3797. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942766" target="_blank"><img src="images/8kun/7942766.PNG" /></a></div>
-<div         ><hr /><b>3798. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942926" target="_blank"><img src="images/8kun/7942926.PNG" /></a></div>
-<div         ><hr /><b>3799. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7943219" target="_blank"><img src="images/8kun/7943219.PNG" /></a></div>
-<div         ><hr /><b>3800. 8kun /qresearch/ General #10166   </b><br /><a href="https://8kun.top/qresearch/res/7943160.html#7943347" target="_blank"><img src="images/8kun/7943347.PNG" /></a></div>
-<div         ><hr /><b>3801. 8kun /qresearch/ General #10166   </b><br /><a href="https://8kun.top/qresearch/res/7943160.html#7943948" target="_blank"><img src="images/8kun/7943948.PNG" /></a></div>
-<div         ><hr /><b>3802. 8kun /qresearch/ General #10168   </b><br /><a href="https://8kun.top/qresearch/res/7944753.html#7944852" target="_blank"><img src="images/8kun/7944852.PNG" /></a></div>
-<div         ><hr /><b>3803. 8kun /qresearch/ General #10168   </b><br /><a href="https://8kun.top/qresearch/res/7944753.html#7944883" target="_blank"><img src="images/8kun/7944883.PNG" /></a></div>
-<div         ><hr /><b>3804. 8kun /qresearch/ General #10170   </b><br /><a href="https://8kun.top/qresearch/res/7946250.html#7946899" target="_blank"><img src="images/8kun/7946899.PNG" /></a></div>
-<div         ><hr /><b>3805. 8kun /qresearch/ General #10173   </b><br /><a href="https://8kun.top/qresearch/res/7948573.html#7949075" target="_blank"><img src="images/8kun/7949075.PNG" /></a></div>
-<div         ><hr /><b>3806. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965632" target="_blank"><img src="images/8kun/7965632.PNG" /></a></div>
-<div         ><hr /><b>3807. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965818" target="_blank"><img src="images/8kun/7965818.PNG" /></a></div>
-<div         ><hr /><b>3808. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965971" target="_blank"><img src="images/8kun/7965971.PNG" /></a></div>
-<div         ><hr /><b>3809. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7966134" target="_blank"><img src="images/8kun/7966134.PNG" /></a></div>
-<div         ><hr /><b>3810. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966643" target="_blank"><img src="images/8kun/7966643.PNG" /></a></div>
-<div         ><hr /><b>3811. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966693" target="_blank"><img src="images/8kun/7966693.PNG" /></a></div>
-<div         ><hr /><b>3812. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966781" target="_blank"><img src="images/8kun/7966781.PNG" /></a></div>
-<div         ><hr /><b>3813. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7967013" target="_blank"><img src="images/8kun/7967013.PNG" /></a></div>
-<div         ><hr /><b>3814. 8kun /qresearch/ General #10198   </b><br /><a href="https://8kun.top/qresearch/res/7967897.html#7968579" target="_blank"><img src="images/8kun/7968579.PNG" /></a></div>
-<div         ><hr /><b>3815. 8kun /qresearch/ General #10211   </b><br /><a href="https://8kun.top/qresearch/res/7977959.html#7978436" target="_blank"><img src="images/8kun/7978436.PNG" /></a></div>
-<div         ><hr /><b>3816. 8kun /qresearch/ General #10211   </b><br /><a href="https://8kun.top/qresearch/res/7977959.html#7978543" target="_blank"><img src="images/8kun/7978543.PNG" /></a></div>
-<div         ><hr /><b>3817. 8kun /qresearch/ General #10212   </b><br /><a href="https://8kun.top/qresearch/res/7978655.html#7978821" target="_blank"><img src="images/8kun/7978821.PNG" /></a></div>
-<div         ><hr /><b>3818. 8kun /qresearch/ UK General #11   </b><br /><a href="https://8kun.top/qresearch/res/7887749.html#7982927" target="_blank"><img src="images/8kun/7982927.PNG" /></a></div>
-<div         ><hr /><b>3819. 8kun /qresearch/ General #10227   </b><br /><a href="https://8kun.top/qresearch/res/7990440.html#7990469" target="_blank"><img src="images/8kun/7990469.PNG" /></a></div>
-<div         ><hr /><b>3820. 8kun /qresearch/ General #10227   </b><br /><a href="https://8kun.top/qresearch/res/7990440.html#7991149" target="_blank"><img src="images/8kun/7991149.PNG" /></a></div>
-<div         ><hr /><b>3821. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991360" target="_blank"><img src="images/8kun/7991360.PNG" /></a></div>
-<div         ><hr /><b>3822. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991417" target="_blank"><img src="images/8kun/7991417.PNG" /></a></div>
-<div         ><hr /><b>3823. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991504" target="_blank"><img src="images/8kun/7991504.PNG" /></a></div>
-<div         ><hr /><b>3824. 8kun /qresearch/ General #10255   </b><br /><a href="https://8kun.top/qresearch/res/8011984.html#8012209" target="_blank"><img src="images/8kun/8012209.PNG" /></a></div>
-<div         ><hr /><b>3825. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031268" target="_blank"><img src="images/8kun/8031268.PNG" /></a></div>
-<div         ><hr /><b>3826. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031555" target="_blank"><img src="images/8kun/8031555.PNG" /></a></div>
-<div         ><hr /><b>3827. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031606" target="_blank"><img src="images/8kun/8031606.PNG" /></a></div>
-<div         ><hr /><b>3828. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031718" target="_blank"><img src="images/8kun/8031718.PNG" /></a></div>
-<div         ><hr /><b>3829. 8kun /qresearch/ General #10285   </b><br /><a href="https://8kun.top/qresearch/res/8034992.html#8035738" target="_blank"><img src="images/8kun/8035738.PNG" /></a></div>
-<div         ><hr /><b>3830. 8kun /qresearch/ General #10285   </b><br /><a href="https://8kun.top/qresearch/res/8034992.html#8035785" target="_blank"><img src="images/8kun/8035785.PNG" /></a></div>
-<div         ><hr /><b>3831. 8kun /qresearch/ General #10286   </b><br /><a href="https://8kun.top/qresearch/res/8035768.html#8035891" target="_blank"><img src="images/8kun/8035891.PNG" /></a></div>
-<div         ><hr /><b>3832. 8kun /qresearch/ General #10286   </b><br /><a href="https://8kun.top/qresearch/res/8035768.html#8036471" target="_blank"><img src="images/8kun/8036471.PNG" /></a></div>
-<div         ><hr /><b>3833. 8kun /qresearch/ General #10288   </b><br /><a href="https://8kun.top/qresearch/res/8037265.html#8037506" target="_blank"><img src="images/8kun/8037506.PNG" /></a></div>
-<div         ><hr /><b>3834. 8kun /qresearch/ General #10293   </b><br /><a href="https://8kun.top/qresearch/res/8041124.html#8041940" target="_blank"><img src="images/8kun/8041940.PNG" /></a></div>
-<div         ><hr /><b>3835. 8kun /qresearch/ General #10312   </b><br /><a href="https://8kun.top/qresearch/res/8056066.html#8056165" target="_blank"><img src="images/8kun/8056165.PNG" /></a></div>
-<div         ><hr /><b>3836. 8kun /qresearch/ General #10312   </b><br /><a href="https://8kun.top/qresearch/res/8056066.html#8056704" target="_blank"><img src="images/8kun/8056704.PNG" /></a></div>
-<div         ><hr /><b>3837. 8kun /qresearch/ General #10313   </b><br /><a href="https://8kun.top/qresearch/res/8056796.html#8057064" target="_blank"><img src="images/8kun/8057064.PNG" /></a></div>
-<div         ><hr /><b>3838. 8kun /qresearch/ General #10313   </b><br /><a href="https://8kun.top/qresearch/res/8056796.html#8057450" target="_blank"><img src="images/8kun/8057450.PNG" /></a></div>
-<div         ><hr /><b>3839. 8kun /qresearch/ General #10314   </b><br /><a href="https://8kun.top/qresearch/res/8057550.html#8057691" target="_blank"><img src="images/8kun/8057691.PNG" /></a></div>
-<div         ><hr /><b>3840. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061713" target="_blank"><img src="images/8kun/8061713.PNG" /></a></div>
-<div         ><hr /><b>3841. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061906" target="_blank"><img src="images/8kun/8061906.PNG" /></a></div>
-<div         ><hr /><b>3842. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8062147" target="_blank"><img src="images/8kun/8062147.PNG" /></a></div>
-<div         ><hr /><b>3843. 8kun /qresearch/ General #10335   </b><br /><a href="https://8kun.top/qresearch/res/8073778.html#8074053" target="_blank"><img src="images/8kun/8074053.PNG" /></a></div>
-<div         ><hr /><b>3844. 8kun /qresearch/ General #10335   </b><br /><a href="https://8kun.top/qresearch/res/8073778.html#8074542" target="_blank"><img src="images/8kun/8074542.PNG" /></a></div>
-<div         ><hr /><b>3845. 8kun /qresearch/ General #10336   </b><br /><a href="https://8kun.top/qresearch/res/8074522.html#8074677" target="_blank"><img src="images/8kun/8074677.PNG" /></a></div>
-<div         ><hr /><b>3846. 8kun /qresearch/ General #10341   </b><br /><a href="https://8kun.top/qresearch/res/8078419.html#8079097" target="_blank"><img src="images/8kun/8079097.PNG" /></a></div>
+<div         ><hr /><b>3781. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7867006" target="_blank"><img src="images/8kun/qcaps/7867006.PNG" /></a></div>
+<div         ><hr /><b>3782. 8kun /qresearch/ General #10082   </b><br /><a href="https://8kun.top/qresearch/res/7878215.html#7878541" target="_blank"><img src="images/8kun/qcaps/7878541.PNG" /></a></div>
+<div         ><hr /><b>3783. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7883925" target="_blank"><img src="images/8kun/qcaps/7883925.PNG" /></a></div>
+<div         ><hr /><b>3784. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884016" target="_blank"><img src="images/8kun/qcaps/7884016.PNG" /></a></div>
+<div         ><hr /><b>3785. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884140" target="_blank"><img src="images/8kun/qcaps/7884140.PNG" /></a></div>
+<div         ><hr /><b>3786. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7886759" target="_blank"><img src="images/8kun/qcaps/7886759.PNG" /></a></div>
+<div         ><hr /><b>3787. 8kun /qresearch/ General #10095   </b><br /><a href="https://8kun.top/qresearch/res/7888466.html#7889231" target="_blank"><img src="images/8kun/qcaps/7889231.PNG" /></a></div>
+<div         ><hr /><b>3788. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889726" target="_blank"><img src="images/8kun/qcaps/7889726.PNG" /></a></div>
+<div         ><hr /><b>3789. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889793" target="_blank"><img src="images/8kun/qcaps/7889793.PNG" /></a></div>
+<div         ><hr /><b>3790. 8kun /qresearch/ General #10097   </b><br /><a href="https://8kun.top/qresearch/res/7890044.html#7890598" target="_blank"><img src="images/8kun/qcaps/7890598.PNG" /></a></div>
+<div         ><hr /><b>3791. 8kun /qresearch/ General #10098   </b><br /><a href="https://8kun.top/qresearch/res/7890810.html#7890949" target="_blank"><img src="images/8kun/qcaps/7890949.PNG" /></a></div>
+<div         ><hr /><b>3792. 8kun /qresearch/ General #10099   </b><br /><a href="https://8kun.top/qresearch/res/7891628.html#7891764" target="_blank"><img src="images/8kun/qcaps/7891764.PNG" /></a></div>
+<div         ><hr /><b>3793. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7892407" target="_blank"><img src="images/8kun/qcaps/7892407.PNG" /></a></div>
+<div         ><hr /><b>3794. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7893008" target="_blank"><img src="images/8kun/qcaps/7893008.PNG" /></a></div>
+<div         ><hr /><b>3795. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942579" target="_blank"><img src="images/8kun/qcaps/7942579.PNG" /></a></div>
+<div         ><hr /><b>3796. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942595" target="_blank"><img src="images/8kun/qcaps/7942595.PNG" /></a></div>
+<div         ><hr /><b>3797. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942766" target="_blank"><img src="images/8kun/qcaps/7942766.PNG" /></a></div>
+<div         ><hr /><b>3798. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942926" target="_blank"><img src="images/8kun/qcaps/7942926.PNG" /></a></div>
+<div         ><hr /><b>3799. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7943219" target="_blank"><img src="images/8kun/qcaps/7943219.PNG" /></a></div>
+<div         ><hr /><b>3800. 8kun /qresearch/ General #10166   </b><br /><a href="https://8kun.top/qresearch/res/7943160.html#7943347" target="_blank"><img src="images/8kun/qcaps/7943347.PNG" /></a></div>
+<div         ><hr /><b>3801. 8kun /qresearch/ General #10166   </b><br /><a href="https://8kun.top/qresearch/res/7943160.html#7943948" target="_blank"><img src="images/8kun/qcaps/7943948.PNG" /></a></div>
+<div         ><hr /><b>3802. 8kun /qresearch/ General #10168   </b><br /><a href="https://8kun.top/qresearch/res/7944753.html#7944852" target="_blank"><img src="images/8kun/qcaps/7944852.PNG" /></a></div>
+<div         ><hr /><b>3803. 8kun /qresearch/ General #10168   </b><br /><a href="https://8kun.top/qresearch/res/7944753.html#7944883" target="_blank"><img src="images/8kun/qcaps/7944883.PNG" /></a></div>
+<div         ><hr /><b>3804. 8kun /qresearch/ General #10170   </b><br /><a href="https://8kun.top/qresearch/res/7946250.html#7946899" target="_blank"><img src="images/8kun/qcaps/7946899.PNG" /></a></div>
+<div         ><hr /><b>3805. 8kun /qresearch/ General #10173   </b><br /><a href="https://8kun.top/qresearch/res/7948573.html#7949075" target="_blank"><img src="images/8kun/qcaps/7949075.PNG" /></a></div>
+<div         ><hr /><b>3806. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965632" target="_blank"><img src="images/8kun/qcaps/7965632.PNG" /></a></div>
+<div         ><hr /><b>3807. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965818" target="_blank"><img src="images/8kun/qcaps/7965818.PNG" /></a></div>
+<div         ><hr /><b>3808. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7965971" target="_blank"><img src="images/8kun/qcaps/7965971.PNG" /></a></div>
+<div         ><hr /><b>3809. 8kun /qresearch/ General #10195   </b><br /><a href="https://8kun.top/qresearch/res/7965569.html#7966134" target="_blank"><img src="images/8kun/qcaps/7966134.PNG" /></a></div>
+<div         ><hr /><b>3810. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966643" target="_blank"><img src="images/8kun/qcaps/7966643.PNG" /></a></div>
+<div         ><hr /><b>3811. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966693" target="_blank"><img src="images/8kun/qcaps/7966693.PNG" /></a></div>
+<div         ><hr /><b>3812. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7966781" target="_blank"><img src="images/8kun/qcaps/7966781.PNG" /></a></div>
+<div         ><hr /><b>3813. 8kun /qresearch/ General #10196   </b><br /><a href="https://8kun.top/qresearch/res/7966374.html#7967013" target="_blank"><img src="images/8kun/qcaps/7967013.PNG" /></a></div>
+<div         ><hr /><b>3814. 8kun /qresearch/ General #10198   </b><br /><a href="https://8kun.top/qresearch/res/7967897.html#7968579" target="_blank"><img src="images/8kun/qcaps/7968579.PNG" /></a></div>
+<div         ><hr /><b>3815. 8kun /qresearch/ General #10211   </b><br /><a href="https://8kun.top/qresearch/res/7977959.html#7978436" target="_blank"><img src="images/8kun/qcaps/7978436.PNG" /></a></div>
+<div         ><hr /><b>3816. 8kun /qresearch/ General #10211   </b><br /><a href="https://8kun.top/qresearch/res/7977959.html#7978543" target="_blank"><img src="images/8kun/qcaps/7978543.PNG" /></a></div>
+<div         ><hr /><b>3817. 8kun /qresearch/ General #10212   </b><br /><a href="https://8kun.top/qresearch/res/7978655.html#7978821" target="_blank"><img src="images/8kun/qcaps/7978821.PNG" /></a></div>
+<div         ><hr /><b>3818. 8kun /qresearch/ UK General #11   </b><br /><a href="https://8kun.top/qresearch/res/7887749.html#7982927" target="_blank"><img src="images/8kun/qcaps/7982927.PNG" /></a></div>
+<div         ><hr /><b>3819. 8kun /qresearch/ General #10227   </b><br /><a href="https://8kun.top/qresearch/res/7990440.html#7990469" target="_blank"><img src="images/8kun/qcaps/7990469.PNG" /></a></div>
+<div         ><hr /><b>3820. 8kun /qresearch/ General #10227   </b><br /><a href="https://8kun.top/qresearch/res/7990440.html#7991149" target="_blank"><img src="images/8kun/qcaps/7991149.PNG" /></a></div>
+<div         ><hr /><b>3821. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991360" target="_blank"><img src="images/8kun/qcaps/7991360.PNG" /></a></div>
+<div         ><hr /><b>3822. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991417" target="_blank"><img src="images/8kun/qcaps/7991417.PNG" /></a></div>
+<div         ><hr /><b>3823. 8kun /qresearch/ General #10228   </b><br /><a href="https://8kun.top/qresearch/res/7991220.html#7991504" target="_blank"><img src="images/8kun/qcaps/7991504.PNG" /></a></div>
+<div         ><hr /><b>3824. 8kun /qresearch/ General #10255   </b><br /><a href="https://8kun.top/qresearch/res/8011984.html#8012209" target="_blank"><img src="images/8kun/qcaps/8012209.PNG" /></a></div>
+<div         ><hr /><b>3825. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031268" target="_blank"><img src="images/8kun/qcaps/8031268.PNG" /></a></div>
+<div         ><hr /><b>3826. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031555" target="_blank"><img src="images/8kun/qcaps/8031555.PNG" /></a></div>
+<div         ><hr /><b>3827. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031606" target="_blank"><img src="images/8kun/qcaps/8031606.PNG" /></a></div>
+<div         ><hr /><b>3828. 8kun /qresearch/ General #10280   </b><br /><a href="https://8kun.top/qresearch/res/8031134.html#8031718" target="_blank"><img src="images/8kun/qcaps/8031718.PNG" /></a></div>
+<div         ><hr /><b>3829. 8kun /qresearch/ General #10285   </b><br /><a href="https://8kun.top/qresearch/res/8034992.html#8035738" target="_blank"><img src="images/8kun/qcaps/8035738.PNG" /></a></div>
+<div         ><hr /><b>3830. 8kun /qresearch/ General #10285   </b><br /><a href="https://8kun.top/qresearch/res/8034992.html#8035785" target="_blank"><img src="images/8kun/qcaps/8035785.PNG" /></a></div>
+<div         ><hr /><b>3831. 8kun /qresearch/ General #10286   </b><br /><a href="https://8kun.top/qresearch/res/8035768.html#8035891" target="_blank"><img src="images/8kun/qcaps/8035891.PNG" /></a></div>
+<div         ><hr /><b>3832. 8kun /qresearch/ General #10286   </b><br /><a href="https://8kun.top/qresearch/res/8035768.html#8036471" target="_blank"><img src="images/8kun/qcaps/8036471.PNG" /></a></div>
+<div         ><hr /><b>3833. 8kun /qresearch/ General #10288   </b><br /><a href="https://8kun.top/qresearch/res/8037265.html#8037506" target="_blank"><img src="images/8kun/qcaps/8037506.PNG" /></a></div>
+<div         ><hr /><b>3834. 8kun /qresearch/ General #10293   </b><br /><a href="https://8kun.top/qresearch/res/8041124.html#8041940" target="_blank"><img src="images/8kun/qcaps/8041940.PNG" /></a></div>
+<div         ><hr /><b>3835. 8kun /qresearch/ General #10312   </b><br /><a href="https://8kun.top/qresearch/res/8056066.html#8056165" target="_blank"><img src="images/8kun/qcaps/8056165.PNG" /></a></div>
+<div         ><hr /><b>3836. 8kun /qresearch/ General #10312   </b><br /><a href="https://8kun.top/qresearch/res/8056066.html#8056704" target="_blank"><img src="images/8kun/qcaps/8056704.PNG" /></a></div>
+<div         ><hr /><b>3837. 8kun /qresearch/ General #10313   </b><br /><a href="https://8kun.top/qresearch/res/8056796.html#8057064" target="_blank"><img src="images/8kun/qcaps/8057064.PNG" /></a></div>
+<div         ><hr /><b>3838. 8kun /qresearch/ General #10313   </b><br /><a href="https://8kun.top/qresearch/res/8056796.html#8057450" target="_blank"><img src="images/8kun/qcaps/8057450.PNG" /></a></div>
+<div         ><hr /><b>3839. 8kun /qresearch/ General #10314   </b><br /><a href="https://8kun.top/qresearch/res/8057550.html#8057691" target="_blank"><img src="images/8kun/qcaps/8057691.PNG" /></a></div>
+<div         ><hr /><b>3840. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061713" target="_blank"><img src="images/8kun/qcaps/8061713.PNG" /></a></div>
+<div         ><hr /><b>3841. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8061906" target="_blank"><img src="images/8kun/qcaps/8061906.PNG" /></a></div>
+<div         ><hr /><b>3842. 8kun /qresearch/ General #10319   </b><br /><a href="https://8kun.top/qresearch/res/8061432.html#8062147" target="_blank"><img src="images/8kun/qcaps/8062147.PNG" /></a></div>
+<div         ><hr /><b>3843. 8kun /qresearch/ General #10335   </b><br /><a href="https://8kun.top/qresearch/res/8073778.html#8074053" target="_blank"><img src="images/8kun/qcaps/8074053.PNG" /></a></div>
+<div         ><hr /><b>3844. 8kun /qresearch/ General #10335   </b><br /><a href="https://8kun.top/qresearch/res/8073778.html#8074542" target="_blank"><img src="images/8kun/qcaps/8074542.PNG" /></a></div>
+<div         ><hr /><b>3845. 8kun /qresearch/ General #10336   </b><br /><a href="https://8kun.top/qresearch/res/8074522.html#8074677" target="_blank"><img src="images/8kun/qcaps/8074677.PNG" /></a></div>
+<div         ><hr /><b>3846. 8kun /qresearch/ General #10341   </b><br /><a href="https://8kun.top/qresearch/res/8078419.html#8079097" target="_blank"><img src="images/8kun/qcaps/8079097.PNG" /></a></div>
 
 <!-- 3847 -->
+<span id="q3847"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8079117.html" target="_blank">10342</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3847. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/08/20 (Sat) 20:57:04 </span><span class="postID" style="color:white; background-color:#a02321">ID: a02321</span><span class="totalposts"> (1) </span><span>No.<a href="https://www.8kun.top/qresearch/8079117.html#8079342" target="_blank">8079342</a></span> <span class="savetodisk"><a href="images/8kun/8079342.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3847. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/08/20 (Sat) 20:57:04 </span><span class="postID" style="color:white; background-color:#a02321">ID: a02321</span><span class="totalposts"> (1) </span><span>No.<a href="https://www.8kun.top/qresearch/8079117.html#8079342" target="_blank">8079342</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079342.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/JuliansRum/status/1226321985422209024" target="_blank">https://twitter.com/JuliansRum/status/1226321985422209024</a></span>
@@ -4441,18 +5368,18 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency.”👇 <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://t.co/o3Taj9xW3W">https://t.co/o3Taj9xW3W</a> <a href="https://t.co/oGF3ZMP8GF">pic.twitter.com/oGF3ZMP8GF</a></p>&mdash; Julian&#39;s Rum 🥃 (@JuliansRum) <a href="https://twitter.com/JuliansRum/status/1226321985422209024?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8079342a.PNG" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8079342a.PNG" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8079342a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8079342a.PNG" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8079342a.PNG" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8079342a.PNG" target="_blank" download> 🖫</a></span>]
 	
 			<span class="embedlink"> [tweet pic.
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" alt="" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" alt="" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/EQTFWChUUAIKS6T.jpg" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/EQTFWChUUAIKS6T.jpg" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/EQTFWChUUAIKS6T.jpg" alt="Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/EQTFWChUUAIKS6T.jpg" target="_blank" download> 🖫</a></span>]
 
 			<span class="embedlink"> [tweeted video
-			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8079097b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8079097b.mp4" target="_blank" download> 🖫</a></span>]
 	
 		<br />Confirmed.
@@ -4464,10 +5391,11 @@
 <br />
 
 <!-- 3848 -->
+<span id="q3848"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8079117.html" target="_blank">10342</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3848. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/08/20 (Sat) 22:17:53 </span><span class="postID" style="color:black; background-color:#9fc5e4">ID: 9fc5e4</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8079117.html#8079763" target="_blank">8079763</a></span> <span class="savetodisk"><a href="images/8kun/8079763.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3848. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/08/20 (Sat) 22:17:53 </span><span class="postID" style="color:black; background-color:#9fc5e4">ID: 9fc5e4</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8079117.html#8079763" target="_blank">8079763</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079763.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/SullengerCheryl/status/1226334622658834432" target="_blank">https://twitter.com/SullengerCheryl/status/1226334622658834432</a></span>
@@ -4477,13 +5405,13 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦻🏼Listen: “Half the people involved in the Russian investigation are going to jail.” <a href="https://twitter.com/hashtag/RussiaHoax?src=hash&amp;ref_src=twsrc%5Etfw">#RussiaHoax</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/40E4O4d0qI">https://t.co/40E4O4d0qI</a></p>&mdash; Cheryl Sullenger 🇺🇸 (@SullengerCheryl) <a href="https://twitter.com/SullengerCheryl/status/1226334622658834432?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8079763a.PNG" alt="Listen: “Half the people involved in the Russian investigation are going to jail.”" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8079763a.PNG" alt="Listen: “Half the people involved in the Russian investigation are going to jail.”" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8079763a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8079763a.PNG" alt="Listen: “Half the people involved in the Russian investigation are going to jail.”" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8079763a.PNG" alt="Listen: “Half the people involved in the Russian investigation are going to jail.”" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8079763a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<span class="embedlink"> [tweeted video
-			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8079763b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8079763b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />The bottom half was instructed (99% good).
@@ -4496,10 +5424,11 @@
 <br />
 
 <!-- 3849 -->
+<span id="q3849"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8083294.html" target="_blank">10347</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3849. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/09/20 (Sun) 16:33:49 </span><span class="postID" style="color:white; background-color:#000000">ID: 000000</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8083294.html#8083380" target="_blank">8083380</a></span> <span class="savetodisk"><a href="images/8kun/8083380.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3849. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/09/20 (Sun) 16:33:49 </span><span class="postID" style="color:white; background-color:#000000">ID: 000000</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8083294.html#8083380" target="_blank">8083380</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8083380.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Justice.
@@ -4511,16 +5440,17 @@
 <br />
 
 <!-- 3850 -->
+<span id="q3850"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3850. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 12:58:12 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8092721" target="_blank">8092721</a></span> <span class="savetodisk"><a href="images/8kun/8092721.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3850. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 12:58:12 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8092721" target="_blank">8092721</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8092721.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/Justice.JPG" target="_blank">Justice.JPG</a></span> <span class="savetodisk"><a href="images/quploads/Justice.JPG" download>🖫</a></span><span> (586.5 KB, 1500x1500, 1:1)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/Justice.JPG" alt="Justice.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/Justice.JPG" alt="Justice.JPG" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/Justice.JPG" target="_blank">Justice.JPG</a></span> <span class="savetodisk"><a href="images/8kun/quploads/Justice.JPG" download>🖫</a></span><span> (586.5 KB, 1500x1500, 1:1)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/Justice.JPG" alt="Justice.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/Justice.JPG" alt="Justice.JPG" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4531,18 +5461,18 @@
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attorney General Barr has acknowledged for the first time that Rudy Giuliani has been giving the Justice Department information he collected in Ukraine, essentially bringing what was a stealth campaign into official government channels.<a href="https://t.co/5FRoN5DnrL">https://t.co/5FRoN5DnrL</a></p>&mdash; Kyle Griffin (@kylegriffin1) <a href="https://twitter.com/kylegriffin1/status/1226908710150299649?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
 				<span class="embedlink"> [screencap
-				<span class="quotecontenthovers"><img src="images/mediapics&caps/8092721a.PNG" alt="Attorney General Barr has acknowledged ..." /></span></span>
-				<span class="quotecontentexpand"><img src="images/mediapics&caps/8092721a.PNG" alt="Attorney General Barr has acknowledged ..." /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8092721a.PNG" target="_blank" download> 🖫</a></span>]
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8092721a.PNG" alt="Attorney General Barr has acknowledged ..." /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8092721a.PNG" alt="Attorney General Barr has acknowledged ..." /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8092721a.PNG" target="_blank" download> 🖫</a></span>]
 		
 				<span class="embedlink"> [tweeted link [embed]
 				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.bloomberg.com/news/articles/2020-02-10/giuliani-giving-ukraine-data-to-justice-department-barr-says"></iframe></span></span>
 				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.bloomberg.com/news/articles/2020-02-10/giuliani-giving-ukraine-data-to-justice-department-barr-says"></iframe></span>
 		
 				<span class="embedlink"> [screencap
-				<span class="quotecontenthovers"><img src="images/mediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span></span>
-				<span class="quotecontentexpand"><img src="images/mediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8092721b.PNG" target="_blank" download> 🖫</a></span>]]
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8092721b.PNG" alt="Giuliani giving ukraine data to justice department." /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8092721b.PNG" target="_blank" download> 🖫</a></span>]]
 		
 			<br />Did 'Mueller' open the door to Ukraine?
 			<br />Did 'Mueller' open the door to FISA [illegal]?
@@ -4565,10 +5495,11 @@
 <br />
 
 <!-- 3851 -->
+<span id="q3851"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3851. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:21:22 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093002" target="_blank">8093002</a></span> <span class="savetodisk"><a href="images/8kun/8093002.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3851. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:21:22 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093002" target="_blank">8093002</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093002.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc" target="_blank">https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc</a>
@@ -4578,9 +5509,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8093002a.PNG" alt="Bigger than Vindman." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8093002a.PNG" alt="Bigger than Vindman." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8093002a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8093002a.PNG" alt="Bigger than Vindman." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8093002a.PNG" alt="Bigger than Vindman." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8093002a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />We got what we needed.
 		<br />There is no step [5].
@@ -4593,10 +5524,11 @@
 <br />
 
 <!-- 3852 -->
+<span id="q3852"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3852. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:25:03 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">8093066</a></span> <span class="savetodisk"><a href="images/8kun/8093066.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3852. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:25:03 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">8093066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093066.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -4606,13 +5538,13 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/anoncaps/8093005.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
 							<span class="file1">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/Screenshot_20200210-131736_2.png" target="_blank">Screenshot_20200210-131736_2.png</a></span> <span class="savetodisk"><a href="images/anonuploads/Screenshot_20200210-131736_2.png" download>🖫</a></span><span> (87.39 KB, 1440x662, 720:331)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" target="_blank">Screenshot_20200210-131736_2.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" download>🖫</a></span><span> (87.39 KB, 1440x662, 720:331)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
@@ -4631,13 +5563,13 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/anoncaps/8093005.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
 							<span class="file1">
-								<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/Screenshot_20200210-131736_2.png" target="_blank">Screenshot_20200210-131736_2.png</a></span> <span class="savetodisk"><a href="images/anonuploads/Screenshot_20200210-131736_2.png" download>🖫</a></span><span> (87.39 KB, 1440x662, 720:331)</span></span><br />
-								<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" target="_blank">Screenshot_20200210-131736_2.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" download>🖫</a></span><span> (87.39 KB, 1440x662, 720:331)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
 							</span>
 						</span>
 						<span class="posttext" style="display:block; float:left;">
@@ -4657,19 +5589,18 @@
 </span>
 <br />
 
-
-
 <!-- 3853 -->
+<span id="q3853"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3853. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:31:39 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093185" target="_blank">8093185</a></span> <span class="savetodisk"><a href="images/8kun/8093185.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3853. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:31:39 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093185" target="_blank">8093185</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093185.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/EDUTkfZUwAE5rBw.png" target="_blank">EDUTkfZUwAE5rBw.png</a></span> <span class="savetodisk"><a href="images/quploads/EDUTkfZUwAE5rBw.png" download>🖫</a></span><span> (60.73 KB, 467x495, 467:495)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EDUTkfZUwAE5rBw.png" target="_blank">EDUTkfZUwAE5rBw.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EDUTkfZUwAE5rBw.png" download>🖫</a></span><span> (60.73 KB, 467x495, 467:495)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4687,16 +5618,17 @@
 <br />
 
 <!-- 3854 -->
+<span id="q3854"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3854. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:37:17 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093281" target="_blank">8093281</a></span> <span class="savetodisk"><a href="images/8kun/8093281.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3854. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:37:17 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093281" target="_blank">8093281</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093281.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/DxPWk96X4AEzPWG.jpg" target="_blank">DxPWk96X4AEzPWG.jpg</a></span> <span class="savetodisk"><a href="images/quploads/DxPWk96X4AEzPWG.jpg" download>🖫</a></span><span> (33.4 KB, 581x465, 581:465)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" target="_blank">DxPWk96X4AEzPWG.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" download>🖫</a></span><span> (33.4 KB, 581x465, 581:465)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4713,10 +5645,11 @@
 <br />
 
 <!-- 3855 -->
+<span id="q3855"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">10375</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3855. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/11/20 (Tue) 17:38:06 </span><span class="postID" style="color:white; background-color:#4bcf38">ID: 4bcf38</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">8105541</a></span> <span class="savetodisk"><a href="images/8kun/8105541.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3855. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/11/20 (Tue) 17:38:06 </span><span class="postID" style="color:white; background-color:#4bcf38">ID: 4bcf38</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">8105541</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8105541.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/AZShopRGirl/status/1227355093797765120" target="_blank">https://twitter.com/AZShopRGirl/status/1227355093797765120</a></span>
@@ -4726,13 +5659,13 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Boom! <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://t.co/koU04vpJw6">pic.twitter.com/koU04vpJw6</a></p>&mdash; Pamela (@AZShopRGirl) <a href="https://twitter.com/AZShopRGirl/status/1227355093797765120?ref_src=twsrc%5Etfw">February 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8105541a.PNG" alt="Boom!" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8105541a.PNG" alt="Boom!" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8105541a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8105541a.PNG" alt="Boom!" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8105541a.PNG" alt="Boom!" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8105541a.PNG" target="_blank" download> 🖫</a></span>]
 	
 			<span class="embedlink"> [tweeted video
-			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8105541b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8105541b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
@@ -4743,16 +5676,17 @@
 <br />
 
 <!-- 3856 -->
+<span id="q3856"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8112591.html" target="_blank">10385</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3856. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:45:18 </span><span class="postID" style="color:white; background-color:#df18d2">ID: df18d2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8112591.html#8113297" target="_blank">8113297</a></span> <span class="savetodisk"><a href="images/8kun/8113297.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3856. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:45:18 </span><span class="postID" style="color:white; background-color:#df18d2">ID: df18d2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8112591.html#8113297" target="_blank">8113297</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113297.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/D16RNKcWwAAZGaI.jpg" target="_blank">D16RNKcWwAAZGaI.jpg</a></span> <span class="savetodisk"><a href="images/quploads/D16RNKcWwAAZGaI.jpg" download>🖫</a></span><span> (44.75 KB, 1100x363, 100:33)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" target="_blank">D16RNKcWwAAZGaI.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" download>🖫</a></span><span> (44.75 KB, 1100x363, 100:33)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4773,10 +5707,11 @@
 <br />
 
 <!-- 3857 -->
+<span id="q3857"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8113366.html" target="_blank">10386</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3857. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:56:44 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113417" target="_blank">8113417</a></span> <span class="savetodisk"><a href="images/8kun/8113417.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3857. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:56:44 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113417" target="_blank">8113417</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113417.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Highly sophisticated 'State-level' attacks [v 8kun] followed by FAKE NEWS attacks [v Q] the next day?
@@ -4791,16 +5726,17 @@
 <br />
 
 <!-- 3858 -->
+<span id="q3858"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8113366.html" target="_blank">10386</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3858. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 12:04:32 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113583" target="_blank">8113583</a></span> <span class="savetodisk"><a href="images/8kun/8113583.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3858. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 12:04:32 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113583" target="_blank">8113583</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113583.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/GA2.21.JPG" target="_blank">GA2.21.JPG</a></span> <span class="savetodisk"><a href="images/quploads/GA2.21.JPG" download>🖫</a></span><span> (586.5 KB, 1500x1500, 1:1)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/GA2.21.JPG" alt="GA2.21.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/GA2.21.JPG" alt="GA2.21.JPG" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/GA2.21.JPG" target="_blank">GA2.21.JPG</a></span> <span class="savetodisk"><a href="images/8kun/quploads/GA2.21.JPG" download>🖫</a></span><span> (586.5 KB, 1500x1500, 1:1)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/GA2.21.JPG" alt="GA2.21.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/GA2.21.JPG" alt="GA2.21.JPG" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4859,10 +5795,11 @@
 <br />
 
 <!-- 3859 -->
+<span id="q3859"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8116389.html" target="_blank">10390</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3859. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 16:58:46 </span><span class="postID" style="color:white; background-color:#7a0087">ID: 7a0087</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8116389.html#8116930" target="_blank">8116930</a></span> <span class="savetodisk"><a href="images/8kun/8116930.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3859. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 16:58:46 </span><span class="postID" style="color:white; background-color:#7a0087">ID: 7a0087</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8116389.html#8116930" target="_blank">8116930</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8116930.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/ABC/status/1227640976363212800" target="_blank">https://twitter.com/ABC/status/1227640976363212800</a></span>
@@ -4872,13 +5809,13 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Does anyone think it&#39;s out of the question that Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else?&quot; Sen. Chuck Schumer asks.<br><br>&quot;That is third world behavior—not American behavior.&quot; <a href="https://t.co/1JGFXwaeWZ">https://t.co/1JGFXwaeWZ</a> <a href="https://t.co/iNYmigMYTi">pic.twitter.com/iNYmigMYTi</a></p>&mdash; ABC News (@ABC) <a href="https://twitter.com/ABC/status/1227640976363212800?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8116930a.PNG" alt="Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8116930a.PNG" alt="Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else." /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8116930a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8116930a.PNG" alt="Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8116930a.PNG" alt="Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8116930a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<span class="embedlink"> [tweeted video
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8116930b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8116930b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />"Far-right conspiratorial writer who has no credibility…." - [CS]
@@ -4891,16 +5828,17 @@
 <br />
 
 <!-- 3860 -->
+<span id="q3860"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8124913.html" target="_blank">10401</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3860. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/13/20 (Thu) 13:35:33 </span><span class="postID" style="color:white; background-color:#d027f8">ID: d027f8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8124913.html#8125536" target="_blank">8125536</a></span> <span class="savetodisk"><a href="images/8kun/8125536.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3860. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/13/20 (Thu) 13:35:33 </span><span class="postID" style="color:white; background-color:#d027f8">ID: d027f8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8124913.html#8125536" target="_blank">8125536</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8125536.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/demcorruption.jpg" target="_blank">demcorruption.jpg</a></span> <span class="savetodisk"><a href="images/quploads/demcorruption.jpg" download>🖫</a></span><span> (171.74 KB, 1080x1068, 90:89)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/demcorruption.jpg" alt="demcorruption.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/demcorruption.jpg" alt="demcorruption.jpg" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/demcorruption.jpg" target="_blank">demcorruption.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/demcorruption.jpg" download>🖫</a></span><span> (171.74 KB, 1080x1068, 90:89)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/demcorruption.jpg" alt="demcorruption.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/demcorruption.jpg" alt="demcorruption.jpg" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -4911,9 +5849,9 @@
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats call on Barr to resign. REALLY?<br><br>Bill Barr is fighting to hold the FBI accountable for lying to the FISA Court SEVENTEEN times.</p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1227995634533269506?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
 				<span class="embedlink"> [screencap
-				<span class="quotecontenthovers"><img src="images/mediapics&caps/8125536a.PNG" alt="Democrats call on Barr to resign. REALLY?" /></span></span>
-				<span class="quotecontentexpand"><img src="images/mediapics&caps/8125536a.PNG" alt="Democrats call on Barr to resign. REALLY?" /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8125536a.PNG" target="_blank" download> 🖫</a></span>]
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8125536a.PNG" alt="Democrats call on Barr to resign. REALLY?" /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8125536a.PNG" alt="Democrats call on Barr to resign. REALLY?" /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8125536a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<br />Q
 		</span>
@@ -4924,10 +5862,11 @@
 <br />
 
 <!-- 3861 -->
+<span id="q3861"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8133465.html" target="_blank">10412</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3861. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:11:09 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134066" target="_blank">8134066</a></span> <span class="savetodisk"><a href="images/8kun/8134066.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3861. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:11:09 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134066" target="_blank">8134066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134066.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016" target="_blank">https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016</a>
@@ -4937,9 +5876,9 @@
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016"></iframe></span>
 
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8134066a.PNG" alt="Durham" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8134066a.PNG" alt="Durham" /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8134066a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8134066a.PNG" alt="Durham" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8134066a.PNG" alt="Durham" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8134066a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />Read carefully.
 		<br />Sound familiar?
@@ -4952,10 +5891,11 @@
 <br />
 
 <!-- 3862 -->
+<span id="q3862"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8133465.html" target="_blank">10412</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3862. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:31:07 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134255" target="_blank">8134255</a></span> <span class="savetodisk"><a href="images/8kun/8134255.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3862. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:31:07 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134255" target="_blank">8134255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134255.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/Strandjunker/status/1228333628955996161" target="_blank">https://twitter.com/Strandjunker/status/1228333628955996161</a></span>
@@ -4965,9 +5905,9 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I need someone to explain to me why Bill Barr can immediately sit down with ABC but not under oath before Congress. <br><br>Explain it to me like I’m in kindergarten.</p>&mdash; Andrea Junker (@Strandjunker) <a href="https://twitter.com/Strandjunker/status/1228333628955996161?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8134255a.PNG" alt="Explain it to me like I’m in kindergarten." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8134255a.PNG" alt="Explain it to me like I’m in kindergarten." /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8134255a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8134255a.PNG" alt="Explain it to me like I’m in kindergarten." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8134255a.PNG" alt="Explain it to me like I’m in kindergarten." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8134255a.PNG" target="_blank" download> 🖫</a></span>]
 		
 		<br />re: delayed testimony
 		<br />1. allow for public dissemination of critical facts [possible unseal(s)-declas] prior to world televised sit down.
@@ -4982,10 +5922,11 @@
 <br />
 
 <!-- 3863 -->
+<span id="q3863"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8134956.html" target="_blank">10414</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3863. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:29:15 </span><span class="postID" style="color:white; background-color:#0b8a25">ID: 0b8a25</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8134956.html#8135724" target="_blank">8135724</a></span> <span class="savetodisk"><a href="images/8kun/8135724.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3863. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:29:15 </span><span class="postID" style="color:white; background-color:#0b8a25">ID: 0b8a25</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8134956.html#8135724" target="_blank">8135724</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8135724.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -4996,10 +5937,11 @@
 <br />
 
 <!-- 3864 -->
+<span id="q3864"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ Suicides List #<a href="https://8kun.top/qresearch/res/6757556.html" target="_blank">2</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3864. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:52:38 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136003" target="_blank">8136003</a></span> <span class="savetodisk"><a href="images/8kun/8136003.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3864. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:52:38 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136003" target="_blank">8136003</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136003.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/johncardillo/status/1228369145110188039" target="_blank">https://twitter.com/johncardillo/status/1228369145110188039</a></span>
@@ -5009,9 +5951,9 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">They&#39;ve only dropped the investigation arising from Horowitz&#39;s 2018 referral.<br><br>This has nothing to do with Durham&#39;s investigation which is still ongoing. <a href="https://t.co/0euH5K2yGe">https://t.co/0euH5K2yGe</a></p>&mdash; John Cardillo (@johncardillo) <a href="https://twitter.com/johncardillo/status/1228369145110188039?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8136003a.PNG" alt="This has nothing to do with Durham's investigation" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8136003a.PNG" alt="This has nothing to do with Durham's investigation" /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8136003a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8136003a.PNG" alt="This has nothing to do with Durham's investigation" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8136003a.PNG" alt="This has nothing to do with Durham's investigation" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8136003a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
 	</span>
@@ -5021,10 +5963,11 @@
 <br />
 
 <!-- 3865 -->
+<span id="q3865"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ Suicides List #<a href="https://8kun.top/qresearch/res/6757556.html" target="_blank">2</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3865. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 14:29:21 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136552" target="_blank">8136552</a></span> <span class="savetodisk"><a href="images/8kun/8136552.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3865. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 14:29:21 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136552" target="_blank">8136552</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136552.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/dbongino/status/1228389237688590336" target="_blank">https://twitter.com/dbongino/status/1228389237688590336</a></span>
@@ -5034,9 +5977,9 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m not playing the game until the Durham investigation concludes. I strongly encourage you to do the same. <br>Check this out for more details 👇🏻👇🏻<a href="https://t.co/Usavq8OzzL">https://t.co/Usavq8OzzL</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1228389237688590336?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8136552a.PNG" alt="I’m not playing the game ..." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8136552a.PNG" alt="I’m not playing the game ..." /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8136552a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8136552a.PNG" alt="I’m not playing the game ..." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8136552a.PNG" alt="I’m not playing the game ..." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8136552a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<a href="https://www.youtube.com/watch?v=AWmrzhU1zXs" target="_blank">[Tweet video</a> 
 
@@ -5045,13 +5988,13 @@
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/AWmrzhU1zXs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span>
-				 <span class="savetodisk"><a href="images/mediapics&caps/8136552b.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8136552b.PNG" alt="I’m not playing the game ..." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8136552b.PNG" target="_blank" download> 🖫</a></span>]
 		
 		<span class="embedlink"> [local]
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8136552b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8136552b.mp4" target="_blank" download> 🖫</a></span>]]
 
 		<br />Bigger [slam-dunk] charges coming?
@@ -5063,10 +6006,11 @@
 <br />
 
 <!-- 3866 -->
+<span id="q3866"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3866. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:09:33 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141007" target="_blank">8141007</a></span> <span class="savetodisk"><a href="images/8kun/8141007.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3866. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:09:33 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141007" target="_blank">8141007</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141007.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/axiomreport/status/1228506448893603841" target="_blank">https://twitter.com/axiomreport/status/1228506448893603841</a></span>
@@ -5076,13 +6020,13 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">HANNITY: “Sources confirm that AG BARR is focused on something much bigger, much deeper that will have far ranging serious ramifications...<br>evidence is overwhelming and incontrovertible...slam-dunk case...”<br><br>“Bigger [slam-dunk] charges coming?”<a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/ldLYqZpJ5v">pic.twitter.com/ldLYqZpJ5v</a></p>&mdash; 🅐🅧🅘🅞🅜 🅡🅔🅟🅞🅡🅣™ 🌎 (@axiomreport) <a href="https://twitter.com/axiomreport/status/1228506448893603841?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8141007a.PNG" alt="AG BARR is focused on something much bigger, ..." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8141007a.PNG" alt="AG BARR is focused on something much bigger, ..." /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8141007a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8141007a.PNG" alt="AG BARR is focused on something much bigger, ..." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8141007a.PNG" alt="AG BARR is focused on something much bigger, ..." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8141007a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<span class="embedlink"> [tweeted video
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8141007b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8141007b.mp4" target="_blank" download> 🖫</a></span>]
 		
 		<br />Q
@@ -5093,10 +6037,11 @@
 <br />
 
 <!-- 3867 -->
+<span id="q3867"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3867. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:16:38 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141119" target="_blank">8141119</a></span> <span class="savetodisk"><a href="images/8kun/8141119.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3867. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:16:38 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141119" target="_blank">8141119</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141119.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/cjtruth/status/1228460719869394944" target="_blank">https://twitter.com/cjtruth/status/1228460719869394944</a></span>
@@ -5106,9 +6051,9 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">THREAD: HT to <a href="https://twitter.com/BillPLCguy?ref_src=twsrc%5Etfw">@BillPLCguy</a> for helping on this one. <br><br>Do you think nothing is happening? You might want to think again. A week in review. Do you remember when Q wrote on Sunday February 9th of this week...<br><br>“Justice.<br><br>Q”<br><br>So what has happened since Q said this? 👇 <a href="https://t.co/2SEyBrCl7a">pic.twitter.com/2SEyBrCl7a</a></p>&mdash; CJTRUTH (@cjtruth) <a href="https://twitter.com/cjtruth/status/1228460719869394944?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8141119a.PNG" alt="Do you think nothing is happening?" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8141119a.PNG" alt="Do you think nothing is happening?" /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8141119a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8141119a.PNG" alt="Do you think nothing is happening?" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8141119a.PNG" alt="Do you think nothing is happening?" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8141119a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
 	</span>
@@ -5118,10 +6063,11 @@
 <br />
 
 <!-- 3868 -->
+<span id="q3868"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3868. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 12:26:39 </span><span class="postID" style="color:white; background-color:#31bd84">ID: 31bd84</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8163842.html#8163987" target="_blank">8163987</a></span> <span class="savetodisk"><a href="images/8kun/8163987.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3868. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 12:26:39 </span><span class="postID" style="color:white; background-color:#31bd84">ID: 31bd84</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8163842.html#8163987" target="_blank">8163987</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8163987.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/KarluskaP/status/1229415548938833920" target="_blank">https://twitter.com/KarluskaP/status/1229415548938833920</a></span>
@@ -5131,13 +6077,13 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Secret Tarmac Meeting- What happens when Loretta Lynch can no longer provide legal cover for the Clinton&#39;s?<br>Tarmac meetings_END<br>Q. <a href="https://twitter.com/hashtag/TheMoreYouKnow?src=hash&amp;ref_src=twsrc%5Etfw">#TheMoreYouKnow</a> <a href="https://t.co/3XTNVkbXQg">pic.twitter.com/3XTNVkbXQg</a></p>&mdash; Karli Q ⭐️⭐️⭐️ - Text TRUMP to 88022 (@KarluskaP) <a href="https://twitter.com/KarluskaP/status/1229415548938833920?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8163987a.PNG" alt="The Secret Tarmac Meeting." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8163987a.PNG" alt="The Secret Tarmac Meeting." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8163987a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8163987a.PNG" alt="The Secret Tarmac Meeting." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8163987a.PNG" alt="The Secret Tarmac Meeting." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8163987a.PNG" target="_blank" download> 🖫</a></span>]
 	
 			<span class="embedlink"> [tweeted video
-			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8163987b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 			<span class="savetodisk"><a href="videos/8kun/8163987b.mp4" target="_blank" download> 🖫</a></span>]
 		
 		<br /><a href="https://www.justice.gov/file/1071991/download" target="_blank">https://www.justice.gov/file/1071991/download</a>
@@ -5147,9 +6093,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/2016_election_final_report_06-14-18_0.pdf"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8163987c.PNG" alt="2016 election final report" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8163987c.PNG" alt="2016 election final report" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8163987c.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8163987c.PNG" alt="2016 election final report" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8163987c.PNG" alt="2016 election final report" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8163987c.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />[Pg 203]
 		<br />"The OPA Supervisor said that he later learned that former President Clinton’s Secret Service detail had contacted Lynch’s FBI security detail and let them know that the former President wanted to meet with Lynch. Although Lynch’s staff was supposed to receive notice of such requests, witnesses told us that they were not informed of the request from former President Clinton."
@@ -5166,16 +6112,17 @@
 <br />
 
 <!-- 3869 -->
+<span id="q3869"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8166112.html" target="_blank">10454</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3869. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:11:14 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166443" target="_blank">8166443</a></span> <span class="savetodisk"><a href="images/8kun/8166443.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3869. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:11:14 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166443" target="_blank">8166443</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166443.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/EMfJo6SVAAEfQdA.png" target="_blank">EMfJo6SVAAEfQdA.png</a></span> <span class="savetodisk"><a href="images/quploads/EMfJo6SVAAEfQdA.png" download>🖫</a></span><span> (150.98 KB, 836x894, 418:447)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EMfJo6SVAAEfQdA.png" target="_blank">EMfJo6SVAAEfQdA.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EMfJo6SVAAEfQdA.png" download>🖫</a></span><span> (150.98 KB, 836x894, 418:447)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5186,9 +6133,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros <a href="https://t.co/a25LtKcRY9">https://t.co/a25LtKcRY9</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1229510910739279873?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8166443a.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8166443a.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8166443a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8166443a.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8166443a.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8166443a.PNG" target="_blank" download> 🖫</a></span>]
 			
 			<a href="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/" target="_blank"> [tweet link</a>
 			
@@ -5197,9 +6144,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/"></iframe></span>]
 			
 			<span class="embedlink"> [tweeted link screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8166443b.PNG" target="_blank" download> 🖫</a></span>]]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8166443b.PNG" alt="Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8166443b.PNG" target="_blank" download> 🖫</a></span>]]
 			
 			<br />Purpose: [D]s install numerous rules and regs re: [D] party nomination winner? 
 			<br />Define 'superdelegates'. 
@@ -5216,16 +6163,17 @@
 <br />
 
 <!-- 3870 -->
+<span id="q3870"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8166112.html" target="_blank">10454</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3870. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:15:23 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166492" target="_blank">8166492</a></span> <span class="savetodisk"><a href="images/8kun/8166492.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3870. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:15:23 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166492" target="_blank">8166492</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166492.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/D2h15vzXcAAY56x.png" target="_blank">D2h15vzXcAAY56x.png</a></span> <span class="savetodisk"><a href="images/quploads/D2h15vzXcAAY56x.png" download>🖫</a></span><span> (288.85 KB, 677x765, 677:765)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/D2h15vzXcAAY56x.png" target="_blank">D2h15vzXcAAY56x.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/D2h15vzXcAAY56x.png" download>🖫</a></span><span> (288.85 KB, 677x765, 677:765)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5238,10 +6186,11 @@
 <br />
 
 <!-- 3871 -->
+<span id="q3871"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8168472.html" target="_blank">10457</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3871. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:27:37 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168706" target="_blank">8168706</a></span> <span class="savetodisk"><a href="images/8kun/8168706.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3871. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:27:37 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168706" target="_blank">8168706</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168706.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/45HarisonHarold/status/1229591987369709568" target="_blank">https://twitter.com/45HarisonHarold/status/1229591987369709568</a></span>
@@ -5251,13 +6200,13 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is this who [GS] made puppet [Hussein] investigate?<br><br>I RAN..I WON..<br>I WAS INVESTIGATED and it could have been the UK, by AUSTRALIA, could have been by ITALY ....I WAS INVESTIGATED <br>BY THE OBAMA<br>ADMINISTRATION<br> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/DFog8p84Xc">pic.twitter.com/DFog8p84Xc</a></p>&mdash; We 🇺🇸 The 🇺🇸 People ⚖️ (@45HarisonHarold) <a href="https://twitter.com/45HarisonHarold/status/1229591987369709568?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8168706a.PNG" alt="Is this who [GS] made puppet [Hussein] investigate?" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8168706a.PNG" alt="Is this who [GS] made puppet [Hussein] investigate?" /></span>
-		  <span class="savetodisk"><a href="images/mediapics&caps/8168706a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8168706a.PNG" alt="Is this who [GS] made puppet [Hussein] investigate?" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8168706a.PNG" alt="Is this who [GS] made puppet [Hussein] investigate?" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8168706a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<span class="embedlink"> [tweeted video
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8168706b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8168706b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Do people really believe this [attack] can happen against the President of the United States and nothing will happen?
@@ -5270,10 +6219,11 @@
 <br />
 
 <!-- 3872 -->
+<span id="q3872"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8168472.html" target="_blank">10457</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3872. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:29:50 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168745" target="_blank">8168745</a></span> <span class="savetodisk"><a href="images/8kun/8168745.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3872. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:29:50 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168745" target="_blank">8168745</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168745.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		To be blunt….
@@ -5286,10 +6236,11 @@
 <br />
 
 <!-- 3873 -->
+<span id="q3873"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8179218.html" target="_blank">10471</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3873. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/18/20 (Tue) 22:36:05 </span><span class="postID" style="color:black; background-color:#2bf7f9">ID: 2bf7f9</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8179218.html#8179800" target="_blank">8179800</a></span> <span class="savetodisk"><a href="images/8kun/8179800.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3873. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/18/20 (Tue) 22:36:05 </span><span class="postID" style="color:black; background-color:#2bf7f9">ID: 2bf7f9</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8179218.html#8179800" target="_blank">8179800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8179800.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=QDVQe5iRiPw" target="_blank">https://www.youtube.com/watch?v=QDVQe5iRiPw</a>
@@ -5299,13 +6250,13 @@
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/QDVQe5iRiPw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span>
-				 <span class="savetodisk"><a href="images/mediapics&caps/8179800a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8179800a.PNG" alt="QAnon - ''Ask The Q''" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8179800a.PNG" target="_blank" download> 🖫</a></span>]
 		  
 		<span class="embedlink"> [local
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8179800b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8179800b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
@@ -5316,10 +6267,11 @@
 <br />
 
 <!-- 3874 -->
+<span id="q3874"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8190738.html" target="_blank">10486</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3874. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 00:06:59 </span><span class="postID" style="color:black; background-color:#e0d3ef">ID: e0d3ef</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8190738.html#8191403" target="_blank">8191403</a></span> <span class="savetodisk"><a href="images/8kun/8191403.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3874. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 00:06:59 </span><span class="postID" style="color:black; background-color:#e0d3ef">ID: e0d3ef</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8190738.html#8191403" target="_blank">8191403</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8191403.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/cain_nate/status/1230336935140483072" target="_blank">https://twitter.com/cain_nate/status/1230336935140483072</a></span>
@@ -5329,13 +6281,13 @@
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">To those who think there will never be justice, think again. <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> seemed pretty confident tonight. &quot;I hope you&#39;re gonna be happy!&quot; That implies that he has knowledge that something is coming. <a href="https://twitter.com/hashtag/DrainTheSwamp?src=hash&amp;ref_src=twsrc%5Etfw">#DrainTheSwamp</a> <a href="https://twitter.com/hashtag/ArrestTheTraitors?src=hash&amp;ref_src=twsrc%5Etfw">#ArrestTheTraitors</a> <a href="https://twitter.com/hashtag/JusticeIsComing?src=hash&amp;ref_src=twsrc%5Etfw">#JusticeIsComing</a><a href="https://twitter.com/hashtag/TickTock?src=hash&amp;ref_src=twsrc%5Etfw">#TickTock</a> <a href="https://t.co/UV1otVkYFj">pic.twitter.com/UV1otVkYFj</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1230336935140483072?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8191403a.PNG" alt="To those who think there will never be justice, think again." /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8191403a.PNG" alt="To those who think there will never be justice, think again." /></span>
-		<span class="savetodisk"><a href="images/mediapics&caps/8191403a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8191403a.PNG" alt="To those who think there will never be justice, think again." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8191403a.PNG" alt="To those who think there will never be justice, think again." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8191403a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<span class="embedlink"> [tweeted video
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8191403b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 		<span class="savetodisk"><a href="videos/8kun/8191403b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Q
@@ -5346,16 +6298,17 @@
 <br />
 
 <!-- 3875 -->
+<span id="q3875"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8191505.html" target="_blank">10487</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3875. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 01:34:03 </span><span class="postID" style="color:white; background-color:#f91220">ID: f91220</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8191505.html#8192087" target="_blank">8192087</a></span> <span class="savetodisk"><a href="images/8kun/8192087.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3875. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 01:34:03 </span><span class="postID" style="color:white; background-color:#f91220">ID: f91220</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8191505.html#8192087" target="_blank">8192087</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8192087.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/akdqyK.jpg" target="_blank">akdqyK.jpg</a></span> <span class="savetodisk"><a href="images/quploads/akdqyK.jpg" download>🖫</a></span><span> (4.67 KB, 383x131, 383:131)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/akdqyK.jpg" alt="akdqyK.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/akdqyK.jpg" alt="akdqyK.jpg" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/akdqyK.jpg" target="_blank">akdqyK.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/akdqyK.jpg" download>🖫</a></span><span> (4.67 KB, 383x131, 383:131)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/akdqyK.jpg" alt="akdqyK.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/akdqyK.jpg" alt="akdqyK.jpg" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5366,9 +6319,9 @@
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Victoria’s Secret has been under a microscope for its outdated marketing &amp; the L Brands CEO’s Epstein connections. More than 30 people also described an entrenched culture of misogyny, bullying &amp; harassment: <a href="https://t.co/gXeLz3dnQ4">https://t.co/gXeLz3dnQ4</a><br><br>w <a href="https://twitter.com/jbsgreenberg?ref_src=twsrc%5Etfw">@jbsgreenberg</a> <a href="https://twitter.com/katierosman?ref_src=twsrc%5Etfw">@katierosman</a> <a href="https://twitter.com/JamesStewartNYT?ref_src=twsrc%5Etfw">@JamesStewartNYT</a></p>&mdash; Sapna Maheshwari (@sapna) <a href="https://twitter.com/sapna/status/1223639939931410435?ref_src=twsrc%5Etfw">February 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
 				<span class="embedlink"> [screencap
-				<span class="quotecontenthovers"><img src="images/mediapics&caps/8192087a.PNG" alt="Victoria’s Secret has been under a microscope for its outdated marketing." /></span></span>
-				<span class="quotecontentexpand"><img src="images/mediapics&caps/8192087a.PNG" alt="Victoria’s Secret has been under a microscope for its outdated marketing." /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8192087a.PNG" target="_blank" download> 🖫</a></span>]
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8192087a.PNG" alt="Victoria’s Secret has been under a microscope for its outdated marketing." /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8192087a.PNG" alt="Victoria’s Secret has been under a microscope for its outdated marketing." /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8192087a.PNG" target="_blank" download> 🖫</a></span>]
 
 				<a href="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html" target="_blank">[tweeted link</a>
 			
@@ -5377,9 +6330,9 @@
 				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html"></iframe></span>
 		
 				<span class="embedlink"> [screencap
-				<span class="quotecontenthovers"><img src="images/mediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span></span>
-				<span class="quotecontentexpand"><img src="images/mediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span>
-				<span class="savetodisk"><a href="images/mediapics&caps/8192087b.PNG" target="_blank" download> 🖫</a></span>]]
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8192087b.PNG" alt="Law granting illegal immigrants drivers licenses could lead to voter fraud" /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8192087b.PNG" target="_blank" download> 🖫</a></span>]]
 
 			<br />[Epstein]
 			<br />[Wexner]
@@ -5393,16 +6346,17 @@
 <br />
 
 <!-- 3876 -->
+<span id="q3876"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3876. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:13:03 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194744" target="_blank">8194744</a></span> <span class="savetodisk"><a href="images/8kun/8194744.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3876. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:13:03 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194744" target="_blank">8194744</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194744.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/F_NewsEx3820.PNG" target="_blank">F_NewsEx3820.PNG</a></span> <span class="savetodisk"><a href="images/quploads/F_NewsEx3820.PNG" download>🖫</a></span><span> (713.42 KB, 772x770, 386:385)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/F_NewsEx3820.PNG" target="_blank">F_NewsEx3820.PNG</a></span> <span class="savetodisk"><a href="images/8kun/quploads/F_NewsEx3820.PNG" download>🖫</a></span><span> (713.42 KB, 772x770, 386:385)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5413,13 +6367,13 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8194659.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
 								<span class="file1">
-									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" target="_blank">c7e555f1...50900d0.jpg</a></span> <span class="savetodisk"><a href="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" download>🖫</a></span><span> (46.46 KB, 512x288, 16:9)</span></span><br />
-									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
+									<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" target="_blank">c7e555f1...50900d0.jpg</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" download>🖫</a></span><span> (46.46 KB, 512x288, 16:9)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
 								</span>
 							</span>
 							<span class="posttext" style="display:block; float:left;">
@@ -5439,13 +6393,13 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8194659.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
 								<span class="file1">
-									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" target="_blank">c7e555f1...50900d0.jpg</a></span> <span class="savetodisk"><a href="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" download>🖫</a></span><span> (46.46 KB, 512x288, 16:9)</span></span><br />
-									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
+									<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" target="_blank">c7e555f1...50900d0.jpg</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" download>🖫</a></span><span> (46.46 KB, 512x288, 16:9)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
 								</span>
 							</span>
 							<span class="posttext" style="display:block; float:left;">
@@ -5472,12 +6426,12 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3877 -->
+<span id="q3877"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3877. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:27:28 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194912" target="_blank">8194912</a></span> <span class="savetodisk"><a href="images/8kun/8194912.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3877. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:27:28 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194912" target="_blank">8194912</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194912.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/owillis/status/1230526620483694595" target="_blank">https://twitter.com/owillis/status/1230526620483694595</a></span>
@@ -5487,9 +6441,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">german mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world <a href="https://t.co/qztvsVpAnu">https://t.co/qztvsVpAnu</a></p>&mdash; Oliver Willis (@owillis) <a href="https://twitter.com/owillis/status/1230526620483694595?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8194912a.PNG" alt="German mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8194912a.PNG" alt="German mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world." /></span>
-						  <span class="savetodisk"><a href="images/mediapics&caps/8194912a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8194912a.PNG" alt="German mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8194912a.PNG" alt="German mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8194912a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<a href="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/" target="_blank">[twitter link</a>
 		
@@ -5498,9 +6452,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8194912b.PNG" target="_blank" download> 🖫</a></span>]]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8194912b.PNG" alt="Germany terrorism attack." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8194912b.PNG" target="_blank" download> 🖫</a></span>]]
 
 		<br />Here we go again.
 		<br />What happens when billion dollar media co's attack & miss?
@@ -5515,10 +6469,11 @@
 <br />
 
 <!-- 3878 -->
+<span id="q3878"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3878. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:40:44 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200462" target="_blank">8200462</a></span> <span class="savetodisk"><a href="images/8kun/8200462.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3878. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:40:44 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200462" target="_blank">8200462</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200462.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/brogthefrog/status/1230664743406403586" target="_blank">https://twitter.com/brogthefrog/status/1230664743406403586</a></span>
@@ -5528,9 +6483,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="tl" dir="ltr"><a href="https://twitter.com/hashtag/QProof?src=hash&amp;ref_src=twsrc%5Etfw">#QProof</a><br><br>Kash Patel<a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/YsuHC3IJnZ">https://t.co/YsuHC3IJnZ</a> <a href="https://t.co/iFpF1HoMb9">pic.twitter.com/iFpF1HoMb9</a></p>&mdash; NowC@mesTHEP@in (@brogthefrog) <a href="https://twitter.com/brogthefrog/status/1230664743406403586?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8200462a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8200462a.PNG" alt="#QProof Kash Patel" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8200462a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<span class="twitterembed"><a href="https://twitter.com/NatashaBertrand/status/1230660042812219393" target="_blank">[tweeted tweet</a></span>
 
@@ -5539,9 +6494,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking now: Kash Patel, a former NSC official who also played a key role as a Hill staffer in helping GOP discredit the Russia probe, is now a senior adviser for new acting DNI Richard Grenell, according to 4 people familiar with the matter. <a href="https://twitter.com/dlippman?ref_src=twsrc%5Etfw">@dlippman</a> <a href="https://t.co/PUb3V8iFoU">https://t.co/PUb3V8iFoU</a></p>&mdash; Natasha Bertrand (@NatashaBertrand) <a href="https://twitter.com/NatashaBertrand/status/1230660042812219393?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8200462b.PNG" target="_blank" download> 🖫</a></span>]]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8200462b.PNG" alt="Breaking now: Kash Patel, a former NSC official" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8200462b.PNG" target="_blank" download> 🖫</a></span>]]
 
 			<a href="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546" target="_blank">[tweeted link</a>
 
@@ -5550,9 +6505,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8200462c.PNG" target="_blank" download> 🖫</a></span>]]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8200462c.PNG" alt="Kash Patel. NSC aide." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8200462c.PNG" target="_blank" download> 🖫</a></span>]]
 
 		<br />The puzzle is coming together.
 		<br />Q
@@ -5563,10 +6518,11 @@
 <br />
 
 <!-- 3879 -->
+<span id="q3879"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3879. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:47:48 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200590" target="_blank">8200590</a></span> <span class="savetodisk"><a href="images/8kun/8200590.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3879. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:47:48 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200590" target="_blank">8200590</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200590.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -5576,13 +6532,13 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
 								<span class="file1">
-									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
-									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
+									<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
 								</span>
 							</span>
 							<span class="posttext" style="display:block; float:left;">
@@ -5602,13 +6558,13 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
 								<span class="file1">
-									<span class="fileinfo"><span>File: </span><span><a href="images/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
-									<span class="filethumbnail"><img class="thumbnail" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
+									<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ClipboardImage_8200492.png" target="_blank">ClipboardImage_8200492.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ClipboardImage_8200492.png" download>🖫</a></span><span> (142.41 KB, 599x660, 599:660)</span></span><br />
+									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
 								</span>
 							</span>
 							<span class="posttext" style="display:block; float:left;">
@@ -5637,10 +6593,11 @@
 <br />
 
 <!-- 3880 -->
+<span id="q3880"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3880. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:59:58 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200814" target="_blank">8200814</a></span> <span class="savetodisk"><a href="images/8kun/8200814.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3880. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:59:58 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200814" target="_blank">8200814</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200814.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -5650,7 +6607,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 
@@ -5669,7 +6626,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 
@@ -5692,14 +6649,14 @@
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/B5T7Gr5oJbM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 	
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/mediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span></span>
-		<span class="quotecontentexpand"><img src="images/mediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span>
-				 <span class="savetodisk"><a href="images/mediapics&caps/8200814a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8200814a.PNG" alt="White Squall 1996 Movie Trailer (Jeff Bridges, Scott Wolf)" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8200814a.PNG" target="_blank" download> 🖫</a></span>]
 					 
 		<span class="embedlink"> [local
-		<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-		<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
-												<span class="savetodisk"><a href="videos/8kun/8200814b.mp4" target="_blank" download> 🖫</a></span>]
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8200814b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="savetodisk"><a href="videos/8kun/8200814b.mp4" target="_blank" download> 🖫</a></span>]
 
 		<br />Prepare for the storm.
 		<br />Q
@@ -5711,16 +6668,17 @@
 <br />
 
 <!-- 3881 -->
+<span id="q3881"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3881. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:36:43 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8238822" target="_blank">8238822</a></span> <span class="savetodisk"><a href="images/8kun/8238822.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3881. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:36:43 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8238822" target="_blank">8238822</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8238822.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/EMHyS2xXkAA8JrB.png" target="_blank">EMHyS2xXkAA8JrB.png</a></span> <span class="savetodisk"><a href="images/quploads/EMHyS2xXkAA8JrB.png" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EMHyS2xXkAA8JrB.png" target="_blank">EMHyS2xXkAA8JrB.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EMHyS2xXkAA8JrB.png" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5731,9 +6689,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the interview you&#39;ve all been waiting for. In it I share the details of what happened from start to finish and the aftermath. I pray it will make a difference. <a href="https://t.co/jaWpzvTOvz">https://t.co/jaWpzvTOvz</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1231066589996318720?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8238822a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8238822a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<span class="twitterembed"><a href="https://twitter.com/BardsOfWar/status/1231049557129269248" target="_blank">[tweeted tweet</a></span>
 
@@ -5742,9 +6700,9 @@
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast. <br><br>EP 73 - Interview with Nate Cane, FBI Whistleblower<a href="https://twitter.com/cain_nate?ref_src=twsrc%5Etfw">@cain_nate</a> tells his story like never before. A true American Patriot talks about the risk he took, the war on his Family, Q and FAITH. <br><br>Let the world learn truth.<br><br>👇👇👇<a href="https://t.co/cbrPCBSRDG">https://t.co/cbrPCBSRDG</a></p>&mdash; BardsOfWar (@BardsOfWar) <a href="https://twitter.com/BardsOfWar/status/1231049557129269248?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8238822b.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8238822b.PNG" target="_blank" download> 🖫</a></span>]
 
 			<a href="https://www.youtube.com/watch?v=B5T7Gr5oJbM" target="_blank">[tweeted YouTube video</a>
 
@@ -5753,13 +6711,13 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/iBAIff8X79c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span>
-					 <span class="savetodisk"><a href="images/mediapics&caps/8238822c.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8238822c.PNG" target="_blank" download> 🖫</a></span>]
 						
 			<span class="embedlink"> [local
-			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
-			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
 													<span class="savetodisk"><a href="videos/8kun/8238822b.mp4" target="_blank" download> 🖫</a></span>]]
 
 			<br />Listen carefully. 
@@ -5783,16 +6741,17 @@
 
 <span id="lqp"></span>
 <!-- 3882 -->
+<span id="q3882"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3882. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:52:03 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8239046" target="_blank">8239046</a></span> <span class="savetodisk"><a href="images/8kun/8239046.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3882. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:52:03 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8239046" target="_blank">8239046</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8239046.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
 			<span class="file1">
-				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/images_8239046.jpg" target="_blank">images_8239046.jpg</a></span> <span class="savetodisk"><a href="images/quploads/images_8239046.jpg" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
-				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/images_8239046.jpg" alt="images_8239046.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/images_8239046.jpg" alt="images_8239046.jpg" /></span></span>
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/images_8239046.jpg" target="_blank">images_8239046.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/images_8239046.jpg" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/images_8239046.jpg" alt="images_8239046.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/images_8239046.jpg" alt="images_8239046.jpg" /></span></span>
 			</span>
 		</span>
 		<span class="posttext" style="display:block; float:left;">
@@ -5803,9 +6762,9 @@
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/119629.pdf"></iframe></span>
 	
 			<span class="embedlink"> [screencap
-			<span class="quotecontenthovers"><img src="images/mediapics&caps/8239046a.PNG" alt="2016 election final report" /></span></span>
-			<span class="quotecontentexpand"><img src="images/mediapics&caps/8239046a.PNG" alt="2016 election final report" /></span>
-			<span class="savetodisk"><a href="images/mediapics&caps/8239046a.PNG" target="_blank" download> 🖫</a></span>]
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8239046a.PNG" alt="2016 election final report" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8239046a.PNG" alt="2016 election final report" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8239046a.PNG" target="_blank" download> 🖫</a></span>]
 			
 			<br />"Insurgency is the organized use of subversion and violence to seize, nullify or challenge political control of a region."
 			<br />The presidency of Barack Hussein Obama began at noon EST on January 20, 2009, when Barack Obama was inaugurated as the 44th President of the United States.
