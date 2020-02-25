@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3880 posts as of 2020-Feb-20, 20:59:58 ET ]</b></p>
+<p style="text-align:center"><b>[3882 posts as of 02/24/20 (Mon) 20:52:03 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -5636,7 +5636,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3880 -->
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
@@ -5705,6 +5704,114 @@
 		<br />Prepare for the storm.
 		<br />Q
 		<br />
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3881 -->
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3881. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:36:43 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8238822" target="_blank">8238822</a></span> <span class="savetodisk"><a href="images/8kun/8238822.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/EMHyS2xXkAA8JrB.png" target="_blank">EMHyS2xXkAA8JrB.png</a></span> <span class="savetodisk"><a href="images/quploads/EMHyS2xXkAA8JrB.png" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext" style="display:block; float:left;">
+			<span class="twitterembed"><a href="https://twitter.com/cain_nate/status/1231066589996318720" target="_blank">https://twitter.com/cain_nate/status/1231066589996318720</a></span>
+
+			<span class="embedlink"> [embed]
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the interview you&#39;ve all been waiting for. In it I share the details of what happened from start to finish and the aftermath. I pray it will make a difference. <a href="https://t.co/jaWpzvTOvz">https://t.co/jaWpzvTOvz</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1231066589996318720?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the interview you&#39;ve all been waiting for. In it I share the details of what happened from start to finish and the aftermath. I pray it will make a difference. <a href="https://t.co/jaWpzvTOvz">https://t.co/jaWpzvTOvz</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1231066589996318720?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822a.PNG" alt="Here is the interview you've all been waiting for." /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8238822a.PNG" target="_blank" download> 🖫</a></span>]
+
+			<span class="twitterembed"><a href="https://twitter.com/BardsOfWar/status/1231049557129269248" target="_blank">[tweeted tweet</a></span>
+
+			<span class="embedlink"> [embed]
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast. <br><br>EP 73 - Interview with Nate Cane, FBI Whistleblower<a href="https://twitter.com/cain_nate?ref_src=twsrc%5Etfw">@cain_nate</a> tells his story like never before. A true American Patriot talks about the risk he took, the war on his Family, Q and FAITH. <br><br>Let the world learn truth.<br><br>👇👇👇<a href="https://t.co/cbrPCBSRDG">https://t.co/cbrPCBSRDG</a></p>&mdash; BardsOfWar (@BardsOfWar) <a href="https://twitter.com/BardsOfWar/status/1231049557129269248?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast. <br><br>EP 73 - Interview with Nate Cane, FBI Whistleblower<a href="https://twitter.com/cain_nate?ref_src=twsrc%5Etfw">@cain_nate</a> tells his story like never before. A true American Patriot talks about the risk he took, the war on his Family, Q and FAITH. <br><br>Let the world learn truth.<br><br>👇👇👇<a href="https://t.co/cbrPCBSRDG">https://t.co/cbrPCBSRDG</a></p>&mdash; BardsOfWar (@BardsOfWar) <a href="https://twitter.com/BardsOfWar/status/1231049557129269248?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822b.PNG" alt="EP 73 - Interview with Nate Cane, FBI Whistleblower" /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8238822b.PNG" target="_blank" download> 🖫</a></span>]
+
+			<a href="https://www.youtube.com/watch?v=B5T7Gr5oJbM" target="_blank">[tweeted YouTube video</a>
+
+			<span class="embedlink"> [embed]
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/iBAIff8X79c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/iBAIff8X79c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8238822c.PNG" alt="EP73 - Interview with Nate Cain, FBI Whistleblower" /></span>
+					 <span class="savetodisk"><a href="images/mediapics&caps/8238822c.PNG" target="_blank" download> 🖫</a></span>]
+						
+			<span class="embedlink"> [local
+			<span class="quotecontenthovers"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotecontentexpand"><video width="640" controls><source src="videos/8kun/8238822b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+													<span class="savetodisk"><a href="videos/8kun/8238822b.mp4" target="_blank" download> 🖫</a></span>]]
+
+			<br />Listen carefully. 
+			<br />Think: re: why [no] arrests (justice) yet?
+			<br />What if (almost) every critical position [sr] within the US GOV apparatus was infiltrated?
+			<br />WHAT MUST BE DONE FIRST? 
+			<br />THE SWAMP RUNS DEEP.
+			<br />+Sleepers
+			<br />Backgrounds are important.
+			<br />Muslim Brotherhood
+			<br />List of 'in the news now [names]' w/ known ties to Islam? 
+			<br />THIS IS NOT ANOTHER 4-YEAR ELECTION.
+			<br />[assumptions correct - package well rec [known]]
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3882 -->
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3882. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:52:03 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8239046" target="_blank">8239046</a></span> <span class="savetodisk"><a href="images/8kun/8239046.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/quploads/images_8239046.jpg" target="_blank">images_8239046.jpg</a></span> <span class="savetodisk"><a href="images/quploads/images_8239046.jpg" download>🖫</a></span><span> (5.43 KB, 447x256, 447:256)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/quploads/images_8239046.jpg" alt="images_8239046.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/quploads/images_8239046.jpg" alt="images_8239046.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext" style="display:block; float:left;">
+			<a href="https://2009-2017.state.gov/documents/organization/119629.pdf" target="_blank">https://2009-2017.state.gov/documents/organization/119629.pdf</a>
+
+			<span class="embedlink"> [embed]
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/119629.pdf"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/119629.pdf"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/mediapics&caps/8239046a.PNG" alt="2016 election final report" /></span></span>
+			<span class="quotecontentexpand"><img src="images/mediapics&caps/8239046a.PNG" alt="2016 election final report" /></span>
+			<span class="savetodisk"><a href="images/mediapics&caps/8239046a.PNG" target="_blank" download> 🖫</a></span>]
+			
+			<br />"Insurgency is the organized use of subversion and violence to seize, nullify or challenge political control of a region."
+			<br />The presidency of Barack Hussein Obama began at noon EST on January 20, 2009, when Barack Obama was inaugurated as the 44th President of the United States.
+			<br />What Country was the true intended target?
+			<br />Q
+		</span>
 	</span>
 	<br />
 	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
