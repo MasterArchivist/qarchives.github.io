@@ -6937,21 +6937,23 @@
 <!-- 3885 -->
 <span id="q3885"></span>
 <span class="replicapost">
-	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8250465.html" target="_blank">10532</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3885. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3885. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:28:19 </span><span class="postID" style="color:white; background-color:#e1be07">ID: e1be07</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8250465.html#8251212" target="_blank">8251212</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251212.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
-		<a href="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/" target="_blank">https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/</a>
-
+		<a href="https://www.nationalreview.com/corner/born-alive-bill-fails-to-pass-senate-vote/ target="_blank">https://www.nationalreview.com/corner/born-alive-bill-fails-to-pass-senate-vote/</a>
+			
 		<span class="embedlink"> [embed]
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span>
 
 		<span class="embedlink"> [screencap
-		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="2016 election final report" /></span></span>
-		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="2016 election final report" /></span>
-				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8251341a.PNG" target="_blank" download> 🖫</a></span>]
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8251212a.PNG" alt="Born alive bill fails to pass senate vote" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8251212a.PNG" alt="Born alive bill fails to pass senate vote" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8251212a.PNG" target="_blank" download> 🖫</a></span>]
+			 
+		<br />These people are sick!
 		<br />Q
 	</span>
 	<br />
@@ -6964,7 +6966,32 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/" target="_blank">https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/</a>
+
+		<span class="embedlink"> [embed]
+		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span>
+
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="Born alive abortion survivors protection act fails in the senate" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="Born alive abortion survivors protection act fails in the senate" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8251341a.PNG" target="_blank" download> 🖫</a></span>]
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3887 -->
+<span id="q3887"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/Inevitable_ET/status/1232333000853147648" taregt="_blank">https://twitter.com/Inevitable_ET/status/1232333000853147648</a></span>
@@ -6992,12 +7019,12 @@
 </span>
 <br />
 
-<!-- 3887 -->
-<span id="q3887"></span>
+<!-- 3888 -->
+<span id="q3888"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251616</span>
@@ -7059,12 +7086,12 @@
 </span>
 <br />
 
-<!-- 3888 -->
-<span id="q3888"></span>
+<!-- 3889 -->
+<span id="q3889"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251665</span>
@@ -7133,12 +7160,12 @@
 <br />
 
 <span id="lqp"></span>
-<!-- 3889 -->
-<span id="q3889"></span>
+<!-- 3890 -->
+<span id="q3890"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3890. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251669</span>
