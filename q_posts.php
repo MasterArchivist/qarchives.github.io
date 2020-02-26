@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3882 posts as of 02/24/20 (Mon) 20:52:03 ET ]</b></p>
+<p style="text-align:center"><b>[3889 posts as of 02/26/20 (Wed) 00:12:52 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -6739,7 +6739,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3882 -->
 <span id="q3882"></span>
 <span class="replicapost">
@@ -6771,6 +6770,459 @@
 			<br />What Country was the true intended target?
 			<br />Q
 		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3883 -->
+<span id="q3883"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3883. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:27:43 </span><span class="postID" style="color:white; background-color:#7351cb">ID: 7351cb</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246730" target="_blank">8246730</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8246730.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>8246640</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ClipboardImage_8246640.png" target="_blank">ClipboardImage_8246640.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ClipboardImage_8246640.png" download>🖫</a></span><span> (340.87 KB, 529x462, 529:462)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<span class="quotelink"><span class="linknumber">>>8246625</span>
+								<span class="quotecontenthovers">
+					
+									<span class="quotedpost">
+										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+										<br />
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<br />
+										<span class="postcontent">
+												Iger didn’t quit Disney
+										</span>
+										<br />
+										<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+									</span>
+					
+								</span>
+							</span>
+							<span class="quotecontentexpand">
+					
+									<span class="quotedpost">
+										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+										<br />
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<br />
+										<span class="postcontent">
+												Iger didn’t quit Disney
+										</span>
+										<br />
+										<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+									</span>
+							</span>
+							
+							
+							<br /><font style="color:red;font-weight:bold;">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately.</font>
+							<br /><span class="twitterembed"><a href="https://twitter.com/CNBC/status/1232412793141440514" target="_blank">https://twitter.com/CNBC/status/1232412793141440514</a></span>
+
+								<span class="embedlink"> [embed]
+								<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+								<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+								
+								<span class="embedlink"> [screencap
+								<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8246640a.PNG" alt="BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately." /></span></span>
+								<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8246640a.PNG" alt="BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately." /></span>
+										<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8246640a.PNG" target="_blank" download> 🖫</a></span>]
+							
+							<br />
+							<br />Many sources confirming now, live on FOX too. 
+							<br />He's not CEO anymore though, and is leaving earlier than his contract says he should.
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ClipboardImage_8246640.png" target="_blank">ClipboardImage_8246640.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ClipboardImage_8246640.png" download>🖫</a></span><span> (340.87 KB, 529x462, 529:462)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<span class="quotelink"><span class="linknumber">>>8246625</span>
+								<span class="quotecontenthovers">
+					
+									<span class="quotedpost">
+										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+										<br />
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<br />
+										<span class="postcontent">
+												Iger didn’t quit Disney
+										</span>
+										<br />
+										<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+									</span>
+					
+								</span>
+							</span>
+							<span class="quotecontentexpand">
+					
+									<span class="quotedpost">
+										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
+										<br />
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<br />
+										<span class="postcontent">
+												Iger didn’t quit Disney
+										</span>
+										<br />
+										<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+									</span>
+							</span>
+							
+							<br /><font style="color:#AF0A0F;font-weight:bold;">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately.</font>
+							<br /><span class="twitterembed"><a href="https://twitter.com/CNBC/status/1232412793141440514" target="_blank">https://twitter.com/CNBC/status/1232412793141440514</a></span>
+
+								<span class="embedlink"> [embed]
+								<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+								<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+								
+								<span class="embedlink"> [screencap
+								<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8246640a.PNG" alt="BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately." /></span></span>
+								<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8246640a.PNG" alt="BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately." /></span>
+										 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8246640a.PNG" target="_blank" download> 🖫</a></span>]
+							
+								<span class="embedlink"> [tweeted video
+								<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8246640b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+								<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8246640b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+																	  <span class="savetodisk"><a href="videos/8kun/8246640b.mp4" target="_blank" download> 🖫</a></span>]
+		
+							<br />
+							<br />Many sources confirming now, live on FOX too. 
+							<br />He's not CEO anymore though, and is leaving earlier than his contract says he should.
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+		</span>
+		<br />The Silent War continues..
+		<br />Q
+		
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3884 -->
+<span id="q3884"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10558</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3884. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:54:39 </span><span class="postID" style="color:white; background-color:#902ef8">ID: 902ef8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8247199" target="_blank">8247199</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8247199.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/D0RYDDvWkAE61QQ.png" target="_blank">D0RYDDvWkAE61QQ.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/D0RYDDvWkAE61QQ.png" download>🖫</a></span><span> (247.13 KB, 763x496, 763:496)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D0RYDDvWkAE61QQ.png" alt="D0RYDDvWkAE61QQ.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D0RYDDvWkAE61QQ.png" alt="D0RYDDvWkAE61QQ.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext" style="display:block; float:left;">
+			<br />Now, isn't that interesting?
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3885 -->
+<span id="q3885"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3885. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/" target="_blank">https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/</a>
+
+		<span class="embedlink"> [embed]
+		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span>
+
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="2016 election final report" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8251341a.PNG" alt="2016 election final report" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8251341a.PNG" target="_blank" download> 🖫</a></span>]
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3886 -->
+<span id="q3886"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/Inevitable_ET/status/1232333000853147648" taregt="_blank">https://twitter.com/Inevitable_ET/status/1232333000853147648</a></span>
+
+			<span class="embedlink"> [embed]
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s going to be Biblical<br><br>Rev 9:3<br><br>&quot;Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power.&quot;<br><br>Saudi Arabia <a href="https://t.co/5JIcyh6sQu">pic.twitter.com/5JIcyh6sQu</a></p>&mdash; l E T 17 (@Inevitable_ET) <a href="https://twitter.com/Inevitable_ET/status/1232333000853147648?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s going to be Biblical<br><br>Rev 9:3<br><br>&quot;Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power.&quot;<br><br>Saudi Arabia <a href="https://t.co/5JIcyh6sQu">pic.twitter.com/5JIcyh6sQu</a></p>&mdash; l E T 17 (@Inevitable_ET) <a href="https://twitter.com/Inevitable_ET/status/1232333000853147648?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8251572a.PNG" alt="It’s going to be Biblical" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8251572a.PNG" alt="It’s going to be Biblical" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8251572a.PNG" target="_blank" download> 🖫</a></span>]
+							
+			<span class="embedlink"> [tweeted video
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8251572b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8251572b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+												  <span class="savetodisk"><a href="videos/8kun/8251572b.mp4" target="_blank" download> 🖫</a></span>]
+	
+		<br />Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God.
+		<br />And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3887 -->
+<span id="q3887"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>8251616</span>
+			<span class="quotecontenthovers">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/2904.png" target="_blank">2904.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/2904.png" download>🖫</a></span><span> (42.1 KB, 438x352, 219:176)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/2904.png" alt="2904.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/2904.png" alt="2904.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br />Feb 26 2019
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+				</span>
+			</span>
+			<span class="quotecontentexpand">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/2904.png" target="_blank">2904.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/2904.png" download>🖫</a></span><span> (42.1 KB, 438x352, 219:176)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/2904.png" alt="2904.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/2904.png" alt="2904.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br />Feb 26 2019
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+			</span>
+
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3888 -->
+<span id="q3888"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>8251665</span>
+			<span class="quotecontenthovers">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" target="_blank">ERjHskdVAAYhwWD.jpg</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" download>🖫</a></span><span> (61 KB, 510x680, 3:4)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br /><font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br />Thanks for the wonderful visit, Q and Q+. Love, Respect and Support from India.
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+				</span>
+			</span>
+			<span class="quotecontentexpand">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" target="_blank">ERjHskdVAAYhwWD.jpg</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" download>🖫</a></span><span> (61 KB, 510x680, 3:4)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br /><font style="color:red; text-decoration:underline;">>>8251572</font>
+							<br />Thanks for the wonderful visit, Q and Q+. Love, Respect and Support from India.
+							
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+			</span>
+
+		<br />Love and Light, Patriot.
+		<br />Have faith and trust in yourself.
+		<br />WWG1WGA!!!
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3889 -->
+<span id="q3889"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>8251669</span>
+			<span class="quotecontenthovers">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/576847584903257849302578432574839.png" target="_blank">576847...74839.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/576847584903257849302578432574839.png" download>🖫</a></span><span> (449.69 KB, 720x432, 5:3)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251654</font>
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+				</span>
+			</span>
+			<span class="quotecontentexpand">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/576847584903257849302578432574839.png" target="_blank">576847...74839.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/576847584903257849302578432574839.png" download>🖫</a></span><span> (449.69 KB, 720x432, 5:3)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext" style="display:block; float:left;">
+							<font style="color:red; text-decoration:underline;">>>8251654</font>
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+	
+			</span>
+
+		<br />Godspeed.
+		<br />Q
 	</span>
 	<br />
 	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
