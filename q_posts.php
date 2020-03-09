@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3890 posts as of 02/26/20 (Wed) 00:12:52 ET ]</b></p>
+<p style="text-align:center"><b>[3892 posts as of 03/09/20 (Mon) 13:08:14 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -15,7 +15,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 16:44:28 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank">147012719</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147012719.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 16:44:28 ET </span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147012719" target="_blank">147012719</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147012719.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -25,7 +25,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 					<br />
-					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 15:33:50 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147005381.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: gb953qGI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 15:33:50 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147005381.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 		
@@ -44,7 +44,7 @@
 			<span class="quotedpost">
 				<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 				<br />
-				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 15:33:50 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: gb953qGI</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147005381.PNG" download>🖫</a></span></span>
+				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: gb953qGI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 15:33:50 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147005381" target="_blank">147005381</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147005381.PNG" download>🖫</a></span></span>
 				<br />
 				<span class="postcontent">
 				
@@ -52,22 +52,24 @@
 						<span class="quotecontenthovers">
 						
 						<span class="quotedpost">
-	<span class="postcontent">
-		<span class="postfiles">
-			<span class="file1">
-				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
-				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
-			</span>
-		</span>
-		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 11:36:31 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/146981635.PNG" download>🖫</a></span></span>
-		<br />
-		<span class="posttext">
-			Why are all the Fox anchors smiling.
-			<br />CNN MSNBC NBC are freaking out like election night
-		</span>
-	</span>
-	<br />
-	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+						
+							<span class="postcontent">
+								<span class="postfiles">
+									<span class="file1">
+										<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
+										<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
+									</span>
+								</span>
+								<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: rnZJy257</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 11:36:31 ET </span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/146981635.PNG" download>🖫</a></span></span>
+								<br />
+								<span class="posttext">
+									Why are all the Fox anchors smiling.
+									<br />CNN MSNBC NBC are freaking out like election night
+								</span>
+							</span>
+							<br />
+							<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+	
 						</span>
 	
 						</span>
@@ -75,22 +77,24 @@
 						<span class="quotecontentexpand">
 						
 							<span class="quotedpost">
-	<span class="postcontent">
-		<span class="postfiles">
-			<span class="file1">
-				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
-				<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
-			</span>
-		</span>
-		<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 11:36:31 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: rnZJy257</span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/146981635.PNG" download>🖫</a></span></span>
-		<br />
-		<span class="posttext">
-			Why are all the Fox anchors smiling.
-			<br />CNN MSNBC NBC are freaking out like election night
-		</span>
-	</span>
-	<br />
-	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+						
+							<span class="postcontent">
+								<span class="postfiles">
+									<span class="file1">
+										<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" alt="Screenshot_20171028-113313.jpg" /></span></span><br />
+										<span class="fileinfo">File: <a href="https://i.4pcdn.org/pol/1509204991202.jpg" target="_blank">Screenshot_20171028-113313.jpg</a> <span class="savetodisk"><a href="images/4pol/anonuploads/Screenshot_20171028-113313.jpg" download>🖫</a></span> (950KiB, 1909x1473, 1909:1473)</span>
+									</span>
+								</span>
+								<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="subject">Mueller Investigation </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: rnZJy257</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 11:36:31 ET </span><span class="totalposts"> (14) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#146981635" target="_blank">146981635</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/146981635.PNG" download>🖫</a></span></span>
+								<br />
+								<span class="posttext">
+									Why are all the Fox anchors smiling.
+									<br />CNN MSNBC NBC are freaking out like election night
+								</span>
+							</span>
+							<br />
+							<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+	
 							</span>
 							
 						</span>
@@ -114,7 +118,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Mueller Investigation" thread <a href="https://archive.4plebs.org/pol/thread/146981635/" target="_blank">146981635</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. </span><span class="qname">Anonymous</span><span>&nbsp;Sat 28 Oct 2017 18:15:48 </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank">147023341</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147023341.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFFF">ID: BQ7V3bcW</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;28 Oct 2017 (Sat) 18:15:48 ET</span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/146981635/#147023341" target="_blank">147023341</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147023341.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Mockingbird.
@@ -151,7 +155,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 11:47:07 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147104628" target="_blank">147104628</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147104628.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 11:47:07 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147104628" target="_blank">147104628</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147104628.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Open your eyes.
@@ -182,7 +186,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 12:11:40 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147106598" target="_blank">147106598</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147106598.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 12:11:40 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147106598" target="_blank">147106598</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147106598.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Some of us come here to drop crumbs, just crumbs.
@@ -206,7 +210,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "The Theory" thread <a href="https://archive.4plebs.org/pol/thread/147075091/" target="_blank">147075091</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 12:47:18 </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147109593" target="_blank">147109593</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147109593.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #41D98E">ID: P3Lk4PKG</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 12:47:18 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147075091/#147109593" target="_blank">147109593</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147109593.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Follow the money, it’s the key.
@@ -232,7 +236,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 21:48:50 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147166292" target="_blank">147166292</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147166292.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 21:48:50 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147166292" target="_blank">147166292</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147166292.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Some of us come here to drop crumbs, just crumbs.
@@ -265,7 +269,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 21:58:37 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147167304" target="_blank">147167304</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147167304.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 21:58:37 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147167304" target="_blank">147167304</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147167304.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Why wasn’t HRC prosecuted for the emails? Put simply, Obama ultimately OK’d by using the non govt email addy to communicate w/ Clinton. Obama also had an alias along with each of his cabinet members. Therefore indicting HRC would lead to indicting Obama & his cabinet etc which could never happen. Remember he lied about knowing but that ultimately came out in the dump. Poof!
@@ -280,7 +284,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:18:17 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147169329" target="_blank">147169329</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147169329.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 22:18:17 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147169329" target="_blank">147169329</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147169329.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Huma
@@ -311,7 +315,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:30:26 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147170576" target="_blank">147170576</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147170576.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 22:30:26 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147170576" target="_blank">147170576</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147170576.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Projection
@@ -334,7 +338,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;10. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 22:57:27 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147173287" target="_blank">147173287</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147173287.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;10. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 22:57:27 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147173287" target="_blank">147173287</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147173287.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Remember, the FBI, and MI, have an open investigation into the CF. Why did Comey drop this? Who was the FBI director during the Haiti crisis? How many kids disappeared? How much money sent to CF under disguise of H relief went to H? What countries donated big money to CF and why? How much was owed by accepting? When she lost how would this be repaid? What did Obama do with cash just prior to leaving office? Repayment to those who donated for favors/access? Dig!!!!!
@@ -350,7 +354,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;11. </span><span class="qname">Anonymous</span><span>&nbsp;Sun 29 Oct 2017 23:20:11 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147175452" target="_blank">147175452</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147175452.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;11. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;29 Oct 2017 (Sun) 23:20:11 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147175452" target="_blank">147175452</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147175452.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Key:
@@ -370,7 +374,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;12. </span><span class="qname">Anonymous</span><span>&nbsp;Mon 30 Oct 2017 00:26:53 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181191" target="_blank">147181191</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181191.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;12. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;30 Oct 2017 (Mon) 00:26:53 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181191" target="_blank">147181191</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181191.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Military Intelligence ref above is the absolute biggest inside drop this board will ever receive.
@@ -386,7 +390,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Tick Tock is back on the menu boys! Based Hannity" thread <a href="https://archive.4plebs.org/pol/thread/147146601/" target="_blank">147146601</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;13. </span><span class="qname">Anonymous</span><span>&nbsp;Mon 30 Oct 2017 00:26:53 </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181801" target="_blank">147181801</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181801.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;13. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: Eka5Om1K</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;30 Oct 2017 (Mon) 00:26:53 ET </span><span class="totalposts"> (8) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147146601/#147181801" target="_blank">147181801</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147181801.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Now think about the timing of POTUS traveling to China/SK. I’ve said too much. God bless, Patriots.
@@ -401,7 +405,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;14. </span><span class="subject">Bread Crumbs - Q Clearance Patriot </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:00:15 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147433975" target="_blank">147433975</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147433975.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;14. </span><span class="subject">Bread Crumbs - Q Clearance Patriot </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;31 Oct 2017 (Tue) 23:00:15 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147433975" target="_blank">147433975</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147433975.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -410,7 +414,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/quploads/Patriots.jpg" alt="Patriots.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/quploads/Patriots.jpg" alt="Patriots.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			SCI[F]
 			<br />Military Intelligence.
 			<br />What is 'State Secrets' and how upheld in the SC?
@@ -459,13 +463,16 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;15. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:00:47 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147434025" target="_blank">147434025</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147434025.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;15. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;31 Oct 2017 (Tue) 23:00:47 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147434025" target="_blank">147434025</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147434025.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		There are more good people than bad. The wizards and warlocks (inside term) will not allow another Satanic Evil POS control our country. Realize Soros, Clintons, Obama, Putin, etc. are all controlled by 3 families (the 4th was removed post Trump's victory).
+		<br />
 		<br />11.3 - Podesta indicted
 		<br />11.6 - Huma indicted
+		<br />
 		<br />Manafort was placed into Trump's camp (as well as others). The corruption that will come out is so serious that deals must be cut for people to walk away otherwise 70% of elected politicians would be in jail (you are seeing it already begin). A deep cleaning is occurring and the prevention and defense of pure evil is occurring on a daily basis. They never thought they were going to lose control of the Presidency (not just D's) and thought they had control since making past mistakes (JFK, Reagan).
+		<br />
 		<br />Good speed, Patriots.
 		<br />PS, Soros is targeted.
 	</span>
@@ -479,7 +486,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;16. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:31:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147437247" target="_blank">147437247</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147437247.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;16. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;31 Oct 2017 (Tue) 23:31:00 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147437247" target="_blank">147437247</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147437247.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Get the popcorn, Friday & Saturday will deliver on the MAGA promise. POTUS knows he must clean house (gov't) in order to 'free up' and demonstrate who has authority in order to pass important legislation. This was always the priority. Remember, AG Sessions cannot look like an impartial player that is out to get all former Obama team members as we need him for other important work. All will come into focus and for anyone to think POTUS is not in control is kidding themselves. Also, he's 100% insulated with zero risk of impeachment (fact).
@@ -494,7 +501,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;17. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:58:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147440171" target="_blank">147440171</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147440171.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;17. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;31 Oct 2017 (Tue) 23:58:00 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147440171" target="_blank">147440171</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147440171.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Why does Obama travel in advance of POTUS to foreign locations?
@@ -514,7 +521,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;18. </span><span class="qname">Anonymous</span><span>&nbsp;Tue 31 Oct 2017 23:31:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147441378" target="_blank">147441378</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147441378.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;18. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;31 Oct 2017 (Tue) 23:31:00 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147441378" target="_blank">147441378</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147441378.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Why did Mueller meet POTUS 1-day prior to FBI announcement if Mueller COULD NOT be offered director due to prev term limits rule?
@@ -540,7 +547,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;19. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:29:28 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147443190" target="_blank">147443190</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147443190.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;19. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 00:29:28 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147443190" target="_blank">147443190</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147443190.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Why do D’s want to control the black pop?
@@ -571,7 +578,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;20. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:42:00 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444335" target="_blank">147444335</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444335.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;20. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 00:42:00 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444335" target="_blank">147444335</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444335.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Who did POTUS meet with yesterday?
@@ -593,7 +600,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;21. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:48:20 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444934" target="_blank">147444934</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444934.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;21. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 00:48:20 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147444934" target="_blank">147444934</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147444934.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		I’ve dumped some crumbs like this over the weekend which started the intense shilling. At this point we are far enough along you can paint the picture without risk of jeopardizing the operation.
@@ -608,7 +615,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;22. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 00:57:15 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147445681" target="_blank">147445681</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147445681.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;22. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 00:57:15 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147445681" target="_blank">147445681</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147445681.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Who controls the NG?
@@ -628,7 +635,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;23. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:11:52 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147446992" target="_blank">147446992</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147446992.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;23. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:11:52 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147446992" target="_blank">147446992</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147446992.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Note MI has the same SAPs as NSA, CIA etc as designated post 9-11.
@@ -649,7 +656,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;24. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:27:03 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147448408" target="_blank">147448408</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147448408.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;24. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:27:03 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147448408" target="_blank">147448408</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147448408.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Any person making statements they will not be seeking re-election was put in submission. For the betterment of the country not all will be prosecuted and all will do as told. You will see more of this occur (not normal yet disregarded) and even on the D side.
@@ -664,7 +671,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;25. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:34:11 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449010" target="_blank">147449010</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449010.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;25. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:34:11 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449010" target="_blank">147449010</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449010.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Follow up to last post.
@@ -685,7 +692,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;26. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:41:54 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449624" target="_blank">147449624</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449624.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;26. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:41:54 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147449624" target="_blank">147449624</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147449624.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Think about it logically.
@@ -702,7 +709,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;27. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:56:06 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450817" target="_blank">147450817</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147450817.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;27. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:56:06 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450817" target="_blank">147450817</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147450817.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Not everything can be publicly disclosed because so much ties back to foreign heads of state. Much will be revealed, we want transparency but not at a cost we can’t recover from.
@@ -717,7 +724,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;28. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:59:01 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147451052" target="_blank">147451052</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147451052.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;28. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:59:01 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147451052" target="_blank">147451052</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147451052.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 
@@ -728,7 +735,7 @@
 
 					<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 					<br />
-					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:48:01 </span><span class="postID" style="color:black; background-color: #DEC4DB">ID: dugFL8Fh</span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: dugFL8Fh</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:48:01 ET </span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 				
@@ -738,9 +745,9 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>147441102</font>
-							<br /><font style="color:#008000;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br /><font style="color:#00DD4A;">>What must be completed to engage MI over other (3) letter agencies</font>
 							<br />During the 1950s and 60s, federal troops and federalized National
 							<br />Guard forces, accompanied by military intelligence personnel, were
 							<br />deployed to help integrate Southern schools23 and to help deal with
@@ -769,7 +776,7 @@
 							<br />
 							<br /><a href="http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev" target="_blank">http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev</a>
 
-								<span class="embedlink"> [embed]
+								<span class="embedlink"><span id="emb28" onclick="embedChange(this.id)"> [embed]</span>
 								<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span></span>
 								<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span>
 
@@ -779,7 +786,7 @@
 										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
 
 							<br />
-							<br /><font style="color:#008000;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br /><font style="color:#00DD4A;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
 							<br />
 							<br />Always 5 steps ahead!
 							<br />
@@ -799,7 +806,7 @@
 
 					<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 					<br />
-					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 01:48:01 </span><span class="postID" style="color:black; background-color: #DEC4DB">ID: dugFL8Fh</span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: dugFL8Fh</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 01:48:01 ET </span><span class="totalposts"> (5) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147450119" target="_blank">147450119</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147450119.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 				
@@ -809,9 +816,9 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Spy.png" alt="Spy.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>147441102</font>
-							<br /><font style="color:#008000;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br /><font style="color:#00DD4A;">>What must be completed to engage MI over other (3) letter agencies</font>
 							<br />During the 1950s and 60s, federal troops and federalized National
 							<br />Guard forces, accompanied by military intelligence personnel, were
 							<br />deployed to help integrate Southern schools23 and to help deal with
@@ -840,7 +847,7 @@
 							<br />
 							<br /><a href="http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev" target="_blank">http://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=6053&context=lalrev</a>
 
-								<span class="embedlink"> [embed]
+								<span class="embedlink"><span id="emb28" onclick="embedChange(this.id)"> [embed]</span>
 								<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span></span>
 								<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/The Role of Military Intelligence in Homeland Security.pdf"></iframe></span>
 
@@ -850,7 +857,7 @@
 										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
 
 							<br />
-							<br /><font style="color:#008000;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br /><font style="color:#00DD4A;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
 							<br />
 							<br />Always 5 steps ahead!
 							<br />
@@ -876,7 +883,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;29. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:13:10 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147452214" target="_blank">147452214</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147452214.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;29. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 02:13:10 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147452214" target="_blank">147452214</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147452214.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Some things must remain classified to the very end. NK is not being run by Kim, he’s an actor in the play. Who is the director? The truth would sound so outrageous most Americans would riot, revolt, reject, etc.
@@ -894,7 +901,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;30. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:25:22 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147453147" target="_blank">147453147</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147453147.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;30. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 02:25:22 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147453147" target="_blank">147453147</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147453147.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Would you believe a device was placed somewhere in the WH that could actually cause harm to anyone in the room and would in essence be undetected?
@@ -915,7 +922,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;31. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:38:23 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454188" target="_blank">147454188</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454188.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;31. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 02:38:23 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454188" target="_blank">147454188</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454188.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		World stalemate.
@@ -933,7 +940,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;32. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:44:10 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454631" target="_blank">147454631</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454631.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;32. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 02:44:10 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147454631" target="_blank">147454631</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147454631.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Maybe one day but it cannot go slow. The initial wave will be fast and meaningful. It will send a signal to others immediately and you’ll see the tide turn (not even the MSM can hide and rest assured some will be jailed as deep cover agents).
@@ -948,7 +955,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ "Bread Crumbs - Q Clearance Patriot" thread <a href="https://archive.4plebs.org/pol/thread/147433975/" target="_blank">147433975</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;33. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 02:51:49 </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147455196" target="_blank">147455196</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147455196.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;33. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: grTMpzrL</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 02:51:49 ET </span><span class="totalposts"> (20) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147455196" target="_blank">147455196</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147455196.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		I’m hopeful my time spent here was not wasted.
@@ -965,7 +972,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;34. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 22:56:16 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567888" target="_blank">147567888</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567888.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;34. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 22:56:16 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567888" target="_blank">147567888</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567888.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Q Clearance Patriot
@@ -982,12 +989,15 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;35. </span><span class="qname">Anonymous</span><span>&nbsp;Wed 01 Nov 2017 22:56:38 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567928" target="_blank">147567928</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567928.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;35. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;01 Nov 2017 (Wed) 22:56:38 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147567928" target="_blank">147567928</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147567928.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		POTUS will be well insulated/protected on AF1 and abroad (specific locations classified) while these operations are conducted due to the nature of the entrenchment. It is time to take back our country and make America great again. Let us salute and pray for the brave men and women in uniform who will undertake this assignment to bring forth peace, unity, and return power to the people.
+		<br />
 		<br />It is our hope that this message reaches enough people to make a meaningful impact. We cannot yet telegraph this message through normal methods for reasons I’m sure everyone here can understand. Follow the questions from the previous thread(s) and remain calm, the primary targets are within DC and remain at the top (on both sides). The spill over in the streets will be quickly shut down. Look for more false flags – stay alert, be vigilant, and above all, please pray.
+		<br />
 		<br />“For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. Love is patient, love is kind.”
+		<br />
 		<br />God bless my fellow Americans.
 		<br />4,10,20
 	</span>
@@ -1001,7 +1011,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;36. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 00:54:52 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581302" target="_blank">147581302</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581302.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;36. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 00:54:52 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581302" target="_blank">147581302</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581302.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Military Intelligence.
@@ -1040,7 +1050,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;37. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 00:57:23 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581516" target="_blank">147581516</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581516.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;37. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 00:57:23 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147581516" target="_blank">147581516</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147581516.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		They are the true Patriots. We will never forget. Let these coming days be remembered in our history as the time we fought to recapture the republic from those evil bad actors who for so long have sacrificed the good people of this land for their own personal gain.
@@ -1057,7 +1067,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;38. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 01:48:52 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147586045" target="_blank">147586045</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147586045.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;38. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 01:48:52 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147586045" target="_blank">147586045</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147586045.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Four carriers & escorts in the pacific?
@@ -1070,6 +1080,7 @@
 		<br />Note false flags.
 		<br />Follow Huma.
 		<br />Prepare messages of reassurance based on what was dropped here to spread on different platforms.
+		<br />
 		<br />The calm before the storm.
 	</span>
 	<br />
@@ -1082,7 +1093,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;39. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:14:27 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588085" target="_blank">147588085</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588085.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;39. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 02:14:27 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588085" target="_blank">147588085</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588085.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Would it blow your mind if I told you BO has been to NK and perhaps there now?
@@ -1106,7 +1117,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;40. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:18:35 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588421" target="_blank">147588421</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588421.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;40. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 02:18:35 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147588421" target="_blank">147588421</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147588421.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		4,10,20
@@ -1122,7 +1133,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;41. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:47:47 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147590619" target="_blank">147590619</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147590619.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;41. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 02:47:47 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147590619" target="_blank">147590619</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147590619.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		What a coincidence the mountain that housed NK’s nuclear weapons and testing collapsed. Unbelievable timing. I wonder if critically important materials as well as scientists aka the bomb makers were inside when it happened. Shocking no global news agency suspects we had nothing to do with it. Enjoy the crumbs.
@@ -1137,7 +1148,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;42. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 02:54:29 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591125" target="_blank">147591125</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591125.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;42. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 02:54:29 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591125" target="_blank">147591125</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591125.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		We serve at the pleasure of the President. DJT
@@ -1152,7 +1163,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;43. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 03:01:46 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591663" target="_blank">147591663</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591663.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;43. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 03:01:46 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147591663" target="_blank">147591663</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147591663.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		These crumbs are not meant to scare anyone but merely inform. Resistance will be dealt with swiftly. The core focus is removing entrenched and fortified bad actors within our federal govt (past and present) as well as others. Simply be diligent - phone numbers will be provided if you witness an uprising or other domestic violence (in addition to 911). Any military seen is for your protection as well as to demonstrate our resolve. Watch for confirmations tomorrow.
@@ -1167,7 +1178,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147547939/" target="_blank">1</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;44. </span><span class="qname">Anonymous</span><span>&nbsp;Thu 02 Nov 2017 03:06:41 </span><span class="postID" style="color:black; background-color: #5ff5ff">ID: pGukiFmX</span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147592019" target="_blank">147592019</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147592019.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;44. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pGukiFmX</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 03:06:41 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147547939/#147592019" target="_blank">147592019</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147592019.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Before POTUS departs on Friday he will be sending an important message via Twitter. God bless.
@@ -1177,72 +1188,2911 @@
 </span>
 <br />
 
-<div         ><hr /><b>  45. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147632662" target="_blank"><img src="images/4pol/qcaps/147632662.PNG" /></a></div>
-<div         ><hr /><b>  46. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147634822" target="_blank"><img src="images/4pol/qcaps/147634822.PNG" /></a></div>
-<div         ><hr /><b>  47. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147636035" target="_blank"><img src="images/4pol/qcaps/147636035.PNG" /></a></div>
-<div         ><hr /><b>  48. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147640127" target="_blank"><img src="images/4pol/qcaps/147640127.PNG" /></a></div>
-<div         ><hr /><b>  49. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147641320" target="_blank"><img src="images/4pol/qcaps/147641320.PNG" /></a></div>
-<div         ><hr /><b>  50. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147642680" target="_blank"><img src="images/4pol/qcaps/147642680.PNG" /></a></div>
-<div         ><hr /><b>  51. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147643257" target="_blank"><img src="images/4pol/qcaps/147643257.PNG" /></a></div>
-<div         ><hr /><b>  52. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147645024" target="_blank"><img src="images/4pol/qcaps/147645024.PNG" /></a></div>
-<div         ><hr /><b>  53. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646189" target="_blank"><img src="images/4pol/qcaps/147646189.PNG" /></a></div>
-<div         ><hr /><b>  54. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147646606" target="_blank"><img src="images/4pol/qcaps/147646606.PNG" /></a></div>
-<div         ><hr /><b>  55. 4chan /pol/ CBTS General #2      </b><br /><a href="https://archive.4plebs.org/pol/thread/147591553/#147647154" target="_blank"><img src="images/4pol/qcaps/147647154.PNG" /></a></div>
-<div         ><hr /><b>  56. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661217" target="_blank"><img src="images/4pol/qcaps/147661217.PNG" /></a></div>
-<div         ><hr /><b>  57. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661243" target="_blank"><img src="images/4pol/qcaps/147661243.PNG" /></a></div>
-<div         ><hr /><b>  58. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147661332" target="_blank"><img src="images/4pol/qcaps/147661332.PNG" /></a></div>
-<div         ><hr /><b>  59. 4chan /pol/ CBTS General #3      </b><br /><a href="https://archive.4plebs.org/pol/thread/147647514/#147664082" target="_blank"><img src="images/4pol/qcaps/147664082.PNG" /></a></div>
-<div         ><hr /><b>  60. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147679416" target="_blank"><img src="images/4pol/qcaps/147679416.PNG" /></a></div>
-<div         ><hr /><b>  61. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680054" target="_blank"><img src="images/4pol/qcaps/147680054.PNG" /></a></div>
-<div         ><hr /><b>  62. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147680749" target="_blank"><img src="images/4pol/qcaps/147680749.PNG" /></a></div>
-<div         ><hr /><b>  63. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147681912" target="_blank"><img src="images/4pol/qcaps/147681912.PNG" /></a></div>
-<div         ><hr /><b>  64. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147683156" target="_blank"><img src="images/4pol/qcaps/147683156.PNG" /></a></div>
-<div         ><hr /><b>  65. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147687684" target="_blank"><img src="images/4pol/qcaps/147687684.PNG" /></a></div>
-<div         ><hr /><b>  66. 4chan /pol/ CBTS General #5      </b><br /><a href="https://archive.4plebs.org/pol/thread/147675249/#147689362" target="_blank"><img src="images/4pol/qcaps/147689362.PNG" /></a></div>
-<div         ><hr /><b>  67. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147816901" target="_blank"><img src="images/4pol/qcaps/147816901.PNG" /></a></div>
-<div         ><hr /><b>  68. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147817468" target="_blank"><img src="images/4pol/qcaps/147817468.PNG" /></a></div>
-<div         ><hr /><b>  69. 4chan /pol/ CBTS General #27     </b><br /><a href="https://archive.4plebs.org/pol/thread/147812859/#147819733" target="_blank"><img src="images/4pol/qcaps/147819733.PNG" /></a></div>
-<div         ><hr /><b>  70. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147975558" target="_blank"><img src="images/4pol/qcaps/147975558.PNG" /></a></div>
-<div         ><hr /><b>  71. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147979863" target="_blank"><img src="images/4pol/qcaps/147979863.PNG" /></a></div>
-<div         ><hr /><b>  72. 4chan /pol/ CBTS General #47     </b><br /><a href="https://archive.4plebs.org/pol/thread/147970787/#147981354" target="_blank"><img src="images/4pol/qcaps/147981354.PNG" /></a></div>
-<div         ><hr /><b>  73. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147986661" target="_blank"><img src="images/4pol/qcaps/147986661.PNG" /></a></div>
-<div         ><hr /><b>  74. 4chan /pol/ CBTS General #48     </b><br /><a href="https://archive.4plebs.org/pol/thread/147978093/#147987614" target="_blank"><img src="images/4pol/qcaps/147987614.PNG" /></a></div>
-<div         ><hr /><b>  75. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016618" target="_blank"><img src="images/4pol/qcaps/148016618.PNG" /></a></div>
-<div         ><hr /><b>  76. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016670" target="_blank"><img src="images/4pol/qcaps/148016670.PNG" /></a></div>
-<div         ><hr /><b>  77. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016731" target="_blank"><img src="images/4pol/qcaps/148016731.PNG" /></a></div>
-<div         ><hr /><b>  78. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016769" target="_blank"><img src="images/4pol/qcaps/148016769.PNG" /></a></div>
-<div         ><hr /><b>  79. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148016876" target="_blank"><img src="images/4pol/qcaps/148016876.PNG" /></a></div>
-<div         ><hr /><b>  80. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019575" target="_blank"><img src="images/4pol/qcaps/148019575.PNG" /></a></div>
-<div         ><hr /><b>  81. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148019905" target="_blank"><img src="images/4pol/qcaps/148019905.PNG" /></a></div>
-<div         ><hr /><b>  82. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020085" target="_blank"><img src="images/4pol/qcaps/148020085.PNG" /></a></div>
-<div         ><hr /><b>  83. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148020278" target="_blank"><img src="images/4pol/qcaps/148020278.PNG" /></a></div>
-<div         ><hr /><b>  84. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148021501" target="_blank"><img src="images/4pol/qcaps/148021501.PNG" /></a></div>
-<div         ><hr /><b>  85. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank"><img src="images/4pol/qcaps/148027165.PNG" /></a></div>
-<div         ><hr /><b>  86. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank"><img src="images/4pol/qcaps/148022145.PNG" /></a></div>
-<div         ><hr /><b>  87. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148022342" target="_blank"><img src="images/4pol/qcaps/148022342.PNG" /></a></div>
-<div         ><hr /><b>  88. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148023976" target="_blank"><img src="images/4pol/qcaps/148023976.PNG" /></a></div>
-<div         ><hr /><b>  89. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029633" target="_blank"><img src="images/4pol/qcaps/148029633.PNG" /></a></div>
-<div         ><hr /><b>  90. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148029962" target="_blank"><img src="images/4pol/qcaps/148029962.PNG" /></a></div>
-<div         ><hr /><b>  91. 4chan /pol/ non-CBTS thread      </b><br /><a href="https://archive.4plebs.org/pol/thread/148016618/#148025825" target="_blank"><img src="images/4pol/qcaps/148025825.PNG" /></a></div>
-<div         ><hr /><b>  92. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148031295" target="_blank"><img src="images/4pol/qcaps/148031295.PNG" /></a></div>
-<div         ><hr /><b>  93. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032210" target="_blank"><img src="images/4pol/qcaps/148032210.PNG" /></a></div>
-<div         ><hr /><b>  94. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148032910" target="_blank"><img src="images/4pol/qcaps/148032910.PNG" /></a></div>
-<div         ><hr /><b>  95. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033178" target="_blank"><img src="images/4pol/qcaps/148033178.PNG" /></a></div>
-<div         ><hr /><b>  96. 4chan /pol/ CBTS General #54     </b><br /><a href="https://archive.4plebs.org/pol/thread/148019103/#148033932" target="_blank"><img src="images/4pol/qcaps/148033932.PNG" /></a></div>
-<div         ><hr /><b>  97. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139234" target="_blank"><img src="images/4pol/qcaps/148139234.PNG" /></a></div>
-<div         ><hr /><b>  98. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148139484" target="_blank"><img src="images/4pol/qcaps/148139484.PNG" /></a></div>
-<div         ><hr /><b>  99. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143472" target="_blank"><img src="images/4pol/qcaps/148143472.PNG" /></a></div>
-<div         ><hr /><b> 100. 4chan /pol/ CBTS General #68     </b><br /><a href="https://archive.4plebs.org/pol/thread/148136485/#148143562" target="_blank"><img src="images/4pol/qcaps/148143562.PNG" /></a></div>
-<div         ><hr /><b> 101. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148148004" target="_blank"><img src="images/4pol/qcaps/148148004.PNG" /></a></div>
-<div         ><hr /><b> 102. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148149435" target="_blank"><img src="images/4pol/qcaps/148149435.PNG" /></a></div>
-<div         ><hr /><b> 103. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148152047" target="_blank"><img src="images/4pol/qcaps/148152047.PNG" /></a></div>
-<div         ><hr /><b> 104. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154137" target="_blank"><img src="images/4pol/qcaps/148154137.PNG" /></a></div>
-<div         ><hr /><b> 105. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148154941" target="_blank"><img src="images/4pol/qcaps/148154941.PNG" /></a></div>
-<div         ><hr /><b> 106. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155343" target="_blank"><img src="images/4pol/qcaps/148155343.PNG" /></a></div>
-<div         ><hr /><b> 107. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148155609" target="_blank"><img src="images/4pol/qcaps/148155609.PNG" /></a></div>
-<div         ><hr /><b> 108. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156129" target="_blank"><img src="images/4pol/qcaps/148156129.PNG" /></a></div>
-<div         ><hr /><b> 109. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156632" target="_blank"><img src="images/4pol/qcaps/148156632.PNG" /></a></div>
-<div         ><hr /><b> 110. 4chan /pol/ CBTS General #69     </b><br /><a href="https://archive.4plebs.org/pol/thread/148146734/#148156937" target="_blank"><img src="images/4pol/qcaps/148156937.PNG" /></a></div>
+<!-- 45 -->
+<span id="q45"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;45. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 12:36:31 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147632662" target="_blank">147632662</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147632662.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Follow Huma.
+		<br />What just broke w/ Huma?
+		<br />What did HRC instruct Huma to do re: Classified markings?
+		<br />Why is this story just now coming out?
+		<br />What relevance does it have?
+		<br />
+		<br />Why is Donna running for cover?
+		<br />Was a deal granted in exchange for something?
+		<br />Who made the deal?
+		<br />Do we care about Donna or those who instructed her to violate the law?
+		<br />Why is this being leaked v. simply prosecuted privately?
+		<br />Who is attempting to change the narrative and soften the acts that are forthcoming this weekend?
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 46 -->
+<span id="q46"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;46. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 12:57:19 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147634822" target="_blank">147634822</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147634822.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why is the information re: BO important re: U1 and export approval to Canada to EU?
+		<br />Where is BO today?
+		<br />Did BO and/or his admin ever make false statements that U1 would never be exported from the US?
+		<br />Who made those statements?
+		<br />Who did they report to?
+		<br />Why is this relevant?
+		<br />
+		<br />The public has been given a select taste (i.e. sampling) - rest assured others have it all (100% verifiable and impossible to refute).
+		<br />Why is this relevant?
+		<br />Who controls the narrative?
+		<br />Why are left wing organizations beginning to report on DNC/D corruption?
+		<br />Does the CIA have operators inside the MSM?
+		<br />What happens if exposed?
+		<br />What happens if tied back as 'knowing' to execs?
+		<br />What does this have to do with 'leaking'?
+		<br />What if it can be verified no sourced stories (made up) were in fact (and approved) to be published?
+		<br />The wormhole goes deep.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 47 -->
+<span id="q47"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;47. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 13:08:46 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147636035" target="_blank">147636035</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147636035.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		You can paint the picture based solely on the questions asked.
+		<br />Be vigilant today and expect a major false flag.
+		<br />Does anyone find it to be a coincidence there is always a terrorist attack when bad news breaks for the D's?
+		<br />What is that called?
+		<br />Military relevant how?
+		<br />BO could not and would not allow the military to destroy ISIS - why?
+		<br />How was ISIS formed?
+		<br />When?
+		<br />How has POTUS made such progress in the short time he's been President?
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 48 -->
+<span id="q48"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;48. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 13:44:30 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147640127" target="_blank">147640127</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147640127.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What is Q Clearance?
+		<br />What hint does that explicitly refer to?
+		<br />DOE?
+		<br />Who would have the goods on U1?
+		<br />Does stating 'Q' refer that person works in DOE?
+		<br />No.
+		<br />Does it refer that someone dropping such information has the highest level of security within all departments?
+		<br />Why is this relevant?
+		<br />
+		<br />(May 2010) BO "Russia should be viewed as a friendly partner under Section 123 the Atomic Energy Act of 1954" after agreeing to a new nuclear weapons reduction deal and helping US w/ Iran.
+		<br />Who is the enemy?
+		<br />What is being continually stated by all D's?
+		<br />Russia is what?
+		<br />What did the Russia reset really provide?
+		<br />Clearance/pathway to complete the U1 deal?
+		<br />Why is the Canadian PM so important?
+		<br />They never thought they were going to lose.
+		<br />The calm before the storm.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 49 -->
+<span id="q49"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;49. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 13:54:59 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147641320" target="_blank">147641320</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147641320.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Follow Sen Grassley.
+		<br />What is different effective this week?
+		<br />What do you notice?
+		<br />Why does Sen Grassley (one example) have a higher than normal amount of security detail?
+		<br />Why is Grassley and others held in a secure location?
+		<br />When did this start?
+		<br />What has been different this week?
+		<br />U1 FBI informant.
+		<br />Have secret sessions been underway?
+		<br />How could this be discovered?
+		<br />What must be reported even if filed under 'State Secrets'?
+		<br />It's a name recognized around the world.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 50 -->
+<span id="q50"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;50. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:06:58 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147642680" target="_blank">147642680</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147642680.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		BIG DROP:
+		<br />How did NK obtain Uranium?
+		<br />How did Iran obtain Uranium?
+		<br />Why did BO send billions (in cash and wire) to Iran?
+		<br />Why the cash component?
+		<br />Was the hostage component a cover?
+		<br />For what?
+		<br />Could any of the cash component be handed off to other people?
+		<br />How many planes carried the cash into Iran?
+		<br />Did all land in Iran?
+		<br />Did all land in the same location?
+		<br />Why is this relevant?
+		<br />Who controls NK?
+		<br />Who really controls NK?
+		<br />Don't think of a single person.
+		<br />Think of a powerful entity.
+		<br />Why is this important?
+		<br />Why are wars so important?
+		<br />Who benefits?
+		<br />What does hostage refer to?
+		<br />Who can be held hostage and controlled by NK having miniaturized nuclear weapons?
+		<br />Where is BO TODAY?
+		<br />Where is VJ?
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 51 -->
+<span id="q51"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;51. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:06:58 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147643257" target="_blank">147643257</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147643257.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>147642589</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: taaOHN6t</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Wed) 14:06:03 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147642589" target="_blank">147642589</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147642589.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+				
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" target="_blank">one-nation-under-god-t-shirt_design.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" download>🖫</a></span><span> (85 KB, 280x280, 1:1)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" alt="one-nation-under-god-t-shirt_design.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" alt="one-nation-under-god-t-shirt_design.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							ive watched as society has been effectively addicted to msm, apps, social media, games, music, all propaganda and the moment you try to open anyone eyes. you. are. shunned.
+							<br />being dumbed down, weakened and groomed for passivity and stupidity through food and their addictions. like calf literally being fattened for a slaughter.
+							<br />
+							<br />and with all the race war propaganda and pizzagate possibility, i became suicidal because i cant stand that no one will open their eyes and are being manipulated hard.
+							<br />
+							<br />i hope with all of my heart that Trump is going to make good on his promise to maga and clean the swamp. ive been thinking about joining the navy for corpsman greenside, and i would love to serve under a Trump administration if he really does clean swamp, (will try to join regardless no openings for corpsman right now though). I hope that what OPanon says is true. i will be praying for OPanon and all who risk their lives, for safety and that the Lord will guide them. and praying that what he says is true. and will be praying for the spiritual edification of God for Trump and for his complete safety in all of this. The pieces are coming together for me. and if this is true, those working with him are absolute geniuses because i would have never imagined their would be any way possible to take the monster of corruption that has overtaken this country.
+						</span>
+						
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: taaOHN6t</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Wed) 14:06:03 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147433975/#147642589" target="_blank">147642589</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147642589.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+				
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" target="_blank">one-nation-under-god-t-shirt_design.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" download>🖫</a></span><span> (85 KB, 280x280, 1:1)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" alt="one-nation-under-god-t-shirt_design.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/one-nation-under-god-t-shirt_design.png" alt="one-nation-under-god-t-shirt_design.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							ive watched as society has been effectively addicted to msm, apps, social media, games, music, all propaganda and the moment you try to open anyone eyes. you. are. shunned.
+							<br />being dumbed down, weakened and groomed for passivity and stupidity through food and their addictions. like calf literally being fattened for a slaughter.
+							<br />
+							<br />and with all the race war propaganda and pizzagate possibility, i became suicidal because i cant stand that no one will open their eyes and are being manipulated hard.
+							<br />
+							<br />i hope with all of my heart that Trump is going to make good on his promise to maga and clean the swamp. ive been thinking about joining the navy for corpsman greenside, and i would love to serve under a Trump administration if he really does clean swamp, (will try to join regardless no openings for corpsman right now though). I hope that what OPanon says is true. i will be praying for OPanon and all who risk their lives, for safety and that the Lord will guide them. and praying that what he says is true. and will be praying for the spiritual edification of God for Trump and for his complete safety in all of this. The pieces are coming together for me. and if this is true, those working with him are absolute geniuses because i would have never imagined their would be any way possible to take the monster of corruption that has overtaken this country.
+						</span>
+						
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Dear Patriot.
+		<br />We hear you.
+		<br />We hear all Americans such as yourself.
+		<br />The time has come to take back our great land.
+		<br />The time is now.
+		<br />Rest assured POTUS is backed by the absolute finest people alive who are all dedicated to the eradication evil and corruption from the US/World.
+		<br />Find peace.
+		<br />God is with us.
+		<br />God bless and be safe.
+		<br />-The WH
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 52 -->
+<span id="q52"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;52. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:27:23 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147645024" target="_blank">147645024</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147645024.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Review BO's financial disclosure when he submitted pre-D election campaign.
+		<br />What is the annual salary of a sitting US President?
+		<br />What home(s) were just purchased by BO?
+		<br />How much did it cost?
+		<br />How does it reconcile?
+		<br />What is the net worth of Pelosi?
+		<br />How does it reconcile?
+		<br />What is the John M Institute?
+		<br />Notice any patterns relating to the CF?
+		<br />Where did John M obtain his surgery?
+		<br />Why is that relevant?
+		<br />What surgery did he supposedly have?
+		<br />How many days until he was back in Congress and sitting on the OS comm?
+		<br />What is John M's net worth?
+		<br />How does it reconcile?
+		<br />What is MW's net worth?
+		<br />How does it reconcile?
+		<br />You can play this game with most D's and many R's.
+		<br />What does swamp refer to?
+		<br />What does money buy?
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 53 -->
+<span id="q53"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;53. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:36:25 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147646189" target="_blank">147646189</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147646189.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		List out all who have foundations.
+		<br />Why is this relevant?
+		<br />How can donations be used personally?
+		<br />Analyze the filings.
+		<br />Who is charged w/ overseeing this?
+		<br />IRS?
+		<br />Corrupt?
+		<br />Politically motivated?
+		<br />The level of corruption in our country (and most others) is so severe there is ONLY ONE WAY.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 54 -->
+<span id="q54"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;54. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:39:41 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147646606" target="_blank">147646606</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147646606.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		"For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future."
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 55 -->
+<span id="q55"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147591553/" target="_blank">2</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;55. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: zGyR4tyi</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 14:44:21 ET </span><span class="totalposts"> (11) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147591553/#147647154" target="_blank">147647154</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147647154.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Look to Twitter:
+		<br />Exactly this: "My fellow Americans, the Storm is upon us......."
+		<br />God bless.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 56 -->
+<span id="q56"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147647514/" target="_blank">3</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;56. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: KC17sSpZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 16:39:22 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147647514/#147661217" target="_blank">147661217</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147661217.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="http://thehill.com/blogs/pundits-blog/presidential-campaign/292310-huma-abedins-ties-to-the-muslim-brotherhood" target="_blank">http://thehill.com/blogs/pundits-blog/presidential-campaign/292310-huma-abedins-ties-to-the-muslim-brotherhood</a>
+			
+			<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="http://thehill.com/blogs/pundits-blog/presidential-campaign/292310-huma-abedins-ties-to-the-muslim-brotherhood"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="http://thehill.com/blogs/pundits-blog/presidential-campaign/292310-huma-abedins-ties-to-the-muslim-brotherhood"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/4pol/qmediapics&caps/147661217a.PNG" alt="Huma Abedin's ties to the Muslim Brotherhood" /></span></span>
+			<span class="quotecontentexpand"><img src="images/4pol/qmediapics&caps/147661217a.PNG" alt="Huma Abedin's ties to the Muslim Brotherhood" /></span>
+					 <span class="savetodisk"><a href="images/4pol/qmediapics&caps/147661217a.PNG" target="_blank" download> 🖫</a></span>]
+		
+		<br />The Clinton campaign is attempting once again to sweep important questions under the rug about top aide Huma Abedin, her family ties to the Muslim Brotherhood and to Saudi Arabia, and her role in the ballooning Clinton email scandal.
+		<br />Her mother, Saleha Abedin, sits on the Presidency Staff Council of the International Islamic Council for Da’wa and Relief, a group that is chaired by the leader of the Muslim Brotherhood, Sheikh Yusuf al-Qaradawi.
+		<br />
+		<br />Perhaps recognizing how offensive such ties will be to voters concerned over future terrorist attacks on this country by radical Muslims professing allegiance to Sharia law, the Clinton campaign on Monday tried to downplay Ms. Abedin’s involvement in the Journal and the Muslim Brotherhood.
+		<br />
+		<br />The Clinton surrogate group Media Matters claimed predictably there was “no evidence” that Ms. Abedin or her family had ties to the Muslim Brotherhood, and that Trump campaign staffers who spoke of these ties were conspiracy theorists.
+		<br />
+		<br />To debunk the evidence, Media Matters pointed to a Snopes.com “fact-check” piece that cited as its sole source… Senator John McCain. This is the same John McCain who met Libyan militia leader Abdelkarim Belhaj, a known al Qaeda associate, and saluted him as “my hero” during a 2011 visit to Benghazi.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 57 -->
+<span id="q57"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147647514/" target="_blank">3</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;57. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: KC17sSpZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 16:39:38 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147647514/#147661243" target="_blank">147661243</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147661243.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Senator McCain and others roundly criticized Rep. Michele Bachmann in 2012 when she and four members of the House Permanent Select Committee Intelligence and the House Judiciary Committee cited Ms. Abedin in letters sent to the Inspectors General of the Department of Defense, Department of State, Department of Justice, Department of Homeland Security, and the Office of the Director of National Intelligence, warning about Muslim Brotherhood infiltration of the United States government.
+		<br />
+		<br />Why is this relevant?
+		<br />Who took an undisclosed trip to SA?
+		<br />What was the purpose of a f2f v phone call?
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 58 -->
+<span id="q58"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147647514/" target="_blank">3</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;58. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: KC17sSpZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 16:40:27 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147647514/#147661332" target="_blank">147661332</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147661332.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		>>147661217<font style="color:#789922;">Senator McCain and others roundly criticized Rep. Michele Bachmann in 2012 when she and four members of the House Permanent Select Committee Intelligence and the House Judiciary Committee cited Ms. Abedin in letters sent to the Inspectors General of the Department of Defense, Department of State, Department of Justice, Department of Homeland Security, and the Office of the Director of National Intelligence, warning about Muslim Brotherhood infiltration of the United States government.</font>
+		<br />
+		<br />Why is this relevant?
+		<br />Who took an undisclosed trip to SA?
+		<br />What was the purpose of a f2f v phone call?
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 59 -->
+<span id="q59"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147647514/" target="_blank">3</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;59. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: KC17sSpZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 17:04:05 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147647514/#147664082" target="_blank">147664082</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147664082.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		How did SA welcome POTUS during his trip?
+		<br />Why was this historic and not covered by MSM?
+		<br />How did SA welcome BO during his trip?
+		<br />How did SA welcome HRC during her trip?
+		<br />Why is this relevant?
+		<br />Not suggesting SA is clean by any means but they play a role in this global game of RISK.
+		<br />
+		<br />Combine all posts and analyze.
+		<br />The questions provide answers.
+		<br />Remember, information is everything, the flow of information is no longer controlled by the MSM but by you/others.
+		<br />Hence, why we are dedicating 'critical' time to distribute crumbs which can be followed in greater detail to paint the entire picture once more information is released.
+		<br />Why has POTUS dedicated so much time into labeling the MSM as fake news?
+		<br />Why is this relevant?
+		<br />We are fully prepared that all social media will be shut down to prevent the spread of this information (i.e. POTUS' Twitter etc. and/or mass censoring).
+		<br />Sealed Federal orders pre-submitted as prevention and masked as 'in general' (though that does not account for rogue agents/programmers within).
+		<br />Dates (impending actions) are deliberately provided for authenticity.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 60 -->
+<span id="q60"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;60. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 19:03:36 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147679416" target="_blank">147679416</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147679416.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		You can count the people who have the full picture on two hands.
+		<br />Of those (less than 10 people) only three are non-military.
+		<br />Why is this relevant?
+		<br />Game theory.
+		<br />Outside of a potential operator who has been dialed-in w/ orders (specific to his/her mission) nobody else has this information.
+		<br />Operators never divulge.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 61 -->
+<span id="q61"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;61. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 19:07:54 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147680054" target="_blank">147680054</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147680054.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Please refer back and collect my crumbs.
+		<br />As discussed, we've anticipated the Twitter and other social media blackouts.
+		<br />Rogue agents/programmers.
+		<br />Per sealed Federal orders, we quickly tracked and reinstated.
+		<br />Expect outages periodically (infiltrated).
+		<br />If this doesn't signal what I've been saying I don't know what will.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 62 -->
+<span id="q62"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;62. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 19:12:48 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147680749" target="_blank">147680749</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147680749.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Highly recommend someone take all my crumbs and put into a massive dump (a single shot). This will be considered the biggest 'inside' 'approved' dump in American history.
+		<br />They are beginning to understand as Podesta's attorney was just notified.
+		<br />All my dumps are being recorded but again it doesn't matter.
+		<br />Alice & Wonderland.
+		<br />
+		<br />WHERE IS BO TODAY?!?!
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 63 -->
+<span id="q63"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;63. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 19:21:32 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147681912" target="_blank">147681912</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147681912.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		To those watching (you know who you are):
+		<br />You have a choice to make.
+		<br />You can stand up and do what you know to be right.
+		<br />Or you can suffer the consequences of your previous actions.
+		<br />Make no mistake, you are on the losing side.
+		<br />The choice is yours.
+		<br />If you decide to take down /pol/ and the net we will be ready.
+		<br />4920-a 293883 zAj-1 0020192
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 64 -->
+<span id="q64"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;64. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 19:31:24 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147683156" target="_blank">147683156</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147683156.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Fellow Patriots,
+		<br />I'm being advised actions have created accelerated counter-actions.
+		<br />We have not yet ascertained the scope of the attack.
+		<br />Watch the news outlets.
+		<br />POTUS' Twitter take down was not by accident (as referenced several hours ago).
+		<br />Should the lights go out please know we are in control.
+		<br />Do not panic.
+		<br />We are prepared and assets are in place.
+		<br />God bless - I must go for good at this point.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 65 -->
+<span id="q65"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;65. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 20:07:18 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147687684" target="_blank">147687684</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147687684.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		:::::Flash Traffic:::::
+		<br />Three letter agency embedded tracking/up-channel into POTUS' Twitter to specifically target through specialized geo and send his location.
+		<br />We anticipated this (see post a few hours ago).
+		<br />It has begun.
+		<br />Perhaps more posts to follow as expected imminent departure.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 66 -->
+<span id="q66"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;66. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: WBXFv1gI</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Thu) 20:19:28 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147689362" target="_blank">147689362</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147689362.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>147688276</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: VXi4Bx/o</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Wed) 20:11:43 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147688276" target="_blank">147688276</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147688276.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>147687684</font>
+						<br />Let's be clear - you're telling us POTUS is currently under attack by our own intelligence agencies?
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147675249/" target="_blank">5</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: VXi4Bx/o</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;02 Nov 2017 (Wed) 20:11:43 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147675249/#147688276" target="_blank">147688276</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147688276.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>147687684</font>
+						<br />Let's be clear - you're telling us POTUS is currently under attack by our own intelligence agencies?
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Let's be real clear.
+		<br />The CIA just attacked the Command and Chief which was immediately detected by NSA/MI and alerted to POTUS.
+		<br />Re-review all my crumbs including today/yesterday/weekend.
+		<br />What does this mean?
+		<br />What actions are immediately occurring?
+		<br />If this leaks, or the immediate action ongoing at Langley, you'll have your verification ahead of schedule.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 67 -->
+<span id="q67"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147812859/" target="_blank">27</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;67. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: GVUvg1M7</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;03 Nov 2017 (Fri) 17:33:30 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147812859/#147816901" target="_blank">147816901</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147816901.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Where is John Podesta?
+		<br />Where is Tony Podesta?
+		<br />Did one or both escape the country and was let out?
+		<br />WHERE IS BO?
+		<br />WHERE WAS BO YESTERDAY?
+		<br />What is the difference between commercial and private re: security clearance for departure?
+		<br />Who is the TSA head?
+		<br />Which party did he contribute to?
+		<br />What is of particular interest when researching?
+		<br />How does HS interact w/ TSA?
+		<br />What updated post 9-11 protocols were put in place to prevent/stop inbound/outbound C-level targets?
+		<br />What local airports are in close proximity to DC?
+		<br />What happened shortly after 9-11 (specifically with all aircraft)?
+		<br />Who was authorized to depart? ONLY 1 PLANE was authorized during this 'mandatory forced grounding'.
+		<br />Who SPECIFICALLY authorized this?
+		<br />What airport did the departure take place at?
+		<br />Why is this relevant?
+		<br />How does it tie together?
+		<br />Podesta's plane has military escort (i.e. tag) and is being diverted (forced down).
+		<br />Short delay.
+		<br />This will be leaked.
+		<br />Watch the news.
+		<br />Have faith.
+		<br />What fake news anchor will not be on air tonight?
+		<br />Why is this relevant?
+		<br />What was stated in the past?
+		<br />Where did the $18b from Soros go?
+		<br />Why?
+		<br />Can it be used by bad actors (escape, bribes, rogue contractors, etc.)?
+		<br />Slush fund?
+		<br />Did the US gov't seize/stop/track other slush funds that prevent or create risk to operate?
+		<br />Why did JK travel to SA recently?
+		<br />What is SA known for?
+		<br />Where do the biggest donations originate from?
+		<br />Why is this relevant?
+		<br />What else is relevant w/ SA?
+		<br />Safe harbor?
+		<br />Port of transfer?
+		<br />Why was there a recent smear campaign against JK and POTUS?
+		<br />Why is the timing important?
+		<br />Who released the article?
+		<br />The council of Wizards & Warlocks cannot be defeated.
+		<br />Nice view up here.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 68 -->
+<span id="q68"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147812859/" target="_blank">27</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;68. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: GVUvg1M7</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;03 Nov 2017 (Fri) 17:38:03 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147812859/#147817468" target="_blank">147817468</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147817468.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What data just dropped?
+		<br />Why is this relevant?
+		<br />HUMA.
+		<br />HUMA.
+		<br />HUMA.
+		<br />Where is HUMA?
+		<br />Who is HUMA connected to?
+		<br />What organization?
+		<br />What is HUMA's family history?
+		<br />How did HUMA meet HRC?
+		<br />What did HRC say about HUMA that demonstrates how close they are?
+		<br />Why are D's dropping HRC all of a sudden?
+		<br />Were deals made w/ select D's?
+		<br />Can we expose every crooked politician?
+		<br />70%.
+		<br />HUMA.
+		<br />Follow HUMA.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 69 -->
+<span id="q69"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147812859/" target="_blank">27</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;69. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: GVUvg1M7</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;03 Nov 2017 (Fri) 17:56:13 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147812859/#147819733" target="_blank">147819733</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147819733.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		God speed to those who will be put in harms way. You are the bravest men and women on earth.
+		<br />We will never forget.
+		<br />All share one title in common and that is the title of "Hero."
+		<br />"The LORD is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name’s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 70 -->
+<span id="q70"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147970787/" target="_blank">47</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;70. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: s4Iv8TW8</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 19:02:02 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147970787/#147975558" target="_blank">147975558</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147975558.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[Repost]
+		<br />Why did JK travel to SA recently?
+		<br />What is SA known for?
+		<br />Where do the biggest donations originate from?
+		<br />Why is this relevant?
+		<br />What else is relevant w/ SA?
+		<br />Safe harbor?
+		<br />Port of transfer?
+		<br />Why was there a recent smear campaign against JK and POTUS?
+		<br />Why is the timing important?
+		<br />---------------------------
+		<br />Martial law declared in SA.
+		<br />Why is this relevant?
+		<br />How much money was donated to CF by SA?
+		<br />How much money was donated to John M Institute by SA?
+		<br />How much money was donated to Pelosi Foundation?
+		<br />How much money was donated to CS by SA?
+		<br />What other bad actors have been paid by SA (bribed)(Not just D's)?
+		<br />Why did the Bush family recently come out against POTUS?
+		<br />Who is good?
+		<br />What are the laws in SA v. US (charged criminals)?
+		<br />What information might be gained by these detainees?
+		<br />Why is this important?
+		<br />SA ---> US
+		<br />What force is actively deployed in SA?
+		<br />NG?
+		<br />Have faith.
+		<br />These, the crumbs, in time, will equate to the biggest drops ever disclosed in our history.
+		<br />Remember, disinformation is real.
+		<br />God bless.
+		<br />Alice & Wonderland.
+		<br />The Great Awakening.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 71 -->
+<span id="q71"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147970787/" target="_blank">47</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;71. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: s4Iv8TW8</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 19:33:30 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147970787/#147979863" target="_blank">147979863</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147979863.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Follow HUMA.
+		<br />Who connects HRC/CF to SA?
+		<br />Why is this relevant?
+		<br />Who is the Muslim Brotherhood?
+		<br />Who has ties to the MB?
+		<br />Who is Awan?
+		<br />What is the Awan Group?
+		<br />Where do they have offices?
+		<br />Why is this relevant?
+		<br />Define cash laundering.
+		<br />What is the relationship between SA & Pakistan?
+		<br />Why is this relevant?
+		<br />Why would SA provide tens of millions of dollars to US senior gov't officials?
+		<br />What does SA obtain in exchange for payment?
+		<br />Why is access important?
+		<br />What happened when HRC lost the election of 2016?
+		<br />How much money was provided to the CF by SA during 15/16?
+		<br />HRC lost.
+		<br />Loss of access/power/control.
+		<br />Does repayment of funds to SA occur? If so, how?
+		<br />Why did BO send billions in cash to Iran?
+		<br />Why wasn't Congress notified?
+		<br />Why was this classified under 'State Secrets'?
+		<br />Who has access to 'State Secrets'?
+		<br />Where did the planes carrying the cash depart from and land?
+		<br />Did the planes all land in the same location?
+		<br />How many planes carried the cash?
+		<br />Why is this relevant?
+		<br />What does this have to do w/ NK?
+		<br />What does this have to do w/ SA/CF cash donations?
+		<br />What does this have to do w/ ISIS?
+		<br />What does this have to do w/ slush funds?
+		<br />Why is SA so vitally important?
+		<br />Follow the money.
+		<br />Who has the money?
+		<br />What is happening in SA today?
+		<br />Why is this relevant?
+		<br />Who was Abdullah bin Abdulaziz?
+		<br />What events transpired directly thereafter?
+		<br />How was POTUS greeted compared to other former US President's when in SA?
+		<br />Why is this relevant?
+		<br />What is the meaning of this tradition?
+		<br />What coincidentally was the last Tweet sent out by POTUS?
+		<br />Why is this relevant?
+		<br />Was that an instruction of some kind?
+		<br />To who?
+		<br />Why is this relevant?
+		<br />Where was POTUS when that Tweet was sent?
+		<br />Why is that relevant?
+		<br />What attack took place in SA as operations were undertaken? Flying objects.
+		<br />What US operators are currently in SA?
+		<br />Why is this relevant?
+		<br />Questions provide answers.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 72 -->
+<span id="q72"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147970787/" target="_blank">47</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;72. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: s4Iv8TW8</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 19:44:06 ET </span><span class="totalposts"> (3) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147970787/#147981354" target="_blank">147981354</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147981354.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>147977181</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147970787/" target="_blank">47</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: GE433ksq</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 19:13:27 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147970787/#147977181" target="_blank">147977181</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/147977181.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						WAIT
+						<br />WAIT
+						<br />WAIT
+						<br />
+						<br />GO BACK TO THE POST ABOUT THE FAMILES THAT RUN EVERYTHING AND TRUMP TAKING ONE OUT
+						<br />
+						<br />WAS ONE OF THEM THIS SAUDI FAMILY
+						<br />
+						<br />SERIOUSLY
+						<br />
+						<br />BECAUSE THAT MAKES THIS A HAPPENING
+						<br />
+						<br />I Remember the phrasing not making sense, I was like "oh does he mean that dt took out the Clintons?" But the Clintons were on the list as remaining so I didn't know who was taken out
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147970787/" target="_blank">47</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: GE433ksq</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 19:13:27 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147970787/#147977181" target="_blank">147977181</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147977181.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						WAIT
+						<br />WAIT
+						<br />WAIT
+						<br />
+						<br />GO BACK TO THE POST ABOUT THE FAMILES THAT RUN EVERYTHING AND TRUMP TAKING ONE OUT
+						<br />
+						<br />WAS ONE OF THEM THIS SAUDI FAMILY
+						<br />
+						<br />SERIOUSLY
+						<br />
+						<br />BECAUSE THAT MAKES THIS A HAPPENING
+						<br />
+						<br />I Remember the phrasing not making sense, I was like "oh does he mean that dt took out the Clintons?" But the Clintons were on the list as remaining so I didn't know who was taken out
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Very smart, Anon.
+		<br />Disinformation is real.
+		<br />Distractions are necessary.
+		<br />SA is the primary, US is secondary, (Asia/EU)...
+		<br />Alice & Wonderland.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 73 -->
+<span id="q73"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147978093/" target="_blank">48</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;73. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: AZhJ37bn</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 20:22:08 ET </span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147978093/#147986661" target="_blank">147986661</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147986661.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What was POTUS' last Tweet (prior to)?
+		<br />To who was it addressed?
+		<br />When was POTUS' Twitter taken down?
+		<br />Why is this relevant?
+		<br />What was POTUS' last Tweet (prior to)?
+		<br />Who was it addressed to specifically?
+		<br />When was POTUS' Twitter taken down?
+		<br />Has this ever happened before?
+		<br />Why now?
+		<br />Coincidence?
+		<br />How many times did the attack occur (secondary clean up)?
+		<br />What is the purpose of tracking?
+		<br />What is the purpose of disruption?
+		<br />Why did POTUS have military guards (uniform) while in HI?
+		<br />Why is this relevant?
+		<br />Do military guards (uniform) typically assist the USSS?
+		<br />Why is this relevant?
+		<br />What flying object was recently shot down?
+		<br />Why is this relevant?
+		<br />How precise is geo tracking (non-public c-level pro)?
+		<br />Why is this relevant?
+		<br />Alice & Wonderland.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 74 -->
+<span id="q74"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/147978093/" target="_blank">48</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;74. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: AZhJ37bn</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;04 Nov 2017 (Sat) 20:28:58 ET </span><span class="totalposts"> (2) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/147978093/#147987614" target="_blank">147987614</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/147987614.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Q = Alice
+		<br />You'll soon understand the meaning behind Alice "&" Wonderland.
+		<br />Everything has meaning.
+		<br />God bless.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 75 -->
+<span id="q75"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;75. </span><span class="subject">Q Clearance Patriot [2] </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:14:37 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148016618" target="_blank">148016618</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148016618.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/4pol/quploads/AMER_PAT.jpg" target="_blank">AMER_PAT.jpg</a></span> <span class="savetodisk"><a href="images/4pol/quploads/AMER_PAT.jpg" download>🖫</a></span><span> (11 KB, 225x225, 1:1)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/quploads/AMER_PAT.jpg" alt="AMER_PAT.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/quploads/AMER_PAT.jpg" alt="AMER_PAT.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			By the time POTUS returns from his trip the world will be a different place.
+			<br />Godfather lll
+			<br />Alice & Wonderland
+			<br />Alice (Lewis Carroll) =
+			<br />The Bloody Wonderland =
+			<br />
+			<br />[Repost]
+			<br />Why did JK travel to SA recently?
+			<br />What is SA known for?
+			<br />Where do the biggest donations originate from?
+			<br />Why is this relevant?
+			<br />What else is relevant w/ SA?
+			<br />Safe harbor?
+			<br />Port of transfer?
+			<br />Why was there a recent smear campaign against JK and POTUS?
+			<br />Why is the timing important?
+			<br />---------------------------
+		</span>
+
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 76 -->
+<span id="q76"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;76. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:15:02 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148016670" target="_blank">148016670</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148016670.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[Repost Lost]
+		<br />Martial law declared in SA.
+		<br />Why is this relevant?
+		<br />How much money was donated to CF by SA?
+		<br />How much money was donated to John M Institute by SA?
+		<br />How much money was donated to Pelosi Foundation?
+		<br />How much money was donated to CS by SA?
+		<br />What other bad actors have been paid by SA (bribed)(Not just D's)?
+		<br />Why did the Bush family recently come out against POTUS?
+		<br />Who is good?
+		<br />What are the laws in SA v. US (charged criminals)?
+		<br />What information might be gained by these detainees?
+		<br />Why is this important?
+		<br />SA ---> US
+		<br />What force is actively deployed in SA?
+		<br />NG?
+		<br />Have faith.
+		<br />These, the crumbs, in time, will equate to the biggest drops ever disclosed in our history.
+		<br />Remember, disinformation is real.
+		<br />God bless.
+		<br />Alice & Wonderland.
+		<br />The Great Awakening.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 77 -->
+<span id="q77"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;77. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:15:27 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148016731" target="_blank">148016731</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148016731.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[Repost Lost]
+		<br />Follow HUMA.
+		<br />Who connects HRC/CF to SA?
+		<br />Why is this relevant?
+		<br />Who is the Muslim Brotherhood?
+		<br />Who has ties to the MB?
+		<br />Who is Awan?
+		<br />What is the Awan Group?
+		<br />Where do they have offices?
+		<br />Why is this relevant?
+		<br />Define cash laundering.
+		<br />What is the relationship between SA & Pakistan?
+		<br />Why is this relevant?
+		<br />Why would SA provide tens of millions of dollars to US senior gov't officials?
+		<br />What does SA obtain in exchange for payment?
+		<br />Why is access important?
+		<br />What happened when HRC lost the election of 2016?
+		<br />How much money was provided to the CF by SA during 15/16?
+		<br />HRC lost.
+		<br />Loss of access/power/control.
+		<br />Does repayment of funds to SA occur? If so, how?
+		<br />Why did BO send billions in cash to Iran?
+		<br />Why wasn't Congress notified?
+		<br />Why was this classified under 'State Secrets'?
+		<br />Who has access to 'State Secrets'?
+		<br />Where did the planes carrying the cash depart from and land?
+		<br />Did the planes all land in the same location?
+		<br />How many planes carried the cash?
+		<br />Why is this relevant?
+		<br />What does this have to do w/ NK?
+		<br />What does this have to do w/ SA/CF cash donations?
+		<br />What does this have to do w/ ISIS?
+		<br />What does this have to do w/ slush funds?
+		<br />Why is SA so vitally important?
+		<br />Follow the money.
+		<br />Who has the money?
+		<br />What is happening in SA today?
+		<br />Why is this relevant?
+		<br />Who was Abdullah bin Abdulaziz?
+		<br />What events transpired directly thereafter?
+		<br />How was POTUS greeted compared to other former US President's when in SA?
+		<br />Why is this relevant?
+		<br />What is the meaning of this tradition?
+		<br />What coincidentally was the last Tweet sent out by POTUS?
+		<br />Why is this relevant?
+		<br />Was that an instruction of some kind?
+		<br />To who?
+		<br />Why is this relevant?
+		<br />Where was POTUS when that Tweet was sent?
+		<br />Why is that relevant?
+		<br />What attack took place in SA as operations were undertaken? Flying objects.
+		<br />What US operators are currently in SA?
+		<br />Why is this relevant?
+		<br />Questions provide answers.
+		<br />Alice & Wonderland.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 78 -->
+<span id="q78"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;78. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:15:52 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148016769" target="_blank">148016769</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148016769.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[Repost Lost]
+		<br />Disinformation is real.
+		<br />Distractions are necessary.
+		<br />SA is the primary, US is secondary, (Asia/EU)...
+		<br />Alice & Wonderland.
+		<br />Q
+		<br />
+		<br />[Repost Lost]
+		<br />What was POTUS' last Tweet (prior to)?
+		<br />To who was it addressed?
+		<br />When was POTUS' Twitter taken down?
+		<br />Why is this relevant?
+		<br />What was POTUS' last Tweet (prior to)?
+		<br />Who was it addressed to specifically?
+		<br />When was POTUS' Twitter taken down?
+		<br />Has this ever happened before?
+		<br />Why now?
+		<br />Coincidence?
+		<br />How many times did the attack occur (secondary clean up)?
+		<br />What is the purpose of tracking?
+		<br />What is the purpose of disruption?
+		<br />Why did POTUS have military guards (uniform) while in HI?
+		<br />Why is this relevant?
+		<br />Do military guards (uniform) typically assist the USSS?
+		<br />Why is this relevant?
+		<br />What flying object was recently shot down?
+		<br />Why is this relevant?
+		<br />How precise is geo tracking (non-public c-level pro)?
+		<br />Why is this relevant?
+		<br />Alice & Wonderland.
+		<br />Q
+		<br />
+		<br />[Repost Lost]
+		<br />Q = Alice
+		<br />You'll soon understand the meaning behind Alice "&" Wonderland.
+		<br />Everything has meaning.
+		<br />God bless.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 79 -->
+<span id="q79"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;79. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:16:50 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148016876" target="_blank">148016876</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148016876.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/4pol/quploads/1509840715226.png" target="_blank">1509840715226.png</a></span> <span class="savetodisk"><a href="images/4pol/quploads/1509840715226.png" download>🖫</a></span><span> (975 KB, 2438x5894, 1219:2947)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/4pol/quploads/1509840715226.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/quploads/1509840715226.png" alt="1509840715226.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			Graphic is right.
+			<br />Add above points to graphic.
+			<br />Stay organized.
+			<br />Q
+		</span>
+
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 80 -->
+<span id="q80"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;80. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:44:18 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148019575" target="_blank">148019575</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148019575.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		We need to get organized.
+		<br />Things need to be solved to understand what is about to happen.
+		<br />Let's start w/ Alice & Wonderland.
+		<br />Hillary Clinton in Wonderland by Lewis Carroll.
+		<br />Saudi Arabia - the Bloody Wonderland.
+		<br />Snow White.
+		<br />Wizards & Warlocks.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 81 -->
+<span id="q81"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;81. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:47:38 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148019905" target="_blank">148019905</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148019905.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		When big news drops please re-read entire graphic.
+		<br />This is so critical and why information is provided in a certain order and why some topics are continually emphasized more than others as those will be the recent happenings.
+		<br />This is the purpose of this new thread (re-organize).
+		<br />Snow White
+		<br />Wizards & Warlocks.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 82 -->
+<span id="q82"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;82. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:49:24 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148020085" target="_blank">148020085</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148020085.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[Repost]Things need to be solved to understand what is about to happen.
+		<br />Let's start w/ Alice & Wonderland.
+		<br />Hillary Clinton in Wonderland by Lewis Carroll.
+		<br />Saudi Arabia - the Bloody Wonderland.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 83 -->
+<span id="q83"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;83. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:51:20 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148020278" target="_blank">148020278</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148020278.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Simplified.
+		<br />Alice & Wonderland.
+		<br />Hillary & Saudi Arabia.
+		<br />References:
+		<br />Hillary Clinton in Wonderland by Lewis Carroll.
+		<br />Saudi Arabia - the Bloody Wonderland.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 84 -->
+<span id="q84"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;84. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:03:28 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148021501" target="_blank">148021501</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148021501.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Please add crumbs above in new complete graphic.
+		<br />Organized and in order.
+		<br />Critical for understanding and review.
+		<br />Spider web.
+		<br />Hillary & Saudi Arabia (Alice & Wonderland)(see above).
+		<br />This is staged and deliberate.
+		<br />Snow White
+		<br />Godfather lll
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 85 -->
+<span id="q85"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;85. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:10:37 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148022145" target="_blank">148022145</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148022145.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>148021760</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: QLWgJTG3</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:06:20 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148021760" target="_blank">148021760</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148021760.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<a href="https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2" target="_blank">https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2</a>
+			
+							<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
+							</span>
+							<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2"></iframe></span>
+					
+							<span class="embedlink"> [screencap
+							</span>
+							<span class="quotecontentexpand"><img src="images/4pol/qmediapics&caps/148021760a.PNG" alt="Hillary Clinton in Wonderland: Includes Quotes from the Campaign Trail" /></span>
+									 <span class="savetodisk"><a href="images/4pol/qmediapics&caps/148021760a.PNG" target="_blank" download> 🖫</a></span>]
+
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: QLWgJTG3</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:06:20 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148021760" target="_blank">148021760</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148021760.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<a href="https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2" target="_blank">https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2</a>
+			
+							<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
+							<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2"></iframe></span></span>
+							<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.amazon.in/Hillary-Clinton-Wonderland-Quotes-Campaign-ebook/dp/B01HOM8AV2"></iframe></span>
+					
+							<span class="embedlink"> [screencap
+							<span class="quotecontenthovers"><img src="images/4pol/qmediapics&caps/148021760a.PNG" alt="Hillary Clinton in Wonderland: Includes Quotes from the Campaign Trail" /></span></span>
+							<span class="quotecontentexpand"><img src="images/4pol/qmediapics&caps/148021760a.PNG" alt="Hillary Clinton in Wonderland: Includes Quotes from the Campaign Trail" /></span>
+									 <span class="savetodisk"><a href="images/4pol/qmediapics&caps/148021760a.PNG" target="_blank" download> 🖫</a></span>]
+
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Finally.
+		<br />Correct reference.
+		<br />Saudi Arabia - The Bloody Wonderland.
+		<br />=Alice & Wonderland signatures
+		<br />Study.
+		<br />Important.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 86 -->
+<span id="q86"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;86. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:12:48 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148022342" target="_blank">148022342</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148022342.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		My signatures all reference upcoming events about to drop if this hasn't been caught on.
+		<br />Snow White
+		<br />Godfather III
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 87 -->
+<span id="q87"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;87. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:31:00 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148023976" target="_blank">148023976</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148023976.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Ten days.
+		<br />Darkness.
+		<br />Scare tactics (MSM).
+		<br />D's falling.
+		<br />R's walk-away/removed.
+		<br />SA --> US --> Asia --> EU
+		<br />Disinformation is real.
+		<br />Distractions are necessary.
+		<br />Focus was US today while real happening in SA under same context (military control, martial law, missile strike (rogue) etc).
+		<br />Necessary.
+		<br />POTUS' Twitter attack (see above).
+		<br />Important.
+		<br />Why is this relevant?
+		<br />What was the last Tweet by POTUS prior to SA?
+		<br />Why is this relevant?
+		<br />SA (1), US (2), Asia (3), EU (4).
+		<br />Where is POTUS?
+		<br />Why is this relevant?
+		<br />Military operations.
+		<br />Operators in US.
+		<br />Snow White
+		<br />The Great Awakening
+		<br />Godfather III
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 88 -->
+<span id="q88"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;88. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:50:56 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148025825" target="_blank">148025825</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148025825.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Why is MS13 a priority?
+		<br />Could people pay such gangs to kill opponents and why / how to insulate against exposure?
+		<br />The truth is mind blowing and cannot fully be exposed. These people are evil.
+		<br />Why wasn’t HRC prosecuted for the emails?
+		<br />Put simply, Obama ultimately OK’d by using the non govt email addy to communicate w/ Clinton. Obama also had an alias along with each of his cabinet members. Therefore indicting HRC would lead to indicting Obama & his cabinet etc which could never happen.
+		<br />Remember he lied about knowing but that ultimately came out in the dump. Poof!
+		<br />Snow White
+		<br />Godfather III
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 89 -->
+<span id="q89"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ "Q Clearance Patriot [2]" Thread <a href="https://archive.4plebs.org/pol/thread/148016618/" target="_blank">148016618</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;89. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: v3eCc2tY</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:06:58 ET </span><span class="totalposts"> (15) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148016618/#148027165" target="_blank">148027165</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148027165.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Who funds MS13?
+		<br />Why did BO instruct HS & BP to release MS13 captures at the border?
+		<br />What agency has direct ties to (2) major drug cartels?
+		<br />Why is AG Sessions / POTUS prioritizing the removal of MS13?
+		<br />Why is AG Sessions / POTUS prioritizing building the wall?
+		<br />Immigration?
+		<br />Drugs?
+		<br />Who do you hire for a hit?
+		<br />Who can be eliminated after the job is complete?
+		<br />Seth Rich.
+		<br />Who was found dead (2) shortly after his murder?
+		<br />What affiliation did they have?
+		<br />Classified.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 90 -->
+<span id="q90"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;90. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:35:58 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029633" target="_blank">148029633</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148029633.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>148028820</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: dXfSDuiB</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:47:11 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148028820" target="_blank">148028820</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148028820.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+					
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/qupdated11-4v3.png" target="_blank">qupdated11-4v3.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/qupdated11-4v3.png" download>🖫</a></span><span> (1.29 MB, 3206x5894, 1603:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/qupdated11-4v3.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/qupdated11-4v3.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148028438
+							<br />>>148028505
+							<br />>>148028612
+							<br />>>148028634</font>
+						</span>
+						
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: dXfSDuiB</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 00:47:11 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148028820" target="_blank">148028820</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148028820.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+					
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/qupdated11-4v3.png" target="_blank">qupdated11-4v3.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/qupdated11-4v3.png" download>🖫</a></span><span> (1.29 MB, 3206x5894, 1603:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/qupdated11-4v3.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/qupdated11-4v3.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148028438
+							<br />>>148028505
+							<br />>>148028612
+							<br />>>148028634</font>
+						</span>
+						
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Thank you Anon.
+		<br />FBI/MI currently have open investigation into the CF.
+		<br />Why didn't Comey drop this?
+		<br />Who was the FBI director during the Haiti crisis? How many kids disappeared?
+		<br />How much money was sent to CF under disguise of Haiti relief and actually went to Haiti?
+		<br />What countries donated big money to CF?
+		<br />SA?
+		<br />Why is this relevant?
+		<br />Snow White
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 91 -->
+<span id="q91"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;91. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:39:41 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029962" target="_blank">148029962</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148029962.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>148029846</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: t7IECyBT</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:38:23 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029846" target="_blank">148029846</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148029846.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						
+						<span class="quotelink"><span class="linknumber">>>148029250</span>
+
+						</span>
+						<span class="quotecontentexpand">
+
+							<span class="quotedpost">
+
+								<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+								<br />
+								<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: PZyRFiTF</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:31:14 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029250" target="_blank">148029250</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148029250.PNG" download>🖫</a></span></span>
+								<br />
+								<span class="postcontent">
+									<font style="color:red; text-decoration:underline;">>>148028644</font>
+									<br />Two Mexicans were found murdered in their car in South Carolina one day after Seth Rich’s murder. Looks like Q was saying those two chulos were MS-13. Hillary’s gonna get her neck stretched.
+								</span>
+								<br />
+								<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				
+							</span>
+
+						</span>
+						
+						<br />Ok, we just need Q to come back and confirm now.
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+			<span class="quotedpost">
+
+				<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+				<br />
+				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: t7IECyBT</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:38:23 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029846" target="_blank">148029846</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148029846.PNG" download>🖫</a></span></span>
+				<br />
+				<span class="postcontent">
+					
+					<span class="quotelink"><span class="linknumber">>>148029250</span>
+						<span class="quotecontenthovers">
+							
+							<span class="quotedpost">
+			
+								<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+								<br />
+								<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: PZyRFiTF</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:31:14 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029250" target="_blank">148029250</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148029250.PNG" download>🖫</a></span></span>
+								<br />
+								<span class="postcontent">
+									<font style="color:red; text-decoration:underline;">>>148028644</font>
+									<br />Two Mexicans were found murdered in their car in South Carolina one day after Seth Rich’s murder. Looks like Q was saying those two chulos were MS-13. Hillary’s gonna get her neck stretched.
+								</span>
+								<br />
+								<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+			
+							</span>
+
+						</span>
+					</span>
+					<span class="quotecontentexpand">
+
+						<span class="quotedpost">
+
+							<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+							<br />
+							<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: PZyRFiTF</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:31:14 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148029250" target="_blank">148029250</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148029250.PNG" download>🖫</a></span></span>
+							<br />
+							<span class="postcontent">
+								<font style="color:red; text-decoration:underline;">>>148028644</font>
+								<br />Two Mexicans were found murdered in their car in South Carolina one day after Seth Rich’s murder. Looks like Q was saying those two chulos were MS-13. Hillary’s gonna get her neck stretched.
+							</span>
+							<br />
+							<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+			
+						</span>
+
+					</span>
+					
+					<br />Ok, we just need Q to come back and confirm now.
+				</span>
+				<br />
+				<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+			</span>
+
+		</span>
+
+		<br />Confirmed.
+		<br />Classified.
+		<br />((HRC))
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 92 -->
+<span id="q92"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;92. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 01:55:46 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148031295" target="_blank">148031295</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148031295.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Seth Rich only mentioned because it directly relates to SA.
+		<br />Las Vegas.
+		<br />What hotel did the 'reported' gunfire occur from?
+		<br />What floors specifically?
+		<br />Who owns the top floors?
+		<br />Top floors only.
+		<br />Why is that relevant?
+		<br />What was the shooter's name?
+		<br />What was his net worth?
+		<br />How do you identify a spook?
+		<br />What can historical data collection reveal?
+		<br />Was there any eye witnesses?
+		<br />Who?
+		<br />Was he registered as a security guard?
+		<br />Why is MS13 important?
+		<br />What doesn't add up?
+		<br />Was there only one shooter?
+		<br />Why was JFK released?
+		<br />What do the JFK files infer?
+		<br />Was there only one shooter?
+		<br />Who was in LV during this time?
+		<br />What was the real mission?
+		<br />Speculate.
+		<br />Why are survivors dying randomly?
+		<br />What do each of these survivors have in common?
+		<br />Did they talk on social media?
+		<br />What did they say?
+		<br />Were they going to form a group?
+		<br />Why is this relevant?
+		<br />How did they die?
+		<br />What CIA report was released by WK?
+		<br />What can control a car?
+		<br />How did the (2) of the survivors die?
+		<br />Car crash?
+		<br />How does this connect to SA?
+		<br />What just happened in SA?
+		<br />Who owns the top floors of the hotel?
+		<br />What happened today in SA?
+		<br />To who specifically?
+		<br />Was POTUS in LV that night?
+		<br />Yes/no?
+		<br />Why was he there?
+		<br />Who did he have a classified meeting with?
+		<br />Did AF1 land at McCarran?
+		<br />What unmarked tail numbers flew into McCarren that night?
+		<br />Trace AF1 that entire day.
+		<br />What do you notice?
+		<br />Classified.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 93 -->
+<span id="q93"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;93. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:06:00 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148032210" target="_blank">148032210</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148032210.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148031978</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: yY946/MZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/troll/cf.gif" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:03:40 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148031978" target="_blank">148031978</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148031978.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>148031295</font>
+						<br />Is HRC just a puppet and the goal is to take down her minders and the real kingpins?
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+			<span class="quotedpost">
+	
+				<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+				<br />
+				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: yY946/MZ</span><span class="flags"> <img class="flag" src="images/4pol/flags/troll/cf.gif" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:03:40 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148031978" target="_blank">148031978</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148031978.PNG" download>🖫</a></span></span>
+				<br />
+				<span class="postcontent">
+					<font style="color:red; text-decoration:underline;">>>148031295</font>
+					<br />Is HRC just a puppet and the goal is to take down her minders and the real kingpins?
+				</span>
+				<br />
+				<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+	
+			</span>
+
+		</span>
+
+		<br />Correction:
+		<br />HRC was a puppet but her strings were recently cut.
+		<br />She's now on her own and fighting for her life.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 94 -->
+<span id="q94"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;94. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:14:12 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148032910" target="_blank">148032910</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148032910.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148032489</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: GwO0QESl</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:09:14 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148031978" target="_blank">148031978</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148031978.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						
+						<span class="quotelink"><span class="linknumber">>>148032352</span>
+						</span>
+
+						<br />if she's not, I think they're gunning for her. How can she repay the money sent to CF for influence? Do they have Huma?
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+			<span class="quotedpost">
+
+				<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+				<br />
+				<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: GwO0QESl</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:09:14 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148031978" target="_blank">148031978</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148031978.PNG" download>🖫</a></span></span>
+				<br />
+				<span class="postcontent">
+							
+					<span class="quotelink"><span class="linknumber">>>148032352</span>
+						<span class="quotecontenthovers">
+			
+							<span class="quotedpost">
+			
+								<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+								<br />
+								<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: /WJ3upMk</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:07:39 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148032352" target="_blank">148032352</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148032352.PNG" download>🖫</a></span></span>
+								<br />
+								<span class="postcontent">
+									<font style="color:red; text-decoration:underline;">>>148032210</font>
+									<br />Is she in SA custody
+								</span>
+								<br />
+								<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+			
+							</span>
+			
+						</span>
+					</span>
+					<span class="quotecontentexpand">
+					
+						<span class="quotedpost">
+			
+							<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+							<br />
+							<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: /WJ3upMk</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:07:39 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148032352" target="_blank">148032352</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148032352.PNG" download>🖫</a></span></span>
+							<br />
+							<span class="postcontent">
+								<font style="color:red; text-decoration:underline;">>>148032210</font>
+								<br />Is she in SA custody
+							</span>
+							<br />
+							<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+			
+						</span>
+			
+					</span>
+
+					<br />if she's not, I think they're gunning for her. How can she repay the money sent to CF for influence? Do they have Huma?
+				</span>
+				<br />
+				<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+			</span>
+
+		</span>
+
+		<br />Review my other threads.
+		<br />This is why complete graphics are so important.
+		<br />BO paid the debt prior to leaving office.
+		<br />HRC is not currently in SA.
+		<br />Bill wants a deal.
+		<br />Playing the former President card.
+		<br />Watch the cookie quickly crumble.
+		<br />Where does Soros fit in?
+		<br />Godfather III
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 95 -->
+<span id="q95"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;95. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:17:24 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148033178" target="_blank">148033178</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148033178.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What happened in SA will happen here, Asia, and EU.
+		<br />Keep digging and keep organizing the info into graphics (critical).
+		<br />God bless.
+		<br />Hillary & Saudi Arabia
+		<br />Snow White
+		<br />Godfather III
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 96 -->
+<span id="q96"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;96. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E2C4DB">ID: cS8cMPVQ</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:26:35 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148033932" target="_blank">148033932</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148033932.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148033380</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: wz2tGFlp</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:19:39 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148033380" target="_blank">148033380</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148033380.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						Obama sent 221 million to Palestinians right before leaving office. The payout..
+						<br /><a href="http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/" target="_blank">http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/</a>
+			
+							<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
+							</span>
+							<span class="quotecontentexpand"><iframe width="1280" height="720" src="http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/"></iframe></span>
+					
+							<span class="embedlink"> [screencap
+							</span>
+							<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/148033380a.PNG" alt="Obama Gave $221 Million to Palestinians in Last Hours" /></span>
+									 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/148033380a.PNG" target="_blank" download> 🖫</a></span>]
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: wz2tGFlp</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 02:19:39 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148033380" target="_blank">148033380</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148033380.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						Obama sent 221 million to Palestinians right before leaving office. The payout..
+						<br /><a href="http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/" target="_blank">http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/</a>
+			
+							<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
+							<span class="quotecontenthovers"><iframe width="1280" height="720" src="http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/"></iframe></span></span>
+							<span class="quotecontentexpand"><iframe width="1280" height="720" src="http://www.breitbart.com/big-government/2017/01/23/report-obama-gave-221-million-palestinians-last-hours/"></iframe></span>
+					
+							<span class="embedlink"> [screencap
+							<span class="quotecontenthovers"><img src="images/4pol/anonmediapics&caps/148033380a.PNG" alt="Obama Gave $221 Million to Palestinians in Last Hours" /></span></span>
+							<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/148033380a.PNG" alt="Obama Gave $221 Million to Palestinians in Last Hours" /></span>
+									 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/148033380a.PNG" target="_blank" download> 🖫</a></span>]
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Amazing how things make sense once you are asked a question.
+		<br />That's the entire point of this operation.
+		<br />It's up to you all to collect, archive (safely), and distribute in a graphic that is in order with the crumb dumbs.
+		<br />It will all make sense.
+		<br />Once it does, we look to you to spread and get the word out.
+		<br />Time stamps will help you validate authenticity.
+		<br />Your President needs your help.
+		<br />He wants full transparency for the great people of this country.
+		<br />Everything stated is for a reason.
+		<br />God bless, Patriots.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 97 -->
+<span id="q97"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148136485/" target="_blank">68</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;97. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: L8quGPI9</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 18:15:25 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148136485/#148139234" target="_blank">148139234</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148139234.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Game Theory.
+		<br />Define.
+		<br />Why is this relevant?
+		<br />Moves and countermoves.
+		<br />Who is the enemy?
+		<br />False flags.
+		<br />Shooter identification.
+		<br />Shooter history.
+		<br />Shooter background.
+		<br />Shooter family.
+		<br />MS13.
+		<br />Define hostage.
+		<br />Define leverage.
+		<br />MS13.
+		<br />Shooter.
+		<br />Family.
+		<br />Hostage.
+		<br />Force.
+		<br />Narrative.
+		<br />Race.
+		<br />Background.
+		<br />Why is this relevant?
+		<br />Flynn.
+		<br />What is Flynn’s background?
+		<br />What was his rank?
+		<br />Was he involved in intel ops?
+		<br />What access or special priv?
+		<br />Why is this relevant?
+		<br />Set up.
+		<br />Who wins?
+		<br />Who becomes exposed?
+		<br />Who knows where the bodies are buried?
+		<br />Who has access?
+		<br />What is MI?
+		<br />Who was part of MI during BO term?
+		<br />Who was fired during BO term (MI)?
+		<br />Why is this relevant?
+		<br />Re-read complete crumb graphic (confirmed good).
+		<br />Paint the picture.
+		<br />Disinformation exists and is necessary.
+		<br />10 days.
+		<br />Darnkess.
+		<br />War.
+		<br />Good v. Evil.
+		<br />Roadmap of big picture is here.
+		<br />Review post happenings.
+		<br />Clarified.
+		<br />Crumbs not only for /pol/.
+		<br />The silent ones.
+		<br />Others monitoring (friends and enemies).
+		<br />Instructions.
+		<br />Snow White.
+		<br />Godfather III.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 98 -->
+<span id="q98"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148136485/" target="_blank">68</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;98. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: L8quGPI9</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 18:16:51 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148136485/#148139484" target="_blank">148139484</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148139484.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148136656</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: IXp4H3wt</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 17:59:48 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148136656" target="_blank">148136656</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148136656.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+										
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/Q_updated_11-4.png" target="_blank">Q_updated_11-4.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/Q_updated_11-4.png" download>🖫</a></span><span> (1.43 MB, 3966x5894, 1984:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Q_updated_11-4.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Q_updated_11-4.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148136485</font>
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148019103/" target="_blank">54</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: IXp4H3wt</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 17:59:48 ET </span><span class="totalposts"> (6) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148019103/#148136656" target="_blank">148136656</a></span> <span class="savetodisk"><a href="images/4pol/anoncaps/148136656.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+										
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/Q_updated_11-4.png" target="_blank">Q_updated_11-4.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/Q_updated_11-4.png" download>🖫</a></span><span> (1.43 MB, 3966x5894, 1984:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/Q_updated_11-4.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/Q_updated_11-4.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148136485</font>
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Graphic is good.
+		<br />Please update and continue to log.
+		<br />Important more than you know.
+		<br />Review each sentence post happenings.
+		<br />Big picture.
+		<br />Signatures have necessary meaning.
+		<br />Snow White.
+		<br />Godfather III.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 99 -->
+<span id="q99"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148136485/" target="_blank">68</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;99. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: L8quGPI9</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 18:40:38 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148136485/#148143472" target="_blank">148143472</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148143472.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		US assets.
+		<br />Location.
+		<br />Who was arrested in SA?
+		<br />Define.
+		<br />Background?
+		<br />HUMA.
+		<br />Foundations?
+		<br />Institutes?
+		<br />Soros.
+		<br />Who was killed in SA?
+		<br />Who fired?
+		<br />Who really fired?
+		<br />Why would we fire?
+		<br />Follow the money.
+		<br />Who pulls the strings?
+		<br />Strings detached.
+		<br />Open season on puppets.
+		<br />Who are the puppets?
+		<br />Where are the puppets?
+		<br />Global.
+		<br />MSM.
+		<br />Mockingbird.
+		<br />Secret agents.
+		<br />A. Cooper family background?
+		<br />Why is this relevant?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 100 -->
+<span id="q100"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148136485/" target="_blank">68</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;100. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #E9967A">ID: L8quGPI9</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 18:41:11 ET </span><span class="totalposts"> (4) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148136485/#148143562" target="_blank">148143562</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148143562.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Who is the Queen of England?
+		<br />How long in power?
+		<br />With power comes corruption.
+		<br />What happened to Diana?
+		<br />What did she find out?
+		<br />Why was she running?
+		<br />Who did she entrust to help her flee?
+		<br />What was the cover?
+		<br />Why is this relevant?
+		<br />Why now?
+		<br />Old.
+		<br />Connection.
+		<br />News.
+		<br />Bad actor.
+		<br />London Mayor.
+		<br />Background?
+		<br />Affiliation?
+		<br />Connection to Queen?
+		<br />British MI6 agents dead.
+		<br />When?
+		<br />How?
+		<br />What was reported?
+		<br />What really happened?
+		<br />Why is this relevant?
+		<br />Wealth.
+		<br />Corruption.
+		<br />Secret society.
+		<br />Evil.
+		<br />Germany.
+		<br />Merkel.
+		<br />Migrants.
+		<br />Why are migrants important?
+		<br />Assets.
+		<br />What are assets?
+		<br />Define assets?
+		<br />Why are migrants so important?
+		<br />What are assets?
+		<br />Why are migrants so important?
+		<br />What are assets?
+		<br />Why are migrants so important?
+		<br />Operations.
+		<br />Satan.
+		<br />Who follows?
+		<br />What political leaders worship Satan?
+		<br />What does an upside down cross represent?
+		<br />Who wears openly?
+		<br />Why?
+		<br />Who is she connected to?
+		<br />Why is this relevant?
+		<br />Spirit cooking.
+		<br />What does Spirit Cooking represent?
+		<br />Cult.
+		<br />What is a cult?
+		<br />Who is worshipped?
+		<br />Why is this relevant?
+		<br />Snow White
+		<br />Godfather III
+		<br />Speed.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 101 -->
+<span id="q101"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;101. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:08:10 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148148004" target="_blank">148148004</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148148004.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148147343</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: QVBSWPvd</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:03:39 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148147343" target="_blank">148147343</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148147343.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+										
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" target="_blank">LATEST Q VERIFIED NOV6.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" download>🖫</a></span><span> (2.58 MB, 3966x5894, 1984:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							LATEST Q, along with what was posted in CBTS 68
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: QVBSWPvd</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:03:39 ET </span><span class="totalposts"> (7) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148147343" target="_blank">148147343</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148147343.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+										
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" target="_blank">LATEST Q VERIFIED NOV6.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" download>🖫</a></span><span> (2.58 MB, 3966x5894, 1984:2947)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/LATEST Q VERIFIED NOV6.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							LATEST Q, along with what was posted in CBTS 68
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Graphic confirmed.
+		<br />Q
+		<br />
+		<br />jD79-x10ABy-89zBT
+		<br />08:00
+		<br />12:00
+		<br />11_6_TP_Pub
+		<br />PHIL_B_O_Extract_Conf
+		<br />02:00 Z
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 102 -->
+<span id="q102"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;102. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:17:35 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148149435" target="_blank">148149435</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148149435.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		14.5995° N, 120.9842° E
+		<br />_Conf_UDT_green_
+		<br />^_Sj69ETC-
+		<br />Godspeed.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 103 -->
+<span id="q103"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;103. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:34:57 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148152047" target="_blank">148152047</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148152047.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148151281</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: WlbWZggC</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:29:50 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148151281" target="_blank">148151281</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148151281.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>148149435</font>
+						<br />For a God and Country.
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: WlbWZggC</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:29:50 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148151281" target="_blank">148151281</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148151281.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>148149435</font>
+						<br />For a God and Country.
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />POTUS
+		<br />You are all heroes.
+		<br />Come home safe.
+		<br />Godspeed.
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 104 -->
+<span id="q104"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;104. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:49:15 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154137" target="_blank">148154137</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154137.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Now is the time to pray.
+		<br />We're operational.
+		<br />God bless the United States of America.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 105 -->
+<span id="q105"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;105. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:54:47 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154941" target="_blank">148154941</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154941.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Please pray.
+		<br />Operators are in harms way.
+		<br />High risk.
+		<br />High value targets.
+		<br />Please pause and give thanks to those who would die to save our republic.
+		<br />More to follow.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 106 -->
+<span id="q106"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;106. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:57:33 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148155343" target="_blank">148155343</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148155343.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148154996</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: HpMXQdk5</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:55:14 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154996" target="_blank">148154996</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154996.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" target="_blank">30059B4D-41BE-4A63-9BC7-5BFF618390C0.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" download>🖫</a></span><span> (185 KB, 750x1334, 375:667)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<span class="quotelink"><span class="linknumber">>>148154530</span>
+
+							</span>
+							<span class="quotecontentexpand">
+				
+								<span class="quotedpost">
+				
+									<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+									<br />
+									<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: RNxmuqBb</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:56 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154530" target="_blank">148154530</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154530.PNG" download>🖫</a></span></span>
+									<br />
+									<span class="postcontent">
+
+										<span class="quotelink"><span class="linknumber">>>148154394</span>
+
+										</span>
+
+										<br />You're fucking joking
+									</span>
+									<br />
+									<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				
+								</span>
+				
+							</span>
+							<br />They cut the feed trying to shut him down. Remember what Q said. They were waiting for this. Whatever is happening, is happening now. Archive EVERYTHING
+						</span>
+
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: HpMXQdk5</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:55:14 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154996" target="_blank">148154996</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154996.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" target="_blank">30059B4D-41BE-4A63-9BC7-5BFF618390C0.png</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" download>🖫</a></span><span> (185 KB, 750x1334, 375:667)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/30059B4D-41BE-4A63-9BC7-5BFF618390C0.png" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<span class="quotelink"><span class="linknumber">>>148154530</span>
+							<span class="quotecontenthovers">
+				
+								<span class="quotedpost">
+				
+									<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+									<br />
+									<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: RNxmuqBb</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:56 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154530" target="_blank">148154530</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154530.PNG" download>🖫</a></span></span>
+									<br />
+									<span class="postcontent">
+
+										<span class="quotelink"><span class="linknumber">>>148154394</span>
+
+										</span>
+										<span class="quotecontentexpand">
+								
+												<span class="quotedpost">
+								
+													<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+													<br />
+													<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: HpMXQdk5</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:00 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154394" target="_blank">148154394</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154394.PNG" download>🖫</a></span></span>
+													<br />
+													<span class="postcontent">
+														<font style="color:red; text-decoration:underline;">>>148153734</font>
+														<br />He said “rain and wind” before feed completely cut.
+													</span>
+													<br />
+													<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+								
+												</span>
+								
+										</span>
+
+										<br />You're fucking joking
+									</span>
+									<br />
+									<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				
+								</span>
+				
+							</span>
+							</span>
+							<span class="quotecontentexpand">
+				
+								<span class="quotedpost">
+				
+									<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+									<br />
+									<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: RNxmuqBb</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:56 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154530" target="_blank">148154530</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154530.PNG" download>🖫</a></span></span>
+									<br />
+									<span class="postcontent">
+
+										<span class="quotelink"><span class="linknumber">>>148154394</span>
+											<span class="quotecontenthovers">
+								
+												<span class="quotedpost">
+								
+													<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+													<br />
+													<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: HpMXQdk5</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:00 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154394" target="_blank">148154394</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154394.PNG" download>🖫</a></span></span>
+													<br />
+													<span class="postcontent">
+														<font style="color:red; text-decoration:underline;">>>148153734</font>
+														<br />He said “rain and wind” before feed completely cut.
+													</span>
+													<br />
+													<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+								
+												</span>
+								
+											</span>
+										</span>
+										<span class="quotecontentexpand">
+								
+												<span class="quotedpost">
+								
+													<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+													<br />
+													<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: HpMXQdk5</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:51:00 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148154394" target="_blank">148154394</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148154394.PNG" download>🖫</a></span></span>
+													<br />
+													<span class="postcontent">
+														<font style="color:red; text-decoration:underline;">>>148153734</font>
+														<br />He said “rain and wind” before feed completely cut.
+													</span>
+													<br />
+													<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+								
+												</span>
+								
+										</span>
+
+										<br />You're fucking joking
+									</span>
+									<br />
+									<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				
+								</span>
+				
+							</span>
+							<br />They cut the feed trying to shut him down. Remember what Q said. They were waiting for this. Whatever is happening, is happening now. Archive EVERYTHING
+						</span>
+
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Nothing is a coincidence.
+		<br />We are at war.
+		<br />SA cut the strings.
+		<br />They are scrambling for cover and using any means necessary out of their remaining power/control.
+		<br />God bless.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 107 -->
+<span id="q107"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;107. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:59:21 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148155609" target="_blank">148155609</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148155609.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		Code:
+		<br />May God also grant all of us the wisdom to ask what concrete steps we can take to reduce the violence and weaponry in our midst.
+		<br />Note when we just sent the go orders and when this Tweet went live.
+		<br />Coincidence?
+		<br />Pray.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 108 -->
+<span id="q108"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;108. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 20:03:07 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148156129" target="_blank">148156129</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148156129.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148154996</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: cxbjPd3x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:57:48 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148155375" target="_blank">148155375</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148155375.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>148152800</font>
+						<br />Checked and phoneposting, excuse the post count. The first "extraction order" referenced 0200 Zulu time, it was 0200 Zulu when I posted my response. I was saying that 1.5 hours would be plenty enough time for anyone to hide if they needed to hide, so if it was real info then whoever posted it just broke opsec in a pretty bad way.
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: cxbjPd3x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 19:57:48 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148155375" target="_blank">148155375</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148155375.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>148152800</font>
+						<br />Checked and phoneposting, excuse the post count. The first "extraction order" referenced 0200 Zulu time, it was 0200 Zulu when I posted my response. I was saying that 1.5 hours would be plenty enough time for anyone to hide if they needed to hide, so if it was real info then whoever posted it just broke opsec in a pretty bad way.
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Nothing is as it seems, Anon.
+		<br />What occurred?
+		<br />It flushed BO out.
+		<br />Why is that relevant?
+		<br />Analyze time stamps of my go message to BO's Tweet.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 109 -->
+<span id="q109"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;109. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 20:06:36 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148156632" target="_blank">148156632</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148156632.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		
+		<span class="quotelink"><span class="linknumber">>>148156518</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pqW40Wgk</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 20:05:48 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148156518" target="_blank">148156518</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148156518.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/spiritual_warfare.jpg" target="_blank">spiritual_warfare.jpg</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/spiritual_warfare.jpg" download>🖫</a></span><span> (23 KB, 318x405, 318:405)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/spiritual_warfare.jpg" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/spiritual_warfare.jpg" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148154137</font>
+							<br />St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray. And do thou, Prince of the Heavenly Hosts, by the power of God, cast down to Hell Satan and all his evil spirits, who prowl about the world seeking the ruin of souls. Amen.
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+
+					<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+					<br />
+					<span class="postinfo"><span class="qno">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #5FF5FF">ID: pqW40Wgk</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 20:05:48 ET </span><span class="totalposts"> (1) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148156518" target="_blank">148156518</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148156518.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/4pol/anonuploads/spiritual_warfare.jpg" target="_blank">spiritual_warfare.jpg</a></span> <span class="savetodisk"><a href="images/4pol/anonuploads/spiritual_warfare.jpg" download>🖫</a></span><span> (23 KB, 318x405, 318:405)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/4pol/anonuploads/spiritual_warfare.jpg" alt="1509840715226.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/4pol/anonuploads/spiritual_warfare.jpg" alt="1509840715226.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>148154137</font>
+							<br />St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray. And do thou, Prince of the Heavenly Hosts, by the power of God, cast down to Hell Satan and all his evil spirits, who prowl about the world seeking the ruin of souls. Amen.
+						</span>
+					
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+
+				</span>
+
+		</span>
+
+		<br />Amen brother
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 110 -->
+<span id="q110"></span>
+<span class="replicapost">
+	<span class="qrgeneral">4chan /pol/ CBTS General #<a href="https://archive.4plebs.org/pol/thread/148146734/" target="_blank">69</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">&nbsp;&nbsp;110. </span><span class="qname">Anonymous </span><span class="postID" style="color:black; background-color: #00FFBF">ID: hHkrVD7x</span><span class="flags"> <img class="flag" src="images/4pol/flags/countries/us.png" alt="USA" /></span><span>&nbsp;05 Nov 2017 (Sun) 20:08:46 ET </span><span class="totalposts"> (10) </span><span>No.<a href="https://archive.4plebs.org/pol/thread/148146734/#148156937" target="_blank">148156937</a></span> <span class="savetodisk"><a href="images/4pol/qcaps/148156937.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		MSM.
+		<br />CIA counter-ops.
+		<br />Will all fall down.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
 <div         ><hr /><b> 111. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148183670" target="_blank"><img src="images/4pol/qcaps/148183670.PNG" /></a></div>
 <div         ><hr /><b> 112. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185083" target="_blank"><img src="images/4pol/qcaps/148185083.PNG" /></a></div>
 <div         ><hr /><b> 113. 4chan /pol/ CBTS General #75     </b><br /><a href="https://archive.4plebs.org/pol/thread/148181225/#148185905" target="_blank"><img src="images/4pol/qcaps/148185905.PNG" /></a></div>
@@ -4925,12 +7775,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3771. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:21:48 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="http://8kun.top/qresearch/res/7653467.html#7653595" target="_blank">7653595</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7653595.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3771. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:21:48 ET </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="http://8kun.top/qresearch/res/7653467.html#7653595" target="_blank">7653595</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7653595.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305" target="_blank">https://twitter.com/AnonMonkeyMan1/status/1211325750713954305</a></span>
 	
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3771" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Russia didn't hack the server!</p>&mdash; Monkey Man (@AnonMonkeyMan1) <a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">So Russia didn't hack the server!</p>&mdash; Monkey Man (@AnonMonkeyMan1) <a href="https://twitter.com/AnonMonkeyMan1/status/1211325750713954305?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -4958,7 +7808,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3772. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:39:23 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653791" target="_blank">7653791</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653791.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3772. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:39:23 ET </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653791" target="_blank">7653791</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653791.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>7653597</span>
@@ -4967,7 +7817,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 					<br />
-					<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 ET </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -4984,7 +7834,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>7653541</font>
 						</span>
 					</span>
@@ -4999,7 +7849,7 @@
 			<span class="quotedpost">
 				<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 				<br />
-				<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
+				<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;12/29/19 (Sun) 12:22:00 ET </span><span class="postID" style="color:white;background-color: #7f3f80">ID: 7f3f80</span><span class="totalposts"> (17) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653597" target="_blank">7653597</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/7653597.PNG" target="_blank" download>🖫</a></span></span>
 				<br />
 				<span class="postcontent">
 					<span class="postfiles">
@@ -5016,7 +7866,7 @@
 							<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/7653597c.PNG" alt="7653597c.PNG" /></span></span>
 						</span>
 					</span>
-					<span class="posttext" style="display:block; float:left;">
+					<span class="posttext">
 						<font style="color:red; text-decoration:underline;">>>7653541</font>
 					</span>
 				</span>
@@ -5043,7 +7893,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3773. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:45:14 </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653873" target="_blank">7653873</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653873.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3773. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 12:45:14 ET </span><span class="postID" style="color:white;background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7653873" target="_blank">7653873</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7653873.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5052,7 +7902,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EM-MyCLUYAAaTCD.png-large.png" alt="EM-MyCLUYAAaTCD.png-large.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			Follow the guide.
 			<br />Q
 		</span>
@@ -5067,7 +7917,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">9793</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3774. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 13:06:19 </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7654139" target="_blank">7654139</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7654139.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3774. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;12/29/19 (Sun) 13:06:19 ET </span><span class="postID" style="color:white; background-color: #aa51d3">ID: aa51d3</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7654139" target="_blank">7654139</a></span><span class="savetodisk"> <a href="images/8kun/qcaps/7654139.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		If Russia didn't [hack] the DNC (insider breach)…..
@@ -5092,7 +7942,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3775. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:36:23 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859294" target="_blank">7859294</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859294.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3775. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:36:23 ET </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859294" target="_blank">7859294</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859294.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>7859255</span>
@@ -5101,7 +7951,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 ET </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -5110,7 +7960,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>7859207</font>
 						</span>
 					</span>
@@ -5125,7 +7975,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7858703.html" target="_blank">10059</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/19/20 (Sun) 23:32:47 ET </span><span class="postID" style="color:white;background-color: #c9a3b1">ID: c9a3b1</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/7858703.html#7859255" target="_blank">7859255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7859255.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -5134,7 +7984,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" alt="c0503b35ed772d80f3e855e8f196e8f4e67aac50ccf6b24a7832c320d57d07e9.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>7859207</font>
 						</span>
 					</span>
@@ -5154,7 +8004,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7653467.html" target="_blank">10059</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3776. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:24:46 </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859207" target="_blank">7859207</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859207.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3776. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/19/20 (Sun) 23:24:46 ET </span><span class="postID" style="color:white; background-color:#19b538">ID: 19b538</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7859207" target="_blank">7859207</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7859207.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		THE GREAT AWAKENING.
@@ -5170,12 +8020,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7863948.html" target="_blank">10065</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3777. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/20/20 (Mon) 23:18:10 </span><span class="postID" style="color:white; background-color:#8ac2bc">ID: 8ac2bc</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7864137" target="_blank">7864137</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7864137.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3777. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/20/20 (Mon) 23:18:10 ET </span><span class="postID" style="color:white; background-color:#8ac2bc">ID: 8ac2bc</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7653467.html#7864137" target="_blank">7864137</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7864137.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=8y06NSBBRtY" target="_blank">https://www.youtube.com/watch?v=8y06NSBBRtY</a> 
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3777" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="720" height="480" src="https://www.youtube.com/embed/8y06NSBBRtY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="720" height="480" src="https://www.youtube.com/embed/8y06NSBBRtY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 	
@@ -5201,7 +8051,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3778. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:06:47 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866851" target="_blank">7866851</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866851.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3778. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:06:47 ET </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866851" target="_blank">7866851</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866851.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		[D] party leaders [‘Big 5’]:
@@ -5213,7 +8063,7 @@
 		<br />Control over [CA] & [NY] vital to maintain [D] structural integrity?
 		<br /><a href="https://www.judicialwatch.org/press-releases/california-begins-massive-voter-roll-clean-up-notifies-up-to-1-5-million-inactive-voters-as-part-of-judicial-watch-lawsuit-settlement/" target="_blank">https://www.judicialwatch.org/press-releases/california-begins-massive-voter-roll-clean-up-notifies-up-to-1-5-million-inactive-voters-as-part-of-judicial-watch-lawsuit-settlement/</a>
 	
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb37781" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.judicialwatch.org/press-releases/california-begins-massive-voter-roll-clean-up-notifies-up-to-1-5-million-inactive-voters-as-part-of-judicial-watch-lawsuit-settlement/"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.judicialwatch.org/press-releases/california-begins-massive-voter-roll-clean-up-notifies-up-to-1-5-million-inactive-voters-as-part-of-judicial-watch-lawsuit-settlement/"></iframe></span>
 	
@@ -5224,7 +8074,7 @@
 			
 		<br /><a href="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/" target="_blank">https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/</a>	
 	
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb37782" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://nypost.com/2019/06/18/law-granting-illegal-immigrants-drivers-licenses-could-lead-to-voter-fraud/"></iframe></span>
 	
@@ -5246,7 +8096,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3779. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:07:34 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3779. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:07:34 ET </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		They are not attempting to remove POTUS from office.
@@ -5264,12 +8114,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3780. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:09:27 </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3780. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:09:27 ET </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866857" target="_blank">7866857</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7866857.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/realDonaldTrump/status/1219698190129225728" target="_blank">https://twitter.com/realDonaldTrump/status/1219698190129225728</a></span>
 		
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3780" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">READ THE TRANSCRIPTS!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1219698190129225728?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">READ THE TRANSCRIPTS!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1219698190129225728?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -5286,18 +8136,405 @@
 </span>
 <br />
 
-<div         ><hr /><b>3781. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7867006" target="_blank"><img src="images/8kun/qcaps/7867006.PNG" /></a></div>
-<div         ><hr /><b>3782. 8kun /qresearch/ General #10082   </b><br /><a href="https://8kun.top/qresearch/res/7878215.html#7878541" target="_blank"><img src="images/8kun/qcaps/7878541.PNG" /></a></div>
-<div         ><hr /><b>3783. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7883925" target="_blank"><img src="images/8kun/qcaps/7883925.PNG" /></a></div>
-<div         ><hr /><b>3784. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884016" target="_blank"><img src="images/8kun/qcaps/7884016.PNG" /></a></div>
-<div         ><hr /><b>3785. 8kun /qresearch/ General #10089   </b><br /><a href="https://8kun.top/qresearch/res/7883619.html#7884140" target="_blank"><img src="images/8kun/qcaps/7884140.PNG" /></a></div>
-<div         ><hr /><b>3786. 8kun /qresearch/ UK General #10   </b><br /><a href="https://8kun.top/qresearch/res/7515739.html#7886759" target="_blank"><img src="images/8kun/qcaps/7886759.PNG" /></a></div>
-<div         ><hr /><b>3787. 8kun /qresearch/ General #10095   </b><br /><a href="https://8kun.top/qresearch/res/7888466.html#7889231" target="_blank"><img src="images/8kun/qcaps/7889231.PNG" /></a></div>
-<div         ><hr /><b>3788. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889726" target="_blank"><img src="images/8kun/qcaps/7889726.PNG" /></a></div>
-<div         ><hr /><b>3789. 8kun /qresearch/ General #10096   </b><br /><a href="https://8kun.top/qresearch/res/7889277.html#7889793" target="_blank"><img src="images/8kun/qcaps/7889793.PNG" /></a></div>
-<div         ><hr /><b>3790. 8kun /qresearch/ General #10097   </b><br /><a href="https://8kun.top/qresearch/res/7890044.html#7890598" target="_blank"><img src="images/8kun/qcaps/7890598.PNG" /></a></div>
-<div         ><hr /><b>3791. 8kun /qresearch/ General #10098   </b><br /><a href="https://8kun.top/qresearch/res/7890810.html#7890949" target="_blank"><img src="images/8kun/qcaps/7890949.PNG" /></a></div>
-<div         ><hr /><b>3792. 8kun /qresearch/ General #10099   </b><br /><a href="https://8kun.top/qresearch/res/7891628.html#7891764" target="_blank"><img src="images/8kun/qcaps/7891764.PNG" /></a></div>
+<!-- 3781 -->
+<span id="q3781"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3781. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/21/20 (Tue) 14:25:16 ET </span><span class="postID" style="color:white; background-color:#aa5bcf">ID: aa5bcf</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7867006" target="_blank">7867006</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7867006.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>7866980</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/21/20 (Tue) 14:22:36 ET </span><span class="postID" style="color:black;background-color: #96d735">ID: 96d735</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866980" target="_blank">7866980</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7866980.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/30_second_delta.png" target="_blank">30_second_delta.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/30_second_delta.png" download>🖫</a></span><span> (55.46 KB, 1092x576, 91:48)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/30_second_delta.png" alt="30_second_delta.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/30_second_delta.png" alt="30_second_delta.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>7866867</font>
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/21/20 (Tue) 14:22:36 ET </span><span class="postID" style="color:black;background-color: #96d735">ID: 96d735</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7866980" target="_blank">7866980</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7866980.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<span class="postfiles">
+							<span class="file1">
+								<span class="fileinfo"><span>File: </span><span><a href="images/8kun/anonuploads/30_second_delta.png" target="_blank">30_second_delta.png</a></span> <span class="savetodisk"><a href="images/8kun/anonuploads/30_second_delta.png" download>🖫</a></span><span> (55.46 KB, 1092x576, 91:48)</span></span><br />
+								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/30_second_delta.png" alt="30_second_delta.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/30_second_delta.png" alt="30_second_delta.png" /></span></span>
+							</span>
+						</span>
+						<span class="posttext">
+							<font style="color:red; text-decoration:underline;">>>7866867</font>
+						</span>
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+		</span>
+		
+		<br />Thank you, Anon.
+		<br />[SEC] server re-routes create delays.
+		<br />[F]
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3782 -->
+<span id="q3782"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7878215.html" target="_blank">10082</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3782. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/22/20 (Wed) 16:56:13 ET </span><span class="postID" style="color:white; background-color:#851078">ID: 851078</span><span class="totalposts"> (4) </span><span>No.<a href="https://8kun.top/qresearch/res/7878215.html#7878541" target="_blank">7878541</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7878541.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EO1DAsMUwAAbEl5.jpg" target="_blank">EO1DAsMUwAAbEl5.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EO1DAsMUwAAbEl5.jpg" download>🖫</a></span><span> (95.59 KB, 1200x1005, 80:67)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EO1DAsMUwAAbEl5.jpg" alt="EO1DAsMUwAAbEl5.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/quploads/EO1DAsMUwAAbEl5.jpg" alt="EO1DAsMUwAAbEl5.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			Castle clean.
+			<br />Q
+		</span>
+
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3783 -->
+<span id="q3783"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7883619.html" target="_blank">10089</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3783. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 01:47:46 ET </span><span class="postID" style="color:black; background-color:#8cdd1a">ID: 8cdd1a</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7883619.html#7883925" target="_blank">7883925</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7883925.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/jaazee1/status/1220233223575429120" target="_blank">https://twitter.com/jaazee1/status/1220233223575429120</a></span>
+		
+			<span class="embedlink"><span id="emb3783" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING<br>Laura Ingraham investigation: Emails expose what Obama admin knew about Bidens and Burisma!<a href="https://twitter.com/hashtag/maga?src=hash&amp;ref_src=twsrc%5Etfw">#maga</a> <a href="https://twitter.com/hashtag/tcot?src=hash&amp;ref_src=twsrc%5Etfw">#tcot</a> <a href="https://twitter.com/FOX29philly?ref_src=twsrc%5Etfw">@fox29philly</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://twitter.com/hashtag/bloomberg?src=hash&amp;ref_src=twsrc%5Etfw">#bloomberg</a> <a href="https://twitter.com/hashtag/RT_com?src=hash&amp;ref_src=twsrc%5Etfw">#RT_com</a> <a href="https://twitter.com/hashtag/cbsnews?src=hash&amp;ref_src=twsrc%5Etfw">#cbsnews</a> ⁦<a href="https://twitter.com/RedEyeRadioNet?ref_src=twsrc%5Etfw">@RedEyeRadioNet</a>⁩<br>⁦<a href="https://twitter.com/MaryWalterRadio?ref_src=twsrc%5Etfw">@MaryWalterRadio</a>⁩ ⁦<a href="https://twitter.com/gatewaypundit?ref_src=twsrc%5Etfw">@gatewaypundit</a>⁩ ⁦<a href="https://twitter.com/dbongino?ref_src=twsrc%5Etfw">@dbongino</a>⁩ <a href="https://t.co/IjRbkd6ED6">https://t.co/IjRbkd6ED6</a></p>&mdash; Joe Zollo (@jaazee1) <a href="https://twitter.com/jaazee1/status/1220233223575429120?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING<br>Laura Ingraham investigation: Emails expose what Obama admin knew about Bidens and Burisma!<a href="https://twitter.com/hashtag/maga?src=hash&amp;ref_src=twsrc%5Etfw">#maga</a> <a href="https://twitter.com/hashtag/tcot?src=hash&amp;ref_src=twsrc%5Etfw">#tcot</a> <a href="https://twitter.com/FOX29philly?ref_src=twsrc%5Etfw">@fox29philly</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://twitter.com/hashtag/bloomberg?src=hash&amp;ref_src=twsrc%5Etfw">#bloomberg</a> <a href="https://twitter.com/hashtag/RT_com?src=hash&amp;ref_src=twsrc%5Etfw">#RT_com</a> <a href="https://twitter.com/hashtag/cbsnews?src=hash&amp;ref_src=twsrc%5Etfw">#cbsnews</a> ⁦<a href="https://twitter.com/RedEyeRadioNet?ref_src=twsrc%5Etfw">@RedEyeRadioNet</a>⁩<br>⁦<a href="https://twitter.com/MaryWalterRadio?ref_src=twsrc%5Etfw">@MaryWalterRadio</a>⁩ ⁦<a href="https://twitter.com/gatewaypundit?ref_src=twsrc%5Etfw">@gatewaypundit</a>⁩ ⁦<a href="https://twitter.com/dbongino?ref_src=twsrc%5Etfw">@dbongino</a>⁩ <a href="https://t.co/IjRbkd6ED6">https://t.co/IjRbkd6ED6</a></p>&mdash; Joe Zollo (@jaazee1) <a href="https://twitter.com/jaazee1/status/1220233223575429120?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7883925a.PNG" alt="BREAKING Laura Ingraham investigation: Emails expose what Obama admin knew about Bidens and Burisma!" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7883925a.PNG" alt="BREAKING Laura Ingraham investigation: Emails expose what Obama admin knew about Bidens and Burisma!" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7883925a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Truth and facts will prevail.
+		<br />The public will learn the truth.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3784 -->
+<span id="q3784"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7883619.html" target="_blank">10089</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3784. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 01:57:08 ET </span><span class="postID" style="color:black; background-color:#8cdd1a">ID: 8cdd1a</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7883619.html#7884016" target="_blank">7884016</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7884016.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		DECLAS CoC
+		<br />POTUS > Barr
+		<br />Barr > Durham
+		<br />[[F] classified intel provided [FVEY - Non FVEY] as needed]
+		<br />Does Durham want to hold [freeze] 'public' declas due to criminal nature of the probe(s)?
+		<br />Think GJ material.
+		<br />When did the investigation begin?
+		<br />When did the investigation really begin?
+		<br />Nothing can stop what is coming.
+		<br />Nothing.
+		<br />Slow drip > Flood
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3785 -->
+<span id="q3785"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7883619.html" target="_blank">10089</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3785. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 02:09:13 ET </span><span class="postID" style="color:black; background-color:#8cdd1a">ID: 8cdd1a</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/7883619.html#7884140" target="_blank">7884140</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7884140.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="quotelink"><span class="linknumber">>>7884113</span>
+			<span class="quotecontenthovers">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7883619.html" target="_blank">10089</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/23/20 (Thu) 02:05:25 ET </span><span class="postID" style="color:white;background-color: #826c3f">ID: 826c3f</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7883619.html#7884113" target="_blank">7884113</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7884113.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>7884016</font>
+						<br />Looking forward to that flood Sir!!
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+			</span>
+		</span>
+		<span class="quotecontentexpand">
+
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7883619.html" target="_blank">10089</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;01/23/20 (Thu) 02:05:25 ET </span><span class="postID" style="color:white;background-color: #826c3f">ID: 826c3f</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7883619.html#7884113" target="_blank">7884113</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/7884113.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>7884016</font>
+						<br />Looking forward to that flood Sir!!
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+		</span>
+
+		<br />"What storm, Mr. President?"
+		<br />"You'll see!" - POTUS
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3786 -->
+<span id="q3786"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/7515739.html" target="_blank">10</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3786. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 11:32:42 ET </span><span class="postID" style="color:black; background-color:#57f611">ID: 57f611</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7515739.html#7886759" target="_blank">7886759</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7886759.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/DExEUgov/status/1220354468207874048" target="_blank">https://twitter.com/DExEUgov/status/1220354468207874048</a></span>
+		
+			<span class="embedlink"><span id="emb3786" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Brexit Act has been given Royal Assent. <br><br>We’re leaving 🇪🇺 next Friday. <a href="https://t.co/FcAkWrTwNp">pic.twitter.com/FcAkWrTwNp</a></p>&mdash; Department for Exiting the EU (@DExEUgov) <a href="https://twitter.com/DExEUgov/status/1220354468207874048?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Brexit Act has been given Royal Assent. <br><br>We’re leaving 🇪🇺 next Friday. <a href="https://t.co/FcAkWrTwNp">pic.twitter.com/FcAkWrTwNp</a></p>&mdash; Department for Exiting the EU (@DExEUgov) <a href="https://twitter.com/DExEUgov/status/1220354468207874048?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7886759a.PNG" alt="The Brexit Act has been given Royal Assent. We’re leaving 🇪🇺 next Friday." /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7886759a.PNG" alt="The Brexit Act has been given Royal Assent. We’re leaving 🇪🇺 next Friday." /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7886759a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Congratulations, UK Patriots!
+		<br />Independence is a beautiful thing!
+		<br />Globalism dead?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3787 -->
+<span id="q3787"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7888466.html" target="_blank">10095</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3787. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 15:32:58 ET </span><span class="postID" style="color:black; background-color:#dce435">ID: dce435</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7888466.html#7889231" target="_blank">7889231</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7889231.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/crowdstrike-payments-DNC.png" target="_blank">crowdstrike-payments-DNC.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/crowdstrike-payments-DNC.png" download>🖫</a></span><span> (95.59 KB, 1200x1005, 80:67)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/crowdstrike-payments-DNC.png" alt="crowdstrike-payments-DNC.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/quploads/crowdstrike-payments-DNC.png" alt="crowdstrike-payments-DNC.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			Corrupt [D]s fighting for their lives to keep media/gov focused on POTUS.
+			<br />Don't worry, it won't be boring forever.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3788 -->
+<span id="q3788"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7889277.html" target="_blank">10096</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3788. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 16:05:48 ET </span><span class="postID" style="color:white; background-color:#1724b5">ID: 1724b5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7889277.html#7889726" target="_blank">7889726</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7889726.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.wsj.com/articles/justice-department-believes-it-lacked-legal-basis-for-continued-surveillance-of-trump-adviser-11579810061?" target="_blank">https://www.wsj.com/articles/justice-department-believes-it-lacked-legal-basis-for-continued-surveillance-of-trump-adviser-11579810061?</a>
+			
+			<span class="embedlink"><span id="emb3788" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.wsj.com/articles/justice-department-believes-it-lacked-legal-basis-for-continued-surveillance-of-trump-adviser-11579810061?"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.wsj.com/articles/justice-department-believes-it-lacked-legal-basis-for-continued-surveillance-of-trump-adviser-11579810061?"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7889726a.PNG" alt="Justice Department Believes It Should Have Ended Surveillance of Trump Adviser Earlier" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7889726a.PNG" alt="Justice Department Believes It Should Have Ended Surveillance of Trump Adviser Earlier" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7889726a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Correction will be needed: ALL SURV re: POTUS [hops] will be concluded that there was “insufficient predication to establish probable cause."
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3789 -->
+<span id="q3789"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7889277.html" target="_blank">10096</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3789. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 16:09:35 ET </span><span class="postID" style="color:white; background-color:#1724b5">ID: 1724b5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/7889277.html#7889793" target="_blank">7889793</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7889793.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<font style="color:red; text-decoration:underline;">>>7889726</font>
+		<br />Article lacking source doc.
+		<br /><a href="https://www.fisc.uscourts.gov/sites/default/files/FISC%20Declassifed%20Order%2016-1182%2017-52%2017-375%2017-679%20%20200123.pdf" target="_blank">https://www.fisc.uscourts.gov/sites/default/files/FISC%20Declassifed%20Order%2016-1182%2017-52%2017-375%2017-679%20%20200123.pdf</a>
+
+			<span class="embedlink"><span id="emb3789" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/FISC Declassifed Order 16-1182 17-52 17-375 17-679  200123.pdf"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/FISC Declassifed Order 16-1182 17-52 17-375 17-679  200123.pdf"></iframe></span>
+
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/4pol/anonmediapics&caps/7889793a.PNG" alt="FISC Declassifed Order 16-1182 17-52 17-375 17-679  200123.pdf" /></span></span>
+			<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/7889793a.PNG" alt="FISC Declassifed Order 16-1182 17-52 17-375 17-679  200123.pdf" /></span>
+					 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/7889793a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3790 -->
+<span id="q3790"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7890044.html" target="_blank">10097</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3790. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 17:01:20 ET </span><span class="postID" style="color:white; background-color:#793617">ID: 793617</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7890044.html#7890598" target="_blank">7890598</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7890598.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" target="_blank">b2e70 ... 31374af.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" download>🖫</a></span><span> (131.43 KB, 675x1200, 9:16)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" alt="b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/quploads/b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" alt="b2e709df65d6fe09e4d055e61c4524030aa9e8cb9db2d1cdf6b6a3a5f31374af.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			When did the public first learn re: FISA warrants re: +3 [non Page]?
+			<br />If FISA warrants deemed to be illegal [ALL SURV LEAPFROG HOPS] what happens to MUELLER's case(s)?
+			<br />How do you invalidate a claim?
+			<br />Conspiracy to commit….
+			<br />Rubber bullets sting but do not last.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3791 -->
+<span id="q3791"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7890810.html" target="_blank">10098</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3791. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 17:24:26 ET </span><span class="postID" style="color:white; background-color:#74babb">ID: 74babb</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7890810.html#7890949" target="_blank">7890949</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7890949.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://oig.justice.gov/press/2019/2019-12-09.pdf" target="_blank">https://oig.justice.gov/press/2019/2019-12-09.pdf</a>
+
+			<span class="embedlink"><span id="emb3791" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/2019-12-09.pdf"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/2019-12-09.pdf"></iframe></span>
+
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/4pol/anonmediapics&caps/7890949a.PNG" alt="2019-12-09.pdf" /></span></span>
+			<span class="quotecontentexpand"><img src="images/4pol/anonmediapics&caps/7890949a.PNG" alt="2019-12-09.pdf" /></span>
+					 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/7890949a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Worth remembering.
+		<br />The day the public learned [4] FISAs?
+		<br />Dec 9, 2019.
+		<br />[Anons: August 31, 2018]
+		<br />The day the public learned illegal SURV (targeting) of Page (2)?
+		<br />January 23, 2020.
+		<br />[-Cruz]
+		<br />Important markers to remember.
+		<br />Watch the news.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3792 -->
+<span id="q3792"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/7891628.html" target="_blank">10099</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3792. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;01/23/20 (Thu) 18:18:00 ET </span><span class="postID" style="color:black; background-color:#6ea91f">ID: 6ea91f</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/7891628.html#7891764" target="_blank">7891764</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/7891764.PNG" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/BasedPoland/status/1220480211260710913" target="_blank">https://twitter.com/BasedPoland/status/1220480211260710913</a></span>
+		
+			<span class="embedlink"><span id="emb3786" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Massive, absolutely massive crowds out on the streets of <a href="https://twitter.com/hashtag/France?src=hash&amp;ref_src=twsrc%5Etfw">#France</a> against <a href="https://twitter.com/hashtag/Macron?src=hash&amp;ref_src=twsrc%5Etfw">#Macron</a> tonight<br><br>Tens of thousands out on the streets in &quot;Marches of Light&quot; in every of the 10-15 largest cities of France (video from <a href="https://twitter.com/hashtag/Lyon?src=hash&amp;ref_src=twsrc%5Etfw">#Lyon</a>)<a href="https://twitter.com/hashtag/MediaSilence?src=hash&amp;ref_src=twsrc%5Etfw">#MediaSilence</a> <a href="https://twitter.com/hashtag/MacronDemission?src=hash&amp;ref_src=twsrc%5Etfw">#MacronDemission</a> <a href="https://twitter.com/hashtag/GiletsJaunes?src=hash&amp;ref_src=twsrc%5Etfw">#GiletsJaunes</a> <a href="https://twitter.com/hashtag/greve23janvier?src=hash&amp;ref_src=twsrc%5Etfw">#greve23janvier</a> <a href="https://t.co/nlwArhxKAj">pic.twitter.com/nlwArhxKAj</a></p>&mdash; BasedPoland (@BasedPoland) <a href="https://twitter.com/BasedPoland/status/1220480211260710913?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Massive, absolutely massive crowds out on the streets of <a href="https://twitter.com/hashtag/France?src=hash&amp;ref_src=twsrc%5Etfw">#France</a> against <a href="https://twitter.com/hashtag/Macron?src=hash&amp;ref_src=twsrc%5Etfw">#Macron</a> tonight<br><br>Tens of thousands out on the streets in &quot;Marches of Light&quot; in every of the 10-15 largest cities of France (video from <a href="https://twitter.com/hashtag/Lyon?src=hash&amp;ref_src=twsrc%5Etfw">#Lyon</a>)<a href="https://twitter.com/hashtag/MediaSilence?src=hash&amp;ref_src=twsrc%5Etfw">#MediaSilence</a> <a href="https://twitter.com/hashtag/MacronDemission?src=hash&amp;ref_src=twsrc%5Etfw">#MacronDemission</a> <a href="https://twitter.com/hashtag/GiletsJaunes?src=hash&amp;ref_src=twsrc%5Etfw">#GiletsJaunes</a> <a href="https://twitter.com/hashtag/greve23janvier?src=hash&amp;ref_src=twsrc%5Etfw">#greve23janvier</a> <a href="https://t.co/nlwArhxKAj">pic.twitter.com/nlwArhxKAj</a></p>&mdash; BasedPoland (@BasedPoland) <a href="https://twitter.com/BasedPoland/status/1220480211260710913?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/7891764a.PNG" alt="Massive, absolutely massive crowds out on the streets of #France against #Macron tonight" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/7891764a.PNG" alt="Massive, absolutely massive crowds out on the streets of #France against #Macron tonight" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/7891764a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Remember when the FAKE NEWS MEDIA told you this was all in relation to a gas tax over a year ago?
+		<br />Sheep no more!
+		<br />The Great Awakening!
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
 <div         ><hr /><b>3793. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7892407" target="_blank"><img src="images/8kun/qcaps/7892407.PNG" /></a></div>
 <div         ><hr /><b>3794. 8kun /qresearch/ General #10100   </b><br /><a href="https://8kun.top/qresearch/res/7892344.html#7893008" target="_blank"><img src="images/8kun/qcaps/7893008.PNG" /></a></div>
 <div         ><hr /><b>3795. 8kun /qresearch/ General #10165   </b><br /><a href="https://8kun.top/qresearch/res/7942423.html#7942579" target="_blank"><img src="images/8kun/qcaps/7942579.PNG" /></a></div>
@@ -5358,12 +8595,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8079117.html" target="_blank">10342</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3847. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/08/20 (Sat) 20:57:04 </span><span class="postID" style="color:white; background-color:#a02321">ID: a02321</span><span class="totalposts"> (1) </span><span>No.<a href="https://www.8kun.top/qresearch/8079117.html#8079342" target="_blank">8079342</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079342.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3847. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/08/20 (Sat) 20:57:04 ET </span><span class="postID" style="color:white; background-color:#a02321">ID: a02321</span><span class="totalposts"> (1) </span><span>No.<a href="https://www.8kun.top/qresearch/8079117.html#8079342" target="_blank">8079342</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079342.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/JuliansRum/status/1226321985422209024" target="_blank">https://twitter.com/JuliansRum/status/1226321985422209024</a></span>
 		
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3847" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency.”👇 <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://t.co/o3Taj9xW3W">https://t.co/o3Taj9xW3W</a> <a href="https://t.co/oGF3ZMP8GF">pic.twitter.com/oGF3ZMP8GF</a></p>&mdash; Julian&#39;s Rum 🥃 (@JuliansRum) <a href="https://twitter.com/JuliansRum/status/1226321985422209024?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Now I was lucky. I was familiar with that organization from my time as the Director of the Central Intelligence Agency.”👇 <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://t.co/o3Taj9xW3W">https://t.co/o3Taj9xW3W</a> <a href="https://t.co/oGF3ZMP8GF">pic.twitter.com/oGF3ZMP8GF</a></p>&mdash; Julian&#39;s Rum 🥃 (@JuliansRum) <a href="https://twitter.com/JuliansRum/status/1226321985422209024?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -5395,12 +8632,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8079117.html" target="_blank">10342</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3848. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/08/20 (Sat) 22:17:53 </span><span class="postID" style="color:black; background-color:#9fc5e4">ID: 9fc5e4</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8079117.html#8079763" target="_blank">8079763</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079763.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3848. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/08/20 (Sat) 22:17:53 ET </span><span class="postID" style="color:black; background-color:#9fc5e4">ID: 9fc5e4</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8079117.html#8079763" target="_blank">8079763</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8079763.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/SullengerCheryl/status/1226334622658834432" target="_blank">https://twitter.com/SullengerCheryl/status/1226334622658834432</a></span>
 	
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3848" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦻🏼Listen: “Half the people involved in the Russian investigation are going to jail.” <a href="https://twitter.com/hashtag/RussiaHoax?src=hash&amp;ref_src=twsrc%5Etfw">#RussiaHoax</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/40E4O4d0qI">https://t.co/40E4O4d0qI</a></p>&mdash; Cheryl Sullenger 🇺🇸 (@SullengerCheryl) <a href="https://twitter.com/SullengerCheryl/status/1226334622658834432?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦻🏼Listen: “Half the people involved in the Russian investigation are going to jail.” <a href="https://twitter.com/hashtag/RussiaHoax?src=hash&amp;ref_src=twsrc%5Etfw">#RussiaHoax</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/40E4O4d0qI">https://t.co/40E4O4d0qI</a></p>&mdash; Cheryl Sullenger 🇺🇸 (@SullengerCheryl) <a href="https://twitter.com/SullengerCheryl/status/1226334622658834432?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -5428,7 +8665,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8083294.html" target="_blank">10347</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3849. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/09/20 (Sun) 16:33:49 </span><span class="postID" style="color:white; background-color:#000000">ID: 000000</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8083294.html#8083380" target="_blank">8083380</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8083380.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3849. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6 </span><span>&nbsp;02/09/20 (Sun) 16:33:49 ET </span><span class="postID" style="color:white; background-color:#000000">ID: 000000</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8083294.html#8083380" target="_blank">8083380</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8083380.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Justice.
@@ -5444,7 +8681,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3850. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 12:58:12 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8092721" target="_blank">8092721</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8092721.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3850. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 12:58:12 ET </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8092721" target="_blank">8092721</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8092721.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5453,10 +8690,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/Justice.JPG" alt="Justice.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/Justice.JPG" alt="Justice.JPG" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<span class="twitterembed"><a href="https://twitter.com/kylegriffin1/status/1226908710150299649" target="_blank">https://twitter.com/kylegriffin1/status/1226908710150299649</a></span>
 			
-				<span class="embedlink"> [embed]
+				<span class="embedlink"><span id="emb3850" onclick="embedChange(this.id)"> [embed]</span>
 				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attorney General Barr has acknowledged for the first time that Rudy Giuliani has been giving the Justice Department information he collected in Ukraine, essentially bringing what was a stealth campaign into official government channels.<a href="https://t.co/5FRoN5DnrL">https://t.co/5FRoN5DnrL</a></p>&mdash; Kyle Griffin (@kylegriffin1) <a href="https://twitter.com/kylegriffin1/status/1226908710150299649?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Attorney General Barr has acknowledged for the first time that Rudy Giuliani has been giving the Justice Department information he collected in Ukraine, essentially bringing what was a stealth campaign into official government channels.<a href="https://t.co/5FRoN5DnrL">https://t.co/5FRoN5DnrL</a></p>&mdash; Kyle Griffin (@kylegriffin1) <a href="https://twitter.com/kylegriffin1/status/1226908710150299649?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
@@ -5499,12 +8736,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3851. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:21:22 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093002" target="_blank">8093002</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093002.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3851. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:21:22 ET </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093002" target="_blank">8093002</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093002.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc" target="_blank">https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc</a>
 	
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3851" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/washington-secrets/bigger-than-vindman-trump-scrubs-70-obama-holdovers-from-nsc"></iframe></span>
 	
@@ -5528,7 +8765,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3852. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:25:03 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">8093066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093066.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3852. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:25:03 ET </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">8093066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093066.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -5538,7 +8775,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 ET </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -5547,7 +8784,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8092721</font>
 							<br />Caught them all!
 						</span>
@@ -5563,7 +8800,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/10/20 (Mon) 13:21:33 ET </span><span class="postID" style="color:black; background-color: #dd99e2">ID: dd99e2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093005" target="_blank">8093005</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8093005.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -5572,7 +8809,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/Screenshot_20200210-131736_2.png" alt="Screenshot_20200210-131736_2.png" /></span></span>   
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8092721</font>
 							<br />Caught them all!
 						</span>
@@ -5594,7 +8831,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3853. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:31:39 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093185" target="_blank">8093185</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093185.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3853. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:31:39 ET </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093185" target="_blank">8093185</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093185.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5603,7 +8840,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EDUTkfZUwAE5rBw.png" alt="EDUTkfZUwAE5rBw.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			What happened 'FOLLOWING' Bolton's departure from the WH?
 			<br />WH clean?
 			<br />What happened 'FOLLOWING' impeachment?
@@ -5622,7 +8859,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8092585.html#8093066" target="_blank">10359</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3854. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:37:17 </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093281" target="_blank">8093281</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093281.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3854. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/10/20 (Mon) 13:37:17 ET </span><span class="postID" style="color:white; background-color:#9f19f8">ID: 9f19f8</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8092585.html#8093281" target="_blank">8093281</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8093281.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5631,7 +8868,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/DxPWk96X4AEzPWG.jpg" alt="DxPWk96X4AEzPWG.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			Backchannels are important.
 			<br />Attacks will only intensify.
 			<br />You attack those who threaten you the most.
@@ -5649,12 +8886,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">10375</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3855. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/11/20 (Tue) 17:38:06 </span><span class="postID" style="color:white; background-color:#4bcf38">ID: 4bcf38</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">8105541</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8105541.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3855. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/11/20 (Tue) 17:38:06 ET </span><span class="postID" style="color:white; background-color:#4bcf38">ID: 4bcf38</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8104844.html#8105541" target="_blank">8105541</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8105541.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/AZShopRGirl/status/1227355093797765120" target="_blank">https://twitter.com/AZShopRGirl/status/1227355093797765120</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3855" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Boom! <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://t.co/koU04vpJw6">pic.twitter.com/koU04vpJw6</a></p>&mdash; Pamela (@AZShopRGirl) <a href="https://twitter.com/AZShopRGirl/status/1227355093797765120?ref_src=twsrc%5Etfw">February 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Boom! <a href="https://twitter.com/hashtag/Qanon?src=hash&amp;ref_src=twsrc%5Etfw">#Qanon</a> <a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://t.co/koU04vpJw6">pic.twitter.com/koU04vpJw6</a></p>&mdash; Pamela (@AZShopRGirl) <a href="https://twitter.com/AZShopRGirl/status/1227355093797765120?ref_src=twsrc%5Etfw">February 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -5680,7 +8917,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8112591.html" target="_blank">10385</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3856. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:45:18 </span><span class="postID" style="color:white; background-color:#df18d2">ID: df18d2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8112591.html#8113297" target="_blank">8113297</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113297.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3856. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:45:18 ET </span><span class="postID" style="color:white; background-color:#df18d2">ID: df18d2</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8112591.html#8113297" target="_blank">8113297</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113297.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5689,7 +8926,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D16RNKcWwAAZGaI.jpg" alt="D16RNKcWwAAZGaI.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			The lines are drawn.
 			<br />[Zw7301-&vQ-00-00-03]
 			<br />Define Renegade [Hussein USSS code name].
@@ -5711,7 +8948,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8113366.html" target="_blank">10386</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3857. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:56:44 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113417" target="_blank">8113417</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113417.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3857. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 11:56:44 ET </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113417" target="_blank">8113417</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113417.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		Highly sophisticated 'State-level' attacks [v 8kun] followed by FAKE NEWS attacks [v Q] the next day?
@@ -5730,7 +8967,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8113366.html" target="_blank">10386</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3858. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 12:04:32 </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113583" target="_blank">8113583</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113583.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3858. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 12:04:32 ET </span><span class="postID" style="color:white; background-color:#4b313a">ID: 4b313a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8113366.html#8113583" target="_blank">8113583</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8113583.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5739,7 +8976,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/GA2.21.JPG" alt="GA2.21.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/GA2.21.JPG" alt="GA2.21.JPG" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			[Re_drop]
 			<br />What happens when 90% of the media is controlled/owned by (6) corporations?
 			<br />What happens when those same corporations are operated and controlled by a political ideology? 
@@ -5799,12 +9036,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8116389.html" target="_blank">10390</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3859. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 16:58:46 </span><span class="postID" style="color:white; background-color:#7a0087">ID: 7a0087</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8116389.html#8116930" target="_blank">8116930</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8116930.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3859. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/12/20 (Wed) 16:58:46 ET </span><span class="postID" style="color:white; background-color:#7a0087">ID: 7a0087</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8116389.html#8116930" target="_blank">8116930</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8116930.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/ABC/status/1227640976363212800" target="_blank">https://twitter.com/ABC/status/1227640976363212800</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3859" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Does anyone think it&#39;s out of the question that Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else?&quot; Sen. Chuck Schumer asks.<br><br>&quot;That is third world behavior—not American behavior.&quot; <a href="https://t.co/1JGFXwaeWZ">https://t.co/1JGFXwaeWZ</a> <a href="https://t.co/iNYmigMYTi">pic.twitter.com/iNYmigMYTi</a></p>&mdash; ABC News (@ABC) <a href="https://twitter.com/ABC/status/1227640976363212800?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Does anyone think it&#39;s out of the question that Pres. Trump might order the FBI to investigate Hillary Clinton, Joe Biden or anybody else?&quot; Sen. Chuck Schumer asks.<br><br>&quot;That is third world behavior—not American behavior.&quot; <a href="https://t.co/1JGFXwaeWZ">https://t.co/1JGFXwaeWZ</a> <a href="https://t.co/iNYmigMYTi">pic.twitter.com/iNYmigMYTi</a></p>&mdash; ABC News (@ABC) <a href="https://twitter.com/ABC/status/1227640976363212800?ref_src=twsrc%5Etfw">February 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -5832,7 +9069,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8124913.html" target="_blank">10401</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3860. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/13/20 (Thu) 13:35:33 </span><span class="postID" style="color:white; background-color:#d027f8">ID: d027f8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8124913.html#8125536" target="_blank">8125536</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8125536.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3860. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/13/20 (Thu) 13:35:33 ET </span><span class="postID" style="color:white; background-color:#d027f8">ID: d027f8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8124913.html#8125536" target="_blank">8125536</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8125536.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -5841,10 +9078,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/demcorruption.jpg" alt="demcorruption.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/demcorruption.jpg" alt="demcorruption.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<span class="twitterembed"><a href="https://twitter.com/Jim_Jordan/status/1227995634533269506" target="_blank">https://twitter.com/Jim_Jordan/status/1227995634533269506</a></span>
 
-				<span class="embedlink"> [embed]
+				<span class="embedlink"><span id="emb3860" onclick="embedChange(this.id)"> [embed]</span>
 				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats call on Barr to resign. REALLY?<br><br>Bill Barr is fighting to hold the FBI accountable for lying to the FISA Court SEVENTEEN times.</p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1227995634533269506?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats call on Barr to resign. REALLY?<br><br>Bill Barr is fighting to hold the FBI accountable for lying to the FISA Court SEVENTEEN times.</p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1227995634533269506?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
@@ -5866,12 +9103,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8133465.html" target="_blank">10412</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3861. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:11:09 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134066" target="_blank">8134066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134066.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3861. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:11:09 ET </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134066" target="_blank">8134066</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134066.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016" target="_blank">https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016</a>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3861" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016"></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/news/durham-scrutinizing-john-brennans-handling-of-russian-interference-in-2016"></iframe></span>
 
@@ -5895,12 +9132,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8133465.html" target="_blank">10412</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3862. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:31:07 </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134255" target="_blank">8134255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134255.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3862. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 11:31:07 ET </span><span class="postID" style="color:white; background-color:#d5674a">ID: d5674a</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8133465.html#8134255" target="_blank">8134255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8134255.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/Strandjunker/status/1228333628955996161" target="_blank">https://twitter.com/Strandjunker/status/1228333628955996161</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3862" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I need someone to explain to me why Bill Barr can immediately sit down with ABC but not under oath before Congress. <br><br>Explain it to me like I’m in kindergarten.</p>&mdash; Andrea Junker (@Strandjunker) <a href="https://twitter.com/Strandjunker/status/1228333628955996161?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I need someone to explain to me why Bill Barr can immediately sit down with ABC but not under oath before Congress. <br><br>Explain it to me like I’m in kindergarten.</p>&mdash; Andrea Junker (@Strandjunker) <a href="https://twitter.com/Strandjunker/status/1228333628955996161?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -5926,7 +9163,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8134956.html" target="_blank">10414</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3863. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:29:15 </span><span class="postID" style="color:white; background-color:#0b8a25">ID: 0b8a25</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8134956.html#8135724" target="_blank">8135724</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8135724.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3863. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:29:15 ET </span><span class="postID" style="color:white; background-color:#0b8a25">ID: 0b8a25</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8134956.html#8135724" target="_blank">8135724</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8135724.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -5941,12 +9178,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ Suicides List #<a href="https://8kun.top/qresearch/res/6757556.html" target="_blank">2</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3864. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:52:38 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136003" target="_blank">8136003</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136003.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3864. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 13:52:38 ET </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136003" target="_blank">8136003</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136003.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/johncardillo/status/1228369145110188039" target="_blank">https://twitter.com/johncardillo/status/1228369145110188039</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3864" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">They&#39;ve only dropped the investigation arising from Horowitz&#39;s 2018 referral.<br><br>This has nothing to do with Durham&#39;s investigation which is still ongoing. <a href="https://t.co/0euH5K2yGe">https://t.co/0euH5K2yGe</a></p>&mdash; John Cardillo (@johncardillo) <a href="https://twitter.com/johncardillo/status/1228369145110188039?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">They&#39;ve only dropped the investigation arising from Horowitz&#39;s 2018 referral.<br><br>This has nothing to do with Durham&#39;s investigation which is still ongoing. <a href="https://t.co/0euH5K2yGe">https://t.co/0euH5K2yGe</a></p>&mdash; John Cardillo (@johncardillo) <a href="https://twitter.com/johncardillo/status/1228369145110188039?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -5967,12 +9204,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ Suicides List #<a href="https://8kun.top/qresearch/res/6757556.html" target="_blank">2</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3865. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 14:29:21 </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136552" target="_blank">8136552</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136552.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3865. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 14:29:21 ET </span><span class="postID" style="color:white; background-color:#3a775b">ID: 3a775b</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/6757556.html#8136552" target="_blank">8136552</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8136552.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/dbongino/status/1228389237688590336" target="_blank">https://twitter.com/dbongino/status/1228389237688590336</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb38651" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m not playing the game until the Durham investigation concludes. I strongly encourage you to do the same. <br>Check this out for more details 👇🏻👇🏻<a href="https://t.co/Usavq8OzzL">https://t.co/Usavq8OzzL</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1228389237688590336?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m not playing the game until the Durham investigation concludes. I strongly encourage you to do the same. <br>Check this out for more details 👇🏻👇🏻<a href="https://t.co/Usavq8OzzL">https://t.co/Usavq8OzzL</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1228389237688590336?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -5983,7 +9220,7 @@
 
 		<a href="https://www.youtube.com/watch?v=AWmrzhU1zXs" target="_blank">[Tweet video</a> 
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb38652" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/AWmrzhU1zXs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/AWmrzhU1zXs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
@@ -6010,12 +9247,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3866. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:09:33 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141007" target="_blank">8141007</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141007.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3866. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:09:33 ET </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141007" target="_blank">8141007</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141007.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/axiomreport/status/1228506448893603841" target="_blank">https://twitter.com/axiomreport/status/1228506448893603841</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb38661" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">HANNITY: “Sources confirm that AG BARR is focused on something much bigger, much deeper that will have far ranging serious ramifications...<br>evidence is overwhelming and incontrovertible...slam-dunk case...”<br><br>“Bigger [slam-dunk] charges coming?”<a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/ldLYqZpJ5v">pic.twitter.com/ldLYqZpJ5v</a></p>&mdash; 🅐🅧🅘🅞🅜 🅡🅔🅟🅞🅡🅣™ 🌎 (@axiomreport) <a href="https://twitter.com/axiomreport/status/1228506448893603841?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">HANNITY: “Sources confirm that AG BARR is focused on something much bigger, much deeper that will have far ranging serious ramifications...<br>evidence is overwhelming and incontrovertible...slam-dunk case...”<br><br>“Bigger [slam-dunk] charges coming?”<a href="https://twitter.com/hashtag/WWG1WGA?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGA</a> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/ldLYqZpJ5v">pic.twitter.com/ldLYqZpJ5v</a></p>&mdash; 🅐🅧🅘🅞🅜 🅡🅔🅟🅞🅡🅣™ 🌎 (@axiomreport) <a href="https://twitter.com/axiomreport/status/1228506448893603841?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -6041,12 +9278,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3867. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:16:38 </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141119" target="_blank">8141119</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141119.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3867. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/14/20 (Fri) 22:16:38 ET </span><span class="postID" style="color:white; background-color:#717d81">ID: 717d81</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8140627.html#8141119" target="_blank">8141119</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8141119.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/cjtruth/status/1228460719869394944" target="_blank">https://twitter.com/cjtruth/status/1228460719869394944</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3867" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">THREAD: HT to <a href="https://twitter.com/BillPLCguy?ref_src=twsrc%5Etfw">@BillPLCguy</a> for helping on this one. <br><br>Do you think nothing is happening? You might want to think again. A week in review. Do you remember when Q wrote on Sunday February 9th of this week...<br><br>“Justice.<br><br>Q”<br><br>So what has happened since Q said this? 👇 <a href="https://t.co/2SEyBrCl7a">pic.twitter.com/2SEyBrCl7a</a></p>&mdash; CJTRUTH (@cjtruth) <a href="https://twitter.com/cjtruth/status/1228460719869394944?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">THREAD: HT to <a href="https://twitter.com/BillPLCguy?ref_src=twsrc%5Etfw">@BillPLCguy</a> for helping on this one. <br><br>Do you think nothing is happening? You might want to think again. A week in review. Do you remember when Q wrote on Sunday February 9th of this week...<br><br>“Justice.<br><br>Q”<br><br>So what has happened since Q said this? 👇 <a href="https://t.co/2SEyBrCl7a">pic.twitter.com/2SEyBrCl7a</a></p>&mdash; CJTRUTH (@cjtruth) <a href="https://twitter.com/cjtruth/status/1228460719869394944?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -6067,12 +9304,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8140627.html" target="_blank">10421</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3868. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 12:26:39 </span><span class="postID" style="color:white; background-color:#31bd84">ID: 31bd84</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8163842.html#8163987" target="_blank">8163987</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8163987.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3868. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 12:26:39 ET </span><span class="postID" style="color:white; background-color:#31bd84">ID: 31bd84</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8163842.html#8163987" target="_blank">8163987</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8163987.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/KarluskaP/status/1229415548938833920" target="_blank">https://twitter.com/KarluskaP/status/1229415548938833920</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38681" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Secret Tarmac Meeting- What happens when Loretta Lynch can no longer provide legal cover for the Clinton&#39;s?<br>Tarmac meetings_END<br>Q. <a href="https://twitter.com/hashtag/TheMoreYouKnow?src=hash&amp;ref_src=twsrc%5Etfw">#TheMoreYouKnow</a> <a href="https://t.co/3XTNVkbXQg">pic.twitter.com/3XTNVkbXQg</a></p>&mdash; Karli Q ⭐️⭐️⭐️ - Text TRUMP to 88022 (@KarluskaP) <a href="https://twitter.com/KarluskaP/status/1229415548938833920?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Secret Tarmac Meeting- What happens when Loretta Lynch can no longer provide legal cover for the Clinton&#39;s?<br>Tarmac meetings_END<br>Q. <a href="https://twitter.com/hashtag/TheMoreYouKnow?src=hash&amp;ref_src=twsrc%5Etfw">#TheMoreYouKnow</a> <a href="https://t.co/3XTNVkbXQg">pic.twitter.com/3XTNVkbXQg</a></p>&mdash; Karli Q ⭐️⭐️⭐️ - Text TRUMP to 88022 (@KarluskaP) <a href="https://twitter.com/KarluskaP/status/1229415548938833920?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -6088,7 +9325,7 @@
 		
 		<br /><a href="https://www.justice.gov/file/1071991/download" target="_blank">https://www.justice.gov/file/1071991/download</a>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38682" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/2016_election_final_report_06-14-18_0.pdf"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/2016_election_final_report_06-14-18_0.pdf"></iframe></span>
 	
@@ -6116,7 +9353,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8166112.html" target="_blank">10454</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3869. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:11:14 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166443" target="_blank">8166443</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166443.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3869. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:11:14 ET </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166443" target="_blank">8166443</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166443.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6125,10 +9362,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EMfJo6SVAAEfQdA.png" alt="EMfJo6SVAAEfQdA.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<span class="twitterembed"><a href="https://twitter.com/RealSaavedra/status/1229510910739279873" target="_blank">https://twitter.com/RealSaavedra/status/1229510910739279873</a></span>
 	
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38691" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros <a href="https://t.co/a25LtKcRY9">https://t.co/a25LtKcRY9</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1229510910739279873?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dershowitz: I Have Proof Obama Ordered FBI Investigation At Request Of George Soros <a href="https://t.co/a25LtKcRY9">https://t.co/a25LtKcRY9</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1229510910739279873?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 			
@@ -6139,7 +9376,7 @@
 			
 			<a href="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/" target="_blank"> [tweet link</a>
 			
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38692" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.dailywire.com/news/dershowitz-i-have-proof-obama-ordered-fbi-investigation-at-request-of-george-soros/"></iframe></span>]
 			
@@ -6167,7 +9404,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8166112.html" target="_blank">10454</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3870. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:15:23 </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166492" target="_blank">8166492</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166492.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3870. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 17:15:23 ET </span><span class="postID" style="color:black; background-color:#c0e5f6">ID: c0e5f6</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8166112.html#8166492" target="_blank">8166492</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8166492.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6176,7 +9413,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D2h15vzXcAAY56x.png" alt="D2h15vzXcAAY56x.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 		
 		</span>
 	</span>
@@ -6190,12 +9427,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8168472.html" target="_blank">10457</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3871. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:27:37 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168706" target="_blank">8168706</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168706.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3871. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:27:37 ET </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168706" target="_blank">8168706</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168706.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/45HarisonHarold/status/1229591987369709568" target="_blank">https://twitter.com/45HarisonHarold/status/1229591987369709568</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3871" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is this who [GS] made puppet [Hussein] investigate?<br><br>I RAN..I WON..<br>I WAS INVESTIGATED and it could have been the UK, by AUSTRALIA, could have been by ITALY ....I WAS INVESTIGATED <br>BY THE OBAMA<br>ADMINISTRATION<br> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/DFog8p84Xc">pic.twitter.com/DFog8p84Xc</a></p>&mdash; We 🇺🇸 The 🇺🇸 People ⚖️ (@45HarisonHarold) <a href="https://twitter.com/45HarisonHarold/status/1229591987369709568?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is this who [GS] made puppet [Hussein] investigate?<br><br>I RAN..I WON..<br>I WAS INVESTIGATED and it could have been the UK, by AUSTRALIA, could have been by ITALY ....I WAS INVESTIGATED <br>BY THE OBAMA<br>ADMINISTRATION<br> <a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/DFog8p84Xc">pic.twitter.com/DFog8p84Xc</a></p>&mdash; We 🇺🇸 The 🇺🇸 People ⚖️ (@45HarisonHarold) <a href="https://twitter.com/45HarisonHarold/status/1229591987369709568?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -6223,7 +9460,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8168472.html" target="_blank">10457</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3872. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:29:50 </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168745" target="_blank">8168745</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168745.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3872. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/17/20 (Mon) 21:29:50 ET </span><span class="postID" style="color:white; background-color:#73bdd5">ID: 73bdd5</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8168472.html#8168745" target="_blank">8168745</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8168745.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		To be blunt….
@@ -6240,12 +9477,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8179218.html" target="_blank">10471</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3873. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/18/20 (Tue) 22:36:05 </span><span class="postID" style="color:black; background-color:#2bf7f9">ID: 2bf7f9</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8179218.html#8179800" target="_blank">8179800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8179800.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3873. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/18/20 (Tue) 22:36:05 ET </span><span class="postID" style="color:black; background-color:#2bf7f9">ID: 2bf7f9</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8179218.html#8179800" target="_blank">8179800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8179800.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.youtube.com/watch?v=QDVQe5iRiPw" target="_blank">https://www.youtube.com/watch?v=QDVQe5iRiPw</a>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3873" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/QDVQe5iRiPw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/QDVQe5iRiPw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
@@ -6271,12 +9508,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8190738.html" target="_blank">10486</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3874. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 00:06:59 </span><span class="postID" style="color:black; background-color:#e0d3ef">ID: e0d3ef</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8190738.html#8191403" target="_blank">8191403</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8191403.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3874. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 00:06:59 ET </span><span class="postID" style="color:black; background-color:#e0d3ef">ID: e0d3ef</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8190738.html#8191403" target="_blank">8191403</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8191403.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/cain_nate/status/1230336935140483072" target="_blank">https://twitter.com/cain_nate/status/1230336935140483072</a></span>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3874" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">To those who think there will never be justice, think again. <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> seemed pretty confident tonight. &quot;I hope you&#39;re gonna be happy!&quot; That implies that he has knowledge that something is coming. <a href="https://twitter.com/hashtag/DrainTheSwamp?src=hash&amp;ref_src=twsrc%5Etfw">#DrainTheSwamp</a> <a href="https://twitter.com/hashtag/ArrestTheTraitors?src=hash&amp;ref_src=twsrc%5Etfw">#ArrestTheTraitors</a> <a href="https://twitter.com/hashtag/JusticeIsComing?src=hash&amp;ref_src=twsrc%5Etfw">#JusticeIsComing</a><a href="https://twitter.com/hashtag/TickTock?src=hash&amp;ref_src=twsrc%5Etfw">#TickTock</a> <a href="https://t.co/UV1otVkYFj">pic.twitter.com/UV1otVkYFj</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1230336935140483072?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 		<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">To those who think there will never be justice, think again. <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> seemed pretty confident tonight. &quot;I hope you&#39;re gonna be happy!&quot; That implies that he has knowledge that something is coming. <a href="https://twitter.com/hashtag/DrainTheSwamp?src=hash&amp;ref_src=twsrc%5Etfw">#DrainTheSwamp</a> <a href="https://twitter.com/hashtag/ArrestTheTraitors?src=hash&amp;ref_src=twsrc%5Etfw">#ArrestTheTraitors</a> <a href="https://twitter.com/hashtag/JusticeIsComing?src=hash&amp;ref_src=twsrc%5Etfw">#JusticeIsComing</a><a href="https://twitter.com/hashtag/TickTock?src=hash&amp;ref_src=twsrc%5Etfw">#TickTock</a> <a href="https://t.co/UV1otVkYFj">pic.twitter.com/UV1otVkYFj</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1230336935140483072?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 		
@@ -6302,7 +9539,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8191505.html" target="_blank">10487</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3875. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 01:34:03 </span><span class="postID" style="color:white; background-color:#f91220">ID: f91220</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8191505.html#8192087" target="_blank">8192087</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8192087.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3875. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 01:34:03 ET </span><span class="postID" style="color:white; background-color:#f91220">ID: f91220</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8191505.html#8192087" target="_blank">8192087</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8192087.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6311,10 +9548,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/akdqyK.jpg" alt="akdqyK.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/akdqyK.jpg" alt="akdqyK.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<span class="twitterembed"><a href="https://twitter.com/sapna/status/1223639939931410435" target="_blank">https://twitter.com/sapna/status/1223639939931410435</a></span>
 
-				<span class="embedlink"> [embed]
+				<span class="embedlink"><span id="emb38751" onclick="embedChange(this.id)"> [embed]</span>
 				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Victoria’s Secret has been under a microscope for its outdated marketing &amp; the L Brands CEO’s Epstein connections. More than 30 people also described an entrenched culture of misogyny, bullying &amp; harassment: <a href="https://t.co/gXeLz3dnQ4">https://t.co/gXeLz3dnQ4</a><br><br>w <a href="https://twitter.com/jbsgreenberg?ref_src=twsrc%5Etfw">@jbsgreenberg</a> <a href="https://twitter.com/katierosman?ref_src=twsrc%5Etfw">@katierosman</a> <a href="https://twitter.com/JamesStewartNYT?ref_src=twsrc%5Etfw">@JamesStewartNYT</a></p>&mdash; Sapna Maheshwari (@sapna) <a href="https://twitter.com/sapna/status/1223639939931410435?ref_src=twsrc%5Etfw">February 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span></span>
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Victoria’s Secret has been under a microscope for its outdated marketing &amp; the L Brands CEO’s Epstein connections. More than 30 people also described an entrenched culture of misogyny, bullying &amp; harassment: <a href="https://t.co/gXeLz3dnQ4">https://t.co/gXeLz3dnQ4</a><br><br>w <a href="https://twitter.com/jbsgreenberg?ref_src=twsrc%5Etfw">@jbsgreenberg</a> <a href="https://twitter.com/katierosman?ref_src=twsrc%5Etfw">@katierosman</a> <a href="https://twitter.com/JamesStewartNYT?ref_src=twsrc%5Etfw">@JamesStewartNYT</a></p>&mdash; Sapna Maheshwari (@sapna) <a href="https://twitter.com/sapna/status/1223639939931410435?ref_src=twsrc%5Etfw">February 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"></script></span>
 				
@@ -6325,7 +9562,7 @@
 
 				<a href="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html" target="_blank">[tweeted link</a>
 			
-				<span class="embedlink"> [embed]
+				<span class="embedlink"><span id="emb38752" onclick="embedChange(this.id)"> [embed]</span>
 				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html"></iframe></span></span>
 				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html"></iframe></span>
 		
@@ -6350,7 +9587,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3876. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:13:03 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194744" target="_blank">8194744</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194744.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3876. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:13:03 ET </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194744" target="_blank">8194744</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194744.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6359,7 +9596,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/F_NewsEx3820.PNG" alt="F_NewsEx3820.PNG" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 		
 			<span class="quotelink"><span class="linknumber">>>8194659</span>
 				<span class="quotecontenthovers">
@@ -6367,7 +9604,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 ET </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
@@ -6376,7 +9613,7 @@
 									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
 								</span>
 							</span>
-							<span class="posttext" style="display:block; float:left;">
+							<span class="posttext">
 								<font style="color:#AF0A0F;"><b>Dough</b></font>
 								<br /><br /><a href="https://pastebin.com/pdwphuug" target="_blank">https://pastebin.com/pdwphuug</a>
 								<br /><br /><b>can bake one more or defer</b>
@@ -6393,7 +9630,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 10:57:57 ET </span><span class="postID" style="color:white;background-color: #954f43">ID: 954f43</span><span class="totalposts"> (21) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194659" target="_blank">8194659</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8194659.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
@@ -6402,7 +9639,7 @@
 									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" alt="c7e555f165a4c7f0f4ddd3c7d5b17b765cbb417f96944442c58bf2b7050900d0.jpg" /></span></span>
 								</span>
 							</span>
-							<span class="posttext" style="display:block; float:left;">
+							<span class="posttext">
 								<font style="color:#AF0A0F;"><b>Dough</b></font>
 								<br /><br /><a href="https://pastebin.com/pdwphuug" target="_blank">https://pastebin.com/pdwphuug</a>
 								<br /><br /><b>can bake one more or defer</b>
@@ -6431,12 +9668,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8194624.html" target="_blank">10491</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3877. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:27:28 </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194912" target="_blank">8194912</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194912.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3877. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 11:27:28 ET </span><span class="postID" style="color:white; background-color:#f72362">ID: f72362</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8194624.html#8194912" target="_blank">8194912</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8194912.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/owillis/status/1230526620483694595" target="_blank">https://twitter.com/owillis/status/1230526620483694595</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38771" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">german mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world <a href="https://t.co/qztvsVpAnu">https://t.co/qztvsVpAnu</a></p>&mdash; Oliver Willis (@owillis) <a href="https://twitter.com/owillis/status/1230526620483694595?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">german mass shooter talked about conspiracy theory that sounds a lot like qanon in trump world <a href="https://t.co/qztvsVpAnu">https://t.co/qztvsVpAnu</a></p>&mdash; Oliver Willis (@owillis) <a href="https://twitter.com/owillis/status/1230526620483694595?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -6447,7 +9684,7 @@
 
 			<a href="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/" target="_blank">[twitter link</a>
 		
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38772" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://americanindependent.com/germany-terrorism-attack-gunman-donald-trump-racism-far-right-frankfurt/"></iframe></span>
 	
@@ -6460,7 +9697,7 @@
 		<br />What happens when billion dollar media co's attack & miss?
 		<br />All for a 'few thousand' followers?
 		<br />All for a 'conspiracy'?
-		<br /><font style="color:#008000;">>A public awake is their greatest fear</font>
+		<br /><font style="color:#00DD4A;">>A public awake is their greatest fear</font>
 		<br />Q
 	</span>
 	<br />
@@ -6473,12 +9710,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3878. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:40:44 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200462" target="_blank">8200462</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200462.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3878. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:40:44 ET </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200462" target="_blank">8200462</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200462.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/brogthefrog/status/1230664743406403586" target="_blank">https://twitter.com/brogthefrog/status/1230664743406403586</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38781" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="tl" dir="ltr"><a href="https://twitter.com/hashtag/QProof?src=hash&amp;ref_src=twsrc%5Etfw">#QProof</a><br><br>Kash Patel<a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/YsuHC3IJnZ">https://t.co/YsuHC3IJnZ</a> <a href="https://t.co/iFpF1HoMb9">pic.twitter.com/iFpF1HoMb9</a></p>&mdash; NowC@mesTHEP@in (@brogthefrog) <a href="https://twitter.com/brogthefrog/status/1230664743406403586?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="tl" dir="ltr"><a href="https://twitter.com/hashtag/QProof?src=hash&amp;ref_src=twsrc%5Etfw">#QProof</a><br><br>Kash Patel<a href="https://twitter.com/hashtag/QAnon?src=hash&amp;ref_src=twsrc%5Etfw">#QAnon</a> <a href="https://t.co/YsuHC3IJnZ">https://t.co/YsuHC3IJnZ</a> <a href="https://t.co/iFpF1HoMb9">pic.twitter.com/iFpF1HoMb9</a></p>&mdash; NowC@mesTHEP@in (@brogthefrog) <a href="https://twitter.com/brogthefrog/status/1230664743406403586?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -6489,7 +9726,7 @@
 
 			<span class="twitterembed"><a href="https://twitter.com/NatashaBertrand/status/1230660042812219393" target="_blank">[tweeted tweet</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38782" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking now: Kash Patel, a former NSC official who also played a key role as a Hill staffer in helping GOP discredit the Russia probe, is now a senior adviser for new acting DNI Richard Grenell, according to 4 people familiar with the matter. <a href="https://twitter.com/dlippman?ref_src=twsrc%5Etfw">@dlippman</a> <a href="https://t.co/PUb3V8iFoU">https://t.co/PUb3V8iFoU</a></p>&mdash; Natasha Bertrand (@NatashaBertrand) <a href="https://twitter.com/NatashaBertrand/status/1230660042812219393?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking now: Kash Patel, a former NSC official who also played a key role as a Hill staffer in helping GOP discredit the Russia probe, is now a senior adviser for new acting DNI Richard Grenell, according to 4 people familiar with the matter. <a href="https://twitter.com/dlippman?ref_src=twsrc%5Etfw">@dlippman</a> <a href="https://t.co/PUb3V8iFoU">https://t.co/PUb3V8iFoU</a></p>&mdash; Natasha Bertrand (@NatashaBertrand) <a href="https://twitter.com/NatashaBertrand/status/1230660042812219393?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -6500,7 +9737,7 @@
 
 			<a href="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546" target="_blank">[tweeted link</a>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38783" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.politico.com/news/2020/02/20/kash-patel-odni-post-116546"></iframe></span>
 	
@@ -6522,7 +9759,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3879. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:47:48 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200590" target="_blank">8200590</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200590.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3879. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:47:48 ET </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200590" target="_blank">8200590</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200590.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -6532,7 +9769,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 ET </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
@@ -6541,7 +9778,7 @@
 									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
 								</span>
 							</span>
-							<span class="posttext" style="display:block; float:left;">
+							<span class="posttext">
 								<font style="color:red; text-decoration:underline;">>>8200462</font>
 								<br />Baker already noted Q.
 								<br />Missed heaps of other shit but got this
@@ -6558,7 +9795,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:42:25 ET </span><span class="postID" style="color:white;background-color: #22ec82">ID: 22ec82</span><span class="totalposts"> (16) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200492" target="_blank">8200492</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200492.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 							<span class="postfiles">
@@ -6567,7 +9804,7 @@
 									<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/anonuploads/ClipboardImage_8200492.png" alt="ClipboardImage_8200492.png" /></span></span>
 								</span>
 							</span>
-							<span class="posttext" style="display:block; float:left;">
+							<span class="posttext">
 								<font style="color:red; text-decoration:underline;">>>8200462</font>
 								<br />Baker already noted Q.
 								<br />Missed heaps of other shit but got this
@@ -6597,7 +9834,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3880. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:59:58 </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200814" target="_blank">8200814</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200814.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3880. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/20/20 (Thu) 20:59:58 ET </span><span class="postID" style="color:white; background-color:#e42a09">ID: e42a09</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200814" target="_blank">8200814</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8200814.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 	
@@ -6607,7 +9844,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 ET </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 
@@ -6626,7 +9863,7 @@
 					<span class="quotedpost">
 						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8200021.html" target="_blank">10498</a></span>
 						<br />
-						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
+						<span class="postinfo"><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/20/20 (Thu) 20:53:44 ET </span><span class="postID" style="color:white;background-color: #6828cf">ID: 6828cf</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8200021.html#8200718" target="_blank">8200718</a></span> <span class="savetodisk"><a href="images/anoncaps/8kun/8200718.PNG" target="_blank" download>🖫</a></span></span>
 						<br />
 						<span class="postcontent">
 
@@ -6644,7 +9881,7 @@
 		<br />You are ready.
 		<br /><a href="https://www.youtube.com/watch?v=B5T7Gr5oJbM" target="_blank">https://www.youtube.com/watch?v=B5T7Gr5oJbM</a>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3880" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/B5T7Gr5oJbM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/B5T7Gr5oJbM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 	
@@ -6672,7 +9909,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3881. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:36:43 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8238822" target="_blank">8238822</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8238822.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3881. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:36:43 ET </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8238822" target="_blank">8238822</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8238822.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6681,10 +9918,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EMHyS2xXkAA8JrB.png" alt="EMHyS2xXkAA8JrB.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<span class="twitterembed"><a href="https://twitter.com/cain_nate/status/1231066589996318720" target="_blank">https://twitter.com/cain_nate/status/1231066589996318720</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38811" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the interview you&#39;ve all been waiting for. In it I share the details of what happened from start to finish and the aftermath. I pray it will make a difference. <a href="https://t.co/jaWpzvTOvz">https://t.co/jaWpzvTOvz</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1231066589996318720?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is the interview you&#39;ve all been waiting for. In it I share the details of what happened from start to finish and the aftermath. I pray it will make a difference. <a href="https://t.co/jaWpzvTOvz">https://t.co/jaWpzvTOvz</a></p>&mdash; Nate Cain ⭐⭐⭐🙏👪🇺🇸 (@cain_nate) <a href="https://twitter.com/cain_nate/status/1231066589996318720?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -6695,7 +9932,7 @@
 
 			<span class="twitterembed"><a href="https://twitter.com/BardsOfWar/status/1231049557129269248" target="_blank">[tweeted tweet</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38812" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast. <br><br>EP 73 - Interview with Nate Cane, FBI Whistleblower<a href="https://twitter.com/cain_nate?ref_src=twsrc%5Etfw">@cain_nate</a> tells his story like never before. A true American Patriot talks about the risk he took, the war on his Family, Q and FAITH. <br><br>Let the world learn truth.<br><br>👇👇👇<a href="https://t.co/cbrPCBSRDG">https://t.co/cbrPCBSRDG</a></p>&mdash; BardsOfWar (@BardsOfWar) <a href="https://twitter.com/BardsOfWar/status/1231049557129269248?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast. <br><br>EP 73 - Interview with Nate Cane, FBI Whistleblower<a href="https://twitter.com/cain_nate?ref_src=twsrc%5Etfw">@cain_nate</a> tells his story like never before. A true American Patriot talks about the risk he took, the war on his Family, Q and FAITH. <br><br>Let the world learn truth.<br><br>👇👇👇<a href="https://t.co/cbrPCBSRDG">https://t.co/cbrPCBSRDG</a></p>&mdash; BardsOfWar (@BardsOfWar) <a href="https://twitter.com/BardsOfWar/status/1231049557129269248?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -6706,7 +9943,7 @@
 
 			<a href="https://www.youtube.com/watch?v=B5T7Gr5oJbM" target="_blank">[tweeted YouTube video</a>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb38813" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/iBAIff8X79c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/iBAIff8X79c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		
@@ -6744,7 +9981,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10548</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3882. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:52:03 </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8239046" target="_blank">8239046</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8239046.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3882. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/24/20 (Mon) 20:52:03 ET </span><span class="postID" style="color:white; background-color:#b03e04">ID: b03e04</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8238704.html#8239046" target="_blank">8239046</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8239046.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6753,10 +9990,10 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/images_8239046.jpg" alt="images_8239046.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/images_8239046.jpg" alt="images_8239046.jpg" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<a href="https://2009-2017.state.gov/documents/organization/119629.pdf" target="_blank">https://2009-2017.state.gov/documents/organization/119629.pdf</a>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3882" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="quotecontenthovers"><iframe width="1280" height="720" src="docs/119629.pdf"></iframe></span></span>
 			<span class="quotecontentexpand"><iframe width="1280" height="720" src="docs/119629.pdf"></iframe></span>
 	
@@ -6781,7 +10018,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3883. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:27:43 </span><span class="postID" style="color:white; background-color:#7351cb">ID: 7351cb</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246730" target="_blank">8246730</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8246730.PNG" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3883. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:27:43 ET </span><span class="postID" style="color:white; background-color:#7351cb">ID: 7351cb</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246730" target="_blank">8246730</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8246730.PNG" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8246640</span>
@@ -6790,7 +10027,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 ET </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -6799,7 +10036,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<span class="quotelink"><span class="linknumber">>>8246625</span>
 
 							</span>
@@ -6807,7 +10044,7 @@
 							<br /><font style="color:#AF0A0F;font-weight:bold;">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately.</font>
 							<br /><span class="twitterembed"><a href="https://twitter.com/CNBC/status/1232412793141440514" target="_blank">https://twitter.com/CNBC/status/1232412793141440514</a></span>
 
-								<span class="embedlink"> [embed]
+								<span class="embedlink"><span id="emb38831" onclick="embedChange(this.id)"> [embed]</span>
 								<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 								<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 								
@@ -6831,7 +10068,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:19:40 ET </span><span class="postID" style="color:white;background-color: #bb0319">ID: bb0319</span><span class="totalposts"> (15) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246640" target="_blank">8246640</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246640.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -6840,14 +10077,14 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ClipboardImage_8246640.png" alt="ClipboardImage_8246640.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<span class="quotelink"><span class="linknumber">>>8246625</span>
 								<span class="quotecontenthovers">
 					
 									<span class="quotedpost">
 										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
 										<br />
-										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 ET </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
 										<br />
 										<span class="postcontent">
 												Iger didn’t quit Disney
@@ -6863,7 +10100,7 @@
 									<span class="quotedpost">
 										<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8246546.html" target="_blank">10558</a></span>
 										<br />
-										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
+										<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/25/20 (Tue) 16:18:44 ET </span><span class="postID" style="color:white;background-color: #46e207">ID: 46e207</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8246625" target="_blank">8246625</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8246625.PNG" download>🖫</a></span></span>
 										<br />
 										<span class="postcontent">
 												Iger didn’t quit Disney
@@ -6876,7 +10113,7 @@
 							<br /><font style="color:#AF0A0F;font-weight:bold;">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately.</font>
 							<br /><span class="twitterembed"><a href="https://twitter.com/CNBC/status/1232412793141440514" target="_blank">https://twitter.com/CNBC/status/1232412793141440514</a></span>
 
-								<span class="embedlink"> [embed]
+								<span class="embedlink"><span id="emb38832" onclick="embedChange(this.id)"> [embed]</span>
 								<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 								<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Disney CEO Bob Iger to step down. Bob Chapek will be the CEO of Disney immediately. <a href="https://twitter.com/search?q=%24DIS&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DIS</a> <a href="https://t.co/MDSBArbjWg">pic.twitter.com/MDSBArbjWg</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1232412793141440514?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 								
@@ -6915,7 +10152,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8238704.html" target="_blank">10558</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3884. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:54:39 </span><span class="postID" style="color:white; background-color:#902ef8">ID: 902ef8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8247199" target="_blank">8247199</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8247199.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3884. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 16:54:39 ET </span><span class="postID" style="color:white; background-color:#902ef8">ID: 902ef8</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8246546.html#8247199" target="_blank">8247199</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8247199.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="postfiles">
@@ -6924,7 +10161,7 @@
 				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D0RYDDvWkAE61QQ.png" alt="D0RYDDvWkAE61QQ.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D0RYDDvWkAE61QQ.png" alt="D0RYDDvWkAE61QQ.png" /></span></span>
 			</span>
 		</span>
-		<span class="posttext" style="display:block; float:left;">
+		<span class="posttext">
 			<br />Now, isn't that interesting?
 			<br />Q
 		</span>
@@ -6939,12 +10176,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8250465.html" target="_blank">10532</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3885. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:28:19 </span><span class="postID" style="color:white; background-color:#e1be07">ID: e1be07</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8250465.html#8251212" target="_blank">8251212</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251212.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3885. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:28:19 ET </span><span class="postID" style="color:white; background-color:#e1be07">ID: e1be07</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8250465.html#8251212" target="_blank">8251212</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251212.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.nationalreview.com/corner/born-alive-bill-fails-to-pass-senate-vote/ target="_blank">https://www.nationalreview.com/corner/born-alive-bill-fails-to-pass-senate-vote/</a>
 			
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3885" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span>
 
@@ -6966,12 +10203,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/" target="_blank">https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/</a>
 
-		<span class="embedlink"> [embed]
+		<span class="embedlink"><span id="emb3886" onclick="embedChange(this.id)"> [embed]</span>
 		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span></span>
 		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/"></iframe></span>
 
@@ -6991,12 +10228,12 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/Inevitable_ET/status/1232333000853147648" taregt="_blank">https://twitter.com/Inevitable_ET/status/1232333000853147648</a></span>
 
-			<span class="embedlink"> [embed]
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
 			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s going to be Biblical<br><br>Rev 9:3<br><br>&quot;Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power.&quot;<br><br>Saudi Arabia <a href="https://t.co/5JIcyh6sQu">pic.twitter.com/5JIcyh6sQu</a></p>&mdash; l E T 17 (@Inevitable_ET) <a href="https://twitter.com/Inevitable_ET/status/1232333000853147648?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
 			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s going to be Biblical<br><br>Rev 9:3<br><br>&quot;Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power.&quot;<br><br>Saudi Arabia <a href="https://t.co/5JIcyh6sQu">pic.twitter.com/5JIcyh6sQu</a></p>&mdash; l E T 17 (@Inevitable_ET) <a href="https://twitter.com/Inevitable_ET/status/1232333000853147648?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
@@ -7024,7 +10261,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251616</span>
@@ -7033,7 +10270,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 ET </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7042,7 +10279,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/2904.png" alt="2904.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/2904.png" alt="2904.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br />Feb 26 2019
 							
@@ -7059,7 +10296,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:01:36 ET </span><span class="postID" style="color:white;background-color: #5e2c9a">ID: 5e2c9a</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251616" target="_blank">8251616</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251616.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7068,7 +10305,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/2904.png" alt="2904.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/2904.png" alt="2904.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br />Feb 26 2019
 							
@@ -7091,7 +10328,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251665</span>
@@ -7100,7 +10337,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 ET </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7109,7 +10346,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br /><font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br />Thanks for the wonderful visit, Q and Q+. Love, Respect and Support from India.
@@ -7127,7 +10364,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:26 ET </span><span class="postID" style="color:white;background-color: #224c4f">ID: 224c4f</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251665" target="_blank">8251665</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251665.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7136,7 +10373,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/ERjHskdVAAYhwWD.jpg" alt="ERjHskdVAAYhwWD.jpg" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br /><font style="color:red; text-decoration:underline;">>>8251572</font>
 							<br />Thanks for the wonderful visit, Q and Q+. Love, Respect and Support from India.
@@ -7159,13 +10396,12 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3890 -->
 <span id="q3890"></span>
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3890. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3890. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251669</span>
@@ -7174,7 +10410,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 ET </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7183,7 +10419,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251654</font>
 						</span>
 					</span>
@@ -7198,7 +10434,7 @@
 				<span class="quotedpost">
 					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 					<br />
-					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;02/26/20 (Wed) 00:05:32 ET </span><span class="postID" style="color:white;background-color: #863496">ID: 863496</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251669" target="_blank">8251669</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8251669.PNG" download>🖫</a></span></span>
 					<br />
 					<span class="postcontent">
 						<span class="postfiles">
@@ -7207,7 +10443,7 @@
 								<span class="filethumbnail"><img class="thumbnail" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /><span class="quoteposthover"><img class="anonuploadedpic" src="images/8kun/anonuploads/576847584903257849302578432574839.png" alt="576847584903257849302578432574839.png" /></span></span>
 							</span>
 						</span>
-						<span class="posttext" style="display:block; float:left;">
+						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>8251654</font>
 						</span>
 					</span>
@@ -7218,6 +10454,60 @@
 			</span>
 
 		<br />Godspeed.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3891 -->
+<span id="q3891"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8357156.html" target="_blank">10699</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3891. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/09/20 (Mon) 13:05:42 ET </span><span class="postID" style="color:white; background-color:#14a566">ID: 14a566</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8357156.html#8357870" target="_blank">8357870</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8357870.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/PainComing.JPG" target="_blank">PainComing.JPG</a></span> <span class="savetodisk"><a href="images/8kun/quploads/PainComing.JPG" download>🖫</a></span><span> (189.74 KB, 1697x965, 1697:965)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/PainComing.JPG" alt="PainComing.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/PainComing.JPG" alt="PainComing.JPG" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<br />Nothing can stop what is coming.
+			<br />Nothing!
+			<br />Rig for Red.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3892 -->
+<span id="q3892"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8357156.html" target="_blank">10699</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3892. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/09/20 (Mon) 13:08:14 ET </span><span class="postID" style="color:white; background-color:#14a566">ID: 14a566</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8357156.html#8357903" target="_blank">8357903</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8357903.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/realDonaldTrump/status/1236980284744241154" taregt="_blank">https://twitter.com/realDonaldTrump/status/1236980284744241154</a></span>
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Obama/Biden Administration is the most corrupt Administration in the history of our Country!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1236980284744241154?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Obama/Biden Administration is the most corrupt Administration in the history of our Country!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1236980284744241154?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8357903a.PNG" alt="The Obama/Biden Administration is the most corrupt Administration in the history of our Country!" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8357903a.PNG" alt="The Obama/Biden Administration is the most corrupt Administration in the history of our Country!" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8357903a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Silent running is a tactic used when….
 		<br />Q
 	</span>
 	<br />

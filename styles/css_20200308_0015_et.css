@@ -1,5 +1,5 @@
 /*
- * Last edit: 2020-02-20-1240
+ * Last edit: 2020-03-08-0015
  */
 html {
 	color: #000000;
@@ -52,7 +52,7 @@ body {
 	text-align: center;
 }
 .heading, .intro, .pqlinks, .quotedpost, .quotecontenthovers, .quotecontentexpand, .quotevideohovers, .quotevideoexpand, .twitter-tweet, .twitterhovers, .twitterexpand { 
-	margin: 0px !important; 
+	margin: 0 !important;
 }
 a:link, a:visited, a.email, .sqlinks, .embedlink {
 	text-decoration: underline;
@@ -147,7 +147,7 @@ a:link:hover, a:visited:hover, .sqlinks:hover, .embedlink:hover {
 	font-weight: bold;
 }
 .posttext {
-	padding-left: 15px;
+	padding-left: 25px;
 	display: inline-block;
 }
 img:hover {
@@ -160,11 +160,12 @@ img:hover {
 .postcontent {
 	background-color: #D6DAF0;
 	display: inline-block;
+	vertical-align: top;
+	margin-top: 1px;
+	margin-right: 5px;
 	padding-top: 10px;
 	padding-left: 55px;
 	padding-bottom: 10px;
-	vertical-align: top;
-	margin-right: 5px;
 }
 .postfiles {
 	float:left;
