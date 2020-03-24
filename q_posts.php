@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3892 posts as of 03/09/20 (Mon) 13:08:14 ET ]</b></p>
+<p style="text-align:center"><b>[3898 posts as of 03/23/20 (Mon) 19:48:53 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -747,7 +747,7 @@
 						</span>
 						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>147441102</font>
-							<br /><font style="color:#00DD4A;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br /><font style="color:#779824;">>What must be completed to engage MI over other (3) letter agencies</font>
 							<br />During the 1950s and 60s, federal troops and federalized National
 							<br />Guard forces, accompanied by military intelligence personnel, were
 							<br />deployed to help integrate Southern schools23 and to help deal with
@@ -786,7 +786,7 @@
 										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
 
 							<br />
-							<br /><font style="color:#00DD4A;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br /><font style="color:#779824;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
 							<br />
 							<br />Always 5 steps ahead!
 							<br />
@@ -818,7 +818,7 @@
 						</span>
 						<span class="posttext">
 							<font style="color:red; text-decoration:underline;">>>147441102</font>
-							<br /><font style="color:#00DD4A;">>What must be completed to engage MI over other (3) letter agencies</font>
+							<br /><font style="color:#779824;">>What must be completed to engage MI over other (3) letter agencies</font>
 							<br />During the 1950s and 60s, federal troops and federalized National
 							<br />Guard forces, accompanied by military intelligence personnel, were
 							<br />deployed to help integrate Southern schools23 and to help deal with
@@ -857,7 +857,7 @@
 										 <span class="savetodisk"><a href="images/4pol/anonmediapics&caps/147450119a.PNG" target="_blank" download> 🖫</a></span>]
 
 							<br />
-							<br /><font style="color:#00DD4A;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
+							<br /><font style="color:#779824;">>Hahahaha, Trump has had MI infiltrate Antifa and all the dissenting local govts.</font>
 							<br />
 							<br />Always 5 steps ahead!
 							<br />
@@ -9697,7 +9697,7 @@
 		<br />What happens when billion dollar media co's attack & miss?
 		<br />All for a 'few thousand' followers?
 		<br />All for a 'conspiracy'?
-		<br /><font style="color:#00DD4A;">>A public awake is their greatest fear</font>
+		<br /><font style="color:#779824;">>A public awake is their greatest fear</font>
 		<br />Q
 	</span>
 	<br />
@@ -10203,7 +10203,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3886. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:41:34 ET </span><span class="postID" style="color:black; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251341" target="_blank">8251341</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251341.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<a href="https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/" target="_blank">https://www.nationalreview.com/corner/born-alive-abortion-survivors-protection-act-fails-in-the-senate/</a>
@@ -10228,7 +10228,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3887. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/25/20 (Tue) 23:59:23 ET </span><span class="postID" style="color:black; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251572" target="_blank">8251572</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251572.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="twitterembed"><a href="https://twitter.com/Inevitable_ET/status/1232333000853147648" taregt="_blank">https://twitter.com/Inevitable_ET/status/1232333000853147648</a></span>
@@ -10261,7 +10261,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3888. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:04:38 ET </span><span class="postID" style="color:black; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251654" target="_blank">8251654</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251654.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251616</span>
@@ -10328,7 +10328,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3889. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:09:51 ET </span><span class="postID" style="color:black; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251748" target="_blank">8251748</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251748.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251665</span>
@@ -10401,7 +10401,7 @@
 <span class="replicapost">
 	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
 	<br />
-	<span class="postinfo"><span class="qno">3890. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 ET </span><span class="postID" style="color:white; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
+	<span class="postinfo"><span class="qno">3890. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;02/26/20 (Wed) 00:12:52 ET </span><span class="postID" style="color:black; background-color:#5fdb22">ID: 5fdb22</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/8251197.html#8251800" target="_blank">8251800</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8251800.PNG" target="_blank" download>🖫</a></span></span>
 	<br />
 	<span class="postcontent">
 		<span class="quotelink"><span class="linknumber">>>8251669</span>
@@ -10427,8 +10427,8 @@
 					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
 				</span>
 	
-				</span>
 			</span>
+		</span>
 			<span class="quotecontentexpand">
 	
 				<span class="quotedpost">
@@ -10487,7 +10487,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3892 -->
 <span id="q3892"></span>
 <span class="replicapost">
@@ -10508,6 +10507,304 @@
 					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8357903a.PNG" target="_blank" download> 🖫</a></span>]
 
 		<br />Silent running is a tactic used when….
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3893 -->
+<span id="q3893"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8358666.html" target="_blank">10701</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3893. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/09/20 (Mon) 14:30:28 ET </span><span class="postID" style="color:black; background-color:#98c60c">ID: 98c60c</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8358666.html#8358831" target="_blank">8358831</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8358831.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/RainbowFairy12/status/1236943098103713793" taregt="_blank">https://twitter.com/RainbowFairy12/status/1236943098103713793</a></span>
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/WWG1WGAWORLDWIDE?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGAWORLDWIDE</a>: The Thread!<br>I&#39;ve made an attempt to gather as many Q -related photographs from around the world as I can. Anons with signs, signs standing alone, all with identifiable landscape/architecture/location. This is not about Trump rallies. That&#39;s a different thread.</p>&mdash; Rainbow Fairy 🌈❤🧡💛💚💙💜🌈 (@RainbowFairy12) <a href="https://twitter.com/RainbowFairy12/status/1236943098103713793?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/WWG1WGAWORLDWIDE?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGAWORLDWIDE</a>: The Thread!<br>I&#39;ve made an attempt to gather as many Q -related photographs from around the world as I can. Anons with signs, signs standing alone, all with identifiable landscape/architecture/location. This is not about Trump rallies. That&#39;s a different thread.</p>&mdash; Rainbow Fairy 🌈❤🧡💛💚💙💜🌈 (@RainbowFairy12) <a href="https://twitter.com/RainbowFairy12/status/1236943098103713793?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8358831a.PNG" alt="#WWG1WGAWORLDWIDE The Thread!" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8358831a.PNG" alt="#WWG1WGAWORLDWIDE The Thread!" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8358831a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />+comments
+		<br />Per MSM [Fake News]:
+		<br />(person in the basement - LARP) who simply asks(ed) questions on a forum [imageboard] that generates(ed) continued [massive (thousands)] MSM attacks & WW movement [Great Awakening]?
+		<br />ogical thinking.
+		<br />Backchannels are important when the 'news' itself is untrustworthy [controlled].
+		<br />WWG1WGA!!!
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3894 -->
+<span id="q3894"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8358666.html" target="_blank">10701</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3894. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/09/20 (Mon) 14:34:20 ET </span><span class="postID" style="color:black; background-color:#98c60c">ID: 98c60c</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8358666.html#8358897" target="_blank">8358897</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8358897.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+
+		<span class="quotelink"><span class="linknumber">>>8358859</span>
+			<span class="quotecontenthovers">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;03/09/20 (Mon) 14:32:29 ET </span><span class="postID" style="color:white;background-color: #905be4">ID: 905be4</span><span class="totalposts"> (13) </span><span>No.<a href="https://8kun.top/qresearch/res/8358666.html#8358859" target="_blank">8358859</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8358859.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>8358831</font>
+						<br />GOD WINS
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+			</span>
+		</span>
+			<span class="quotecontentexpand">
+	
+				<span class="quotedpost">
+					<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8251197.html" target="_blank">10564</a></span>
+					<br />
+					<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;03/09/20 (Mon) 14:32:29 ET </span><span class="postID" style="color:white;background-color: #905be4">ID: 905be4</span><span class="totalposts"> (13) </span><span>No.<a href="https://8kun.top/qresearch/res/8358666.html#8358859" target="_blank">8358859</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8358859.PNG" download>🖫</a></span></span>
+					<br />
+					<span class="postcontent">
+						<font style="color:red; text-decoration:underline;">>>8358831</font>
+						<br />GOD WINS
+					</span>
+					<br />
+					<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+				</span>
+
+			</span>
+
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3895 -->
+<span id="q3895"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8509522.html" target="_blank">10896</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3895. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/21/20 (Sat) 22:32:03 ET </span><span class="postID" style="color:black; background-color:#f933cd">ID: f933cd</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8509522.html#8509836" target="_blank">8509836</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8509836.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.youtube.com/watch?v=_MK0j765ko4" target="_blank">https://www.youtube.com/watch?v=_MK0j765ko4</a>
+
+		<span class="embedlink"><span id="emb3873" onclick="embedChange(this.id)"> [embed]</span>
+		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/_MK0j765ko4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/_MK0j765ko4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8509836a.PNG" alt="Future World Music - Victory Of Life (Volume.11 Preview - early 2011)" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8509836a.PNG" alt="Future World Music - Victory Of Life (Volume.11 Preview - early 2011)" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8509836a.PNG" target="_blank" download> 🖫</a></span>]
+		  
+		<span class="embedlink"> [local
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8509836b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8509836b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="savetodisk"><a href="videos/8kun/8509836b.mp4" target="_blank" download> 🖫</a></span>]
+
+		<br />Do not fear.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3896 -->
+<span id="q3896"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8536771.html" target="_blank">10930</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3896. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/23/20 (Mon) 19:13:55 ET </span><span class="postID" style="color:white; background-color:#b32e47">ID: b32e47</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8536771.html#8537514" target="_blank">8537514</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8537514.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/2007_C_.JPG" target="_blank">2007_C_.JPG</a></span> <span class="savetodisk"><a href="images/8kun/quploads/2007_C_.JPG" download>🖫</a></span><span> (226.22 KB, 960x960, 1:1)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/2007_C_.JPG" alt="2007_C_.JPG" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/2007_C_.JPG" alt="2007_C_.JPG" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<br />“the CHINA virus”
+			<br />Worth remembering:
+			<br /><a href="https://www.youtube.com/watch?v=aeVrMniBjSc" target="_blank">https://www.youtube.com/watch?v=aeVrMniBjSc</a>
+
+				<span class="embedlink"><span id="emb3873" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.youtube.com/embed/aeVrMniBjSc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
+				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.youtube.com/embed/aeVrMniBjSc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+				
+				<span class="embedlink"> [screencap
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8537514a.PNG" alt="Vice President Mike Pence's Remarks on the Administration's Policy Towards China" /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8537514a.PNG" alt="Vice President Mike Pence's Remarks on the Administration's Policy Towards China" /></span>
+						<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514a.PNG" target="_blank" download> 🖫</a></span>]
+				
+				<span class="embedlink"> [local
+				<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8537514a.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+				<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8537514a.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+											  <span class="savetodisk"><a href="videos/8kun/8537514a.mp4" target="_blank" download> 🖫</a></span>]
+			
+			<br />Wuhan Institute of Virology [geo location]?
+			<br />[1st biosafety lvl 4 lab – 2015]
+			<br />City/Province origin – hot zone [geo location]?
+			<br /><a href="https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related" target="_blank">https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related</a>
+
+			<span class="embedlink"><span id="emb3886" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8537514b.PNG" alt="Harvard University Professor and Two Chinese Nationals Charged in Three Separate China Related Cases" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8537514b.PNG" alt="Harvard University Professor and Two Chinese Nationals Charged in Three Separate China Related Cases" /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514b.PNG" target="_blank" download> 🖫</a></span>]
+			
+			<br />&nbsp;“Unbeknownst to Harvard University beginning in 2011, Lieber became a “Strategic Scientist” at [Wuhan] University of Technology (WUT) in China and was a contractual participant in China’s Thousand Talents Plan from in or about 2012 to 2017.”
+			<br />[rapid spread]
+			<br /><a href="https://www.theepochtimes.com/the-closing-of-21-million-cell-phone-accounts-in-china-may-suggest-a-high-ccp-virus-death-toll_3281291.html" target="_blank">https://www.theepochtimes.com/the-closing-of-21-million-cell-phone-accounts-in-china-may-suggest-a-high-ccp-virus-death-toll_3281291.html</a>
+
+			<span class="embedlink"><span id="emb3886" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.theepochtimes.com/the-closing-of-21-million-cell-phone-accounts-in-china-may-suggest-a-high-ccp-virus-death-toll_3281291.html"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.theepochtimes.com/the-closing-of-21-million-cell-phone-accounts-in-china-may-suggest-a-high-ccp-virus-death-toll_3281291.html"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8537514c.PNG" alt="21 Million Fewer Cellphone Users in China May Suggest a High CCP Virus Death Toll" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8537514c.PNG" alt="21 Million Fewer Cellphone Users in China May Suggest a High CCP Virus Death Toll" /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514c.PNG" target="_blank" download> 🖫</a></span>]
+			
+			<br /><font style="color:#779824;">>End POTUS rally(s)?
+			<br />>End POTUS econ gains?
+			<br />>End POTUS unemployment gains?
+			<br />>End POTUS [A, B, C, D, ……]?</font>
+			<br />[weaken prior to P_elec?]
+			<br /><font style="color:#779824;">>Delay US/China trade negotiations?</font>
+			<br />[China pref Biden[+VP] as P?]
+			<br /><font style="color:#779824;">>Shelter [Biden] public appearances?
+			<br />>Shelter [Biden] debate(s)?
+			<br />>Push new/revised P_2020 > vote by mail? [unsecure]</font>
+			<br /><span class="twitterembed"><a href="https://twitter.com/TomFitton/status/1242071506445885441" taregt="_blank">https://twitter.com/TomFitton/status/1242071506445885441</a></span>
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">WARNING: Leftists using pretext of <a href="https://twitter.com/hashtag/CoronavirusOutbreak?src=hash&amp;ref_src=twsrc%5Etfw">#CoronavirusOutbreak</a> to push unsecure, &quot;vote by mail&quot; free for all, no voter id anywhere for 2020 elections. <a href="https://twitter.com/hashtag/HowtoStealAnElection?src=hash&amp;ref_src=twsrc%5Etfw">#HowtoStealAnElection</a> <a href="https://t.co/rg4Dez2NVe">https://t.co/rg4Dez2NVe</a></p>&mdash; Tom Fitton (@TomFitton) <a href="https://twitter.com/TomFitton/status/1242071506445885441?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">WARNING: Leftists using pretext of <a href="https://twitter.com/hashtag/CoronavirusOutbreak?src=hash&amp;ref_src=twsrc%5Etfw">#CoronavirusOutbreak</a> to push unsecure, &quot;vote by mail&quot; free for all, no voter id anywhere for 2020 elections. <a href="https://twitter.com/hashtag/HowtoStealAnElection?src=hash&amp;ref_src=twsrc%5Etfw">#HowtoStealAnElection</a> <a href="https://t.co/rg4Dez2NVe">https://t.co/rg4Dez2NVe</a></p>&mdash; Tom Fitton (@TomFitton) <a href="https://twitter.com/TomFitton/status/1242071506445885441?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8537514d.PNG" alt="WARNING: Leftists using pretext of #CoronavirusOutbreak to push unsecure, ''vote by mail'' free for all, no voter id anywhere for 2020 elections. #HowtoStealAnElection" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8537514d.PNG" alt="WARNING: Leftists using pretext of #CoronavirusOutbreak to push unsecure, ''vote by mail'' free for all, no voter id anywhere for 2020 elections. #HowtoStealAnElection" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514d.PNG" target="_blank" download> 🖫</a></span>]
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed tweet]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Voter fraud is a key civil rights issue. Who stands for voters who have their votes stolen? How many stolen votes is too many? <a href="https://twitter.com/JudicialWatch?ref_src=twsrc%5Etfw">@JudicialWatch</a> stepping up. <a href="https://twitter.com/CPAC?ref_src=twsrc%5Etfw">@CPAC</a> <a href="https://t.co/FWJt18OM8I">pic.twitter.com/FWJt18OM8I</a></p>&mdash; Tom Fitton (@TomFitton) <a href="https://twitter.com/TomFitton/status/1237418231792570381?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Voter fraud is a key civil rights issue. Who stands for voters who have their votes stolen? How many stolen votes is too many? <a href="https://twitter.com/JudicialWatch?ref_src=twsrc%5Etfw">@JudicialWatch</a> stepping up. <a href="https://twitter.com/CPAC?ref_src=twsrc%5Etfw">@CPAC</a> <a href="https://t.co/FWJt18OM8I">pic.twitter.com/FWJt18OM8I</a></p>&mdash; Tom Fitton (@TomFitton) <a href="https://twitter.com/TomFitton/status/1237418231792570381?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8537514e.PNG" alt="Voter fraud is a key civil rights issue. Who stands for voters who have their votes stolen?  How many stolen votes is too many? @JudicialWatch stepping up. @CPAC" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8537514e.PNG" alt="Voter fraud is a key civil rights issue. Who stands for voters who have their votes stolen?  How many stolen votes is too many? @JudicialWatch stepping up. @CPAC" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514e.PNG" target="_blank" download> 🖫</a></span>]
+
+			<span class="embedlink"> [tweet embeded video
+			<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/8537514b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+			<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/8537514b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+												  <span class="savetodisk"><a href="videos/8kun/8537514b.mp4" target="_blank" download> 🖫</a></span>]
+
+			<br /><font style="color:#779824;">>Push [D] ‘wish list’ [unrelated] items CV Bill [voting amends]?</font>
+			<br /><span class="twitterembed"><a href="https://twitter.com/SenTomCotton/status/1242169734763819011" taregt="_blank">https://twitter.com/SenTomCotton/status/1242169734763819011</a></span>
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Families and businesses need help now to survive the China virus pandemic. But <a href="https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw">@SpeakerPelosi</a> walked away from negotiations to write her own bill, full of absurd provisions completely unrelated to the crisis at hand. Here’s what Speaker Pelosi is demanding while Americans suffer:</p>&mdash; Tom Cotton (@SenTomCotton) <a href="https://twitter.com/SenTomCotton/status/1242169734763819011?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Families and businesses need help now to survive the China virus pandemic. But <a href="https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw">@SpeakerPelosi</a> walked away from negotiations to write her own bill, full of absurd provisions completely unrelated to the crisis at hand. Here’s what Speaker Pelosi is demanding while Americans suffer:</p>&mdash; Tom Cotton (@SenTomCotton) <a href="https://twitter.com/SenTomCotton/status/1242169734763819011?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8537514f.PNG" alt="@SpeakerPelosi walked away from negotiations to write her own bill" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8537514f.PNG" alt="@SpeakerPelosi walked away from negotiations to write her own bill" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537514f.PNG" target="_blank" download> 🖫</a></span>]
+
+			<br />What is the mathematical probability this occurs [the ‘time bomb’ explodes] at the exact point in time that allows for maximum damage [above] prior to the P_elec?
+			<br />Outside of standard deviation?
+			<br />WHO BENEFITS THE MOST?
+			<br />[Mueller failed]
+			<br />[Impeachment failed]
+			<br /><font style="color:#779824;">>Why was it critically important impeachment be rushed in the House?</font>
+			<br />[MSM[D party]/Hollywood narrative(s) failed]
+			<br />[THE COUP FAILED]
+			<br />[D] party leading nominee established [super T] prior to lock-down [take-over]? [Sanders ELIM_Biden_FRONT]
+			<br />Occam's razor simply states that of any given set of explanations for an event occurring, the simplest one is most likely the correct one. 
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3897 -->
+<span id="q3897"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8537518.html" target="_blank">10931</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3897. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/23/20 (Mon) 19:31:36 ET </span><span class="postID" style="color:black; background-color:#0cbc83">ID: 0cbc83</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8537518.html#8537834" target="_blank">8537834</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8537834.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/RepAndyHarrisMD/status/1242178705050480640" taregt="_blank">https://twitter.com/RepAndyHarrisMD/status/1242178705050480640</a></span>
+
+			<span class="embedlink"><span id="emb3887" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">No voter ID to get a ballot, and anonymous “ballot harvesting”...why is that hidden in Speaker Pelosi’s coronavirus bill? These are issues that shouldn’t be addressed at this time. <a href="https://twitter.com/hashtag/singleissuebills?src=hash&amp;ref_src=twsrc%5Etfw">#singleissuebills</a> <a href="https://t.co/SjV2V15Qeu">pic.twitter.com/SjV2V15Qeu</a></p>&mdash; Rep. Andy Harris, MD (@RepAndyHarrisMD) <a href="https://twitter.com/RepAndyHarrisMD/status/1242178705050480640?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">No voter ID to get a ballot, and anonymous “ballot harvesting”...why is that hidden in Speaker Pelosi’s coronavirus bill? These are issues that shouldn’t be addressed at this time. <a href="https://twitter.com/hashtag/singleissuebills?src=hash&amp;ref_src=twsrc%5Etfw">#singleissuebills</a> <a href="https://t.co/SjV2V15Qeu">pic.twitter.com/SjV2V15Qeu</a></p>&mdash; Rep. Andy Harris, MD (@RepAndyHarrisMD) <a href="https://twitter.com/RepAndyHarrisMD/status/1242178705050480640?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+			
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8537834a.PNG" alt="No voter ID to get a ballot" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8537834a.PNG" alt="No voter ID to get a ballot" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8537834a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />PREVENT [[D] party destruction] BY ANY MEANS NECESSARY.
+		<br />These people are sick!
+		<br />Nothing can stop what is coming.
+		<br />Nothing.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3898 -->
+<span id="q3898"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8537518.html" target="_blank">10931</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3898. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;03/23/20 (Mon) 19:48:53 ET </span><span class="postID" style="color:black; background-color:#0cbc83">ID: 0cbc83</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8537518.html#8538300" target="_blank">8538300</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8538300.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://dailycaller.com/2020/03/10/farrell-spygate-could-make-watergate-look-like-a-third-rate-burglary/" target="_blank">https://dailycaller.com/2020/03/10/farrell-spygate-could-make-watergate-look-like-a-third-rate-burglary/</a>
+
+		<span class="embedlink"><span id="emb3886" onclick="embedChange(this.id)"> [embed]</span>
+		<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://dailycaller.com/2020/03/10/farrell-spygate-could-make-watergate-look-like-a-third-rate-burglary/"></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://dailycaller.com/2020/03/10/farrell-spygate-could-make-watergate-look-like-a-third-rate-burglary/"></iframe></span>
+
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8538300a.PNG" alt="FARRELL: Spygate Could Make Watergate Look Like A Third-Rate Burglary" /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8538300a.PNG" alt="FARRELL: Spygate Could Make Watergate Look Like A Third-Rate Burglary" /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8538300a.PNG" target="_blank" download> 🖫</a></span>]
+				
+		<br />The key that opens all doors.
+		<br />The 'Start'.
 		<br />Q
 	</span>
 	<br />
