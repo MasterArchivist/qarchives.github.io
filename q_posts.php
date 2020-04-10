@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3917 posts as of 04/08/20 (Wed) 17:37:40 ET ]</b></p>
+<p style="text-align:center"><b>[3927 posts as of 04/09/20 (Thu) 17:01:33 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -11457,7 +11457,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3917 -->
 <span id="q3917"></span>
 <span class="replicapost">
@@ -11490,6 +11489,260 @@
 			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8726249b.PNG" alt="Cannibal Club" /></span>
 					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8726249b.PNG" target="_blank" download> 🖫</a></span>]
 
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3918 -->
+<span id="q3918"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8734368.html" target="_blank">11184</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3918. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 13:52:31 ET </span><span class="postID" style="color:white; background-color:#48c106">ID: 48c106</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8734368.html#8734913" target="_blank">8734913</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8734913.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.foxnews.com/media/ag-william-barr-disappointed-by-partisan-attacks-levied-at-president-trump-says-media-on-a-jihad-against-hydroxychloroquine" target="_blank">https://www.foxnews.com/media/ag-william-barr-disappointed-by-partisan-attacks-levied-at-president-trump-says-media-on-a-jihad-against-hydroxychloroquine</a>
+
+			<span class="embedlink"><span id="emb3918" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.foxnews.com/media/ag-william-barr-disappointed-by-partisan-attacks-levied-at-president-trump-says-media-on-a-jihad-against-hydroxychloroquine"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.foxnews.com/media/ag-william-barr-disappointed-by-partisan-attacks-levied-at-president-trump-says-media-on-a-jihad-against-hydroxychloroquine"></iframe></span>
+
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8734913a.PNG" alt="Barr disappointed by partisan attacks leveled at President Trump, says media on a 'jihad' against hydroxychloroquine" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8734913a.PNG" alt="Barr disappointed by partisan attacks leveled at President Trump, says media on a 'jihad' against hydroxychloroquine" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8734913a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Difficult to imagine media [D party] attempting to squash all hope of a cure?
+		<br />Difficult to imagine media [D party] wanting public to remain in fear [re COVID-19] up until the election?
+		<br />Difficult to imagine media [D party] willing to sacrifice lives in order to regain power? 
+		<br />ENEMY OF THE PEOPLE.
+		<br />Difficult truths will soon see the light of day.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3919 -->
+<span id="q3919"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8734368.html" target="_blank">11184</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3919. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 14:00:25 ET </span><span class="postID" style="color:white; background-color:#48c106">ID: 48c106</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8734368.html#8734998" target="_blank">8734998</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8734998.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		How do you hide the truth?
+		<br />Ex: create a website and label it fake?
+		<br />How do you hide the truth?
+		<br />Create a public 'trend' re: term 'conspiracy' to humiliate [typecast as 'mental' 'crazy' 'looney'] anyone who opposes the narrative?
+		<br />How do you hide the truth?
+		<br />Control majority of media to project [echo] a controlled message re: a desired topic?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3920 -->
+<span id="q3920"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8735172.html" target="_blank">11185</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3920. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 14:33:28 ET </span><span class="postID" style="color:white; background-color:#0f75ee">ID: 0f75ee</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8735172.html#8735349" target="_blank">8735349</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8735349.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		What happens when state actor(s) [assets] are removed?
+		<br />How does a state actor gain leverage over a person in power [re: blackmail]?
+		<br />Define 'Traitor'.
+		<br />Data exchange(s) can be very dangerous.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3921 -->
+<span id="q3921"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8735172.html" target="_blank">11185</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3921. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 14:37:17 ET </span><span class="postID" style="color:white; background-color:#0f75ee">ID: 0f75ee</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8735172.html#8735398" target="_blank">8735398</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8735398.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		FISA INDICTMENTS = START
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3922 -->
+<span id="q3922"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8735172.html" target="_blank">11185</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3922. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 14:44:10 ET </span><span class="postID" style="color:white; background-color:#ca069e">ID: ca069e</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8735172.html#8735530" target="_blank">8735530</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8735530.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/LukeGoldberg4/status/1248091038310432768" taregt="_blank">https://twitter.com/LukeGoldberg4/status/1248091038310432768</a></span>
+
+			<span class="embedlink"><span id="emb3922" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency” <a href="https://t.co/85YLJU6IIZ">pic.twitter.com/85YLJU6IIZ</a></p>&mdash; Luke Goldberg (@LukeGoldberg4) <a href="https://twitter.com/LukeGoldberg4/status/1248091038310432768?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency” <a href="https://t.co/85YLJU6IIZ">pic.twitter.com/85YLJU6IIZ</a></p>&mdash; Luke Goldberg (@LukeGoldberg4) <a href="https://twitter.com/LukeGoldberg4/status/1248091038310432768?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8735530a.PNG" alt="Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency”" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8735530a.PNG" alt="Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency”" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8735530a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3923 -->
+<span id="q3923"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8735172.html" target="_blank">11185</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3923. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 14:54:04 ET </span><span class="postID" style="color:white; background-color:#ca069e">ID: ca069e</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8735172.html#8735695" target="_blank">8735695</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8735695.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EVLtyQ1UMAA0Zhb.jpg" target="_blank">EVLtyQ1UMAA0Zhb.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EVLtyQ1UMAA0Zhb.jpg" download>🖫</a></span><span> (498.25 KB, 1500x1500, 1:1)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EVLtyQ1UMAA0Zhb.jpg" alt="EVLtyQ1UMAA0Zhb.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EVLtyQ1UMAA0Zhb.jpg" alt="EVLtyQ1UMAA0Zhb.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<a href="https://www.theguardian.com/world/video/2020/mar/23/invisible-enemy-trump-says-he-is-wartime-president-in-coronavirus-battle-video" target="_blank">https://www.theguardian.com/world/video/2020/mar/23/invisible-enemy-trump-says-he-is-wartime-president-in-coronavirus-battle-video</a>
+
+				<span class="embedlink"><span id="emb3923" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.theguardian.com/world/video/2020/mar/23/invisible-enemy-trump-says-he-is-wartime-president-in-coronavirus-battle-video"></iframe></span></span>
+				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.theguardian.com/world/video/2020/mar/23/invisible-enemy-trump-says-he-is-wartime-president-in-coronavirus-battle-video"></iframe></span>
+
+				<span class="embedlink"> [screencap
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8735695a.PNG" alt="Barr disappointed by partisan attacks leveled at President Trump, says media on a 'jihad' against hydroxychloroquine" /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8735695a.PNG" alt="Barr disappointed by partisan attacks leveled at President Trump, says media on a 'jihad' against hydroxychloroquine" /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8735695a.PNG" target="_blank" download> 🖫</a></span>]
+
+			<br />Compare and contrast.
+			<br />Dates are important.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3924 -->
+<span id="q3924"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8735172.html" target="_blank">11185</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3924. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 15:04:38 ET </span><span class="postID" style="color:white; background-color:#ca069e">ID: ca069e</span><span class="totalposts"> (3) </span><span>No.<a href="https://8kun.top/qresearch/res/8735172.html#8735867" target="_blank">8735867</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8735867.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EVLvqVtWoAES8hN.png" target="_blank">EVLvqVtWoAES8hN.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EVLvqVtWoAES8hN.png" download>🖫</a></span><span> (258.49 KB, 656x573, 656:573)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EVLvqVtWoAES8hN.png" alt="EVLvqVtWoAES8hN.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EVLvqVtWoAES8hN.png" alt="EVLvqVtWoAES8hN.png" /></span></span>
+			</span>
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3925 -->
+<span id="q3925"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/8574141.html" target="_blank">12</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3925. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 15:21:27 ET </span><span class="postID" style="color:white; background-color:#110248">ID: 110248</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8574141.html#8736051" target="_blank">8736051</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8736051.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/realDonaldTrump/status/1208873492025925632" taregt="_blank">https://twitter.com/realDonaldTrump/status/1208873492025925632</a></span>
+
+			<span class="embedlink"><span id="emb3925" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency” <a href="https://t.co/85YLJU6IIZ">pic.twitter.com/85YLJU6IIZ</a></p>&mdash; Luke Goldberg (@LukeGoldberg4) <a href="https://twitter.com/LukeGoldberg4/status/1248091038310432768?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency” <a href="https://t.co/85YLJU6IIZ">pic.twitter.com/85YLJU6IIZ</a></p>&mdash; Luke Goldberg (@LukeGoldberg4) <a href="https://twitter.com/LukeGoldberg4/status/1248091038310432768?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8735530a.PNG" alt="Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency”" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8735530a.PNG" alt="Preview of pt 2 Barr interview with Ingraham: “What happened to POTUS was one of the greatest travesties in American history, no basis for this investigation, what’s even more concerning is what happened after the campaign, a whole pattern of events... to sabotage the presidency”" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8735530a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Do people really believe the biggest scandal in modern US history will go unpunished [Scot-Free]?
+		<br />Backchannels are important.
+		<br />Patriots stand at the ready [shills whine].
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3926 -->
+<span id="q3926"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ UK General #<a href="https://8kun.top/qresearch/res/8574141.html" target="_blank">12</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3926. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 15:35:57 ET </span><span class="postID" style="color:white; background-color:#110248">ID: 110248</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8574141.html#8736266" target="_blank">8736266</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8736266.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.breitbart.com/the-media/2020/04/09/cbs-news-caught-broadcasting-fake-hospital-footage-second-time/" target="_blank">https://www.breitbart.com/the-media/2020/04/09/cbs-news-caught-broadcasting-fake-hospital-footage-second-time/</a>
+
+			<span class="embedlink"><span id="emb3926" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.breitbart.com/the-media/2020/04/09/cbs-news-caught-broadcasting-fake-hospital-footage-second-time/"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.breitbart.com/the-media/2020/04/09/cbs-news-caught-broadcasting-fake-hospital-footage-second-time/"></iframe></span>
+
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8736266a.PNG" alt="Nolte: CBS News Plays Italy Hospital Footage — Again — for Report on U.S. Coronavirus Response" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8736266a.PNG" alt="Nolte: CBS News Plays Italy Hospital Footage — Again — for Report on U.S. Coronavirus Response" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8736266a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />THE TRUTH IS RIGHT IN FRONT OF YOU.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 3927 -->
+<span id="q3927"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8736875.html" target="_blank">11187</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3927. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/09/20 (Thu) 17:01:33 ET </span><span class="postID" style="color:white; background-color:#fc53f3">ID: fc53f3</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8736875.html#8737351" target="_blank">8737351</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8737351.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/QTheWakeUp/status/1248352053468020737" taregt="_blank">https://twitter.com/QTheWakeUp/status/1248352053468020737</a></span>
+
+			<span class="embedlink"><span id="emb3925" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q Patriot from Rwanda!<a href="https://twitter.com/hashtag/qanon?src=hash&amp;ref_src=twsrc%5Etfw">#qanon</a> <a href="https://twitter.com/hashtag/q?src=hash&amp;ref_src=twsrc%5Etfw">#q</a> <a href="https://twitter.com/hashtag/WWG1WGAWORLDWIDE?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGAWORLDWIDE</a> <a href="https://t.co/qpu3HVRj54">pic.twitter.com/qpu3HVRj54</a></p>&mdash; Q The Wake Up (@QTheWakeUp) <a href="https://twitter.com/QTheWakeUp/status/1248352053468020737?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q Patriot from Rwanda!<a href="https://twitter.com/hashtag/qanon?src=hash&amp;ref_src=twsrc%5Etfw">#qanon</a> <a href="https://twitter.com/hashtag/q?src=hash&amp;ref_src=twsrc%5Etfw">#q</a> <a href="https://twitter.com/hashtag/WWG1WGAWORLDWIDE?src=hash&amp;ref_src=twsrc%5Etfw">#WWG1WGAWORLDWIDE</a> <a href="https://t.co/qpu3HVRj54">pic.twitter.com/qpu3HVRj54</a></p>&mdash; Q The Wake Up (@QTheWakeUp) <a href="https://twitter.com/QTheWakeUp/status/1248352053468020737?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8737351a.PNG" alt="Q Patriot from Rwanda! #qanon #q #WWG1WGAWORLDWIDE" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8737351a.PNG" alt="Q Patriot from Rwanda! #qanon #q #WWG1WGAWORLDWIDE" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8737351a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />We are UNITED in this FIGHT.
+		<br />WWG1WGA!!!
 		<br />Q
 	</span>
 	<br />
