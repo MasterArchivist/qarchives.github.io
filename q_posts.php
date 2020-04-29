@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[3988 posts as of 04/26/20 (Sun) 17:38:57 ET ]</b></p>
+<p style="text-align:center"><b>[4007 posts as of 04/29/20 (Wed) 00:59:54 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -13922,7 +13922,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 3988 -->
 <span id="q3988"></span>
 <span class="replicapost">
@@ -13938,19 +13937,532 @@
 			</span>
 		</span>
 		<span class="posttext">
-		<span class="twitterembed"><a href="https://twitter.com/MariaBartiromo/status/1254518803888734217" target="_blank">https://twitter.com/MariaBartiromo/status/1254518803888734217</a></span>
-	
-			<span class="embedlink"><span id="emb3988" onclick="embedChange(this.id)"> [embed]</span>
-			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking News: sources tell me <a href="https://twitter.com/GenFlynn?ref_src=twsrc%5Etfw">@GenFlynn</a> will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow <a href="https://twitter.com/MorningsMaria?ref_src=twsrc%5Etfw">@MorningsMaria</a> <a href="https://twitter.com/FoxBusiness?ref_src=twsrc%5Etfw">@FoxBusiness</a> <a href="https://twitter.com/FoxNews?ref_src=twsrc%5Etfw">@FoxNews</a> <a href="https://twitter.com/SundayFutures?ref_src=twsrc%5Etfw">@SundayFutures</a></p>&mdash; Maria Bartiromo (@MariaBartiromo) <a href="https://twitter.com/MariaBartiromo/status/1254518803888734217?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
-			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking News: sources tell me <a href="https://twitter.com/GenFlynn?ref_src=twsrc%5Etfw">@GenFlynn</a> will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow <a href="https://twitter.com/MorningsMaria?ref_src=twsrc%5Etfw">@MorningsMaria</a> <a href="https://twitter.com/FoxBusiness?ref_src=twsrc%5Etfw">@FoxBusiness</a> <a href="https://twitter.com/FoxNews?ref_src=twsrc%5Etfw">@FoxNews</a> <a href="https://twitter.com/SundayFutures?ref_src=twsrc%5Etfw">@SundayFutures</a></p>&mdash; Maria Bartiromo (@MariaBartiromo) <a href="https://twitter.com/MariaBartiromo/status/1254518803888734217?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
-	
-			<span class="embedlink"> [screencap
-			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8930301a.PNG" alt="Breaking News: sources tell me @GenFlynn will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow @MorningsMaria @FoxBusiness @FoxNews @SundayFutures" /></span></span>
-			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8930301a.PNG" alt="Breaking News: sources tell me @GenFlynn will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow @MorningsMaria @FoxBusiness @FoxNews @SundayFutures" /></span>
-				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8930301a.PNG" target="_blank" download> 🖫</a></span>]
-	
+			<span class="twitterembed"><a href="https://twitter.com/MariaBartiromo/status/1254518803888734217" target="_blank">https://twitter.com/MariaBartiromo/status/1254518803888734217</a></span>
+		
+				<span class="embedlink"><span id="emb3988" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking News: sources tell me <a href="https://twitter.com/GenFlynn?ref_src=twsrc%5Etfw">@GenFlynn</a> will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow <a href="https://twitter.com/MorningsMaria?ref_src=twsrc%5Etfw">@MorningsMaria</a> <a href="https://twitter.com/FoxBusiness?ref_src=twsrc%5Etfw">@FoxBusiness</a> <a href="https://twitter.com/FoxNews?ref_src=twsrc%5Etfw">@FoxNews</a> <a href="https://twitter.com/SundayFutures?ref_src=twsrc%5Etfw">@SundayFutures</a></p>&mdash; Maria Bartiromo (@MariaBartiromo) <a href="https://twitter.com/MariaBartiromo/status/1254518803888734217?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking News: sources tell me <a href="https://twitter.com/GenFlynn?ref_src=twsrc%5Etfw">@GenFlynn</a> will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow <a href="https://twitter.com/MorningsMaria?ref_src=twsrc%5Etfw">@MorningsMaria</a> <a href="https://twitter.com/FoxBusiness?ref_src=twsrc%5Etfw">@FoxBusiness</a> <a href="https://twitter.com/FoxNews?ref_src=twsrc%5Etfw">@FoxNews</a> <a href="https://twitter.com/SundayFutures?ref_src=twsrc%5Etfw">@SundayFutures</a></p>&mdash; Maria Bartiromo (@MariaBartiromo) <a href="https://twitter.com/MariaBartiromo/status/1254518803888734217?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+				<span class="embedlink"> [screencap
+				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8930301a.PNG" alt="Breaking News: sources tell me @GenFlynn will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow @MorningsMaria @FoxBusiness @FoxNews @SundayFutures" /></span></span>
+				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8930301a.PNG" alt="Breaking News: sources tell me @GenFlynn will be completely exonerated this week. It was a total fraud. A Set up. More tomorrow @MorningsMaria @FoxBusiness @FoxNews @SundayFutures" /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8930301a.PNG" target="_blank" download> 🖫</a></span>]
+		
 			<br />Q
 		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3989 -->
+<span id="q3989"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8950937.html" target="_blank">11457</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3989. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 18:43:25 ET </span><span class="postID" style="color:white; background-color:#14a931">ID: 14a931</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8950937.html#8951255" target="_blank">8951255</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8951255.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" target="_blank">6dfaf ... 0a981.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" download>🖫</a></span><span> (293.03 KB, 1200x900, 4:3)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" alt="6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" alt="6dfaf6a744ae31edf73f3bb5caa59e7436cedc55e597cfde41a38f5807a0a981.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			***
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3990 -->
+<span id="q3990"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3990. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:14:45 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8951718" target="_blank">8951718</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8951718.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" target="_blank">d527cc ... 43b592f.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" download>🖫</a></span><span> (48 KB, 665x875, 19:25)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" alt="d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" alt="d527cc879b23a4138cbf12bbc4b46860c8e68630b3eafee8e06304f4943b592f.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			FBI CHAIN OF COMMAND MIDYEAR INVESTIGATION [HRC EMAIL]?
+			<br />FBI CHAIN OF COMMAND FISA-RUSSIA-POTUS-FLYNN-STONE-PAPADOP-MANAF? [CIA BRIDGE_BRENNAN_INTEL ASSESS[17]_UKRAINE_LINK]?
+			<br />FBI CHAIN OF COMMAND DNC HACK? [CIA BRIDGE > UKRAINE CROWDSTRIKE_BRENNAN]?
+			<br />RECONCILE.
+			<br />IF CHAIN OF COMMAND + [DOJ-CIA[F + D] FOUND GUILTY [INDICTMENT CHAP 115 + [CLAS 1-99]] RE: USA V. [1-2-3-6] RE: FISA CAN THE SAME ARGUMENT BE MADE RE: MIDYEAR + DNC +++?
+			<br />[Ref: public optics: ‘retired’’left’ refers to ‘fired/forced’]
+			<br />FEDERAL BUREAU OF "INVESTIGATION"
+			<br />James Comey, Director – FIRED
+			<br />Andrew McCabe, Deputy Director - FIRED
+			<br />Jim Rybicki, Chief of Staff and Senior Counselor – FIRED
+			<br />James Baker, General Counsel – FIRED
+			<br />Bill Priestap, Director of Counterintelligence (Strzok’s boss) – FIRED
+			<br />Peter Strzok, Deputy Assistant Director of Counterintelligence – FIRED
+			<br />Lisa Page, Office of General Counsel – FIRED
+			<br />Mike Kortan, Assistant Director for Public Affairs – FIRED
+			<br />Josh Campbell, Special Assistant to Comey – FIRED
+			<br />Michael Steinbach - Head of NAT SEC Div - FIRED
+			<br />John Glacalone – (Predecessor to Steinbach) – Head of NAT SEC Div - FIRED
+			<br />James Turgal – Assistant Director - FIRED
+			<br />Greg Bower – Top Congressional Liaison - FIRED
+			<br />Trisha Anderson – Principle Deputy General Counsel - FIRED
+			<br />Randy Coleman - Assistant Director of Counterintelligence Div – REMOVED 
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3991 -->
+<span id="q3991"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3991. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:15:09 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8951723" target="_blank">8951723</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8951723.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" target="_blank">e18818a ... 9ce5e93c.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" download>🖫</a></span><span> (299.07 KB, 1320x1449, 440:483)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" alt="e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" alt="e18818a37410ecd43c757c7e47864af107959b68d618e63a1bdf365c9ce5e93c.jpg" /></span></span>
+			</span>
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3992 -->
+<span id="q3992"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3992. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:21:36 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8951828" target="_blank">8951828</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8951828.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		[MUELLER] designed to take-in evidence needed to ‘expose’ DS [DOJ block re: Mueller ‘evidence’ ongoing investigation].
+		<br />[MUELLER] designed to limit POTUS’ ability to maneuver.
+		<br />[MUELLER] designed to ‘stall-for-time’ until MIDTERM ELECTIONS to TERMINATE all HOUSE / SENATE ongoing investigations.
+		<br />[MUELLER] designed to ‘safeguard’ D_PARTY_BASE false narrative re: RUSSIA COLLUSION [POTUS CHEATED – EVIL – SKY FALLING] in effort to DIVIDE and MOBILIZE for future protests, riots, threats, violence, FF’s, etc.
+		<br />[MUELLER] designed to provide FAKE NEWS w/ ammunition to sway public opinion, obstruct foreign + domestic agenda, fuel impeachment/removal, fuel anti-POTUS [DIVISION] [prevent UNITY], etc..
+		<br />[MUELLER] designed to demonstrate to foreign players that OLD GUARD still pulls strings.
+		<br />[MUELLER] designed to mobilize D_PARTY for MIDTERM VOTE WIN.
+		<br />[MUELLER] designed to push D_PARTY backers to DONATE [GOFUNDME – D_PARTY].
+		<br />[MUELLER] designed as PUBLIC OUTCRY EXCUSE should criminal charges be brought against them [‘we are being ‘politically’ attacked because MUELLER…].
+		<br />THE NEWS IS FAKE.
+		<br />THE WAR IS REAL.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3993 -->
+<span id="q3993"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3993. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:29:58 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952023" target="_blank">8952023</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952023.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		REMEMBER THIS IMPORTANT FACT.
+		<br />ADAM SCHIFF IS PART OF THE 'GANG OF EIGHT' (INTEL).
+		<br />IT WILL BECOME CRITICAL ONCE 'GANG OF EIGHT' MATERIAL IS DECLASSIFIED. 
+		<br />LOGICAL Q: IF ADAM SCHIFF 'KNEW' EVERYTHING HE'S INVESTIGATING AND STATING PUBLICLY TO BE KNOWINGLY 'FALSE' [DISINFORMATION] WHY THEN WOULD HE TAKE THE COURSE OF ACTION(S) (ONGOING)?
+		<br />DID ADAM SCHIFF PURPOSELY DECEIVE THE AMERICAN PUBLIC 'THINKING' THE 'GANG OF EIGHT' MATERIAL + OTHER CLASSIFIED DOCUMENTATION WOULD NEVER REACH THE PUBLIC DOMAIN?
+		<br />[AS] memo FALSE.
+		<br />If [AS] was privy to GANG OF EIGHT classified material would he not know the same FACTS (TRUTH) as NUNES? 
+		<br />Think NUNES memo v SCHIFF.
+		<br />"Knowingly."
+		<br />What if it was coordinated?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3994 -->
+<span id="q3994"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3994. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:34:42 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952145" target="_blank">8952145</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952145.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		How does Soros comm [secure] w/ DNC leaders?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3995 -->
+<span id="q3995"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3995. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:36:02 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952185" target="_blank">8952185</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952185.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		How does China comm [secure] w/ DNC leaders?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3996 -->
+<span id="q3996"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3996. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:36:47 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952219" target="_blank">8952219</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952219.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		INFORMATION WARFARE.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3997 -->
+<span id="q3997"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3997. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:37:32 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952254" target="_blank">8952254</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952254.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		INFILTRATION INSTEAD OF INVASION.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3998 -->
+<span id="q3998"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8951677.html" target="_blank">11458</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3998. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 19:38:23 ET </span><span class="postID" style="color:white; background-color:#878872">ID: 878872</span><span class="totalposts"> (9) </span><span>No.<a href="https://8kun.top/qresearch/res/8951677.html#8952286" target="_blank">8952286</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952286.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		THE SILENT WAR CONTINUES.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 3999 -->
+<span id="q3999"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8952484.html" target="_blank">11459</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">3999. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 20:11:35 ET </span><span class="postID" style="color:white; background-color:#1db140">ID: 1db140</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8952484.html#8952939" target="_blank">8952939</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8952939.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/1588117300347.png" target="_blank">1588117300347.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/1588117300347.png" download>🖫</a></span><span> (43.93 KB, 412x565, 412:565)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/1588117300347.png" alt="1588117300347.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/1588117300347.png" alt="1588117300347.png" /></span></span>
+			</span>
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4000 -->
+<span id="q4000"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8953164.html" target="_blank">11460</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4000. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 20:58:18 ET </span><span class="postID" style="color:black; background-color:#f2e9da">ID: f2e9da</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8953164.html#8953725" target="_blank">8953725</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8953725.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EJhVEGbUwAAVp8P.png" target="_blank">EJhVEGbUwAAVp8P.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EJhVEGbUwAAVp8P.png" download>🖫</a></span><span> (43.93 KB, 412x565, 412:565)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EJhVEGbUwAAVp8P.png" alt="EJhVEGbUwAAVp8P.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EJhVEGbUwAAVp8P.png" alt="EJhVEGbUwAAVp8P.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<a href="https://www.starwarscommander.com/transmissions/game-closure-announcement/" target="_blank">https://www.starwarscommander.com/transmissions/game-closure-announcement/</a>
+
+				<span class="embedlink"><span id="emb4000" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.starwarscommander.com/transmissions/game-closure-announcement/"></iframe></span></span>
+				<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.starwarscommander.com/transmissions/game-closure-announcement/"></iframe></span>
+	
+				<span class="embedlink"> [screencap
+				<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8953725a.PNG" alt="Transcript And Video: NPR's Exit Interview With President Obama" /></span></span>
+				<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8953725a.PNG" alt="Transcript And Video: NPR's Exit Interview With President Obama" /></span>
+						 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8953725a.PNG" target="_blank" download> 🖫</a></span>]
+
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4001 -->
+<span id="q4001"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8953952.html" target="_blank">11461</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4001. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 21:26:16 ET </span><span class="postID" style="color:white; background-color:#7e0c54">ID: 7e0c54</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/8953952.html#8954206" target="_blank">8954206</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8954206.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/TwitterSupport/status/1255285160314056706" target="_blank">https://twitter.com/TwitterSupport/status/1255285160314056706</a></span>
+	
+			<span class="embedlink"><span id="emb4001" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re having some trouble delivering DMs right now. You may be getting DM notifications, but not seeing the messages that were sent. As soon as this is fixed, we’ll let you know!</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1255285160314056706?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re having some trouble delivering DMs right now. You may be getting DM notifications, but not seeing the messages that were sent. As soon as this is fixed, we’ll let you know!</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1255285160314056706?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8954206a.PNG" alt="We’re having some trouble delivering DMs right now. You may be getting DM notifications, but not seeing the messages that were sent. As soon as this is fixed, we’ll let you know!" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8954206a.PNG" alt="We’re having some trouble delivering DMs right now. You may be getting DM notifications, but not seeing the messages that were sent. As soon as this is fixed, we’ll let you know!" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8954206a.PNG" target="_blank" download> 🖫</a></span>]
+
+			<br />All the walls are falling down.
+			<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4002 -->
+<span id="q4002"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8954671.html" target="_blank">11462</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4002. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 22:07:26 ET </span><span class="postID" style="color:white; background-color:#a864f0">ID: a864f0</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8954671.html#8954923" target="_blank">8954923</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8954923.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://nichegamer.com/2020/03/10/billionaire-george-soros-invests-45-million-into-activision-blizzard/" target="_blank">https://nichegamer.com/2020/03/10/billionaire-george-soros-invests-45-million-into-activision-blizzard/</a>
+	
+			<span class="embedlink"><span id="emb4002" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://nichegamer.com/2020/03/10/billionaire-george-soros-invests-45-million-into-activision-blizzard/"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://nichegamer.com/2020/03/10/billionaire-george-soros-invests-45-million-into-activision-blizzard/"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/8954923a.PNG" alt="Transcript And Video: NPR's Exit Interview With President Obama" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/8954923a.PNG" alt="Transcript And Video: NPR's Exit Interview With President Obama" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/8954923a.PNG" target="_blank" download> 🖫</a></span>]
+	
+		<br />Dates are important.
+		<br />SWC drop [Dec 16] to closure - coincidence?
+		<br />Soros invest [Feb 14] Blizzard - coincidence?
+		<br />Desperate times call for desperate measures.
+		<br />When [why] do you 'expose' what you know publicly? 
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4003 -->
+<span id="q4003"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8954671.html" target="_blank">11462</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4003. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/28/20 (Tue) 22:31:40 ET </span><span class="postID" style="color:white; background-color:#a864f0">ID: a864f0</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8954671.html#8955403" target="_blank">8955403</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8955403.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" target="_blank">4d189c ... 6473a40.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" download>🖫</a></span><span> (62.41 KB, 500x370, 50:37)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" alt="4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" alt="4d189c4911d6b1b9576c5ab891ff7a4d854fd1f6fe930155c6474025c6473a40.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<span class="twitterembed"><a href="https://twitter.com/NYCMayor/status/1255309615883063297" target="_blank">https://twitter.com/NYCMayor/status/1255309615883063297</a></span>
+		
+				<span class="embedlink"><span id="emb4003" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My message to the Jewish community, and all communities, is this simple: the time for warnings has passed. I have instructed the NYPD to proceed immediately to summons or even arrest those who gather in large groups. This is about stopping this disease and saving lives. Period.</p>&mdash; Mayor Bill de Blasio (@NYCMayor) <a href="https://twitter.com/NYCMayor/status/1255309615883063297?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My message to the Jewish community, and all communities, is this simple: the time for warnings has passed. I have instructed the NYPD to proceed immediately to summons or even arrest those who gather in large groups. This is about stopping this disease and saving lives. Period.</p>&mdash; Mayor Bill de Blasio (@NYCMayor) <a href="https://twitter.com/NYCMayor/status/1255309615883063297?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+				<span class="embedlink"> [screencap
+				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8955403a.PNG" alt="My message to the Jewish community, and all communities, is this simple: the time for warnings has passed. I have instructed the NYPD to proceed immediately to summons or even arrest those who gather in large groups. This is about stopping this disease and saving lives. Period." /></span></span>
+				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8955403a.PNG" alt="My message to the Jewish community, and all communities, is this simple: the time for warnings has passed. I have instructed the NYPD to proceed immediately to summons or even arrest those who gather in large groups. This is about stopping this disease and saving lives. Period." /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8955403a.PNG" target="_blank" download> 🖫</a></span>]
+	
+			<br />Why do they want you locked inside?
+			<br />Why do they want you to panic?
+			<br />WHY DO THEY WANT YOU TO LIVE IN FEAR?
+			<br />Why is the media banning anyone who challenges the covid-19 narrative?
+			<br />THIS HAS EVERYTHING TO DO WITH THE P_ELECTION.
+			<br />WHO BENEFITS THE MOST?
+			<br />Logical thinking.
+			<br />All assets deployed. 
+			<br />Win by any means necessary.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4004 -->
+<span id="q4004"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956174.html" target="_blank">11464</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4004. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/29/20 (Wed) 00:18:42 ET </span><span class="postID" style="color:black; background-color:#6af544">ID: 6af544</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8956174.html#8956805" target="_blank">8956805</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8956805.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/1588125356152.png" target="_blank">1588125356152.png</a></span> <span class="savetodisk"><a href="images/8kun/quploads/1588125356152.png" download>🖫</a></span><span> (3.13 MB, 3446x1356, 1723:678)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/1588125356152.png" alt="1588125356152.png" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/1588125356152.png" alt="1588125356152.png" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			Anons: Impressive, most impressive.
+			<br />Why would in-game chat be disabled during [FF event(s)]?
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4005 -->
+<span id="q4005"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956174.html" target="_blank">11464</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4005. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/29/20 (Wed) 00:23:32 ET </span><span class="postID" style="color:black; background-color:#6af544">ID: 6af544</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8956174.html#8956863" target="_blank">8956863</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8956863.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/S_comms.jpg" target="_blank">S_comms.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/S_comms.jpg" download>🖫</a></span><span> (168.19 KB, 596x1613, 596:1613)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/S_comms.jpg" alt="S_comms.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/S_comms.jpg" alt="S_comms.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			<span class="quotelink"><span class="linknumber">>>8956829</span>
+				<span class="quotecontenthovers">
+		
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956174.html" target="_blank">11464</a></span>
+						<br />
+						<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;04/29/20 (Wed) 00:20:41 ET </span><span class="postID" style="color:black;background-color: #29ef9f">ID: 29ef9f</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8956174.html#8956829" target="_blank">8956829</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8956829.PNG" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+							<font style="color:red; text-decoration:underline;">>>8956805</font>
+							<br />Just like you they go silent during OPs
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+				</span>
+			</span>
+				<span class="quotecontentexpand">
+		
+					<span class="quotedpost">
+						<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956174.html" target="_blank">11464</a></span>
+						<br />
+						<span class="postinfo"><span class="qno"> </span><span class="qname" style="padding-left:37px;">Anonymous </span><span>&nbsp;04/29/20 (Wed) 00:20:41 ET </span><span class="postID" style="color:black;background-color: #29ef9f">ID: 29ef9f</span><span class="totalposts"> (6) </span><span>No.<a href="https://8kun.top/qresearch/res/8956174.html#8956829" target="_blank">8956829</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/anoncaps/8956829.PNG" download>🖫</a></span></span>
+						<br />
+						<span class="postcontent">
+							<font style="color:red; text-decoration:underline;">>>8956805</font>
+							<br />Just like you they go silent during OPs
+						</span>
+						<br />
+						<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+					</span>
+	
+				</span>
+
+			<br />Close.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4006 -->
+<span id="q4006"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956947.html" target="_blank">11465</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4006. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/29/20 (Wed) 00:50:26 ET </span><span class="postID" style="color:white; background-color:#1a89fd">ID: 1a89fd</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8956947.html#8957175" target="_blank">8957175</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8957175.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+			<span class="twitterembed"><a href="https://twitter.com/realDonaldTrump/status/1129343742748569601" target="_blank">https://twitter.com/realDonaldTrump/status/1129343742748569601</a></span>
+		
+				<span class="embedlink"><span id="emb4006" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My Campaign for President was conclusively spied on. Nothing like this has ever happened in American Politics. A really bad situation. TREASON means long jail sentences, and this was TREASON!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1129343742748569601?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">My Campaign for President was conclusively spied on. Nothing like this has ever happened in American Politics. A really bad situation. TREASON means long jail sentences, and this was TREASON!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1129343742748569601?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+				<span class="embedlink"> [screencap
+				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8957175a.PNG" alt="My Campaign for President was conclusively spied on. Nothing like this has ever happened in American Politics. A really bad situation. TREASON means long jail sentences, and this was TREASON!" /></span></span>
+				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8957175a.PNG" alt="My Campaign for President was conclusively spied on. Nothing like this has ever happened in American Politics. A really bad situation. TREASON means long jail sentences, and this was TREASON!" /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8957175a.PNG" target="_blank" download> 🖫</a></span>]
+	
+		<br />Be ready.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 4007 -->
+<span id="q4007"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/8956947.html" target="_blank">11465</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4007. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;04/29/20 (Wed) 00:59:54 ET </span><span class="postID" style="color:white; background-color:#1a89fd">ID: 1a89fd</span><span class="totalposts"> (2) </span><span>No.<a href="https://8kun.top/qresearch/res/8956947.html#8957365" target="_blank">8957365</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/8957365.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+			<span class="twitterembed"><a href="https://twitter.com/WSatx/status/1255358435652222976" target="_blank">https://twitter.com/WSatx/status/1255358435652222976</a></span>
+		
+				<span class="embedlink"><span id="emb4007" onclick="embedChange(this.id)"> [embed]</span>
+				<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Could these be the links...<a href="https://twitter.com/WWG1WGA?ref_src=twsrc%5Etfw">@wwg1wga</a> <a href="https://twitter.com/qanon?ref_src=twsrc%5Etfw">@qanon</a> <a href="https://twitter.com/hashtag/q?src=hash&amp;ref_src=twsrc%5Etfw">#q</a> <a href="https://t.co/EyxfHygnAc">pic.twitter.com/EyxfHygnAc</a></p>&mdash; WWG1WGA_SATX (@WSatx) <a href="https://twitter.com/WSatx/status/1255358435652222976?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Could these be the links...<a href="https://twitter.com/WWG1WGA?ref_src=twsrc%5Etfw">@wwg1wga</a> <a href="https://twitter.com/qanon?ref_src=twsrc%5Etfw">@qanon</a> <a href="https://twitter.com/hashtag/q?src=hash&amp;ref_src=twsrc%5Etfw">#q</a> <a href="https://t.co/EyxfHygnAc">pic.twitter.com/EyxfHygnAc</a></p>&mdash; WWG1WGA_SATX (@WSatx) <a href="https://twitter.com/WSatx/status/1255358435652222976?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+				<span class="embedlink"> [screencap
+				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/8957365a.PNG" alt="Could these be the links... @wwg1wga @qanon #q" /></span></span>
+				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/8957365a.PNG" alt="Could these be the links... @wwg1wga @qanon #q" /></span>
+					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/8957365a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Q
 	</span>
 	<br />
 	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
