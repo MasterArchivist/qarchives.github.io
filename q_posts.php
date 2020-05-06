@@ -7,7 +7,7 @@
 <!-- Q POSTS START -->
 
 <p class="subheading">Q posts</p>
-<p style="text-align:center"><b>[4117 posts as of 05/05/20 (Tue) 16:19:02 ET ]</b></p>
+<p style="text-align:center"><b>[4123 posts as of 05/06/20 (Wed) 12:34:08 ET ]</b></p>
 <hr />
 
 <!-- 1 -->
@@ -17793,7 +17793,6 @@
 </span>
 <br />
 
-<span id="lqp"></span>
 <!-- 4117 -->
 <span id="q4117"></span>
 <span class="replicapost">
@@ -17816,13 +17815,202 @@
 				<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kim Jong Un appears to be alive after all. So how did his &quot;death&quot; make the news? <a href="https://t.co/e6LtN12Rdo">https://t.co/e6LtN12Rdo</a></p>&mdash; The Washington Post (@washingtonpost) <a href="https://twitter.com/washingtonpost/status/1257752761631981570?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
 			
 				<span class="embedlink"> [screencap
-				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/9042207a.PNG" alt="Kim Jong Un appears to be alive after all. So how did his "death" make the news?" /></span></span>
-				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/9042207a.PNG" alt="Kim Jong Un appears to be alive after all. So how did his "death" make the news?" /></span>
+				<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/9042207a.PNG" alt="Kim Jong Un appears to be alive after all. So how did his &quot;death&quot; make the news?" /></span></span>
+				<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/9042207a.PNG" alt="Kim Jong Un appears to be alive after all. So how did his &quot;death&quot; make the news?" /></span>
 					<span class="savetodisk"><a href="images/8kun/qmediapics&caps/9042207a.PNG" target="_blank" download> 🖫</a></span>]
 
 			<br />Trolling can be fun!
 			<br />Q
 		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4118 -->
+<span id="q4118"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9050355.html" target="_blank">11585</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4118. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 11:22:41 ET </span><span class="postID" style="color:white; background-color:#e506e9">ID: e506e9</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/9050355.html#9050527" target="_blank">9050527</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9050527.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-exclusive-dni-to-schiff-the-transcripts-are-ready-to-release" target="_blank">https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-exclusive-dni-to-schiff-the-transcripts-are-ready-to-release</a>
+	
+			<span class="embedlink"><span id="emb4118" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-exclusive-dni-to-schiff-the-transcripts-are-ready-to-release"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-exclusive-dni-to-schiff-the-transcripts-are-ready-to-release"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/9050527a.PNG" alt="Byron York's Daily Memo: EXCLUSIVE - DNI to Schiff: The transcripts are ready to release" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/9050527a.PNG" alt="Byron York's Daily Memo: EXCLUSIVE - DNI to Schiff: The transcripts are ready to release" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/9050527a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Sorry, Adam, but the game is now over [it doesn't end here].
+		<br />Locked on target.
+		<br />[it takes time to remove/install the right people [sleepers]]
+		<br />We are ready.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4119 -->
+<span id="q4119"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9050355.html" target="_blank">11585</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4119. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 11:28:43 ET </span><span class="postID" style="color:white; background-color:#e506e9">ID: e506e9</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/9050355.html#9050636" target="_blank">9050636</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9050636.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="postfiles">
+			<span class="file1">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/D6f_A4GVUAA2qdm.jpg" target="_blank">D6f_A4GVUAA2qdm.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/D6f_A4GVUAA2qdm.jpg" download>🖫</a></span><span> (20.94 KB, 675x1200, 9:16)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/D6f_A4GVUAA2qdm.jpg" alt="D6f_A4GVUAA2qdm.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/D6f_A4GVUAA2qdm.jpg" alt="D6f_A4GVUAA2qdm.jpg" /></span></span>
+			</span>
+			<span class="file2">
+				<span class="fileinfo"><span>File: </span><span><a href="images/8kun/quploads/EXCVQ8cXsAEPZn_.jpg" target="_blank">EXCVQ8cXsAEPZn_.jpg</a></span> <span class="savetodisk"><a href="images/8kun/quploads/EXCVQ8cXsAEPZn_.jpg" download>🖫</a></span><span> (41.34 KB, 981x565, 981:565)</span></span><br />
+				<span class="filethumbnail"><img class="thumbnail" src="images/8kun/quploads/EXCVQ8cXsAEPZn_.jpg" alt="EXCVQ8cXsAEPZn_.jpg" /><span class="quoteposthover"><img class="quploadedpic" src="images/8kun/quploads/EXCVQ8cXsAEPZn_.jpg" alt="EXCVQ8cXsAEPZn_.jpg" /></span></span>
+			</span>
+		</span>
+		<span class="posttext">
+			Dates are important.
+			<br />Q
+		</span>
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4120 -->
+<span id="q4120"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9050355.html" target="_blank">11585</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4120. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 11:34:29 ET </span><span class="postID" style="color:white; background-color:#e506e9">ID: e506e9</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/9050355.html#9050743" target="_blank">9050743</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9050743.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/JamesOKeefeIII/status/1258053844812120066" target="_blank">https://twitter.com/JamesOKeefeIII/status/1258053844812120066</a></span>
+			
+			<span class="embedlink"><span id="emb4120" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yes it has <a href="https://twitter.com/hashtag/ExposeCBS?src=hash&amp;ref_src=twsrc%5Etfw">#ExposeCBS</a> <a href="https://t.co/tA4LoS7P22">pic.twitter.com/tA4LoS7P22</a></p>&mdash; James O&#39;Keefe (@JamesOKeefeIII) <a href="https://twitter.com/JamesOKeefeIII/status/1258053844812120066?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yes it has <a href="https://twitter.com/hashtag/ExposeCBS?src=hash&amp;ref_src=twsrc%5Etfw">#ExposeCBS</a> <a href="https://t.co/tA4LoS7P22">pic.twitter.com/tA4LoS7P22</a></p>&mdash; James O&#39;Keefe (@JamesOKeefeIII) <a href="https://twitter.com/JamesOKeefeIII/status/1258053844812120066?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/9050743a.PNG" alt="Yes it has #ExposeCBS" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/9050743a.PNG" alt="Yes it has #ExposeCBS" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/9050743a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Pawpaw positive COVID-19 test result?
+		<br />Staged [FAKE] CBS COVID-19 reporting?
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4121 -->
+<span id="q4121"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9050355.html" target="_blank">11585</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4121. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 11:37:53 ET </span><span class="postID" style="color:white; background-color:#e506e9">ID: e506e9</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/9050355.html#9050799" target="_blank">9050799</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9050799.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.youtube.com/watch?v=BP-pqhXvI7Y" target="_blank">https://www.youtube.com/watch?v=BP-pqhXvI7Y</a> 
+
+		<span class="embedlink"><span id="emb4121" onclick="embedChange(this.id)"> [embed]</span>
+		<span class="quotecontenthovers"><iframe width="720" height="480" src="https://www.youtube.com/embed/BP-pqhXvI7Y" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></span>
+		<span class="quotecontentexpand"><iframe width="720" height="480" src="https://www.youtube.com/embed/BP-pqhXvI7Y" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+	
+		<span class="embedlink"> [screencap
+		<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/9050799a.PNG" alt="The Day The Earth Stood Still - It's only on the brink that people find the will to change." /></span></span>
+		<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/9050799a.PNG" alt="The Day The Earth Stood Still - It's only on the brink that people find the will to change." /></span>
+				 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/9050799a.PNG" target="_blank" download> 🖫</a></span>]
+					 
+		<span class="embedlink"> [local
+		<span class="quotevideohovers"><video width="640" controls><source src="videos/8kun/9050799b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span></span>
+		<span class="quotevideoexpand"><video width="640" controls><source src="videos/8kun/9050799b.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></span>
+		<span class="savetodisk"><a href="videos/8kun/7864137b.mp4" target="_blank" download> 🖫</a></span>]
+
+		<br />Sometimes you can't TELL the public the truth.
+		<br />YOU MUST SHOW THEM.
+		<br />ONLY THEN WILL PEOPLE FIND THE WILL TO CHANGE.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<!-- 4122 -->
+<span id="q4122"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9050355.html" target="_blank">11585</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4122. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 11:45:21 ET </span><span class="postID" style="color:white; background-color:#e506e9">ID: e506e9</span><span class="totalposts"> (5) </span><span>No.<a href="https://8kun.top/qresearch/res/9050355.html#9050939" target="_blank">9050939</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9050939.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<a href="https://www.fbi.gov/about/faqs" target="_blank">https://www.fbi.gov/about/faqs</a>
+	
+			<span class="embedlink"><span id="emb4122" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.fbi.gov/about/faqs"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.fbi.gov/about/faqs"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/9050939a.PNG" alt="Frequently Asked Questions" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/9050939a.PNG" alt="Frequently Asked Questions" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/9050939a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Q: Can I obtain detailed information about a current FBI investigation that I see in the news?
+		<br />A: No. Such information is protected from public disclosure, in accordance with current law and Department of Justice and FBI policy. This policy preserves the integrity of the investigation and the privacy of individuals involved in the investigation prior to any public charging for violations of the law. It also serves to protect the rights of people not yet charged with a crime.
+		<br />Q
+	</span>
+	<br />
+	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
+</span>
+<br />
+
+<span id="lqp"></span>
+<!-- 4123 -->
+<span id="q4123"></span>
+<span class="replicapost">
+	<span class="qrgeneral">8kun /qresearch/ General #<a href="https://8kun.top/qresearch/res/9051079.html" target="_blank">11586</a></span>
+	<br />
+	<span class="postinfo"><span class="qno">4123. </span><span class="qname">Q </span><span class="tripcode">!!Hs1Jq13jV6</span><span>&nbsp;05/06/20 (Wed) 12:34:08 ET </span><span class="postID" style="color:black; background-color:#8ec79e">ID: 8ec79e</span><span class="totalposts"> (1) </span><span>No.<a href="https://8kun.top/qresearch/res/9051079.html#9051651" target="_blank">9051651</a></span> <span class="savetodisk"><a href="images/8kun/qcaps/9051651.PNG" target="_blank" download>🖫</a></span></span>
+	<br />
+	<span class="postcontent">
+		<span class="twitterembed"><a href="https://twitter.com/michaelbeatty3/status/1181784201072263169" target="_blank">https://twitter.com/michaelbeatty3/status/1181784201072263169</a></span>
+			
+			<span class="embedlink"><span id="emb4123a" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="twitterhovers"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">2013-Dianne Feinstein announces California opens a California-China trade &amp; investment office..<br>Listen as she explains her &quot;special connection&quot; with Shangai leaders going back to the 1970&#39;s. <a href="https://twitter.com/hashtag/WAR?src=hash&amp;ref_src=twsrc%5Etfw">#WAR</a> <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://t.co/xL3igm1EUI">pic.twitter.com/xL3igm1EUI</a></p>&mdash; 🇺🇸🇺🇸 Miguelifornia ⭐⭐⭐ (@michaelbeatty3) <a href="https://twitter.com/michaelbeatty3/status/1181784201072263169?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span></span>
+			<span class="twitterexpand"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">2013-Dianne Feinstein announces California opens a California-China trade &amp; investment office..<br>Listen as she explains her &quot;special connection&quot; with Shangai leaders going back to the 1970&#39;s. <a href="https://twitter.com/hashtag/WAR?src=hash&amp;ref_src=twsrc%5Etfw">#WAR</a> <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> <a href="https://t.co/xL3igm1EUI">pic.twitter.com/xL3igm1EUI</a></p>&mdash; 🇺🇸🇺🇸 Miguelifornia ⭐⭐⭐ (@michaelbeatty3) <a href="https://twitter.com/michaelbeatty3/status/1181784201072263169?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>
+		
+			<span class="embedlink"> [screencap
+			<span class="twitterhovers"><img src="images/8kun/qmediapics&caps/9051651a.PNG" alt="2013-Dianne Feinstein announces California opens a California-China trade & investment office.. Listen as she explains her &quot;special connection&quot; with Shangai leaders going back to the 1970's. #WAR @realDonaldTrump" /></span></span>
+			<span class="twitterexpand"><img src="images/8kun/qmediapics&caps/9051651a.PNG" alt="2013-Dianne Feinstein announces California opens a California-China trade & investment office.. Listen as she explains her &quot;special connection&quot; with Shangai leaders going back to the 1970's. #WAR @realDonaldTrump" /></span>
+				<span class="savetodisk"><a href="images/8kun/qmediapics&caps/9051651a.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br/><a href="https://www.washingtonexaminer.com/weekly-standard/the-spy-who-drove-her-dianne-feinstein-and-chinese-espionage" target="_blank">https://www.washingtonexaminer.com/weekly-standard/the-spy-who-drove-her-dianne-feinstein-and-chinese-espionage</a>
+	
+			<span class="embedlink"><span id="emb4123b" onclick="embedChange(this.id)"> [embed]</span>
+			<span class="quotecontenthovers"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/weekly-standard/the-spy-who-drove-her-dianne-feinstein-and-chinese-espionage"></iframe></span></span>
+			<span class="quotecontentexpand"><iframe width="1280" height="720" src="https://www.washingtonexaminer.com/weekly-standard/the-spy-who-drove-her-dianne-feinstein-and-chinese-espionage"></iframe></span>
+	
+			<span class="embedlink"> [screencap
+			<span class="quotecontenthovers"><img src="images/8kun/qmediapics&caps/9051651b.PNG" alt="The Spy Who Drove Her: Dianne Feinstein and Chinese Espionage" /></span></span>
+			<span class="quotecontentexpand"><img src="images/8kun/qmediapics&caps/9051651b.PNG" alt="The Spy Who Drove Her: Dianne Feinstein and Chinese Espionage" /></span>
+					 <span class="savetodisk"><a href="images/8kun/qmediapics&caps/9051651b.PNG" target="_blank" download> 🖫</a></span>]
+
+		<br />Connected?
+		<br />How do you comm [secure] non_publicly? 
+		<br />Define 'backchannel'.
+		<br />Q
 	</span>
 	<br />
 	<span class="disclaimer">Disclaimer: this post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span>
