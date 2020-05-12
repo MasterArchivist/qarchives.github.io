@@ -134,13 +134,9 @@ POTUS DJT Twitter:
 					<br /> ― <b>Sanskrit saying</b>
 					<br /><br />Disclaimer: This post and the subject matter and contents thereof - text, media, or otherwise - do not necessarily reflect the views of the QArchives administration.</span></span>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#lqp" target="_blank">Q's Latest</a>
+<a href="q_posts.php#lqp" target="_blank">Q's Latest</a>
 </b></p>
 
 <hr />
-
-<p class="pqlinks"><b>
-<a href="index.html" target="_blank">Home</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_threads.html" target="_blank">Threads</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_posts.html" target="_blank">Posts</a>
-</b></p>
-
+<p class="pqlinks"><b><a href="index.php" target="_blank">Home</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_threads.php" target="_blank">Threads</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="q_posts.php" target="_blank">Posts</a></b></p>
 <hr />

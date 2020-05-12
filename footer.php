@@ -57,4 +57,11 @@ for (i = 0; i < coll.length; i++) {
   }
  });
 }
+
+/*function embedChange(id) {
+if (document.getElementById(id).innerHTML == " [embed]")
+	document.getElementById(id).innerHTML = " [unembed]";
+else
+	document.getElementById(id).innerHTML = " [embed]";	
+}*/
 </script>
